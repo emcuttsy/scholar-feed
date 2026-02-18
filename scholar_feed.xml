@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
+  <title>Google Scholar — Researcher Publications</title>
+  <updated>2026-02-18T21:09:00.524408+00:00</updated>
+  <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
+  <link href="https://scholar.google.com" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Latest publications from tracked Google Scholar profiles</subtitle>
+  <entry>
+    <id>tag:scholar.google.com,JicYPdAAAAAJ:learning-internal-representations-by-error-propagation</id>
+    <title>Learning internal representations by error-propagation</title>
+    <updated>1986-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Geoffrey Hinton</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 1986&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 60932&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper presents a generalization of the perception learning procedure for learning the correct sets of connections for arbitrary networks. The rule, falled the generalized delta rule, is a simple scheme for implementing a gradient descent method for finding weights that minimize the sum squared error of the sytems performance. The major theoretical contribution of the work is the procedure called error propagation, whereby the gradient can be determined by individual units of the network based only on locally available information. The major empirical contribution of the work is to show that the problem of local minima not serious in this application of gradient descent. Keywords Learning networks Perceptrons Adaptive systems Learning machines and Back propagation.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://apps.dtic.mil/sti/html/tr/ADA164453/"/>
+    <published>1986-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,WLN3QrAAAAAJ:backpropagation-applied-to-handwritten-zip-code-recognition</id>
+    <title>Backpropagation applied to handwritten zip code recognition</title>
+    <updated>1989-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yann LeCun</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 1989&lt;br/&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Neural computation&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 20040&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The ability of learning networks to generalize can be greatly enhanced by providing constraints from the task domain. This paper demonstrates how such constraints can be integrated into a backpropagation network through the architecture of the network. This approach has been successfully applied to the recognition of handwritten zip code digits provided by the U.S. Postal Service. A single network learns the entire recognition operation, going from the normalized image of the character to the final classification.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://ieeexplore.ieee.org/abstract/document/6795724/"/>
+    <published>1989-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,WLN3QrAAAAAJ:the-mnist-database-of-handwritten-digits</id>
+    <title>The MNIST database of handwritten digits</title>
+    <updated>1998-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yann LeCun</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 1998&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 9284&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; THE MNIST DATABASE of handwritten digits | CiNii Research CiNii 国立情報学研究所 学術
+情報ナビゲータ[サイニィ] 詳細へ移動 検索フォームへ移動 論文・データをさがす 大学図書館の本を
+さがす English 検索 タイトル 人物/団体名 所属機関 ISSN DOI 期間 ~ 本文リンク 本文リンクあり 
+データソース JaLC IRDB Crossref DataCite NDLサーチ NDLデジコレ(旧NII-ELS) RUDA JDCat 
+NINJAL CiNii Articles CiNii Books NACSIS-CAT/ILL DBpedia KAKEN Integbio PubMed 
+LSDB Archive 極地研ADS 極地研学術DB OpenAIRE 公共データカタログ すべて 研究データ 
+論文 本 博士論文 プロジェクト [2025年5月12日更新]CiNii Dissertations及びCiNii BooksのCiNii 
+Researchへの統合について CiNii Researchナレッジグラフ検索機能(試行版)をCiNii Labsにて
+公開しました 「研究データ」「根拠データ」の収録について THE MNIST DATABASE of handwritten 
+digits 被引用文献1件 LECUN Y. 収録刊行物 http://yann.lecun.com/exdb/mnist/ http://yann.lecun.com/exdb/…&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://cir.nii.ac.jp/crid/1571417126193283840"/>
+    <published>1998-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,WLN3QrAAAAAJ:convolutional-networks-for-images,-speech,-and-time-series</id>
+    <title>Convolutional networks for images, speech, and time series</title>
+    <updated>1998-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yann LeCun</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 1998&lt;br/&gt;&lt;strong&gt;Venue:&lt;/strong&gt; The handbook of brain theory and neural networks&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 9712&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The ability of multilayer back-propagation networks to learn complex, high-dimensional, nonlinear mappings from large collections of examples makes them obvious candidates for image recognition or speech recognition tasks (see PATTERN RECOGNITION AND NEURAL NETWORKS). In the traditional model of pattern recognition, a hand-designed feature extractor gathers relevant information from the input and eliminates irrelevant variabilities. A trainable classi er then categorizes the resulting feature vectors (or strings of symbols) into classes. In this scheme, standard, fully-connected multilayer networks can be used as classi ers. A potentially more interesting scheme is to eliminate the feature extractor, feeding the network with\raw" inputs (eg normalized images), and to rely on backpropagation to turn the rst few layers into an appropriate feature extractor. While this can be done with an ordinary fully connected feed-forward network with some success for tasks such as character recognition, there are problems.Firstly, typical images, or spectral representations of spoken words, are large, often with several hundred variables. A fully-connected rst layer with, say a few 100 hidden units, would already contain several 10,000 weights. Over tting problems may occur if training data is scarce. In addition, the memory requirement for that many weights may rule out certain hardware implementations. But, the main de ciency of unstructured nets for image or speech aplications is that they have no built-in invariance with respect to translations, or&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://hal.science/hal-05083427/document"/>
+    <published>1998-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,kukA0LcAAAAJ:gradient-based-learning-applied-to-document-recognition</id>
+    <title>Gradient-based learning applied to document recognition</title>
+    <updated>2002-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yoshua Bengio</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2002&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 83419&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Multilayer neural networks trained with the back-propagation algorithm constitute the best example of a successful gradient based learning technique. Given an appropriate network architecture, gradient-based learning algorithms can be used to synthesize a complex decision surface that can classify high-dimensional patterns, such as handwritten characters, with minimal preprocessing. This paper reviews various methods applied to handwritten character recognition and compares them on a standard handwritten digit recognition task. Convolutional neural networks, which are specifically designed to deal with the variability of 2D shapes, are shown to outperform all other techniques. Real-life document recognition systems are composed of multiple modules including field extraction, segmentation recognition, and language modeling. A new learning paradigm, called graph transformer networks (GTN), allows …&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://ieeexplore.ieee.org/abstract/document/726791/"/>
+    <published>2002-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,WLN3QrAAAAAJ:gradient-based-learning-applied-to-document-recognition</id>
+    <title>Gradient-based learning applied to document recognition</title>
+    <updated>2002-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yann LeCun</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2002&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 83419&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Multilayer neural networks trained with the back-propagation algorithm constitute the best example of a successful gradient based learning technique. Given an appropriate network architecture, gradient-based learning algorithms can be used to synthesize a complex decision surface that can classify high-dimensional patterns, such as handwritten characters, with minimal preprocessing. This paper reviews various methods applied to handwritten character recognition and compares them on a standard handwritten digit recognition task. Convolutional neural networks, which are specifically designed to deal with the variability of 2D shapes, are shown to outperform all other techniques. Real-life document recognition systems are composed of multiple modules including field extraction, segmentation recognition, and language modeling. A new learning paradigm, called graph transformer networks (GTN), allows …&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://ieeexplore.ieee.org/abstract/document/726791/"/>
+    <published>2002-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,JicYPdAAAAAJ:visualizing-data-using-t-sne</id>
+    <title>Visualizing data using t-SNE</title>
+    <updated>2008-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Geoffrey Hinton</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2008&lt;br/&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Journal of Machine Learning Research&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 65389&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a new technique called “t-SNE” that visualizes high-dimensional data by giving each datapoint a location in a two or three-dimensional map. The technique is a variation of Stochastic Neighbor Embedding (Hinton and Roweis, 2002) that is much easier to optimize, and produces significantly better visualizations by reducing the tendency to crowd points together in the center of the map. t-SNE is better than existing techniques at creating a single map that reveals structure at many different scales. This is particularly important for high-dimensional data that lie on several different, but related, low-dimensional manifolds, such as images of objects from multiple classes seen from multiple viewpoints. For visualizing the structure of very large data sets, we show how t-SNE can use random walks on neighborhood graphs to allow the implicit structure of all of the data to influence the way in which a subset of the data is displayed. We illustrate the performance of t-SNE on a wide variety of data sets and compare it with many other non-parametric visualization techniques, including Sammon mapping, Isomap, and Locally Linear Embedding. The visualizations produced by t-SNE are significantly better than those produced by the other techniques on almost all of the data sets.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf?fbcl"/>
+    <published>2008-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,JicYPdAAAAAJ:imagenet-classification-with-deep-convolutional-neural-netwo</id>
+    <title>Imagenet classification with deep convolutional neural networks</title>
+    <updated>2012-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Geoffrey Hinton</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2012&lt;br/&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Advances in neural information processing systems&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 190476&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We trained a large, deep convolutional neural network to classify the 1.3 million high-resolution images in the LSVRC-2010 ImageNet training set into the 1000 different classes. On the test data, we achieved top-1 and top-5 error rates of 39.7\% and 18.9\% which is considerably better than the previous state-of-the-art results. The neural network, which has 60 million parameters and 500,000 neurons, consists of five convolutional layers, some of which are followed by max-pooling layers, and two globally connected layers with a final 1000-way softmax. To make training faster, we used non-saturating neurons and a very efficient GPU implementation of convolutional nets. To reduce overfitting in the globally connected layers we employed a new regularization method that proved to be very effective.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html"/>
+    <published>2012-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,kukA0LcAAAAJ:neural-machine-translation-by-jointly-learning-to-align-and-</id>
+    <title>Neural machine translation by jointly learning to align and translate</title>
+    <updated>2014-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yoshua Bengio</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2014&lt;br/&gt;&lt;strong&gt;Venue:&lt;/strong&gt; arXiv preprint arXiv:1409.0473&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 42183&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neural machine translation is a recently proposed approach to machine translation. Unlike the traditional statistical machine translation, the neural machine translation aims at building a single neural network that can be jointly tuned to maximize the translation performance. The models proposed recently for neural machine translation often belong to a family of encoder–decoders and encode a source sentence into a fixed-length vector from which a decoder generates a translation. In this paper, we conjecture that the use of a fixed-length vector is a bottleneck in improving the performance of this basic encoder–decoder architecture, and propose to extend this by allowing a model to automatically (soft-) search for parts of a source sentence that are relevant to predicting a target word, without having to form these parts as a hard segment explicitly. With this new approach, we achieve a translation performance comparable to the existing state-of-the-art phrase-based system on the task of English-to-French translation. Furthermore, qualitative analysis reveals that the (soft-) alignments found by the model agree well with our intuition.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://peerj.com/articles/cs-2607/code.zip"/>
+    <published>2014-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,kukA0LcAAAAJ:generative-adversarial-nets</id>
+    <title>Generative adversarial nets</title>
+    <updated>2014-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yoshua Bengio</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2014&lt;br/&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Advances in neural information processing systems&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 111532&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We propose a new framework for estimating generative models via adversarial nets, in which we simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data rather than G. The training procedure for G is to maximize the probability of D making a mistake. This framework corresponds to a minimax two-player game. In the space of arbitrary functions G and D, a unique solution exists, with G recovering the training data distribution and D equal to 1/2 everywhere. In the case where G and D are defined by multilayer perceptrons, the entire system can be trained with backpropagation. There is no need for any Markov chains or unrolled approximate inference networks during either training or generation of samples. Experiments demonstrate the potential of the framework through qualitative and quantitatively evaluation of the generated samples.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://proceedings.neurips.cc/paper/2014/hash/f033ed80deb0234979a61f95710dbe25-Abstract.html"/>
+    <published>2014-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,JicYPdAAAAAJ:dropout:-a-simple-way-to-prevent-neural-networks-from-overfi</id>
+    <title>Dropout: a simple way to prevent neural networks from overfitting</title>
+    <updated>2014-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Geoffrey Hinton</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2014&lt;br/&gt;&lt;strong&gt;Venue:&lt;/strong&gt; The journal of machine learning research&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 61013&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Deep neural nets with a large number of parameters are very powerful machine learning systems. However, overfitting is a serious problem in such networks. Large networks are also slow to use, making it difficult to deal with overfitting by combining the predictions of many different large neural nets at test time. Dropout is a technique for addressing this problem. The key idea is to randomly drop units (along with their connections) from the neural network during training. This prevents units from co-adapting too much. During training, dropout samples from an exponential number of different “thinned” networks. At test time, it is easy to approximate the effect of averaging the predictions of all these thinned networks by simply using a single unthinned network that has smaller weights. This significantly reduces overfitting and gives major improvements over other regularization methods. We show that dropout improves the performance of neural networks on supervised learning tasks in vision, speech recognition, document classification and computational biology, obtaining state-of-the-art results on many benchmark data sets.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer,"/>
+    <published>2014-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,kukA0LcAAAAJ:deep-learning</id>
+    <title>Deep learning</title>
+    <updated>2015-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yoshua Bengio</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2015&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 107329&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction. These methods have dramatically improved the state-of-the-art in speech recognition, visual object recognition, object detection and many other domains such as drug discovery and genomics. Deep learning discovers intricate structure in large data sets by using the backpropagation algorithm to indicate how a machine should change its internal parameters that are used to compute the representation in each layer from the representation in the previous layer. Deep convolutional nets have brought about breakthroughs in processing images, video, speech and audio, whereas recurrent nets have shone light on sequential data such as text and speech.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://www.nature.com/articles/nature14539"/>
+    <published>2015-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,JicYPdAAAAAJ:deep-learning</id>
+    <title>Deep learning</title>
+    <updated>2015-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Geoffrey Hinton</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2015&lt;br/&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Nature&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 107296&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction. These methods have dramatically improved the state-of-the-art in speech recognition, visual object recognition, object detection and many other domains such as drug discovery and genomics. Deep learning discovers intricate structure in large data sets by using the backpropagation algorithm to indicate how a machine should change its internal parameters that are used to compute the representation in each layer from the representation in the previous layer. Deep convolutional nets have brought about breakthroughs in processing images, video, speech and audio, whereas recurrent nets have shone light on sequential data such as text and speech.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://www.nature.com/articles/nature14539"/>
+    <published>2015-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>tag:scholar.google.com,WLN3QrAAAAAJ:deep-learning</id>
+    <title>Deep learning</title>
+    <updated>2015-01-01T00:00:00+00:00</updated>
+    <author>
+      <name>Yann LeCun</name>
+    </author>
+    <content type="html">&lt;strong&gt;Year:&lt;/strong&gt; 2015&lt;br/&gt;&lt;strong&gt;Citations:&lt;/strong&gt; 110108&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction. These methods have dramatically improved the state-of-the-art in speech recognition, visual object recognition, object detection and many other domains such as drug discovery and genomics. Deep learning discovers intricate structure in large data sets by using the backpropagation algorithm to indicate how a machine should change its internal parameters that are used to compute the representation in each layer from the representation in the previous layer. Deep convolutional nets have brought about breakthroughs in processing images, video, speech and audio, whereas recurrent nets have shone light on sequential data such as text and speech.&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI</content>
+    <link href="https://www.nature.com/articles/nature14539"/>
+    <published>2015-01-01T00:00:00+00:00</published>
+  </entry>
+</feed>
