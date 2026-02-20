@@ -2,250 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-02-19T08:36:13.212658+00:00</updated>
+  <updated>2026-02-20T14:32:21.520454+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768e7f6037#0</id>
-    <title>Transformers learn factored representations</title>
-    <updated>2026-02-08T00:05:51+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7686d3ff9d#0</id>
+    <title>Ribose Accumulation In Borate-rich Prebiotic Environments</title>
+    <updated>2026-02-20T09:32:43+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>Steven A. Benner</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Shai, L Amdahl-Culleton, CL Christensen... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Transformers pretrained via next token prediction learn to factor their world into parts, representing these factors in orthogonal subspaces of the residual stream. We formalize two representational hypotheses:(1) a representation in the product space ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://arxiv.org/pdf/2602.02385"/>
-    <published>2026-02-08T00:05:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Takahashi, HJ Kim, SA Benner, T Kakegawa... - Astrobiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Under the RNA first hypothesis for the origin of life, RNA that emerges from prebiotic chemistry performed both catalytic and informational roles. Ribose is the only sugar in RNA; thus, many have sought to understand how ribose might have emerged on a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Steven A. Benner (author alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/41693553/"/>
+    <published>2026-02-20T09:32:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768e7f5cfd#0</id>
-    <title>Hybrid quantum–classical machine translation: M. Abbaszadeh et al.</title>
-    <updated>2026-02-08T00:05:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7686d3ff70#1</id>
+    <title>Drift-Diffusion Matching: Embedding dynamics in latent manifolds of asymmetric neural networks</title>
+    <updated>2026-02-20T09:32:43+00:00</updated>
     <author>
-      <name>P. Kurian</name>
+      <name>Prof. Alain Goriely FRS</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Abbaszadeh, M Zomorodi, M Sadrzadeh, V Salari... - Quantum Information ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigates the feasibility of language translation using quantum natural language processing (QNLP) on noisy intermediate-scale quantum devices. Classical NLP struggles with large-scale computations, but QNLP leverages ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; P. Kurian (author alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s11128-025-05032-w"/>
-    <published>2026-02-08T00:05:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Nartallo-Kaluarachchi, R Lambiotte, A Goriely - arXiv preprint arXiv:2602.14885, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recurrent neural networks (RNNs) provide a theoretical framework for understanding computation in biological neural circuits, yet classical results, such as Hopfield's model of associative memory, rely on symmetric connectivity that restricts ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Prof. Alain Goriely FRS (author alert)</content>
+    <link href="https://arxiv.org/abs/2602.14885"/>
+    <published>2026-02-20T09:32:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768e7d6a29#0</id>
-    <title>Influence of water on the physical properties of marl, calcareous marl, clayey marl, and limestone: a comparative study</title>
-    <updated>2026-02-08T00:32:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7686d3ff70#0</id>
+    <title>State-of-the-art and tomorrow's challenges and opportunities in constitutive modeling of soft biological tissues with a focus on arterial, cardiac and brain biomechanics</title>
+    <updated>2026-02-20T09:32:43+00:00</updated>
     <author>
-      <name>Török, Ákos</name>
+      <name>Prof. Alain Goriely FRS</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Görög, Á Török - Bulletin of Engineering Geology and the Environment, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The paper outlines the physical parameters and textural differences of clay marl, marl, and calcareous marl, focusing on the physical changes that are caused by water. The characterization of marls is often very difficult since their properties are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Török, Ákos (author alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s10064-025-04772-4"/>
-    <published>2026-02-08T00:32:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Avril, A Goriely, GA Holzapfel, E Kuhl, D Nordsletten... - Acta Biomaterialia, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The aim of this paper is to provide an up-to-date overview of the constitutive modeling of soft biological tissues, both from a simulation and experimental perspective by taking into account different length scales. After providing some ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Prof. Alain Goriely FRS (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1742706126000966"/>
+    <published>2026-02-20T09:32:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768e9da6ea#0</id>
-    <title>Entrepreneurs Make Leaps: A Critique of the Theory of the Adjacent Possible</title>
-    <updated>2026-02-08T07:14:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7686d3fd9f#0</id>
+    <title>Making movement ecology into a predictive science</title>
+    <updated>2026-02-20T09:32:46+00:00</updated>
     <author>
-      <name>stuart kauffman</name>
+      <name>Damien Farine</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AM Diamond Jr&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The theory of the adjacent possible (TAP) is a combinatorial account of the growth of the biosphere and the technosphere, conceived by Stuart Kauffman , popularized by Steven Johnson, and formalized into the TAP equation by Roger Koppl, Stuart ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; stuart kauffman (keyword alert)</content>
-    <link href="https://artdiamond.com/DiamondPDFs/EntrepreneursMakeLeaps2026-01-26.pdf"/>
-    <published>2026-02-08T07:14:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Hacker, C Christensen, GH Davis, MA Tucker...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1. Movement allows animals to change their environmental surroundings and remain in suitable conditions. As environments shift, eg through predictable seasonal progression, individuals can adapt their movement strategies accordingly. However ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
+    <link href="https://ecoevorxiv.org/repository/object/11800/download/21273/"/>
+    <published>2026-02-20T09:32:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768d28b7f5#1</id>
-    <title>Andrew M. Kaunitz, MD, NCMP</title>
-    <updated>2026-02-09T07:00:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7686d3fc6f#0</id>
+    <title>Moral foundations in the 2020s: Advancements in measurement, genetics, brain science, and real-world impact</title>
+    <updated>2026-02-20T09:32:48+00:00</updated>
     <author>
-      <name>Nick Martin</name>
+      <name>Timothy C. Bates</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KA Johnson, N Martin, RE Nappi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This year's menopause Update highlights a highly effective nonhormonal medication that recently received approval by the US Food and Drug Administration (FDA) for the treatment of bothersome menopausal vasomotor symptoms. In addition, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://blogs.the-hospitalist.org/authors/andrew-m-kaunitz-md-ncmp"/>
-    <published>2026-02-09T07:00:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Zakharin, TC Bates - Personality and Individual Differences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The last decade has seen major progress in understanding moral judgment, driven in part by advances in Moral Foundations Theory (MFT). Given these developments and their implications for psychology, sociology, and public policy, a review of recent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy C. Bates (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0191886926000413"/>
+    <published>2026-02-20T09:32:48+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768d28b7f5#0</id>
-    <title>Proteogenomic Profiling Reveals a Distinct Endogenous p16INK4a-Associated Senescence Signature in the Human Ovary.</title>
-    <updated>2026-02-09T07:00:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7686eaef59#0</id>
+    <title>Neural correlates of virtual hand movements using ecologically valid tasks</title>
+    <updated>2026-02-20T10:34:40+00:00</updated>
     <author>
-      <name>Nick Martin</name>
+      <name>Guilherme M. de O. Wood</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Senchyna, K Schneider, PR Raj Devrukhkar... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The tumor suppressor and cell cycle regulator, p16INK4a (p16), has been extensively linked to cellular senescence, and its accumulation can reflect endogenous senescence within ovarian tissue. However, gene and protein ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.02.02.703302.full.pdf"/>
-    <published>2026-02-09T07:00:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768d28b7c4#0</id>
-    <title>Alternative strategies of orthographic processing: the case of skilled deaf readers</title>
-    <updated>2026-02-09T07:00:31+00:00</updated>
-    <author>
-      <name>Manuel Carreiras</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Caffarra, B Costello, N Farina, JA Dunabeitia... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The cognitive factors that enable us to be proficient readers can greatly vary across individuals. The case of skilled deaf readers is emblematic as it shows that high reading performances can be achieved even when lifelong acoustic experience is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
-    <link href="https://www.biorxiv.org/content/biorxiv/early/2026/02/03/2026.02.02.703016.full.pdf"/>
-    <published>2026-02-09T07:00:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768d28b6ec#0</id>
-    <title>Flattening the curve on societal crisis: Lessons from history</title>
-    <updated>2026-02-09T07:00:32+00:00</updated>
-    <author>
-      <name>Peter Turchin</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Hoyer, P Francois, J Reddish, JS Bennett, P Turchin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Our modern" polycrisis" brings myriad challenges, from climate change to inequality and institutional decay. These echo recurrent challenges faced by societies throughout history. While most past crises resulted in violence and institutional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Peter Turchin (author alert)</content>
-    <link href="https://www.suerf.org/wp-content/uploads/2026/02/SUERF-Policy-Brief-1359_Hoyer-Francois-Reddish-Bennett-Turchin.pdf"/>
-    <published>2026-02-09T07:00:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768d287fcf#0</id>
-    <title>Leveraging Multiproton-Coupled Electron Transfer to Improve Ir (III) Photocatalyst Efficiency</title>
-    <updated>2026-02-09T07:02:13+00:00</updated>
-    <author>
-      <name>Gregory Scholes</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Villalona, RE Domínguez, EJ Gonzalez Lopez... - The Journal of Physical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In photoredox reactions, charge recombination (CR) limits quantum yields, hindering the efficient conversion of light energy into catalytic activity. To address this, we drew inspiration from redox relays in photosystem II (PSII) and developed a new series of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5c08623"/>
-    <published>2026-02-09T07:02:13+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768d287c43#0</id>
-    <title>A Multiscale Model of Collective Decision-Making in Hybrid Aspen Tree Tissues Describes Bud-Dormancy Break</title>
-    <updated>2026-02-09T07:02:21+00:00</updated>
-    <author>
-      <name>Sara Imari Walker</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Dromiack, S Khanapurkar, R Phillips... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The mechanisms underlying cellular coordination within tissues remain enigmatic. Most models focus on interactions between just two levels of organization-cell and tissue-and do not leverage data across deeper hierarchies that best represent living ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sara Imari Walker (author alert)</content>
-    <link href="https://www.biorxiv.org/content/biorxiv/early/2026/02/04/2026.02.04.703817.full.pdf"/>
-    <published>2026-02-09T07:02:21+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768c50a6af#0</id>
-    <title>Assessing climate adaptation among Canada lynx (Lynx canadensis) populations at the trailing edge</title>
-    <updated>2026-02-10T19:48:07+00:00</updated>
-    <author>
-      <name>Erich Jarvis</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TM Lama, BP Bentley, WE Johnson, LM Komoroske... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Species must acclimate, shift their distributions, or adapt in place in response to anthropogenic climate change. Populations at low-latitude trailing edges of species distributions typically experience thermal conditions closest to the upper limit of their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.02.04.703807"/>
-    <published>2026-02-10T19:48:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768c50a588#0</id>
-    <title>A genomically-tailored multi-agent precision medicine clinical trial for adults with recurrent glioblastoma</title>
-    <updated>2026-02-10T19:48:08+00:00</updated>
-    <author>
-      <name>Edward F Chang</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Chen, NA Oberheim Bush, JA Grabowsky, C Kline... - Clinical Cancer Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose: Existing salvage therapies for recurrent glioblastoma (rGBM) have limited efficacy, with median survival of approximately 9 months. Given the complex molecular heterogeneity of GBM, single-target approaches have consistently failed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-4080/774214"/>
-    <published>2026-02-10T19:48:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e768c6b61b7#0</id>
-    <title>The Theta Paradox-Delayed Reduction of Frontal Midline Theta Following Downregulation Neurofeedback Training</title>
-    <updated>2026-02-10T20:29:23+00:00</updated>
-    <author>
-      <name>Silvia Kober</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Kanatschnig, LM Berger, N Schrapf, M Tilp, SE Kober - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Phasic increase of frontal midline theta (Fm theta) has been described as a key indicator of cognitive processing, while relatively lower task-related Fm theta is associated with reduced cognitive strain, reflecting less intensive cognitive ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Silvia Kober (author alert)</content>
-    <link href="https://www.biorxiv.org/content/biorxiv/early/2026/02/05/2026.02.03.703090.full.pdf"/>
-    <published>2026-02-10T20:29:23+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76818f3e99#0</id>
-    <title>Reply to Völker et al.: On the evidence of increased close friendships in societies</title>
-    <updated>2026-02-15T12:38:53+00:00</updated>
-    <author>
-      <name>Stefan Thurner</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Thurner, M Hofer, J Korbel - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Commentators on ref. 1 argue that a rapid and strong social connectivity increase is not supported by data (2). Their critique focuses on data presented in Fig. 1E (1). To find out if close friendship ties, strong enough to a ect the opinions of friends ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
-    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2535183123"/>
-    <published>2026-02-15T12:38:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76802f7388#0</id>
-    <title>Cell jamming transition is regulated by mitochondrial pyruvate transport and endocytosis</title>
-    <updated>2026-02-16T14:03:52+00:00</updated>
-    <author>
-      <name>Dapeng (Max) Bi</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Bermudez, Z Latham, J Diaz, W Yan, J Chen, D Bi... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Epithelial tissues undergo dynamic transitions between fluid-like collective motion and mechanically jammed states during development, injury repair, and disease progression. However, the cellular programs that drive these transitions and regulate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Dapeng (Max) Bi (author alert)</content>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.02.09.704880.abstract"/>
-    <published>2026-02-16T14:03:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76802f7292#0</id>
-    <title>A dialog between cell adhesion and topology at the core of morphogenesis</title>
-    <updated>2026-02-16T14:03:54+00:00</updated>
-    <author>
-      <name>Bernat Corominas-Murtra</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Aguirre-Tamaral, E Floris, B Corominas-Murtra - arXiv preprint arXiv:2602.09867, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; During the development of an organism, cells must coordinate and organize to generate the correct shape, structure, and spatial patterns of tissues and organs, a process known as morphogenesis. The morphogenesis of embryonic tissues is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Bernat Corominas-Murtra (author alert)</content>
-    <link href="https://arxiv.org/pdf/2602.09867"/>
-    <published>2026-02-16T14:03:54+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76802c19b5#0</id>
-    <title>Structural connectivity associations with dyslexia-linked genes identifies the left insula as the key phonological hub</title>
-    <updated>2026-02-16T14:26:47+00:00</updated>
-    <author>
-      <name>Michelle Luciano</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Zhao, Y Zhao, C Buchanan, H Mountford, J Moodie...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Year:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Dyslexia is characterized by difficulties acquiring fluent reading skills, it is heritable, possibly involving neural disconnection. Results from well-powered genome-wide association studies can be harnessed to uncover associations between dyslexia ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michelle Luciano (author alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-8187892/latest.pdf"/>
-    <published>2026-02-16T14:26:47+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76802c199c#0</id>
-    <title>The Silicon Interior: What Do Agents Believe?</title>
-    <updated>2026-02-16T14:26:47+00:00</updated>
-    <author>
-      <name>Blaise Aguera y Arcas</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Aguera y Arcas, B Bratton, JA Evans&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Year:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Blaise Aguera y Arcas (author alert)</content>
-    <link href="https://scholar.google.com/citations?hl=en&amp;view_op=view_citation&amp;citation_for_view=NQ8iI3cAAAAJ:uVUOdF_882EC&amp;oi=scholaralrt"/>
-    <published>2026-02-16T14:26:47+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76802c18ef#1</id>
-    <title>Residual Stone Volume Predicts Health Care Consumption and Stone Events: Analysis of Two-Year Results of the ASPIRE Study</title>
-    <updated>2026-02-16T14:26:49+00:00</updated>
-    <author>
-      <name>Michael Levin</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BR Matlaga, TJ Mueller, B Johnson, JB Page, JS Wolf... - Journal of Endourology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose: The ASPiration to Improve Renal Calculi Removal Effectiveness study showed steerable ureteroscopic renal evacuation (SURE) with CVAC that significantly reduced residual stone volume at 30 days vs standard ureteroscopy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://journals.sagepub.com/doi/abs/10.1177/08927790261420565"/>
-    <published>2026-02-16T14:26:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76802c18ef#0</id>
-    <title>Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity</title>
-    <updated>2026-02-16T14:26:49+00:00</updated>
-    <author>
-      <name>Michael Levin</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Pezzulo, M Levin - arXiv preprint arXiv:2602.08079, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Achieving advanced machine intelligence remains a central challenge in AI research, often approached through scaling neural architectures and generative models. However, biological systems offer a broader repertoire of strategies for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://arxiv.org/pdf/2602.08079"/>
-    <published>2026-02-16T14:26:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76802c1829#0</id>
-    <title>Momentum-Driven Reversible Logic Accelerates Efficient Irreversible Universal Computation</title>
-    <updated>2026-02-16T14:26:50+00:00</updated>
-    <author>
-      <name>James Crutchfield</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KW Tang, KJ Ray, JP Crutchfield - arXiv preprint arXiv:2602.07683, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present implementations of two physically-embedded computation-universal logical operations using a 2-bit logical unit composed of coupled quantum flux parametrons--Josephson-junction superconducting circuits. To illustrate universality ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; James Crutchfield (author alert)</content>
-    <link href="https://arxiv.org/pdf/2602.07683"/>
-    <published>2026-02-16T14:26:50+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76871ffa50#0</id>
-    <title>A small polymerase ribozyme that can synthesize itself and its complementary strand</title>
-    <updated>2026-02-17T21:47:46+00:00</updated>
-    <author>
-      <name>Philipp Holliger</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Gianni, SLY Kwok, CJK Wan, K Goeij, BE Clifton... - Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The emergence of a chemical system capable of self-replication and evolution is a critical event in the origin of life. RNA polymerase ribozymes can replicate RNA, but their large size and structural complexity impede self-replication and preclude their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Philipp Holliger (author alert)</content>
-    <link href="https://www.science.org/doi/abs/10.1126/science.adt2760"/>
-    <published>2026-02-17T21:47:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SE Kober, LM Berger, D Kern, G Wood... - Frontiers in Virtual Reality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The aim of the present study was to investigate the effects of realistic and more unrealistic, abstract virtual hand models on neuronal and behavioral responses in virtual reality (VR) using ecologically valid virtual hand movement tasks. 36 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
+    <link href="https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2026.1701936/full"/>
+    <published>2026-02-20T10:34:40+00:00</published>
   </entry>
 </feed>
