@@ -2,74 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-02-20T14:32:21.520454+00:00</updated>
+  <updated>2026-02-23T07:05:25.316429+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7686d3ff9d#0</id>
-    <title>Ribose Accumulation In Borate-rich Prebiotic Environments</title>
-    <updated>2026-02-20T09:32:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76846ed71e#0</id>
+    <title>A roadmap for evaluating moral competence in large language models</title>
+    <updated>2026-02-23T03:27:59+00:00</updated>
     <author>
-      <name>Steven A. Benner</name>
+      <name>Murray Shanahan</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Takahashi, HJ Kim, SA Benner, T Kakegawa... - Astrobiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Under the RNA first hypothesis for the origin of life, RNA that emerges from prebiotic chemistry performed both catalytic and informational roles. Ribose is the only sugar in RNA; thus, many have sought to understand how ribose might have emerged on a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Steven A. Benner (author alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/41693553/"/>
-    <published>2026-02-20T09:32:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Haas, S Bridgers, A Manzini, B Henke, J May... - Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The question of whether large language models (LLMs) can exhibit moral capabilities is of growing interest and urgency, as these systems are deployed in sensitive roles such as companionship and medical advising, and will increasingly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Murray Shanahan (author alert)</content>
+    <link href="https://www.nature.com/articles/s41586-025-10021-1"/>
+    <published>2026-02-23T03:27:59+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7686d3ff70#1</id>
-    <title>Drift-Diffusion Matching: Embedding dynamics in latent manifolds of asymmetric neural networks</title>
-    <updated>2026-02-20T09:32:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76846ed6ce#0</id>
+    <title>Evolution of error correction through a need for speed</title>
+    <updated>2026-02-23T03:28:01+00:00</updated>
     <author>
-      <name>Prof. Alain Goriely FRS</name>
+      <name>Jack W. Szostak</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Nartallo-Kaluarachchi, R Lambiotte, A Goriely - arXiv preprint arXiv:2602.14885, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recurrent neural networks (RNNs) provide a theoretical framework for understanding computation in biological neural circuits, yet classical results, such as Hopfield's model of associative memory, rely on symmetric connectivity that restricts ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Prof. Alain Goriely FRS (author alert)</content>
-    <link href="https://arxiv.org/abs/2602.14885"/>
-    <published>2026-02-20T09:32:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Ravasio, K Husain, CG Evans, R Phillips... - Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Kinetic proofreading is a class of error-correcting mechanisms in biology that expend energy to avoid mistakes during replication, transcription, and translation. Proofreading is typically assumed to evolve when selection for fidelity outweighs ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jack W. Szostak (author alert)</content>
+    <link href="https://www.science.org/doi/abs/10.1126/science.adt1275"/>
+    <published>2026-02-23T03:28:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7686d3ff70#0</id>
-    <title>State-of-the-art and tomorrow's challenges and opportunities in constitutive modeling of soft biological tissues with a focus on arterial, cardiac and brain biomechanics</title>
-    <updated>2026-02-20T09:32:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76846ed661#0</id>
+    <title>A Large-Scale Computer-Vision Mapping of the Geometric Structures of Stroboscopically-Induced Visual Hallucinations</title>
+    <updated>2026-02-23T03:28:02+00:00</updated>
     <author>
-      <name>Prof. Alain Goriely FRS</name>
+      <name>Anil Seth</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Avril, A Goriely, GA Holzapfel, E Kuhl, D Nordsletten... - Acta Biomaterialia, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The aim of this paper is to provide an up-to-date overview of the constitutive modeling of soft biological tissues, both from a simulation and experimental perspective by taking into account different length scales. After providing some ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Prof. Alain Goriely FRS (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1742706126000966"/>
-    <published>2026-02-20T09:32:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7686d3fd9f#0</id>
-    <title>Making movement ecology into a predictive science</title>
-    <updated>2026-02-20T09:32:46+00:00</updated>
-    <author>
-      <name>Damien Farine</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Hacker, C Christensen, GH Davis, MA Tucker...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1. Movement allows animals to change their environmental surroundings and remain in suitable conditions. As environments shift, eg through predictable seasonal progression, individuals can adapt their movement strategies accordingly. However ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
-    <link href="https://ecoevorxiv.org/repository/object/11800/download/21273/"/>
-    <published>2026-02-20T09:32:46+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7686d3fc6f#0</id>
-    <title>Moral foundations in the 2020s: Advancements in measurement, genetics, brain science, and real-world impact</title>
-    <updated>2026-02-20T09:32:48+00:00</updated>
-    <author>
-      <name>Timothy C. Bates</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Zakharin, TC Bates - Personality and Individual Differences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The last decade has seen major progress in understanding moral judgment, driven in part by advances in Moral Foundations Theory (MFT). Given these developments and their implications for psychology, sociology, and public policy, a review of recent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy C. Bates (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0191886926000413"/>
-    <published>2026-02-20T09:32:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7686eaef59#0</id>
-    <title>Neural correlates of virtual hand movements using ecologically valid tasks</title>
-    <updated>2026-02-20T10:34:40+00:00</updated>
-    <author>
-      <name>Guilherme M. de O. Wood</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SE Kober, LM Berger, D Kern, G Wood... - Frontiers in Virtual Reality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The aim of the present study was to investigate the effects of realistic and more unrealistic, abstract virtual hand models on neuronal and behavioral responses in virtual reality (VR) using ecologically valid virtual hand movement tasks. 36 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
-    <link href="https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2026.1701936/full"/>
-    <published>2026-02-20T10:34:40+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Grove, T Hewitt, AK Seth, F Macpherson... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Visual hallucinations (VHs) occur across psychedelic states and diverse psychiatric and neurological conditions, yet their phenomenology remains difficult to characterise. Empirical research on VHs is hindered by the lack of large-scale ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://www.biorxiv.org/content/biorxiv/early/2026/02/18/2026.02.18.705710.full.pdf"/>
+    <published>2026-02-23T03:28:02+00:00</published>
   </entry>
 </feed>
