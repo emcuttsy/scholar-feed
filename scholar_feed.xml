@@ -2,41 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-02-23T07:05:25.316429+00:00</updated>
+  <updated>2026-02-24T14:43:10.287704+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76846ed71e#0</id>
-    <title>A roadmap for evaluating moral competence in large language models</title>
-    <updated>2026-02-23T03:27:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76fb405f40#0</id>
+    <title>Comparing Modelling Architectures in the context of EGFR Status Classification in Non Small Cell Lung Cancer</title>
+    <updated>2026-02-24T10:09:01+00:00</updated>
     <author>
-      <name>Murray Shanahan</name>
+      <name>Simon E. Fisher</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Haas, S Bridgers, A Manzini, B Henke, J May... - Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The question of whether large language models (LLMs) can exhibit moral capabilities is of growing interest and urgency, as these systems are deployed in sensitive roles such as companionship and medical advising, and will increasingly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Murray Shanahan (author alert)</content>
-    <link href="https://www.nature.com/articles/s41586-025-10021-1"/>
-    <published>2026-02-23T03:27:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Anderson, R Hung, S Fisher, A Weir, JP Voisey - medRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Radiogenomics enables the non-invasive characterisation of the genomic and molecular properties of tumours, with epidermal growth factor receptor (EGFR) mutations in non–small cell lung cancer (NSCLC) being one of the most investigated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Simon E. Fisher (author alert)</content>
+    <link href="https://www.medrxiv.org/content/10.64898/2026.02.16.26346059.full.pdf"/>
+    <published>2026-02-24T10:09:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76846ed6ce#0</id>
-    <title>Evolution of error correction through a need for speed</title>
-    <updated>2026-02-23T03:28:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76fb405da7#0</id>
+    <title>Graphs are maximally expressive for higher-order interactions</title>
+    <updated>2026-02-24T10:09:03+00:00</updated>
     <author>
-      <name>Jack W. Szostak</name>
+      <name>Manlio De Domenico</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Ravasio, K Husain, CG Evans, R Phillips... - Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Kinetic proofreading is a class of error-correcting mechanisms in biology that expend energy to avoid mistakes during replication, transcription, and translation. Proofreading is typically assumed to evolve when selection for fidelity outweighs ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jack W. Szostak (author alert)</content>
-    <link href="https://www.science.org/doi/abs/10.1126/science.adt1275"/>
-    <published>2026-02-23T03:28:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TP Peixoto, L Peel, T Gross, M De Domenico - arXiv preprint arXiv:2602.16937, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We demonstrate that graph-based models are fully capable of representing higher- order interactions, and have a long history of being used for precisely this purpose. This stands in contrast to a common claim in the recent literature on" higher-order ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
+    <link href="https://arxiv.org/pdf/2602.16937"/>
+    <published>2026-02-24T10:09:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76846ed661#0</id>
-    <title>A Large-Scale Computer-Vision Mapping of the Geometric Structures of Stroboscopically-Induced Visual Hallucinations</title>
-    <updated>2026-02-23T03:28:02+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76fb405b3d#0</id>
+    <title>Resting-state Compensatory Remapping in Patients with Brain Tumour Before and After Surgery</title>
+    <updated>2026-02-24T10:09:07+00:00</updated>
     <author>
-      <name>Anil Seth</name>
+      <name>Manuel Carreiras</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Grove, T Hewitt, AK Seth, F Macpherson... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Visual hallucinations (VHs) occur across psychedelic states and diverse psychiatric and neurological conditions, yet their phenomenology remains difficult to characterise. Empirical research on VHs is hindered by the lack of large-scale ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
-    <link href="https://www.biorxiv.org/content/biorxiv/early/2026/02/18/2026.02.18.705710.full.pdf"/>
-    <published>2026-02-23T03:28:02+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Manso-Ortega, I Diez, L Amoruso, G Bermudez... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brain tumours invade neural tissue, disrupting the functional organisation of neural networks. This disruption can trigger compensatory neuroplastic mechanisms that help preserve cognitive function despite pathological burden. Resting-state ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.02.19.706837.full.pdf"/>
+    <published>2026-02-24T10:09:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76fb405a92#0</id>
+    <title>Q&amp;A with Tim Lenton: Navigating the new era of tipping points</title>
+    <updated>2026-02-24T10:09:08+00:00</updated>
+    <author>
+      <name>Timothy Lenton</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Lenton - One Earth, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prof. Tim Lenton, Chair in Climate Change and Earth System Science at the University of Exeter, recently spoke with One Earth about the latest science, risks, and opportunities surrounding global tipping points. The views expressed are his ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://www.cell.com/one-earth/fulltext/S2590-3322(26)00018-7"/>
+    <published>2026-02-24T10:09:08+00:00</published>
   </entry>
 </feed>
