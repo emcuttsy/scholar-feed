@@ -2,30 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-02-28T14:11:48.766845+00:00</updated>
+  <updated>2026-03-02T06:58:44.709071+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f837b04f#0</id>
-    <title>New genomic resources and the historical demography of the Tourmaline Sunangel (Trochilidae, Heliangelus exortis) in the Colombian Andes</title>
-    <updated>2026-02-28T07:48:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f8fd3735#0</id>
+    <title>Academic collaborations and movements towards successful careers in physics</title>
+    <updated>2026-03-01T14:23:33+00:00</updated>
     <author>
-      <name>Erich Jarvis</name>
+      <name>Fariba Karimi</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CD Cadena, L Pabón, AF Díaz-Salazar... - Journal of Heredity, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding the demographic history of tropical montane species offers insights into how climate-driven habitat dynamics shape genetic diversity and population structure. The Tourmaline Sunangel (Heliangelus exortis), a hummingbird endemic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
-    <link href="https://academic.oup.com/jhered/advance-article-pdf/doi/10.1093/jhered/esag016/67087859/esag016.pdf"/>
-    <published>2026-02-28T07:48:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f837af63#0</id>
-    <title>Pace of ecology drives the tempo of visual perception across the animal kingdom</title>
-    <updated>2026-02-28T07:48:08+00:00</updated>
-    <author>
-      <name>Kevin Mitchell</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CS Haarlem, C Hynes, AL Jackson, KJ Mitchell... - Nature Ecology &amp; Evolution, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The way an animal perceives its environment is fundamentally shaped by its ecology and evolution. The tempo of perception, the rate at which events can be perceived, varies widely across the animal kingdom and ranges from the rapid motion detection ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Kevin Mitchell (author alert)</content>
-    <link href="https://www.nature.com/articles/s41559-026-02994-7"/>
-    <published>2026-02-28T07:48:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M She, J Bachmann, F Karimi, L Peel - arXiv preprint arXiv:2602.22031, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Collaboration networks evolve throughout academic careers, yet few studies systematically examine how these network dynamics relate to long-term career success and mobility. Analysing 35,708 physicists' careers spanning at least 15 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fariba Karimi (author alert)</content>
+    <link href="https://arxiv.org/pdf/2602.22031"/>
+    <published>2026-03-01T14:23:33+00:00</published>
   </entry>
 </feed>
