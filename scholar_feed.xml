@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-02T06:58:44.709071+00:00</updated>
+  <updated>2026-03-03T06:53:07.633705+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f8fd3735#0</id>
-    <title>Academic collaborations and movements towards successful careers in physics</title>
-    <updated>2026-03-01T14:23:33+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ffd15dc3#0</id>
+    <title>The Science of the New</title>
+    <updated>2026-03-02T21:06:35+00:00</updated>
     <author>
-      <name>Fariba Karimi</name>
+      <name>Vito DP Servedio</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M She, J Bachmann, F Karimi, L Peel - arXiv preprint arXiv:2602.22031, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Collaboration networks evolve throughout academic careers, yet few studies systematically examine how these network dynamics relate to long-term career success and mobility. Analysing 35,708 physicists' careers spanning at least 15 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fariba Karimi (author alert)</content>
-    <link href="https://arxiv.org/pdf/2602.22031"/>
-    <published>2026-03-01T14:23:33+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Loreto, VDP Servedio, F Tria&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This book offers a unified quantitative framework for understanding the dynamics of novelty and innovation across biological, technological, and societal systems. It explores how first-time occurrences—ranging from everyday experiences to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Vito DP Servedio (author alert)</content>
+    <link href="https://academic.oup.com/book/62405"/>
+    <published>2026-03-02T21:06:35+00:00</published>
   </entry>
 </feed>
