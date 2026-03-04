@@ -2,19 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-03T06:53:07.633705+00:00</updated>
+  <updated>2026-03-04T14:30:38.342113+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ffd15dc3#0</id>
-    <title>The Science of the New</title>
-    <updated>2026-03-02T21:06:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76feffe331#0</id>
+    <title>On symplectic linearizable actions</title>
+    <updated>2026-03-04T09:08:04+00:00</updated>
     <author>
-      <name>Vito DP Servedio</name>
+      <name>Eva Miranda</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Loreto, VDP Servedio, F Tria&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This book offers a unified quantitative framework for understanding the dynamics of novelty and innovation across biological, technological, and societal systems. It explores how first-time occurrences—ranging from everyday experiences to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Vito DP Servedio (author alert)</content>
-    <link href="https://academic.oup.com/book/62405"/>
-    <published>2026-03-02T21:06:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Miranda&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2025&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We prove that linearizable actions are also symplectically linearizable (either smoothly or analytically) in a neighborhood of a fixed point. Specifically, the fundamental vector fields associated with the action can be simultaneously ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eva Miranda (author alert)</content>
+    <link href="https://armj.math.stonybrook.edu/Articles/241227-Miranda/article.pdf"/>
+    <published>2026-03-04T09:08:04+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76feffe2dd#0</id>
+    <title>Mantle Convection and Nightside Volcanism on Lava World K2-141 b</title>
+    <updated>2026-03-04T09:08:04+00:00</updated>
+    <author>
+      <name>Tobias G. Meier</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TG Meier, CM Guimond, RT Pierrehumbert, J Birkby... - Monthly Notices of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ultra-short period lava worlds offer a unique window into the coupled evolution of planetary interior and atmospheres under extreme irradiation. In this study, we investigate the mantle dynamics, nightside volcanism, and volatile outgassing on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tobias G. Meier (author alert)</content>
+    <link href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag390/8501203"/>
+    <published>2026-03-04T09:08:04+00:00</published>
   </entry>
 </feed>
