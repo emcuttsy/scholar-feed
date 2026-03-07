@@ -2,30 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-04T14:30:38.342113+00:00</updated>
+  <updated>2026-03-07T06:41:09.829225+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76feffe331#0</id>
-    <title>On symplectic linearizable actions</title>
-    <updated>2026-03-04T09:08:04+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76fcfbefb7#0</id>
+    <title>The prenatal sex steroid theory of autism after 25 years</title>
+    <updated>2026-03-06T21:44:54+00:00</updated>
     <author>
-      <name>Eva Miranda</name>
+      <name>Varun Warrier</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Miranda&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2025&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We prove that linearizable actions are also symplectically linearizable (either smoothly or analytically) in a neighborhood of a fixed point. Specifically, the fundamental vector fields associated with the action can be simultaneously ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eva Miranda (author alert)</content>
-    <link href="https://armj.math.stonybrook.edu/Articles/241227-Miranda/article.pdf"/>
-    <published>2026-03-04T09:08:04+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Baron-Cohen, A Tsompanidis, DP Srivastava, J Mill...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We first proposed the prenatal sex steroid theory of autism 25 years ago in order to account for a number of then-unexplained observations around autism, including (1) why autism is diagnosed more often in males than in females; and (2) apparent 'male ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.repository.cam.ac.uk/items/8ccafdea-eff9-4d0e-a2d1-84b55b876e55"/>
+    <published>2026-03-06T21:44:54+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76feffe2dd#0</id>
-    <title>Mantle Convection and Nightside Volcanism on Lava World K2-141 b</title>
-    <updated>2026-03-04T09:08:04+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76fcfbedf2#0</id>
+    <title>TOI-1080 b: a temperate, rocky planet orbiting a quiet M4V host</title>
+    <updated>2026-03-06T21:44:58+00:00</updated>
     <author>
-      <name>Tobias G. Meier</name>
+      <name>Elsa Ducrot</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TG Meier, CM Guimond, RT Pierrehumbert, J Birkby... - Monthly Notices of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ultra-short period lava worlds offer a unique window into the coupled evolution of planetary interior and atmospheres under extreme irradiation. In this study, we investigate the mantle dynamics, nightside volcanism, and volatile outgassing on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tobias G. Meier (author alert)</content>
-    <link href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag390/8501203"/>
-    <published>2026-03-04T09:08:04+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Chew, G Dransfield, K Barkaoui, C Cadieux, E Ducrot... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present the detection and validation of a small, temperate transiting exoplanet orbiting TOI-1080 every 3.9652482$^{+ 0.0000014} _ {-0.0000015} $ days. The host is a quiet M4V star at 25.6 pc. The planet signal was first detected by TESS and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.00385"/>
+    <published>2026-03-06T21:44:58+00:00</published>
   </entry>
 </feed>
