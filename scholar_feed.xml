@@ -2,30 +2,426 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-08T06:43:01.553768+00:00</updated>
+  <updated>2026-03-09T14:40:37.765526+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f36fbc7f#0</id>
-    <title>Predicting Company Growth using Scaling Theory Informed Machine Learning</title>
-    <updated>2026-03-07T17:12:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbbd7#0</id>
+    <title>Implications of the Pessimistic Lower Limit on the Drake Equation</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
     <author>
-      <name>Chris Kempes</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Tao, VR Cappelli, K Liu, MJ Hamilton, CPKempes...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Predicting company growth is a critical yet challenging task in economics and management. Here, we propose a Scaling-Theory-Informed Machine Learning (STIML) framework that integrates a scaling-law-based growth model to capture the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-8880743/latest.pdf"/>
-    <published>2026-03-07T17:12:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Baak, H Snoek - arXiv preprint arXiv:2603.02372, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... makes its presence known on a habitable planet through emitting detectable signals. In essence ... life can develop on any habitable planet given the right (albeit unknown) conditions. ... refines our understanding of the possible existence of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.02372"/>
+    <published>2026-03-07T17:13:00+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f392bb81#0</id>
-    <title>Cell-Cell Adhesion as a Double-Edged Sword in Tissue Fluidity</title>
-    <updated>2026-03-08T03:53:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#9</id>
+    <title>Growth performance, antioxidant capacity, and microbial modulation in broilers supplemented with Arabic gum under a small-scale production system</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
     <author>
-      <name>Dapeng (Max) Bi</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AQ Nguyen, PK Bera, J Notbohm, D Bi - arXiv preprint arXiv:2603.04170, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cell migration plays a fundamental role in numerous physiological processes, including embryonic development, wound healing, and cancer metastasis. While cell- cell adhesion is known to regulate motion by shaping cell morphology and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Dapeng (Max) Bi (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.04170"/>
-    <published>2026-03-08T03:53:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SAM Alkassar, AMA Alkassar, AK Ahmed...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In conclusion, the use of AG as a natural prebiotic feed additive in broilers' diets, particularly at a 1.0% inclusion level, improves broilers' overall productivity by enhancing gut health, strengthening immunological responses, increasing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Reda-Hamouda-2/publication/401448196_Growth_performance_antioxidant_capacity_and_microbial_modulation_in_broilers_supplemented_with_Arabic_gum_under_a_small-scale_production_system/links/69a5f025526cf24119313121/Growth-performance-antioxidant-capacity-and-microbial-modulation-in-broilers-supplemented-with-Arabic-gum-under-a-small-scale-production-system.pdf"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#8</id>
+    <title>Immobilization of Thermophilic GH11 Xylanase (XylHb) of Humicola brevis var. thermoidea on MANAE-Agarose Enhances Catalytic Performance and Operational ...</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AP Almeida, TVC Oliveira, RC Alnoch, JCS Salgado... - Biocatalysis and Agricultural ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The sustainable production of xylo-oligosaccharides (XOS) from lignocellulosic residues has garnered increasing interest due to their recognized prebiotic , antioxidant, and immunomodulatory properties. In this study, an endo-β-1,4-xylanase ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1878818126000836"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#7</id>
+    <title>The Neuroprotective Potential of Spirulina and Chlorella Prebiotics in Neurodegenerative Diseases: A Review of the Gut-Brain Axis</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AA Zubair&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This review summarizes the recent scientific knowledges, neuroprotective benefits of Spirulina and Chlorella specific to neurodegenerative diseases including Alzheimer's disease (AD), Parkinson's disease (PD) and Amyotrophic Lateral ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/131815421/Zubair28122025JABB150042.pdf"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#6</id>
+    <title>Human Milk, Nutrition and Infant Development Vol. II</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FJ Pérez-Cano, V Demers-Mathieu, C Billeaud - Frontiers in Nutrition&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Human milk oligosaccharides (HMOs) act as prebiotic sugars that foster the proliferation 37 of beneficial gut bacteria, such as Bifidobacterium, and function as decoy receptors to inhibit pathogen 38 adhesion and modulate immune responses (Slater ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1812756/full"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#5</id>
+    <title>A critical review on the origin of the genetic code——who built the informative bridge between proteins and nucleic acids?. Zenodo</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Xie&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The enclosure of primordial soup components within lipid membranes represents a key step in protocell formation. While this notion is briefly discussed in Hypotheses 31–35, these hypotheses84-93 fail to incorporate the interactions between ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Ping-Xie-10/publication/401484125_A_critical_review_on_the_origin_of_the_genetic_code--who_built_the_informative_bridge_between_proteins_and_nucleic_acids/links/69a6ac56c7bd2e79e78b12df/A-critical-review-on-the-origin-of-the-genetic-code--who-built-the-informative-bridge-between-proteins-and-nucleic-acids.pdf"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#4</id>
+    <title>Implications of the Pessimistic Lower Limit on the Drake Equation</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Baak, H Snoek - arXiv preprint arXiv:2603.02372, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... selection effect is removed: before abiogenesis occurred, Earth was indistinguishable from any other prebiotic Earth-like planet and can ... abiogenesis on Earth should also apply to this reference class; notwithstanding the fact that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.02372"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#3</id>
+    <title>Chondrite components: archives of protoplanetary disk processes. From natural samples to experimental approaches.</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Vitrano&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The principal studies detailed in this chapter include an evaluation of the prebiotic potential of carbonaceous chondrites, the design and preliminary testing of the VF-Smelt (Vacuum Furnace for Space Melts) experimental apparatus and a Brillouin ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://usiena-air.unisi.it/handle/11365/1310594"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#2</id>
+    <title>Topological bounds on the dynamical growth rate of chemical reaction networks</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Gagrani, J Wang, Y De Decker, D Lacoste - arXiv preprint arXiv:2603.02627, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... reaction networks (CRNs) relevant from prebiotic chemistry to cellular metabolism. Their ... of origin of life studies but also for designing synthetic chemical reaction networks. Autocatalysis and positive feedback are ubiquitous in biochemical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.02627"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#1</id>
+    <title>Deep-Sea Hydrothermal Vent and Impact-Generated Hydrothermal Vent Systems: Insights into the Origin of Life</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SM Cinquemani, RA Lutz - Journal of Marine Science and Engineering, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Studies of deep-sea hydrothermal vent systems have generated a spectrum of hypotheses concerning the origin of life on Earth. The present paper integrates recent literature surrounding three separate hydrothermal vent systems (Lost City in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2077-1312/14/5/486"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f36fbba1#0</id>
+    <title>Prebiotic Potential of Non-digestible Oligosaccharides Isolated from Barnyard Millet (Echinochloa frumentacea) Grain</title>
+    <updated>2026-03-07T17:13:00+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Maji, P Biswas, S Agrawal, S Shit, S Dey - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In the current study, an effort is made to extract and purify the oligosaccharides from barnyard millet and explore their prebiotic efficacy. ... prebiotic molecules was anticipated when used by other probiotic strains. The prebiotic activity scores of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.biorxiv.org/content/biorxiv/early/2026/02/26/2026.02.26.708187.full.pdf"/>
+    <published>2026-03-07T17:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f393e7cf#0</id>
+    <title>Insights from the second season of collaborative influenza forecasting in Italy with updated targets incorporating virological information</title>
+    <updated>2026-03-08T03:38:57+00:00</updated>
+    <author>
+      <name>Manlio De Domenico</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Fiandrino, T Bertola, V D'Andrea, M De Domenico... - medRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present results from the second season of Influcast, a multi-model collaborative forecasting hub focused on influenza in Italy. During the 2024/25 winter season, Influcast collected one-to four-week-ahead probabilistic forecasts of influenza-like ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
+    <link href="https://www.medrxiv.org/content/10.64898/2026.03.04.26347601"/>
+    <published>2026-03-08T03:38:57+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f393e76f#0</id>
+    <title>Biased Generalization in Diffusion Models</title>
+    <updated>2026-03-08T03:38:59+00:00</updated>
+    <author>
+      <name>Marc Mezard</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Garnier-Brun, L Biggio, D Beltrame, M Mézard... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Generalization in generative modeling is defined as the ability to learn an underlying distribution from a finite dataset and produce novel samples, with evaluation largely driven by held-out performance and perceived sample quality. In practice, training is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Marc Mezard (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.03469"/>
+    <published>2026-03-08T03:38:59+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f393e6ef#0</id>
+    <title>Reconstructing Missing Data: Privacy Risks in Regression Models for Human Data</title>
+    <updated>2026-03-08T03:39:00+00:00</updated>
+    <author>
+      <name>Jonas Obleser</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Kummerfeldt, M Orf, J Obleser, E Mohammadi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Psychology and cognitive neuroscience increasingly rely on data sharing to enhance transparency and reproducibility. However, publishing high-dimensional datasets and regression models poses significant privacy risks, as modern computational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jonas Obleser (author alert)</content>
+    <link href="https://anomed.de/wp-content/uploads/2025/03/reconstructing_missing_data.pdf"/>
+    <published>2026-03-08T03:39:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f392bc76#2</id>
+    <title>Solar differential rotation in the period 1954–1964 determined by the Kanzelhöhe data set</title>
+    <updated>2026-03-08T03:53:43+00:00</updated>
+    <author>
+      <name>Astrid Veronig</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Šibenik, I Poljančić Beljan, T Jurkić, D Hržina... - 17th European Solar Physics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Kanzelhöhe Observatory for Solar and Environmental Research (KSO) provides daily multispectral synoptic observations of the Sun. The synoptic observations allow us to study the subsurface dynamics of the Sun, such as the profile of solar ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://www.croris.hr/crosbi/publikacija/prilog-skup/931888"/>
+    <published>2026-03-08T03:53:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f392bc76#1</id>
+    <title>Relationship between steepnes of the solar differential rotation and activity</title>
+    <updated>2026-03-08T03:53:43+00:00</updated>
+    <author>
+      <name>Astrid Veronig</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Poljančić Beljan, R Jurdana–Šepić, R Brajša... - 2nd China-Europe Solar Physics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Theoretical predictions, based on the analytical solutions of the angular momentum transport equation within the convection zone, predict that the net transport of angular momentum towards the equator is less efficient during high solar activity. In ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://www.croris.hr/crosbi/publikacija/prilog-skup/931874"/>
+    <published>2026-03-08T03:53:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f392bc76#0</id>
+    <title>Solar cycle phase related changes of the differential rotation parameters</title>
+    <updated>2026-03-08T03:53:43+00:00</updated>
+    <author>
+      <name>Astrid Veronig</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Poljančić Beljan, I Skokić, T Jurkić, R Jurdana-Šepić... - XVIIth Hvar Astrophysical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Solar cycle phase related changes of the equatorial rotation velocity, represented by the differential rotation parameter A, and the steepness of the differential rotation, represented by the differential rotation parameter B, are considered based on the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://www.croris.hr/crosbi/publikacija/prilog-skup/931880"/>
+    <published>2026-03-08T03:53:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f392bc0a#0</id>
+    <title>NP2 copular agreement in Czech presentational contexts</title>
+    <updated>2026-03-08T03:53:44+00:00</updated>
+    <author>
+      <name>Edgar Onea</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Kučerová, E Onea - Papers from the Second International Workshop on the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We discuss a class of classificatory NP-NP copular clauses, such as This tree is a linden tree. They display NP2 𝜑𝜑-feature agreement (copular and inter-sentential anaphoric agreement), even though NP2 is a predicate. We argue that this ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edgar Onea (author alert)</content>
+    <link href="https://da.lib.kobe-u.ac.jp/da/kernel/0100501355/0100501355.pdf"/>
+    <published>2026-03-08T03:53:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3b4ffa0#0</id>
+    <title>Emergence of Turbulence in a counterflow geometry of 2D Polariton Quantum Fluids</title>
+    <updated>2026-03-08T10:41:54+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Depaepe, K Ouahrouche, A Amo, C Hainaut -arXivpreprintarXiv:2603.05125, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We numerically investigate the nonlinear dynamics of a two-dimensional exciton-polariton quantum fluid coherently driven by two counter-propagating laser beams. Using an exciton-photon coupled driven-dissipative Gross-Pitaevskii framework, we identify ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.05125"/>
+    <published>2026-03-08T10:41:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c16d#0</id>
+    <title>Detection of C3 in Titan with VLT-ESPRESSO</title>
+    <updated>2026-03-08T18:17:12+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Rianço-Silva, P Machado, P Rannou, J Martins... - Monthly Notices of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... is regarded as a Solar System natural laboratory for studying atmospheric photochemistry and abiotic production of organic molecules on cold ... on Titan 's mesosphere. This work showcases the usefulness of instruments and techniques ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stag447/67243328/stag447.pdf"/>
+    <published>2026-03-08T18:17:12+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#9</id>
+    <title>The Unani Perspective-understanding probiotics and prebiotics</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Ahmed, H Sayeed - Health&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Multiple Unani-recommended foods (eg, yogurt, barley, chicory, onion, cucumber and turnip pickles, apple, vinegar) revealed prebiotic and probiotic mechanisms consistent with modern biomedical findings. These foods were prescribed for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://nct.gov.pk/images/UploadImages/645180_PJUM-012%20-%20Ghazala%20Ahmed,%20The%20Unani%20Perspective%20-%20understanding%20probiotics%20and%20prebiotics.pdf"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#8</id>
+    <title>Thermodynamic and Informational Foundations of Living Matter: From Carbon to Consciousness</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Veselov&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper attempts to synthesize biological, physical, and informational principles that define the boundary between living and nonliving matter. The role of carbon and water as activators of life processes is examined, along with the thermodynamic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Vladimir-Veselov/publication/401536532_Thermodynamic_and_Informational_Foundations_of_Living_Matter_From_Carbon_to_Consciousness/links/69a7ef73bff9750ad9c798fb/Thermodynamic-and-Informational-Foundations-of-Living-Matter-From-Carbon-to-Consciousness.pdf"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#7</id>
+    <title>The potential of yeast culture for alleviating enterotoxigenic Escherichia coli-induced diarrhea in neonatal livestock: Insights from intestinal barrier mechanisms</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Wang, P Bai, H Chen, L Yang, D Liu - Animal Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Unlike previous probiotic or prebiotic reviews, this review focuses specifically on multifaceted components of yeast culture and map their protective effects on each intestinal barrier layer. Across challenge and field studies, yeast culture ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2405654526000284"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#6</id>
+    <title>HAAC Ligation-Enabled Hierarchical Assembly: Deciphering the Synergy of α-Hydroxyl Aldehydes and 2-Aminooxazoles</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Chen, H Wang, M Zhou, Q Lin, Y Guo, W Zhang... - Journal of the American ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Briefly, by capitalizing on the synergy between αHAs and 2AO─molecules once pivotal to prebiotic RNA synthesis─we introduce a biocompatible platform that bridges ancient chemical principles with contemporary biomedical demands. HAAC ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/doi/abs/10.1021/jacs.5c22607"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#5</id>
+    <title>Alginate–Chitosan Nanoparticles Improve the Stability and Biocompatibility of Olive Leaf Polyphenols</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SM Habib, R Alqadi, S Jaradat, H Al-Soufi, M Gazouli... - Polysaccharides, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , and their physicochemical properties, cytotoxic behavior, and potential prebiotic effects were evaluated. The resulting nanoparticles (232–237 ... growth compared to free OLE, indicating a potential prebiotic effect and improved microbial tolerance ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2673-4176/7/1/29"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#4</id>
+    <title>Development and characterization of Moringa oleifera systems with oligosaccharides: a novel approach to enhance prebiotic and anti-diabetic properties</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Gościniak, A Sip, L Tajber, J Cielecka-Piontek - Planta Medica, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Moringa oleifera Lam. is a plant recognized for its significant health-promoting properties, primarily attributed to its high content of polyphenols, which exhibit notable antioxidant and anti-diabetic activities [1]. The present study investigated the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0045-1814840"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#3</id>
+    <title>Poly- Prebiotic</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Encapsulations, E Delivery, M Tue, M Fri&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prebiotics are nondigestible components of food that act to modulate and support the gut microbiota. Emerging evidence suggests that prebiotics may play an even more significant role than probiotics, serving metabolic, trophic and protective ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://wellbeinggps.com/products/poly-prebiotic"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#2</id>
+    <title>Understanding Prebiotic Allergy: An Evaluation of Basophil Activation Induced by Galacto‐Oligosaccharides</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SY Leow, H Wen, JY Soh, WC Chiang, Y Zhong... - Clinical and Translational ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding Prebiotic Allergy: An Evaluation of Basophil Activation Induced by Galacto‐Oligosaccharides - PMC ... Understanding Prebiotic Allergy: An Evaluation of Basophil Activation Induced by Galacto‐Oligosaccharides ... Lee L., Zhong Y ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12962392/"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#1</id>
+    <title>Prebiotic -based banana snacks (Musa sapientum L.) alleviate cognitive impairment by reducing brain inflammation, apoptosis, microglial activation, and dendritic ...</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Sa-Nguanmoo, N Apaijai, H Pintana, T Chunchai... - Nutritional Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... However, the neuroprotective benefits of prebiotic -based snacks derived from bananas at ... This study aimed to investigate the effects of different ripening stages of prebiotic -based snacks on ... Therefore, our study hypothesized that a prebiotic -based ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.tandfonline.com/doi/full/10.1080/1028415X.2026.2632672"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f3e4c074#0</id>
+    <title>Effect of a Combination of Prebiotic Supplements Based on Fucus and Kelp on the Gut Microbiome of Mice with Induced Inflammation</title>
+    <updated>2026-03-08T18:17:13+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AA Khitrov, IY Burakova, YD Smirnova, SV Pogorelova... - Microorganisms, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Gut microbiota imbalances can lead to the development of various inflammatory diseases in the body. The development of drugs aimed at maintaining intestinal health is a key area of biotechnology. Algae-based prebiotics are one such drug ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2076-2607/14/3/592"/>
+    <published>2026-03-08T18:17:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f246084f#0</id>
+    <title>Neural blind deconvolution to reconstruct high-resolution ground-based solar observations</title>
+    <updated>2026-03-09T09:54:12+00:00</updated>
+    <author>
+      <name>Astrid Veronig</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schirninger, R Jarolim, AM Veronig, M Rempel... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ground-based solar observations enable unprecedented spatial, spectral, and temporal resolution of the lower solar atmosphere, yet Earths turbulent atmosphere imposes significant limitations, requiring advanced post-facto image reconstruction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.05033"/>
+    <published>2026-03-09T09:54:12+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f2587f98#0</id>
+    <title>Self Images: An Empirical Enquiry into Rembrandt's Self-portraits</title>
+    <updated>2026-03-09T10:31:14+00:00</updated>
+    <author>
+      <name>Federico Turkheimer</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EC Bettelheim, JI Liu, P Dazzan, F Turkheimer - Frontiers in Psychiatry&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Many have speculated that events of personal and financial loss in the life of Rembrandt van Rijn (Rembrandt) caused depression and that this is revealed by examination of his work particularly self-portraits painted in old age. Some report ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
+    <link href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1631373/full"/>
+    <published>2026-03-09T10:31:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f2587ed7#0</id>
+    <title>Artificial intelligence-associated delusions and large language models: risks, mechanisms of delusion co-creation, and safeguarding strategies</title>
+    <updated>2026-03-09T10:31:15+00:00</updated>
+    <author>
+      <name>Michael Levin</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Morrin, L Nicholls, M Levin, J Yiend, U Iyengar... - The Lancet Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Large language models (LLMs) are poised to become a ubiquitous feature of everyday life, mediating communication, decision making, and information curation across nearly every domain. Within psychiatry and psychology, the attention has ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
+    <link href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(25)00396-7/abstract"/>
+    <published>2026-03-09T10:31:15+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f2587e84#0</id>
+    <title>Emergent Bioengineering</title>
+    <updated>2026-03-09T10:31:16+00:00</updated>
+    <author>
+      <name>Ricard Solé</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Maull, Y Shpilkina, V de Lorenzo, R Solé&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The biosphere is undergoing an unprecedented transformation driven by global warming, habitat loss, and resource depletion, threatening biodiversity through widespread species extinctions and population declines. Although conservation and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Ricard Solé (author alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/0c8c5ca2fccb7beff9844b4e9e89c67b/download_pub"/>
+    <published>2026-03-09T10:31:16+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f2587cb9#0</id>
+    <title>Young children rely on visual information to process degraded speech: Evidence from behavioural and neuroimaging measures</title>
+    <updated>2026-03-09T10:31:18+00:00</updated>
+    <author>
+      <name>Manuel Carreiras</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Arrieta-Sagredo, B Blanco, C Caballero-Gaudes... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Young children acquire language in environments where speech is often acoustically degraded, yet little is known about how developing brains adapt to reduced speech intelligibility. Using a combination of eye-tracking and functional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.03.05.707650"/>
+    <published>2026-03-09T10:31:18+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f2587bfb#1</id>
+    <title>Tight inapproximability of max-LINSAT and implications for decoded quantum interferometry</title>
+    <updated>2026-03-09T10:31:19+00:00</updated>
+    <author>
+      <name>Jens Eisert</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MJ Kramer, C Schubert, J Eisert - arXiv preprint arXiv:2603.04540, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We establish tight inapproximability bounds for max-LINSAT, the problem of maximizing the number of satisfied linear constraints over the finite field $\mathbb {F} _q $, where each constraint accepts $ r $ values. Specifically, we prove by a direct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.04540"/>
+    <published>2026-03-09T10:31:19+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f2587bfb#0</id>
+    <title>QGPU: Parallel logic in quantum LDPC codes</title>
+    <updated>2026-03-09T10:31:19+00:00</updated>
+    <author>
+      <name>Jens Eisert</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Gu, AZ Liu, AO Quintavalle, Q Xu, J Eisert, J Roffe - arXiv preprint arXiv:2603.05398, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum error correction is critical to the design and manufacture of scalable quantum computing systems. Recently, there has been growing interest in quantum low-density parity-check codes as a resource-efficient alternative to surface codes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.05398"/>
+    <published>2026-03-09T10:31:19+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f2587b51#0</id>
+    <title>Specialization of softmax attention heads: insights from the high-dimensional single-location model</title>
+    <updated>2026-03-09T10:31:21+00:00</updated>
+    <author>
+      <name>Lenka Zdeborová</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Sagitova, O Duranthon, L Zdeborová - arXiv preprint arXiv:2603.03993, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Multi-head attention enables transformer models to represent multiple attention patterns simultaneously. Empirically, head specialization emerges in distinct stages during training, while many heads remain redundant and learn similar ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenka Zdeborová (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.03993"/>
+    <published>2026-03-09T10:31:21+00:00</published>
   </entry>
 </feed>
