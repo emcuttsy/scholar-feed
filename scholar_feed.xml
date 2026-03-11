@@ -2,129 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-10T06:51:12.423907+00:00</updated>
+  <updated>2026-03-11T06:54:50.170121+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#9</id>
-    <title>Potential Role of Brown Macroalgae on Pig Health: A Review</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f1618d48#0</id>
+    <title>Characteristics of solar differential rotation and activity during solar cycle No. 24</title>
+    <updated>2026-03-10T19:14:48+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Astrid Veronig</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Satessa, P Khanal - ACS Nutrition Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Alginate has considerable prebiotic potential as a nondigestible dietary fiber that can be used for the manipulation of gut microbiota and the reduction of blood cholesterol levels. (184) It is characterized by nonenzymatic oxidative ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/full/10.1021/acsnutrsci.5c00021"/>
-    <published>2026-03-10T00:00:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Lončarić, I Poljančić Beljan, T Mihojević... - 17th European Solar Physics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present results of the behaviour of the solar differential rotation during solar cycle No. 24 derived from the Kanzelhöhe data set (Kanzelhöhe Observatory for Solar and Environmental Research, University of Graz, Austria). Sunspot groups and their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://www.croris.hr/crosbi/publikacija/prilog-skup/932338"/>
+    <published>2026-03-10T19:14:48+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#8</id>
-    <title>The Role of Chemistry Across Disciplines From Humanities to Life Sciences in Understanding Complexity and Emergence</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f17bfee4#0</id>
+    <title>Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion</title>
+    <updated>2026-03-10T19:56:51+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Evelina (Ev) Fedorenko</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Schwalbe, J Wachtveitl, A Heckel, F Buhr, S Toews... - ... Chemie International Edition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Chemistry, biology, and philosophy each contribute in distinct but complementary ways to understanding the origin of life . These contributions show how complexity arises from basic building blocks and how prebiotic chemistry creates natural ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202523427"/>
-    <published>2026-03-10T00:00:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EA Hosseini, B Cheung, E Fedorenko, AH Williams - ICLR 2026 Workshop on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neural networks exhibit a remarkable degree of representational convergence across diverse architectures, training objectives, and even data modalities. This convergence is predictive of alignment with brain representation. A recent hypothesis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
+    <link href="https://openreview.net/forum?id=Ab3pRobOhv"/>
+    <published>2026-03-10T19:56:51+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#7</id>
-    <title>Scytosiphon lomentaria Fucoidan Ameliorates Glucose and Lipid Abnormalities via Modulation of the Microbiota–Gut–Liver/Pancreas Axis: Insights from Multiomics ...</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f17bfe2f#0</id>
+    <title>Reply to van Haastert: Local competition between Ras/actin-driven protrusions</title>
+    <updated>2026-03-10T19:56:52+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Robert G Endres</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Tang, W Zheng, T Wu, S Song, C Ai - Journal of Agricultural and Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These results suggest that FUC2 may serve as a potential prebiotic agent for ameliorating metabolic disorders via microbiota-dependent ... Prebiotic effect of inulin-type fructans on faecal microbiota and short-chain fatty acids in type 2 diabetes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/abs/10.1021/acs.jafc.5c11987"/>
-    <published>2026-03-10T00:00:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Alonso, JB Kirkegaard, RG Endres - Proceedings of the National Academy of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We thank van Haastert for his thoughtful Letter regarding our recent PNAS paper on pseudopod-based chemotaxis strategies in shallow gradients (1). Our work is a conceptual model of how local, competing protrusive "options" can implement robust ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Robert G Endres (author alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2601215123"/>
+    <published>2026-03-10T19:56:52+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#6</id>
-    <title>From Disorder to Order: The Universal Dance of Entropy, Attraction, and Complexity</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f17bfd3f#0</id>
+    <title>Anesthesia Lowers Spatial Frequency Preference in the Primary Visual Cortex</title>
+    <updated>2026-03-10T19:56:54+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Naotsugu Tsuchiya</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Saylam&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The findings illuminate a unified, purposeful structure within the cosmos, reflecting a delicate balance that allows for the emergence of life , ... From the formation of stars and galaxies to the emergence of life , creation appears to follow a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Ahmad-Saylam/publication/401622708_From_Disorder_to_Order_The_Universal_Dance_of_Entropy_Attraction_and_Complexity/links/69aae44a940e2d5e03cdd79c/From-Disorder-to-Order-The-Universal-Dance-of-Entropy-Attraction-and-Complexity.pdf"/>
-    <published>2026-03-10T00:00:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#5</id>
-    <title>Coffee Silverskin Supplementation Alleviates High-Glucose-Diet-Induced Obesity by Modulating Lipogenic Gene Expression in Caenorhabditis elegans Model</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Schifano, P Zinno, F Natella, L Pompa, E Sonaglia... - Molecules, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Coffee silverskin (CSS), the major by-product of coffee roasting, is reported to contain bioactive compounds, including xanthines and polyphenols, showing promising potential for food and nutraceutical applications. This study investigated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/1420-3049/31/5/887"/>
-    <published>2026-03-10T00:00:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#4</id>
-    <title>Effects of Phenolic‐Rich Extra Virgin Olive Oil and Prebiotics on Sarcopenia in Older Adults: FOOP‐Sarc Project</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Besora‐Moreno, C Jiménez‐ten Hoevel, J Queral... - Journal of Cachexia ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... ) and EVOO rich in phenolic compounds and prebiotic supplementation (EVOO + PREB group). The dose was 30 mL/day of ROO or EVOO rich in phenolic compounds used as a dressing and 7.5 g/day of prebiotic supplementation or ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12963666/"/>
-    <published>2026-03-10T00:00:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#3</id>
-    <title>Prebiotics partially protect offspring from maternal antibiotic-induced obesity risk by altering maternal milk microbiota and gut colonization in Sprague-Dawley rats</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DE Lowry, NA Cho, K Sampsell, KM Sales, EWN Tuplin... - The Journal of Nutritional ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... All but hepatic triglycerides were attenuated with maternal prebiotic co-consumption. FMT of maternal cecal matter into germ-free mice ... and lipid species potentially of bacterial origin that were enriched in prebiotic offspring microbiota and livers. These ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0955286326000793"/>
-    <published>2026-03-10T00:00:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#2</id>
-    <title>Effect of Replacement of Antibiotic with Probiotic and Prebiotic on Growth Performance, Carcass Characteristics, And Nutrient Digestibility in Broilers</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Hassan, M Sharif, A Raza, F Ahmad&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The purpose of this study was to assess how probiotics and prebiotics, as opposed to antibiotic growth boosters, affected the growth performance, carcass features, and nutrient digestibility of broiler chickens. Day-old broiler chicks were randomized to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://biologicaltimes.com/wp-content/uploads/journal/published_paper/volume-5/issue-2/BT_2026_8001693.pdf"/>
-    <published>2026-03-10T00:00:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#1</id>
-    <title>Trade-Offs in Organic Wheat: Lower Protein Quality Versus Enhanced Prebiotic Oligosaccharides</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TR Piskackova, AM Bergo, L Jurkaninova, J Havlik - Journal of agricultural and food ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Wheat is a major staple crop, and interest in its organic cultivation is growing. This study aimed to compare the technological and nutritional quality of winter wheat grown in organic and conventional systems. Sixteen varieties were evaluated using ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/41789984/"/>
-    <published>2026-03-10T00:00:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2cc61f3#0</id>
-    <title>Trade-Offs in Organic Wheat: Lower Protein Quality Versus Enhanced Prebiotic Oligosaccharides</title>
-    <updated>2026-03-10T00:00:37+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Reinhardt Piskackova, A Mascellani Bergo... - Journal of Agricultural and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Wheat is a major staple crop, and interest in its organic cultivation is growing. This study aimed to compare the technological and nutritional quality of winter wheat grown in organic and conventional systems. Sixteen varieties were evaluated using ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/abs/10.1021/acs.jafc.5c15545"/>
-    <published>2026-03-10T00:00:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f2d44428#0</id>
-    <title>Comment on "On the emergence of preferred structures in quantum theory" by Soulas, Franzmann, and Di Biagio</title>
-    <updated>2026-03-10T03:59:33+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Stoica&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... fixing an absolute TPS, as normally done in quantum theory, but by more complicated means that may give the impression of emergence . ... In addition to this, if we could claim that fixing the invariants that classify the solutions is unique ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Ovidiu-Cristinel-Stoica/publication/401589269_Comment_on_On_the_emergence_of_preferred_structures_in_quantum_theory_by_Soulas_Franzmann_and_Di_Biagio/links/69a9d3061a0d8b29ca70e161/Comment-on-On-the-emergence-of-preferred-structures-in-quantum-theory-by-Soulas-Franzmann-and-Di-Biagio.pdf"/>
-    <published>2026-03-10T03:59:33+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Wu, T Yoneda, K Robinson, N Tsuchiya, Y Yoshimura - eLife, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study examined the impact of general anesthesia on visual processing in the mouse primary visual cortex (V1). By directly comparing visual responses in the same layer 2/3 neurons between the awake and anesthetized states, we found that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Naotsugu Tsuchiya (author alert)</content>
+    <link href="https://elifesciences.org/reviewed-preprints/110295"/>
+    <published>2026-03-10T19:56:54+00:00</published>
   </entry>
 </feed>
