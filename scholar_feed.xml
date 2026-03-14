@@ -2,129 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-13T14:34:31.006565+00:00</updated>
+  <updated>2026-03-14T06:47:11.997497+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783ae12#0</id>
-    <title>Volcanic Satellites Tidally Venting Na, K, SO₂ in Optical &amp; Infrared Light</title>
-    <updated>2026-03-13T14:29:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f79b8caf#0</id>
+    <title>Shape-Independent Fluidization in Epithelial Cell Monolayers</title>
+    <updated>2026-03-13T15:18:40+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>Dapeng (Max) Bi</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AV Oza, A Gebek, MM Westram, A Tokadjian, AL Piro...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent infrared spectroscopy from the James Webb Space Telescope (JWST) has spurred analyses of common volcanic gases such as carbon dioxide (CO ₂⁠), sulphur dioxide (SO ₂⁠), alongside alkali metals sodium (Na i) and potassium (K i) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://authors.library.caltech.edu/records/gwekd-pz488/files/staf1526.pdf"/>
-    <published>2026-03-13T14:29:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PK Bera, AQ Nguyen, M McCord, D Bi, J Notbohm - arXiv preprint arXiv:2603.05548, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Tissue fluidity regulates many critical biological processes, including embryonic development, wound healing, and cancer metastasis. In confluent epithelia, where cell packing fraction is effectively fixed, the prevailing paradigm postulates that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Dapeng (Max) Bi (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.05548"/>
+    <published>2026-03-13T15:18:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783ad55#0</id>
-    <title>Continuum field theory of matchgate tensor network ensembles</title>
-    <updated>2026-03-13T14:29:33+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f79b8bb1#1</id>
+    <title>The Development of the Relationship Between Distributional Learning and Prediction in</title>
+    <updated>2026-03-13T15:18:41+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>Zhenghan QI</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Usoltcev, C Wille, J Eisert, A Altland - arXiv preprint arXiv:2603.06202, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Tensor networks provide discrete representations of quantum many-body systems, yet their precise connection to continuum field theories remains relatively poorly understood. Invoking a notion of typicality, we develop a continuum description for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.06202"/>
-    <published>2026-03-13T14:29:33+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YL Weng, H Yun, AO Van Horne, Z Qi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prediction-based theories propose that children learn language by generating expectations about upcoming input and updating their representations when those expectations are violated, but direct evidence for this mechanism in children is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Zhenghan QI (author alert)</content>
+    <link href="https://osf.io/download/ycqvn/"/>
+    <published>2026-03-13T15:18:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783ac86#0</id>
-    <title>Neuronal plasticity during motor rehabilitation training after spinal cord injury</title>
-    <updated>2026-03-13T14:29:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f79b8bb1#0</id>
+    <title>Application of Recurrent Activation Models to Mechanistic Explanations of DLD: A Commentary on Riches (2026)</title>
+    <updated>2026-03-13T15:18:41+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>Zhenghan QI</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TM Emmenegger, G David, S Mohammadi, G Ziegler... - Communications Biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how the injured nervous system adapts to training is key to advancing rehabilitation across neurological disorders. Using spinal cord injury (SCI) as a model of severe motor-sensory disruption, we investigate whether training-induced ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://www.nature.com/articles/s42003-026-09793-7_reference.pdf"/>
-    <published>2026-03-13T14:29:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Owen Van Horne, Z Qi - First Language&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We respond to Riches' article in which he puts forth the idea that exemplar-based learning is the underlying deficit in children with Developmental Language Disorder, grounded in Dell and Chang's P-Chain model. We affirm the potential contributions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Zhenghan QI (author alert)</content>
+    <link href="https://journals.sagepub.com/doi/abs/10.1177/01427237261427762"/>
+    <published>2026-03-13T15:18:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783aaf6#0</id>
-    <title>Demand-only energetics at 120 ATP per glucose: A reply to Lynch</title>
-    <updated>2026-03-13T14:29:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da61#0</id>
+    <title>Origins of life: the possible and the actual</title>
+    <updated>2026-03-14T01:13:05+00:00</updated>
     <author>
-      <name>William Martin</name>
+      <name>Chris Kempes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WF Martin - Biochimica et Biophysica Acta (BBA)-Bioenergetics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recently in these pages, a paper by Lynch appeared in response to a report showing that his numbers for biosynthetic costs (ATP demand) in cells are inflated, so much so that they would require E. coli to obtain&gt; 100 ATP per glucose and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; William Martin (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0005272826000071"/>
-    <published>2026-03-13T14:29:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CKempes, S Stepney - Philosophical Transactions of the Royal Society B ..., 2025&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The questions of how life forms, whether life is an inevitable outcome and how diverse its presentation could be remain some of the most profound in science. Investigations into the origin of life confront key issues such as uncovering key ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
+    <link href="https://repositori.upf.edu/items/54bf768f-0ed7-4c46-9c0a-eb79f44f8c34"/>
+    <published>2026-03-14T01:13:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783aa79#0</id>
-    <title>Dissecting the contributions to non-photochemical quenching in a land plant under fluctuating light</title>
-    <updated>2026-03-13T14:29:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#9</id>
+    <title>Development of Probiotic Dark Chocolate Enriched with Encapsulated Saccharomyces boulardii: Storage Stability and In Vitro Gastrointestinal Survival</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
     <author>
-      <name>Graham Fleming</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Lam, R Lee, D Patel-Tupper, HE Lam, TY Lee, A Ma... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Photosynthetic organisms have evolved multiple non-photochemical quenching (NPQ) processes, providing photoprotection by safely dissipating excess excitation energy. These processes involve various molecular players functioning on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Graham Fleming (author alert)</content>
-    <link href="https://www.nature.com/articles/s41467-026-70414-2_reference.pdf"/>
-    <published>2026-03-13T14:29:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EK Kanak, S Öztürk Yılmaz - Fermentation, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study investigated the development of a sugar-free prebiotic and probiotic dark chocolate formulated with 39.76% cocoa mass, 41.856% ... boulardii against both storage conditions and gastrointestinal stress, making this sugar-free prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2311-5637/12/3/145"/>
+    <published>2026-03-14T01:13:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783a9db#0</id>
-    <title>Kerogen-rich rocks influence growth and composition of an anaerobic microbial community</title>
-    <updated>2026-03-13T14:29:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#8</id>
+    <title>Revealing that the Gas-phase Reaction of CN with H2S Can Be a Source of HSCN in Interstellar Molecular Clouds</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
     <author>
-      <name>Charles Cockell</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AC Waajen, W de Wit, M Sánchez-Román, JO Edgar... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Kerogen, insoluble macromolecular organic matter in sedimentary rocks, is the most abundant form of organic carbon on Earth and plays a role in deep biosphere processes. It is classified into four types (I–IV) based on origin and chemical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-42062-5_reference.pdf"/>
-    <published>2026-03-13T14:29:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Antiñolo, F Martínez, D González, A Lema-Saavedra... - The Astrophysical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Particularly, hydrogen sulfide (H 2 S) and cyano (CN) radicals are key precursors of prebiotic molecules in the ISM. However, the ultralow-... its potential role in sulfur–nitrogen coupling and the formation of prebiotic molecules in the ISM. These findings ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-4357/ae421d"/>
+    <published>2026-03-14T01:13:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783a8c3#0</id>
-    <title>Operational impact of quantum resources in chemical dynamics</title>
-    <updated>2026-03-13T14:29:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#7</id>
+    <title>Origins of life : the possible and the actual</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Liebert, GD Scholes - arXiv preprint arXiv:2603.06833, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum coherence and other non-classical features are widely discussed in chemical dynamics, yet it remains difficult to quantify when such resources are operationally relevant for a given process and observable. While quantum resource ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.06833"/>
-    <published>2026-03-13T14:29:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Kempes, S Stepney - Philosophical Transactions of the Royal Society B ..., 2025&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The questions of how life forms, whether life is an inevitable outcome and how diverse its presentation could be remain some of the most profound in science. Investigations into the origin of life confront key issues such as uncovering key ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://repositori.upf.edu/items/54bf768f-0ed7-4c46-9c0a-eb79f44f8c34"/>
+    <published>2026-03-14T01:13:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783a83b#0</id>
-    <title>Technological folie à deux: feedback loops between AI chatbots and mental health</title>
-    <updated>2026-03-13T14:29:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#6</id>
+    <title>Metrology of Complexity and Implications for the Study of the Emergence of Life</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
     <author>
-      <name>Murray Shanahan</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Dohnány, Z Kurth-Nelson, E Spens, L Luettgau... - Nature Mental Health, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Artificial intelligence (AI) chatbots have achieved unprecedented adoption, with millions now using these systems for emotional support and companionship in contexts of widespread social isolation and capacity-constrained mental health ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Murray Shanahan (author alert)</content>
-    <link href="https://www.nature.com/articles/s44220-026-00595-8"/>
-    <published>2026-03-13T14:29:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Imari Walker - arXiv e-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... understand the physical mechanisms by which the emergence of life occurs, which so far have ... In this essay, I review current challenges in experimental approaches to origin of life ... the emergence of life , while potentially bridging ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260218203I/abstract"/>
+    <published>2026-03-14T01:13:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783a7a6#2</id>
-    <title>Are any machines conscious today?</title>
-    <updated>2026-03-13T14:29:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#5</id>
+    <title>IN VITRO ANALYSIS OF PREBIOTIC ACTIVITY OF FOOD POLYSACCHARIDES USING LACTOBACILLUS PLANTARUM</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
     <author>
-      <name>Patrick Butlin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Butlin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A survey conducted in 2025 found that experts assigned, on average, a 4.5% chance that conscious AI systems either existed already or would exist by the end of that year. 1 So the possibility that some systems are conscious today deserves careful ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Patrick Butlin (author alert)</content>
-    <link href="https://philarchive.org/archive/BUTAAM-2"/>
-    <published>2026-03-13T14:29:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AS SATUBALDINA, AB TALIPOVA&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prebiotics and probiotics have gained increasing attention in recent years due to their potential health benefits. Prebiotics are non-digestible food ingredients that selectively stimulate the growth and activity of beneficial bacteria in the gut, while ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://elibrary.ru/item.asp?id=67038473"/>
+    <published>2026-03-14T01:13:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783a7a6#1</id>
-    <title>Desire in AI</title>
-    <updated>2026-03-13T14:29:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#4</id>
+    <title>antioxidant and prebiotic activity of the polysaccharides from the</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
     <author>
-      <name>Patrick Butlin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Butlin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Chatbots seem to express desires and many AI systems arguably pursue goals, such as winning games or helping users. Furthermore, many AI systems are trained by reinforcement learning and similar forms of learning are associated with human and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Patrick Butlin (author alert)</content>
-    <link href="https://philarchive.org/archive/BUTDIA"/>
-    <published>2026-03-13T14:29:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Huang, M Sun, J Chen, T Tan¹ - Harnessing the Potential of Functional Foods ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Methods: The UMSE process was optimized using response surface methodology (RSM) to identify the most efficient extraction conditions. Antioxidant capacity was evaluated through DPPH, ABTS, and hydroxyl radical scavenging assays, alongside ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=J9HHEQAAQBAJ&amp;oi=fnd&amp;pg=PA99&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=RuZmXWDd65&amp;sig=dEImR2OY7JkkN9kagOvBILGIz-8"/>
+    <published>2026-03-14T01:13:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f783a7a6#0</id>
-    <title>Testing for consciousness in current AI</title>
-    <updated>2026-03-13T14:29:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#3</id>
+    <title>Characterization of a novel cold-active endo-β-1, 3-1, 4-glucanase from Paenibacillus sp. XP01 and prebiotic potential of its enzymatic hydrolysates</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
     <author>
-      <name>Patrick Butlin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Butlin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Together with many of the participants in this conference, I have been involved in a project to develop a method to assess current AI systems for consciousness (Butlin et al. 2023, 2025). In this talk, I'm first going to describe our method and discuss the role ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Patrick Butlin (author alert)</content>
-    <link href="https://philarchive.org/archive/BUTTFC"/>
-    <published>2026-03-13T14:29:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Zhang, Y Gao, Z Zhang, H Hu, H Gao, T Zhu, H Liu... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Barley β-glucan (BG), a natural polysaccharide with demonstrated health benefits, faces application limitations due to its high molecular weight and viscosity, creating a demand for specific β-glucan-degrading enzymes. In this study, we report a novel ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0141813026012894"/>
+    <published>2026-03-14T01:13:06+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#2</id>
+    <title>Ultrasonic-assisted acid/alkaline extraction of prebiotic polysaccharides from Brassica rapa L. residues for targeted modulation of gut microbiota and metabolites via in ...</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Guo, H Qian, X Li, H Hua - Journal of Future Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study proposes a high-value utilization strategy for Brassica rapa L. processing residues under varying pH extraction conditions to achieve resource upgrading of this agricultural byproduct. Using an acid/alkaline extraction method, two structurally ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2772566926000984"/>
+    <published>2026-03-14T01:13:06+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#1</id>
+    <title>Bioactive potential of black garlic melanoidins: impact of storage conditions on digestibility and prebiotic activity</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Zhu, H Yin, B Wang, Y Zhong, D Wang, Y Li, Y Deng - Food Science and Human ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic function of BG-MLDs under the same storage duration by influencing their Arg and Lys amino acids, proteins, and phenol content, while storage time mainly affects the prebiotic ... affect the various bioactivities of MLDs, including their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciopen.com/local/article_pdf/10.26599/FSHW.2025.9250497.pdf"/>
+    <published>2026-03-14T01:13:06+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76f7d0da10#0</id>
+    <title>Amelioration of Cognitive Impairment by Dendrobium officinale stem Polysaccharides: A Potential Prebiotic Role Mediated by the Gut Microbiota</title>
+    <updated>2026-03-14T01:13:06+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Wang, Y Lu, Q Li, B Sun, Y Zhang, F Su, Y Wang... - Journal of Agriculture and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Pharmacokinetic predictions further characterized DOP as a gut-restricted prebiotic scaffold acting through metabolite biotransformation rather than direct absorption. Collectively, these findings highlight DOP as a promising prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2666154326001742"/>
+    <published>2026-03-14T01:13:06+00:00</published>
   </entry>
 </feed>
