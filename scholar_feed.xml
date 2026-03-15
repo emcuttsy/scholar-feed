@@ -2,118 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-15T06:57:44.930394+00:00</updated>
+  <updated>2026-03-15T14:20:17.079863+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f6460809#0</id>
-    <title>Metrology of Complexity and Implications for the Study of the Emergence of Life</title>
-    <updated>2026-03-14T20:36:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f6aa9562#1</id>
+    <title>Subtime: Reversible Information Exchange and the Emergence of Classical Time</title>
+    <updated>2026-03-15T12:27:42+00:00</updated>
     <author>
-      <name>Sara Imari Walker</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Imari Walker - arXiv e-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; One of the longest standing open problems in science is how life arises from non- living matter. If it is possible to measure this transition in the lab, then it might be possible to understand the physical mechanisms by which the emergence of life ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sara Imari Walker (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260218203I/abstract"/>
-    <published>2026-03-14T20:36:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PL Borrill -arXivpreprintarXiv:2603.11571, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We formalize the concept of subtime -- a reversible mode of information interchange within entangled systems -- and show how classical time emerges as an asymptotic limit through decoherence. Building on the photon clock model, in which a single ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.11571"/>
+    <published>2026-03-15T12:27:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f64607bf#0</id>
-    <title>Worlds Next Door. IV. Mapping the Late Stages of Giant Planet Evolution with a Precise Dynamical Mass and Luminosity for $\epsilon $ Ind Ab</title>
-    <updated>2026-03-14T20:36:54+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76f6aa9562#0</id>
+    <title>Emergence of polar monoclinic phase in heterohalogen substituted CsGeX $ _3$</title>
+    <updated>2026-03-15T12:27:42+00:00</updated>
     <author>
-      <name>Björn Benneke</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Sanghi, W Thompson, J Mang, J Xuan, D Mawet... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present new JWST/NIRCam 4-5$\mu $ m (F410M, F430M) and JWST/MIRI 18- 25$\mu $ m (F1800W, F2100W, F2550W) imaging detections of the nearby (3.6 pc) cold (275 K) gas giant exoplanet $\epsilon $ Ind Ab. The F2550W detection of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.08787"/>
-    <published>2026-03-14T20:36:54+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f6460741#0</id>
-    <title>Cloudy Extrasolar Skies in the JWST Era and their Dependence on Atmospheric Properties</title>
-    <updated>2026-03-14T20:36:56+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Suarez, J Faherty, S Metchev, A Burgasser, J Vos... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Dust clouds in extrasolar atmospheres shape the emergent spectra of gas giant planets and brown dwarfs. Therefore, our understanding of these objects depends on our knowledge of silicate clouds, which have their main spectral signature in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24724503S/abstract"/>
-    <published>2026-03-14T20:36:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f646064f#0</id>
-    <title>Competitive interactions shape mammalian brain network dynamics and computation</title>
-    <updated>2026-03-14T20:36:58+00:00</updated>
-    <author>
-      <name>Fernando E. Rosas</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AI Luppi, Y Sanz Perl, J Vohryzek, H Ali, PAM Mediano... - Nature Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How does brain network architecture balance cooperation and competition between distributed circuits? Here we use computational whole-brain modeling to examine the dynamical and computational relevance of cooperative and competitive ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://www.nature.com/articles/s41593-026-02205-3"/>
-    <published>2026-03-14T20:36:58+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f64605f6#1</id>
-    <title>Mind the gaps: The fraught road to quantum advantage</title>
-    <updated>2026-03-14T20:36:59+00:00</updated>
-    <author>
-      <name>Jens Eisert</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JP J. Eisert&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2025&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://scholar.google.com/citations?hl=en&amp;view_op=view_citation&amp;citation_for_view=WawCci0AAAAJ:kQIw-_FCSM0C&amp;oi=scholaralrt"/>
-    <published>2026-03-14T20:36:59+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f64605f6#0</id>
-    <title>Unifying communication paradigms in measurement-based delegated quantum computing</title>
-    <updated>2026-03-14T20:36:59+00:00</updated>
-    <author>
-      <name>Jens Eisert</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Wiesner, J Eisert, A Pappa - ACM Transactions on Quantum Computing, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Delegated quantum computing (DQC) allows clients with low quantum capabilities to outsource computations to a server hosting a quantum computer. This process is often envisioned within the measurement-based quantum computing framework, as it ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://dl.acm.org/doi/pdf/10.1145/3800578"/>
-    <published>2026-03-14T20:36:59+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f6460595#0</id>
-    <title>Trans-acting Determinants of Gene Expression: Effects of Transcription Factor Affinity, Abundance, and Localization</title>
-    <updated>2026-03-14T20:37:01+00:00</updated>
-    <author>
-      <name>Sebastian J. Maerkl</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M López-Malo, SJ Maerkl - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Transcription factors (TFs) regulate gene expression by binding cis-regulatory DNA elements, yet how trans-regulatory characteristics such as TF affinity, concentration, and localization interact with cis-regulatory elements remains largely unclear. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sebastian J. Maerkl (author alert)</content>
-    <link href="https://www.biorxiv.org/content/biorxiv/early/2026/03/11/2026.03.10.710832.full.pdf"/>
-    <published>2026-03-14T20:37:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f6460588#1</id>
-    <title>Operational bounds and diagnostics for coherence in energy transfer</title>
-    <updated>2026-03-14T20:37:01+00:00</updated>
-    <author>
-      <name>Gregory Scholes</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Liebert, GD Scholes - arXiv preprint arXiv:2603.09748, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Excitation energy transfer in light-harvesting aggregates is highly efficient, yet whether quantum coherence plays an operational role in transport remains debated. A central challenge is that coherence is usually inferred from spectroscopic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.09748"/>
-    <published>2026-03-14T20:37:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f6460588#0</id>
-    <title>Exploring Excited State Proton Transfer Dynamics upon Ultraviolet Excitation</title>
-    <updated>2026-03-14T20:37:01+00:00</updated>
-    <author>
-      <name>Gregory Scholes</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Kaul, A Benny, V Petropoulos, M Maj, G Cerullo... - The Journal of Physical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Excited state intramolecular proton transfer (ESIPT) has been investigated in two prototypical systems─ salicylaldehyde azine (SAA) and 1, 5- dihydroxyanthraquinone (DHAQ)─ using transient absorption spectroscopy upon ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://pubs.acs.org/doi/full/10.1021/acs.jpca.5c08622"/>
-    <published>2026-03-14T20:37:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f64409ed#0</id>
-    <title>AI or Human? Exploring the Effects of User Awareness in Conversational Dynamics with Virtual Avatars</title>
-    <updated>2026-03-14T21:01:22+00:00</updated>
-    <author>
-      <name>Silvia Kober</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SE Kober, S Streit, G Wood - Computers in Human Behavior, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract With advancements in Large Language Models, AI chatbots are now widely used, offering near-human-like interactions. This study examines the emotional and psychological impacts of AI in communication, particularly when paired with human ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Silvia Kober (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0747563226000816"/>
-    <published>2026-03-14T21:01:22+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Vairat, BG Hegde, B Tiwari, R Kashikar -arXivpreprintarXiv:2603.11844, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The occurrence of ferroelectricity in inorganic germanium-based halide perovskites has provided an alternative to oxide counterparts. Using first-principles methods, we have studied CsGeX$_3$ materials with heterohalogen substitution at the X site in a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.11844"/>
+    <published>2026-03-15T12:27:42+00:00</published>
   </entry>
 </feed>
