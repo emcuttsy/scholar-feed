@@ -2,74 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-18T07:02:23.992124+00:00</updated>
+  <updated>2026-03-19T06:58:52.661220+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f4462961#4</id>
-    <title>Dietary Fibers and Prebiotics for Gut Microbiota Modulation in Type 2 Diabetes: Mechanisms and Therapeutic Potential</title>
-    <updated>2026-03-17T19:55:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76eb2e4b6a#0</id>
+    <title>Testing the performance of polygenic scores for multiple traits to explain cerebral palsy in two independent cohorts</title>
+    <updated>2026-03-18T22:01:35+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IC Crăciun, DC Măgureanu, IC Bocsan, AE Crăciun... - Diabetology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Many dietary fibers and prebiotic compounds escape digestion in the upper gastrointestinal tract and reach the colon, where they interact directly with intestinal microbes, exerting prebiotic effects, reshaping microbial communities, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2673-4540/7/3/59"/>
-    <published>2026-03-17T19:55:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JT Thomas, ASF Berry, MT Oetjens, JG Berry... - eBioMedicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Cerebral palsy (CP) is a complex neurodevelopmental disorder with both environmental and genetic contributors. Rare genetic variants explain a substantial proportion of CP, but the contribution of common variants remains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(26)00090-3/fulltext"/>
+    <published>2026-03-18T22:01:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f4462961#3</id>
-    <title>Physical and Biochemical Properties of Chan (Hyptis suaveolens (L.) Poit) Seeds Grown in Different Locations</title>
-    <updated>2026-03-17T19:55:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76eb2e4af5#0</id>
+    <title>Identifying and Characterizing Low-Temperature Stars and Brown Dwarfs in Deep JWST Spectroscopic Surveys</title>
+    <updated>2026-03-18T22:01:36+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JA Salazar‐Montoya, MD Díaz‐Cervantes... - Food Science &amp; Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The main goal of this work was to establish the differences in the physical properties and nutritional quality of chan seeds ( Hyptis suaveolens (L.) Poit) as well as to determine their influence on the structural characteristics. In this study, three sites ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/fsn3.71490"/>
-    <published>2026-03-17T19:55:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Loritsch, E Pritchard, J Haynes, S Morrissey... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract M-, L-, and T-type dwarfs are the lowest mass, coolest, and most abundant stars and brown dwarfs in the Milky Way. Given their low temperatures, these faint objects emit primarily at infrared wavelengths, making them difficult to detect beyond ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24726901L/abstract"/>
+    <published>2026-03-18T22:01:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f4462961#2</id>
-    <title>Integrating synbiotic fermentation and iron fortification: untargeted LC-HRMS metabolomic characterization of a functional Spondias dulcis L. beverage</title>
-    <updated>2026-03-17T19:55:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76eb2e4a2e#0</id>
+    <title>Population-wide variation in connectopic organization of cerebral language hubs</title>
+    <updated>2026-03-18T22:01:37+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Simon E. Fisher</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PH Putri, VN Pratiwi, F Nuriannisa, AL Mutiarani... - Journal of Food ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The comparison between JPE and JPO evaluated the individual contributions of prebiotic and probiotic components. The comparison between JS and JSIF assessed the impact of iron fortification within synbiotic formulations. Finally, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s11694-026-04236-7"/>
-    <published>2026-03-17T19:55:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JS Amelink, C Ramoser, S Soheili-Nezhad, D Schijven... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The uniquely human capacity for language is supported by a distributed brain network with cerebral cortical hubs in the left inferior frontal gyrus (LIFG) and left superior temporal sulcus (LSTS). Individual differences in the graded spatial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Simon E. Fisher (author alert)</content>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.03.12.711274.full.pdf"/>
+    <published>2026-03-18T22:01:37+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f4462961#1</id>
-    <title>Gut Microbiota Modulation through Functional Foods and Public Health Implications</title>
-    <updated>2026-03-17T19:55:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76eb40a1f5#2</id>
+    <title>The Rise of Null Hypothesis Significance Testing (NHST): Institutional Massification and the Emergence of a Procedural Epistemology</title>
+    <updated>2026-03-19T03:47:26+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Martin - IJMRT, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... A controlled experimental design was implemented to evaluate changes in microbial composition following supplementation with prebiotic fibers, fermented dairy products, and polyphenol-rich plant extracts. Results demonstrate measurable ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="http://ijmrt.com/index.php/ijmrt/article/view/5"/>
-    <published>2026-03-17T19:55:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Ting -arXivpreprintarXiv:2603.14757, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Drawing on work in the history of statistics and writings by statisticians, this paper examines the emergence and subsequent dominance of NHST. This perspective makes it possible to consider how its rise may be connected to what Gigerenzer et al ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.14757"/>
+    <published>2026-03-19T03:47:26+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f4462961#0</id>
-    <title>An Idea to Explore: From How to Why: Using Evolutionary Biochemistry to Inspire Biochemistry Education</title>
-    <updated>2026-03-17T19:55:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76eb40a1f5#1</id>
+    <title>Directionality emergence and localization in a quantum random Lorentz gas</title>
+    <updated>2026-03-19T03:47:26+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Vázquez‐Salazar - Biochemistry and Molecular Biology Education, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This approach also integrates insights from origins - of - life studies, which trace plausible trajectories from prebiotic reaction networks to the highly regulated, enzymedriven systems of modern cells [5–7]. When applied to teaching, these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://iubmb.onlinelibrary.wiley.com/doi/abs/10.1002/bmb.70048"/>
-    <published>2026-03-17T19:55:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Lorent, JM Sparenberg, D Gaspard -arXivpreprintarXiv:2603.12432, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The propagation of a spherical wave through a two-dimensional random Lorentz gas composed of small fixed scatterers is studied. Inspired by the Mott problem (how an initially isotropic quantum wave can give rise to a single particle-like track), we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.12432"/>
+    <published>2026-03-19T03:47:26+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76f44628c5#0</id>
-    <title>Exploring the Diversity of Sub - Neptune -Sized Exoplanets</title>
-    <updated>2026-03-17T19:55:51+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76eb40a1f5#0</id>
+    <title>Metric Rarity and the Emergence of Symmetry in G-Invariant Potential Surfaces</title>
+    <updated>2026-03-19T03:47:26+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Palma, G Morello, G Fernandez, J Tan - American Astronomical Society Meeting ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... alien worlds with precise detail, thanks to the launch of the James Webb Space Telescope (JWST). Early JWST observations have highlighted a profound diversity among exoplanets, revealing a highly abundant population of sub - Neptune -... the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24732808P/abstract"/>
-    <published>2026-03-17T19:55:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Schneider -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Let X be an irreducible complex affine algebraic variety defined over $\mathbb {R} $, equipped with a faithful action of a finite group G, and let Y= X//G denote the categorical quotient with projection $ π $. We study the geometry of the real image ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260300011S/abstract"/>
+    <published>2026-03-19T03:47:26+00:00</published>
   </entry>
 </feed>
