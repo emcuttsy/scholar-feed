@@ -2,74 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-19T06:58:52.661220+00:00</updated>
+  <updated>2026-03-20T06:56:16.132838+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76eb2e4b6a#0</id>
-    <title>Testing the performance of polygenic scores for multiple traits to explain cerebral palsy in two independent cohorts</title>
-    <updated>2026-03-18T22:01:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd44039#0</id>
+    <title>The MIR Exoplanet CLimate Explorer MIRECLE, a Space Mission Dedicated to Exoplanet Transit and Phase Curve Spectroscopy</title>
+    <updated>2026-03-19T20:03:01+00:00</updated>
     <author>
-      <name>Nick Martin</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JT Thomas, ASF Berry, MT Oetjens, JG Berry... - eBioMedicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Cerebral palsy (CP) is a complex neurodevelopmental disorder with both environmental and genetic contributors. Rare genetic variants explain a substantial proportion of CP, but the contribution of common variants remains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(26)00090-3/fulltext"/>
-    <published>2026-03-18T22:01:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Staguhn, A Mandell, D Fixsen, E Sharp, S Maher... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Venus -like planet with a dense CO 2 atmosphere and a Mars -like planet with a thin CO 2 atmosphere. The strong ozone band at 9.7 μm allows for detecting the presence of molecular oxygen in the atmosphere, which is a powerful biosignature ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24744902S/abstract"/>
+    <published>2026-03-19T20:03:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76eb2e4af5#0</id>
-    <title>Identifying and Characterizing Low-Temperature Stars and Brown Dwarfs in Deep JWST Spectroscopic Surveys</title>
-    <updated>2026-03-18T22:01:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#9</id>
+    <title>Deciphering microbiota–host interactions through a multiomics approach: influence of prebiotics and Red Yeast Rice in a murine model of atherosclerosis</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Loritsch, E Pritchard, J Haynes, S Morrissey... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract M-, L-, and T-type dwarfs are the lowest mass, coolest, and most abundant stars and brown dwarfs in the Milky Way. Given their low temperatures, these faint objects emit primarily at infrared wavelengths, making them difficult to detect beyond ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24726901L/abstract"/>
-    <published>2026-03-18T22:01:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Cicogni&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this context, the present study aimed to investigate the impact of a prebiotic formulation, administered alone or in combination with red yeast rice (RYR) extract, one of the most used botanicals for AS patients, on atherosclerosis development in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://usiena-air.unisi.it/handle/11365/1311857"/>
+    <published>2026-03-19T20:03:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76eb2e4a2e#0</id>
-    <title>Population-wide variation in connectopic organization of cerebral language hubs</title>
-    <updated>2026-03-18T22:01:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#8</id>
+    <title>A complete set of canonical nucleobases in the carbonaceous asteroid (162173) Ryugu</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Koga, Y Oba, Y Takano, H Naraoka, NO Ogawa... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Organic molecules delivered from extraterrestrial materials may have played a key role in supplying building blocks for life on Earth. Here we report all five canonical nucleobases—purines (adenine and guanine) and pyrimidines (cytosine, thymine ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41550-026-02791-z"/>
+    <published>2026-03-19T20:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#7</id>
+    <title>INulin-type β-fructans supplementation to modulate gut microbiota and assessment of its effects on health status and GUT-SKIN axis parameters in patients with ...</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; U Krupa-Kozak, A Owczarczyk-Saczonek, E Lange... - Nutrition Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic intervention is proposed. Adult mild PS patients (Psoriasis Area and Severity Index; PASI &lt; 10) with a body mass index (BMI) &lt; 30 kg/m 2 following an omnivore diet will be enrolled into the trial and randomized to one of two groups ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s12937-026-01316-8"/>
+    <published>2026-03-19T20:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#6</id>
+    <title>Life-like processes in synthetic protocells under external fields</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Willems, P Moreno, J Fojo, L Rodríguez-Arco... - Newton, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Synthetic protocells are self-assembled compartments designed to reproduce minimal features of prebiotic boundaries through bottom-up assembly. They offer a controlled platform to isolate universal physicochemical principles relevant to both ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cell.com/newton/fulltext/S2950-6360(26)00046-0"/>
+    <published>2026-03-19T20:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#5</id>
+    <title>Unlocking the possible role of rhodochrosite for the geo-electrosynthesis of ammonia and urea in early ocean</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Ma, L Zhao, B Mao, J Bai, C Ren, W Zhang, C Hu - Nano Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... urea on early Earth is crucial for the origins of life . Herein, we propose a prebiotic molecular synthesis process involving ammonia and urea ... This finding provides an abiotic pathway for the accumulation of key nitrogenous compounds under ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciopen.com/local/article_pdf/10.26599/NR.2026.94908628.pdf"/>
+    <published>2026-03-19T20:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#4</id>
+    <title>A Formal Physical Framework for the Origin of Life : Dissipation-Driven Selection of Evolving Replicators</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Segal - arXiv preprint arXiv:2603.15230, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The emergence of life from inanimate matter presents a thermodynamic challenge: the Second Law of Thermodynamics dictates a global ... This paper presents a formal physical framework for abiogenesis grounded in the statistical physics of non-equilibrium ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.15230"/>
+    <published>2026-03-19T20:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#3</id>
+    <title>Self-oscillating coacervates: an internal chemical clock sustains membraneless protocell populations</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Sun, T Enomoto, T Yasuda, X Li, AM Akimoto...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Living systems establish temporal order in molecular processes while operating far from thermodynamic equilibrium. This temporal control is implemented by internal clocks, which are biochemical networks that set the timing of biological processes 1-3 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://europepmc.org/article/ppr/ppr1147537"/>
+    <published>2026-03-19T20:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#2</id>
+    <title>... POTENTIAL OF ACHILLEA FRAGRANTISSIMA FROM AL JAWF REGION, KSA: PHYTOCHEMICAL PROFILING, ANTIOXIDANT, ANTIMICROBIAL, AND PREBIOTIC ...</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GS ALJEDDANI - APPLIED ECOLOGY AND ENVIRONMENTAL ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigates the phytochemical composition, antioxidant, antimicrobial, and prebiotic potential of Achillea fragrantissima collected from the Al Jawf province, Kingdom of Saudi Arabia (KSA). The aerial parts were collected, dried, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.aloki.hu/pdf/2402_23632378.pdf"/>
+    <published>2026-03-19T20:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#1</id>
+    <title>Rational Selection of XyGH74 over XyGH5 in Paenibacillus sp. XP01 for High-Yield Production of Prebiotic Xyloglucan Oligosaccharides</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Meng, W Zhang, G Mo, Y Gao, L Cao, H Yang, T Zhu... - Journal of Agricultural and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (5) Recent studies have shown that tamarind XG also exhibits significant prebiotic activities, including modulation of gut microbiota, ... 7–9) and demonstrated their significant prebiotic potential in modulating gut microbiota and stimulating short-chain ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/doi/abs/10.1021/acs.jafc.5c16182"/>
+    <published>2026-03-19T20:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ebd43f7e#0</id>
+    <title>Production of Xylooligosaccharides (XOSs) with Anti-inflammatory and Prebiotic Activities Using Recombinant Endo-1, 4-β-xylanases from Bacillus subtilis</title>
+    <updated>2026-03-19T20:03:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NC Cuong, D Haltrich, A Boontawan, M Yamabhai - Journal of Agricultural and Food ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The enzymatic production of xylooligosaccharides (XOSs) from xylan-rich agricultural byproducts has gained attention as a sustainable and environmentally friendly approach. In this work, two forms of recombinant Bacillus subtilis xylanases ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/doi/full/10.1021/acs.jafc.5c13633"/>
+    <published>2026-03-19T20:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ea2802ed#0</id>
+    <title>Revolutionizing Design: Optimizing HWO Architecture for Biosignature Detection from NUV to NIR Wavelengths</title>
+    <updated>2026-03-20T06:27:51+00:00</updated>
+    <author>
+      <name>Renyu Hu</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Morgan, M Turmon, M Damiano, D Savransky... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Habitable Worlds Observatory (HWO) aims to detect biosignatures from Earth-size exoplanets in the habitable zones of nearby stars. The wavelength range and spectra quality are critical drivers for HWO architecture designs and science ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24725206M/abstract"/>
+    <published>2026-03-20T06:27:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ea280235#0</id>
+    <title>Patterns of Language and Visuospatial Lateralisation in Three-Year-Old Children</title>
+    <updated>2026-03-20T06:27:52+00:00</updated>
     <author>
       <name>Simon E. Fisher</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JS Amelink, C Ramoser, S Soheili-Nezhad, D Schijven... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The uniquely human capacity for language is supported by a distributed brain network with cerebral cortical hubs in the left inferior frontal gyrus (LIFG) and left superior temporal sulcus (LSTS). Individual differences in the graded spatial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Simon E. Fisher (author alert)</content>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.03.12.711274.full.pdf"/>
-    <published>2026-03-18T22:01:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JE Quin-Conroy, DM Bayliss, SJ Bovell, D Eamer... - Neuropsychologia, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Little is known about how or when language and visuospatial processing lateralise in the brain, and if individual differences in lateralisation are related to early language or visuospatial abilities. We explored if patterns of language and visuospatial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Simon E. Fisher (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0028393226000801"/>
+    <published>2026-03-20T06:27:52+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76eb40a1f5#2</id>
-    <title>The Rise of Null Hypothesis Significance Testing (NHST): Institutional Massification and the Emergence of a Procedural Epistemology</title>
-    <updated>2026-03-19T03:47:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ea2801c0#1</id>
+    <title>From Clouds to Chemistry: Harmonic Diagnostics of Substellar Atmospheric Variability</title>
+    <updated>2026-03-20T06:27:53+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Björn Benneke</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Ting -arXivpreprintarXiv:2603.14757, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Drawing on work in the history of statistics and writings by statisticians, this paper examines the emergence and subsequent dominance of NHST. This perspective makes it possible to consider how its rise may be connected to what Gigerenzer et al ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.14757"/>
-    <published>2026-03-19T03:47:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Cocchini, M Plummer, P Kearns, A McCarthy... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Young planetary-mass objects and brown dwarfs near the L/T spectral transition exhibit enhanced spectrophotometric variability over field brown dwarfs. Patchy clouds, auroral processes, stratospheric hot spots, and complex carbon chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24732901C/abstract"/>
+    <published>2026-03-20T06:27:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76eb40a1f5#1</id>
-    <title>Directionality emergence and localization in a quantum random Lorentz gas</title>
-    <updated>2026-03-19T03:47:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ea2801c0#0</id>
+    <title>Confirmation of the hot super-Neptune TOI-672 b with NIRPS and HARPS and Insights into the Neptunian desert around M dwarfs</title>
+    <updated>2026-03-20T06:27:53+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Björn Benneke</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Lorent, JM Sparenberg, D Gaspard -arXivpreprintarXiv:2603.12432, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The propagation of a spherical wave through a two-dimensional random Lorentz gas composed of small fixed scatterers is studied. Inspired by the Mott problem (how an initially isotropic quantum wave can give rise to a single particle-like track), we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.12432"/>
-    <published>2026-03-19T03:47:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Osborn, R Cloutier, V Bourrier, B Skinner, N Gromek... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Neptunian desert is a distinct lack of Neptune-sized planets at short orbital periods, purportedly carved by photoevaporation and tidal circularization following high-eccentricity migration. Constraining these processes and how they vary across ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://arxiv.org/abs/2603.12345"/>
+    <published>2026-03-20T06:27:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76eb40a1f5#0</id>
-    <title>Metric Rarity and the Emergence of Symmetry in G-Invariant Potential Surfaces</title>
-    <updated>2026-03-19T03:47:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ea280142#0</id>
+    <title>What You Prompt is What You Get: Increasing Transparency of Prompting Using Prompt Cards</title>
+    <updated>2026-03-20T06:27:54+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>David Sumpter</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Schneider -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Let X be an irreducible complex affine algebraic variety defined over $\mathbb {R} $, equipped with a faithful action of a finite group G, and let Y= X//G denote the categorical quotient with projection $ π $. We study the geometry of the real image ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260300011S/abstract"/>
-    <published>2026-03-19T03:47:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AM Caut, B Zenebe, A Rouillard, DJT Sumpter - arXiv preprint arXiv:2603.12741, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The rapid advancement and impressive capabilities of large language models (LLMs) have given rise to the field of prompt engineering, the practice of crafting inputs to guide LLMs toward high-quality, task-relevant outputs. A critical challenge ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Sumpter (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.12741"/>
+    <published>2026-03-20T06:27:54+00:00</published>
   </entry>
 </feed>
