@@ -2,195 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-24T07:04:42.458855+00:00</updated>
+  <updated>2026-03-24T14:50:19.796626+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e84b51ca#2</id>
-    <title>Scale-Dependent Emergence of Hindered Diffusion in the Brain Extracellular Space</title>
-    <updated>2026-03-23T15:38:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e8c9ecbc#0</id>
+    <title>TOI-4552 b: A new ultra-short period rocky world revealed by NIRPS and TESS</title>
+    <updated>2026-03-24T08:47:32+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Elsa Ducrot</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Gresil, I Calaresu, FL Sebastian, B Flavel, J Zaumseil... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Diffusion in living tissues governs essential physiological processes and is well studied within cells. Yet how extracellular molecular motion emerges from the structural complexity of tissues remains unresolved. In the brain, molecules move ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.18936"/>
-    <published>2026-03-23T15:38:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Srivastava, R Doyon, F Bouchy, É Artigau, C Cadieux... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A particularly intriguing subclass of rocky exoplanets are the ultra-short period (USP) worlds that orbit their host stars in less than a day. These planets are particularly rare around M dwarf stars, with so far only ten that have a constrained mass and radius ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.18233"/>
+    <published>2026-03-24T08:47:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e84b51ca#1</id>
-    <title>Comments on the Emergence of 4D Topological Amplitudes in M-Theory</title>
-    <updated>2026-03-23T15:38:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e8c9ebc4#0</id>
+    <title>The atmosphere of the temperate exo-Saturn TOI-199b with JWST</title>
+    <updated>2026-03-24T08:47:33+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Renyu Hu</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Artime, R Blumenhagen, A Gligovic, P Leivadaros -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The M-theoretic Emergence Proposal claims that all of the terms in the low-energy action arise from quantum effects. After reviewing the current status of this proposal, we focus on four-dimensional compactifications with $N=2$ supersymmetry, where ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.18681"/>
-    <published>2026-03-23T15:38:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Bello-Arufe, R Hu, M Zilinskas, J Yang, A Tokadjian... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Temperate gas giants represent an unexplored frontier in exoplanet atmospheric characterization. Orbiting a G-type star every~ 100 days, the Saturn-mass exoplanet TOI-199 b is one of the most favorable low-temperature gas giants for atmospheric ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24713404B/abstract"/>
+    <published>2026-03-24T08:47:33+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e84b51ca#0</id>
-    <title>Emergence of Phase Transitions in Complex Contagions</title>
-    <updated>2026-03-23T15:38:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e8c9ea77#0</id>
+    <title>1Scientific Data|(2022) 9: 102| https://doi. org/10.1038/s41597-022-01210-y www. nature. com/scientificdata Open access dataset of task-free hemodynamic activity in ...</title>
+    <updated>2026-03-24T08:47:35+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Manuel Carreiras</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Sharma, A Singh -arXivpreprintarXiv:2603.18380, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Moreover, the emergence of virality through phase transitions and tipping points remains poorly ... arXivLabs is a framework that allows collaborators to develop and share new arXiv features ... arXiv is committed to these values and only works with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/abs/2603.18380"/>
-    <published>2026-03-23T15:38:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Blanco, M Molnar, M Carreiras, C Caballero-Gaudes&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1Scientific Data | (2022) 9:102 | https://doi.org/10.1038/s41597-022-01210-y www.nature.com/scientificdata Open access dataset of task-free hemodynamic activity in 4-month- old infants during sleep using fNIRS Borja Blanco 1,2 ✉, Monika Molnar3, Manuel Carreiras1 &amp; ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
+    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/21141798-9b9e-45d2-ac4f-f0a1eb8afd22/content"/>
+    <published>2026-03-24T08:47:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#9</id>
-    <title>Targeted Regulation of Adipose Tissue Macrophages from an Immunometabolic Perspective: A Novel Therapeutic Approach for Obesity-Related Metabolic Disorders</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e8c9e9d1#0</id>
+    <title>TOI-4552 b: A new ultra-short period rocky world revealed by NIRPS and TESS</title>
+    <updated>2026-03-24T08:47:37+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Björn Benneke</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Jia, X Li, E Wu, C Zhu, Y Cheng, F Zhao, H LI - Frontiers in Immunology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The global prevalence of obesity and its associated metabolic syndromes, characterized by chronic inflammation and metabolic disorders, poses a major health threat worldwide. This makes it urgent to gain a deeper understanding of its ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1803488/full"/>
-    <published>2026-03-24T01:01:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Srivastava, R Doyon, F Bouchy, É Artigau, C Cadieux... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A particularly intriguing subclass of rocky exoplanets are the ultra-short period (USP) worlds that orbit their host stars in less than a day. These planets are particularly rare around M dwarf stars, with so far only ten that have a constrained mass and radius ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.18233"/>
+    <published>2026-03-24T08:47:37+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#8</id>
-    <title>Microbiota-targeted interventions in Autism Spectrum Disorder: A Scoping Review</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e8c9e874#0</id>
+    <title>Using Machine Learning to Identify Brown Dwarfs in Deep JWST Surveys</title>
+    <updated>2026-03-24T08:47:39+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Arturi, M Tesseri, M Stellato, AS De Frenza, C Leone... - Global Pediatrics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background The gut–microbiota–brain axis has emerged as a promising target for personalized interventions in Autism Spectrum Disorder (ASD) through supplementation with probiotics, postbiotics, prebiotics, and synbiotics. However ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2667009726000138"/>
-    <published>2026-03-24T01:01:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Haynes, E Pritchard, M Loritsch, E Softich... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The James Webb Space Telescope (JWST) has dramatically enhanced our ability to observe faint sources in deep-field surveys, revealing a distant and ancient population of brown dwarfs likely originating from the Milky Way's metal poor thick ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24744361H/abstract"/>
+    <published>2026-03-24T08:47:39+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#7</id>
-    <title>Puppy Gut Health: Building a Strong Microbiome from Day One</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e8c9e7cc#0</id>
+    <title>What is quantum biology?</title>
+    <updated>2026-03-24T08:47:40+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Graham Fleming</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Bites, CDB Plant-Based&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Practical steps for transitioning food safely, introducing prebiotic and probiotic support, and recognising early signs of gut disruption in puppies are covered throughout. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.bonza.dog/2026/03/puppy-gut-health-microbiome-guide/"/>
-    <published>2026-03-24T01:01:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Scholes, GR Fleming - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum biology is the field at the intersection of quantum-related physics and the biology of living systems. The goal of the field is to determine if quantum phenomena underpin biological function at the macroscale. Such results, supported by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Graham Fleming (author alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2531134123"/>
+    <published>2026-03-24T08:47:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#6</id>
-    <title>The Formose Reaction with SO2: A Computational Study</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e8c9e672#0</id>
+    <title>What is quantum biology?</title>
+    <updated>2026-03-24T08:47:42+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Gregory Scholes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EM Sisson, J Kua - Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... As a prebiotic analog to phosphate, we find that bisulfite slightly stabilizes ribose over its C 5 aldose diastereomers thermodynamically, ... The formose reaction is frequently invoked when discussing the chemical origins of life . It is a potentially ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2075-1729/16/3/513"/>
-    <published>2026-03-24T01:01:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Scholes, GR Fleming - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum biology is the field at the intersection of quantum-related physics and the biology of living systems. The goal of the field is to determine if quantum phenomena underpin biological function at the macroscale. Such results, supported by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2531134123"/>
+    <published>2026-03-24T08:47:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#5</id>
-    <title>A Forensic Audit of Biological Information: A Layered Evaluation of Observation, Mechanism, and Historical Inference in Three Biological Systems</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e8cefe7e#0</id>
+    <title>Photoreceptor control of Platynereis growth and lifespan via evolutionarily conserved molecular pathways</title>
+    <updated>2026-03-24T09:07:32+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Kristin Tessmar-Raible</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mason&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... For RNA world and origin-of-code accounts, confidence would rise with more continuous pathways linking plausible prebiotic substrates to stable replicators, catalytic improvement, and sequence-dependent functional output under less ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/402786075_A_Forensic_Audit_of_Biological_Information_A_Layered_Evaluation_of_Observation_Mechanism_and_Historical_Inference_in_Three_Biological_Systems/links/69bbee01f5cc681fca614d63/A-Forensic-Audit-of-Biological-Information-A-Layered-Evaluation-of-Observation-Mechanism-and-Historical-Inference-in-Three-Biological-Systems.pdf"/>
-    <published>2026-03-24T01:01:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#4</id>
-    <title>Copper-rich deep-sea hydrothermal vent minerals facilitate hydrogen cyanide formation from glycine</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Nakamura, Z Yang, Y Li, Y Lu, A Yamaguchi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... for 92 the origin of life scenarios in the deep sea15,16. This " metabolism - first " scenario in the HV 93 hypothesis for the origin of life contrasts ... The lack of cyanide-dependent prebiotic chemistry in HV environments arises from two 97 fundamental constraints ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-8994779/latest.pdf"/>
-    <published>2026-03-24T01:01:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#3</id>
-    <title>Proton Irradiation of Primitive Atmospheres of Young Exoplanets and early Earth: $ N_ {\mathrm {2}} O $ Greenhouse Warming and Prebiotic Synthesis</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Kobayashi, VS Airapetian, T Udo, S Mouri... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The emergence of habitable conditions on the early Earth and on rocky exoplanets requires persistent energy sources that can drive both prebiotic chemistry and climate warming under magnetically active young G to M stars. To quantify the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.18206"/>
-    <published>2026-03-24T01:01:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#2</id>
-    <title>Cellobiose as a candidate prebiotic : Enhanced butyrate production in an in vitro human gut fermentation model</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Huang, PPJ Jackson, A Chatzifragkou, RA Rastall - Journal of Applied ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Abstract 24 Aims: While the prebiotic ... prebiotic potential by selectively 44 promoting the growth of beneficial bacteria. This work identifies cellobiose as a promising 45 candidate for future in vivo studies, providing the foundational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://academic.oup.com/jambio/advance-article-pdf/doi/10.1093/jambio/lxag075/67434101/lxag075.pdf"/>
-    <published>2026-03-24T01:01:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#1</id>
-    <title>Atmospheric supply of HCN is not the rate limiting step for prebiotic chemistry across rocky exoplanets</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Friss, PI Palmer, M Braam, K Rice - arXiv preprint arXiv:2603.18769, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of fragile prebiotic chemistry in such a hostile environment. WLPs need to undergo cycles of evaporation and rehydration, concentrating prebiotic ... is likely not the rate limiting step for the emergence of prebiotic chemistry on rocky ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.18769"/>
-    <published>2026-03-24T01:01:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fc00#0</id>
-    <title>Prebiotic effects of Indonesian black cincau non-starch polysaccharide on gut microbiota and microbial metabolite profiles in older adults using an in vitro fecal ...</title>
-    <updated>2026-03-24T01:01:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Seah, S Siripongvutikorn, S Wichienchot... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The prebiotic -related effects of Indonesian black cincau (Mesona Blume) non-starch polysaccharide (NSPs) and its derived products (extract, EXT; commercial product, CP; and prototype product, PP) were evaluated in comparison with inulin (INU) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226004888"/>
-    <published>2026-03-24T01:01:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fbb0#3</id>
-    <title>Observational Insights into White Dwarf Planetary Systems Laura Kathryn Rogers Institute of Astronomy University of Cambridge</title>
-    <updated>2026-03-24T01:01:27+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LK Rogers&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... successes of these two detection methods delivering the first exoplanet discoveries, more ... With the number of exoplanet discoveries increasing everyday, the research focus has shifted ... technique provides an estimate for the average ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/613c5efd-c5d8-49cd-9c1d-ec7051ab3979/content"/>
-    <published>2026-03-24T01:01:27+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fbb0#2</id>
-    <title>Revealing the Nature of Exoplanetary Atmospheres Ryan John MacDonald Supervisor: Dr Nikku Madhusudhan Institute of Astronomy</title>
-    <updated>2026-03-24T01:01:27+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Boffin, S Gandhi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... these molecules and atoms, as required to infer exoplanet formation mechanisms, has ... of giant exoplanets, new insights into exoplanet atmospheres have been obtained. I ... hot Jupiters persisted, all doubt was lifted when a known radial velocity exoplanet , ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/529aff53-1caa-4e27-9346-7138ac5f6345/content"/>
-    <published>2026-03-24T01:01:27+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fbb0#1</id>
-    <title>Reflected-Light Spectra of Venus and Mars in Preparation for the Habitable Worlds Observatory</title>
-    <updated>2026-03-24T01:01:27+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Lopez, N Wogan, J Fortney - American Astronomical Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the spectral biosignatures HWO might attempt to detect on an Earth-twin exoplanet , should one ... To remedy this, we compute the reflected light spectra of Venus and Mars from 0.2 to 2.0 ... Utilizing this database, we generate synthetic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24726705L/abstract"/>
-    <published>2026-03-24T01:01:27+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e881fbb0#0</id>
-    <title>Organosulfur Chemistry on sub-Neptunes: Implications for hazes and biosignatures</title>
-    <updated>2026-03-24T01:01:27+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Jordan, SM Tsai, PB Rimmer, O Shorttle - arXiv preprint arXiv:2603.18923, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... biosignature gases dimethylsulfide (DMS) and dimethlydisulfide (DMDS) have recently been claimed to be present in the atmosphere of sub - Neptune exoplanet K2 - 18b , leading to the suggestion of possible extraterrestrial life ... and DMDS as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.18923"/>
-    <published>2026-03-24T01:01:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Andreatta, F Scaramuzza, A Ćorić, L Orel, AM Mat... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Natural light is severely affected by human impact on Earth, yet little is known about the roles light receptors have outside vision and rhythmic processes, despite their tremendously wide abundance. Here we show that loss-of-function of the light ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Kristin Tessmar-Raible (author alert)</content>
+    <link href="https://www.pnas.org/doi/pdf/10.1073/pnas.2514719123"/>
+    <published>2026-03-24T09:07:32+00:00</published>
   </entry>
 </feed>
