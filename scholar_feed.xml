@@ -2,19 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-25T07:02:53.069047+00:00</updated>
+  <updated>2026-03-25T14:51:57.944750+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ef478bda#0</id>
-    <title>Circular transformation of the European steel industry renders scrap metal a strategic resource</title>
-    <updated>2026-03-24T23:54:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903f4e#0</id>
+    <title>The Breaking Point of Atmospheric Inference—Lessons from K2-18 b</title>
+    <updated>2026-03-25T10:31:55+00:00</updated>
     <author>
-      <name>Stefan Thurner</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Lee, M Hess, M Gerschberger, S Thurner, J Stangl... - Resources, Conservation &amp; ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The steel industry accounts for 7% of global carbon dioxide emissions. The European Union aims to reduce these emissions by replacing basic oxygen furnaces with electric arc furnaces (EAFs). This transition requires stable access to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S266737892600012X"/>
-    <published>2026-03-24T23:54:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Welbanks, M Nixon, P McGill, S Mukherjee - American Astronomical Society ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The sub - Neptune K2-18 b has become a watershed moment for exoplanet atmospheric science. Despite an unprecedented JWST dataset ... K2-18 b reminds us that progress in exoplanet characterization and the search for life will depend as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24715209W/abstract"/>
+    <published>2026-03-25T10:31:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#9</id>
+    <title>Fabrication of Glycosylated Soy Protein Isolate Loaded Tea Polyphenol Nanoparticle: Structure, Stability and Gut Microbiota Composition</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Yang, M Luo, S Qiu, S Lei, CY Xie - Food Biophysics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... for improving the stability, bioavailability, and prebiotic potential of TP, providing a novel ... and bioavailability of TP but also enhancing its prebiotic -like efficacy in modulating gut microbiota ... -polyphenol delivery systems and targeted prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s11483-026-10125-9"/>
+    <published>2026-03-25T10:31:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#8</id>
+    <title>Citation: Guo, X.; Su, M. The Origin of Translation: Bridging the Nucleotides and Peptides. Int. J. Mol. Sci. 2023, 24, 197. https://doi. org</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Guo, M Su&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... translation emerged in the prebiotic context, we start with the structure and dissection of tRNA, ... scription, are more intuitive and practicable in prebiotic settings compared to RNA-coded ... origin of life and satisfies our curiosity about ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/bd3dd25d-f87c-4c9d-b80f-9c7cf7a3581a/content"/>
+    <published>2026-03-25T10:31:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#7</id>
+    <title>Citation: Root-Bernstein, R.; Baker, AG; Rhinesmith, T.; Turke, M.; Huber, J.; Brown, AW "Sea Water" Supplemented with Calcium Phosphate and Magnesium Sulfate ...</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Sugars, NA Bases, A Vázquez-Salazar&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to the production of a diverse set of prebiotic molecules in a "one pot" synthesis. ... the production of a diverse set of prebiotic molecules in a "one pot" synthesis. ... "R actant comp unds", from which many more complex prebiotic molecules can b synthe- ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/e6929f3d-3650-4373-8ce0-d6f4c8598187/content"/>
+    <published>2026-03-25T10:31:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#6</id>
+    <title>Science and Simulations for space-based far-infrared double Fourier interferometry</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Spencer, C Benson, M Bonato, C Bracken... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Topics include: the origin of the universe, the requisite conditions for star and planet formation, and, ultimately, the conditions for the emergence of life . Over half of the energy emitted by the Universe appears in the relatively unexplored Far-IR ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24744351S/abstract"/>
+    <published>2026-03-25T10:31:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#5</id>
+    <title>Metabolomic profiling of sweet potato snacks enriched with agave fructans: Effects of vacuum impregnation on in vitro gut-associated metabolites</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FM Murillo-Nungaray, AC Durán-Castañeda... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; White-fleshed sweet potato 'blanco cubano' is an underutilized crop with promising nutritional and functional properties. Enhancement through vacuum impregnation (VI) with agave fructans may improve its prebiotic potential and influence gut microbiota ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926006769"/>
+    <published>2026-03-25T10:31:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#4</id>
+    <title>Who created god</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KK Verma&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Abstract: This paper presents a speculative philosophical– cosmological hypothesis regarding the origin of the universe, the emergence of life , the historical formation of the concept of God, and the possible continuity of life across planetary ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/132120139/Who_created_god....pdf"/>
+    <published>2026-03-25T10:31:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#3</id>
+    <title>PLGA-based nanoencapsulation of prebiotics in food supplements to unlock their full potential for gut health</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Fayed - Discover Food, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review provides an updated overview of recent advances in prebiotic PLGA nanoencapsulation. These systems improve prebiotic ... This review highlights nanoencapsulation as a transformative approach for developing next-generation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s44187-026-00894-0"/>
+    <published>2026-03-25T10:31:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#2</id>
+    <title>Toward a systems view of life's origins: Modeling the emergence of complexity across chemical, informational and ecological levels</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Alejandre, M Fernández-Ruz, R Guantes, J Aguirre - Current Opinion in Systems ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how life emerged from non-living matter remains one of the most profound challenges in science. Empirical constraints and the scarcity of ancient evidence make this question particularly suitable for theoretical and computational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S245231002600017X"/>
+    <published>2026-03-25T10:31:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#1</id>
+    <title>Sugarcane bagasse derived bacterial nanocellulose as a sustainable multifunctional Pickering stabilizer with prebiotic , antihypertensive, and antidiabetic activities for ...</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DM Rodrigues, AGSA Rissato, MF da Silva... - Bioresource Technology ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study explores the sustainable production of bacterial nanocellulose (BNC) from sugarcane bagasse and its application as a natural Pickering stabilizer with functional potential for the food industry. BNC membranes were synthesized by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2589014X26001532"/>
+    <published>2026-03-25T10:31:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76ef903e99#0</id>
+    <title>Carbohydrate-Rich Extract from Pereskia aculeata Leaves: In Vitro Prebiotic -Related Properties and Metabolic Effects in an Experimental Model of Obesity</title>
+    <updated>2026-03-25T10:31:56+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ME de Bessa, VT Andrade, GM Guimarães... - Plant Foods for Human ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... comparable to those of inulin, which was used as a reference prebiotic in this study [18, 27]. ... The fermentation of prebiotic carbohydrates by lactic acid bacteria produces metabolites, ... , and improved insulin sensitivity associated with prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s11130-026-01486-0"/>
+    <published>2026-03-25T10:31:56+00:00</published>
   </entry>
 </feed>
