@@ -2,96 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-24T14:50:19.796626+00:00</updated>
+  <updated>2026-03-25T07:02:53.069047+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e8c9ecbc#0</id>
-    <title>TOI-4552 b: A new ultra-short period rocky world revealed by NIRPS and TESS</title>
-    <updated>2026-03-24T08:47:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ef478bda#0</id>
+    <title>Circular transformation of the European steel industry renders scrap metal a strategic resource</title>
+    <updated>2026-03-24T23:54:08+00:00</updated>
     <author>
-      <name>Elsa Ducrot</name>
+      <name>Stefan Thurner</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Srivastava, R Doyon, F Bouchy, É Artigau, C Cadieux... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A particularly intriguing subclass of rocky exoplanets are the ultra-short period (USP) worlds that orbit their host stars in less than a day. These planets are particularly rare around M dwarf stars, with so far only ten that have a constrained mass and radius ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.18233"/>
-    <published>2026-03-24T08:47:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e8c9ebc4#0</id>
-    <title>The atmosphere of the temperate exo-Saturn TOI-199b with JWST</title>
-    <updated>2026-03-24T08:47:33+00:00</updated>
-    <author>
-      <name>Renyu Hu</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Bello-Arufe, R Hu, M Zilinskas, J Yang, A Tokadjian... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Temperate gas giants represent an unexplored frontier in exoplanet atmospheric characterization. Orbiting a G-type star every~ 100 days, the Saturn-mass exoplanet TOI-199 b is one of the most favorable low-temperature gas giants for atmospheric ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24713404B/abstract"/>
-    <published>2026-03-24T08:47:33+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e8c9ea77#0</id>
-    <title>1Scientific Data|(2022) 9: 102| https://doi. org/10.1038/s41597-022-01210-y www. nature. com/scientificdata Open access dataset of task-free hemodynamic activity in ...</title>
-    <updated>2026-03-24T08:47:35+00:00</updated>
-    <author>
-      <name>Manuel Carreiras</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Blanco, M Molnar, M Carreiras, C Caballero-Gaudes&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1Scientific Data | (2022) 9:102 | https://doi.org/10.1038/s41597-022-01210-y www.nature.com/scientificdata Open access dataset of task-free hemodynamic activity in 4-month- old infants during sleep using fNIRS Borja Blanco 1,2 ✉, Monika Molnar3, Manuel Carreiras1 &amp; ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/21141798-9b9e-45d2-ac4f-f0a1eb8afd22/content"/>
-    <published>2026-03-24T08:47:35+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e8c9e9d1#0</id>
-    <title>TOI-4552 b: A new ultra-short period rocky world revealed by NIRPS and TESS</title>
-    <updated>2026-03-24T08:47:37+00:00</updated>
-    <author>
-      <name>Björn Benneke</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Srivastava, R Doyon, F Bouchy, É Artigau, C Cadieux... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A particularly intriguing subclass of rocky exoplanets are the ultra-short period (USP) worlds that orbit their host stars in less than a day. These planets are particularly rare around M dwarf stars, with so far only ten that have a constrained mass and radius ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.18233"/>
-    <published>2026-03-24T08:47:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e8c9e874#0</id>
-    <title>Using Machine Learning to Identify Brown Dwarfs in Deep JWST Surveys</title>
-    <updated>2026-03-24T08:47:39+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Haynes, E Pritchard, M Loritsch, E Softich... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The James Webb Space Telescope (JWST) has dramatically enhanced our ability to observe faint sources in deep-field surveys, revealing a distant and ancient population of brown dwarfs likely originating from the Milky Way's metal poor thick ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24744361H/abstract"/>
-    <published>2026-03-24T08:47:39+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e8c9e7cc#0</id>
-    <title>What is quantum biology?</title>
-    <updated>2026-03-24T08:47:40+00:00</updated>
-    <author>
-      <name>Graham Fleming</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Scholes, GR Fleming - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum biology is the field at the intersection of quantum-related physics and the biology of living systems. The goal of the field is to determine if quantum phenomena underpin biological function at the macroscale. Such results, supported by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Graham Fleming (author alert)</content>
-    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2531134123"/>
-    <published>2026-03-24T08:47:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e8c9e672#0</id>
-    <title>What is quantum biology?</title>
-    <updated>2026-03-24T08:47:42+00:00</updated>
-    <author>
-      <name>Gregory Scholes</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Scholes, GR Fleming - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum biology is the field at the intersection of quantum-related physics and the biology of living systems. The goal of the field is to determine if quantum phenomena underpin biological function at the macroscale. Such results, supported by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2531134123"/>
-    <published>2026-03-24T08:47:42+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e8cefe7e#0</id>
-    <title>Photoreceptor control of Platynereis growth and lifespan via evolutionarily conserved molecular pathways</title>
-    <updated>2026-03-24T09:07:32+00:00</updated>
-    <author>
-      <name>Kristin Tessmar-Raible</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Andreatta, F Scaramuzza, A Ćorić, L Orel, AM Mat... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Natural light is severely affected by human impact on Earth, yet little is known about the roles light receptors have outside vision and rhythmic processes, despite their tremendously wide abundance. Here we show that loss-of-function of the light ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Kristin Tessmar-Raible (author alert)</content>
-    <link href="https://www.pnas.org/doi/pdf/10.1073/pnas.2514719123"/>
-    <published>2026-03-24T09:07:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Lee, M Hess, M Gerschberger, S Thurner, J Stangl... - Resources, Conservation &amp; ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The steel industry accounts for 7% of global carbon dioxide emissions. The European Union aims to reduce these emissions by replacing basic oxygen furnaces with electric arc furnaces (EAFs). This transition requires stable access to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S266737892600012X"/>
+    <published>2026-03-24T23:54:08+00:00</published>
   </entry>
 </feed>
