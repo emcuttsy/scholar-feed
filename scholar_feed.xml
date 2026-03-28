@@ -2,151 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-27T14:42:29.274644+00:00</updated>
+  <updated>2026-03-28T06:59:39.117329+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de9b4#0</id>
-    <title>Legged Autonomous Surface Science In Analogue Environments (LASSIE): Making Every Robotic Step Count in Planetary Exploration</title>
-    <updated>2026-03-27T09:50:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76edb08967#1</id>
+    <title>Emergence of correlation-driven altermagnetism in Hubbard model on geometrically frustrated square lattice</title>
+    <updated>2026-03-28T05:12:29+00:00</updated>
     <author>
-      <name>Douglas Jerolmack</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CG Wilson, M Nachon, S Liu, JG Ruck, J Caporale... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The ability to efficiently and effectively explore planetary surfaces is currently limited by the capability of wheeled rovers to traverse challenging terrains, and by pre- programmed data acquisition plans with limited in-situ flexibility. In this paper, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Douglas Jerolmack (author alert)</content>
-    <link href="https://arxiv.org/abs/2603.19661"/>
-    <published>2026-03-27T09:50:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Fahad Equbal, MAH Ahsan -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate the emergence of altermagnetism--a collinear magnetic phase characterized by large non-relativistic spin splitting and zero net magnetization--driven by electronic correlations on 3x3 geometrically frustrated square lattice. Using exact ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260300536F/abstract"/>
+    <published>2026-03-28T05:12:29+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de8ac#0</id>
-    <title>Bioleaching of critical trace metals by Sphingomonas desiccabilis: substrate-driven selectivity in Earth and space analogues</title>
-    <updated>2026-03-27T09:50:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76edb08967#0</id>
+    <title>Cotunneling theory and multiplet excitations: emergence of asymmetric line shape in inelastic scanning tunneling spectroscopy of correlated molecules on surfaces</title>
+    <updated>2026-03-28T05:12:29+00:00</updated>
     <author>
-      <name>Charles Cockell</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Tonietti, M Esposito, M Leggiero, F Bunn, LJ Eades... - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biotechnological advances are transforming the potential for sustainable resource utilization in space exploration. Biomining, using microorganisms to extract valuable metals, has emerged as a viable strategy for in situ resource utilization (ISRU) in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
-    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1741305/full"/>
-    <published>2026-03-27T09:50:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de872#0</id>
-    <title>Three outstanding physical questions for K2-18 b and other temperate sub-Neptunes</title>
-    <updated>2026-03-27T09:50:43+00:00</updated>
-    <author>
-      <name>Jacob Lustig-Yaeger</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SM Tsai, P Ferrari, M Kuipers, J Lustig-Yaeger... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent transmission spectra of the temperate sub-Neptune K2-18 b obtained with JWST have attracted significant attention. Debates have quickly arisen over the interpretation of the spectral data, particularly the recent MIRI observation where ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://arxiv.org/abs/2603.19803"/>
-    <published>2026-03-27T09:50:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de79a#0</id>
-    <title>POT1 mutations predispose to familial melanoma</title>
-    <updated>2026-03-27T09:50:45+00:00</updated>
-    <author>
-      <name>Nick Martin</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GW Snowden, NG Martin, JZ Liu, J Choi, M Makowski...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; POT1 mutations predispose to familial melanoma Carla Daniela Robles-Espinoza1‡, Mark Harland2‡, Andrew J. Ramsay3‡, Lauren G. Aoude4‡, Víctor Quesada3, Zhihao Ding1, Karen A. Pooley5, Antonia L. Pritchard4, Jessamy C. Tiffen1, Mia Petljak1 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/8ec48c3c-58b1-49f2-bfdf-0ec39197db60/content"/>
-    <published>2026-03-27T09:50:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de619#0</id>
-    <title>THERMAL AND RADIATIVE PROPERTIES OF EXOPLANET ATMOSPHERES ACROSS THE MASS RANGE ANJALI AURÉLIE ALISON PIETTE UNDER THE ...</title>
-    <updated>2026-03-27T09:50:47+00:00</updated>
-    <author>
-      <name>Nikku Madhusudhan</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N MADHUSUDHAN&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; THERMAL AND RADIATIVE PROPERTIES OF EXOPLANET ATMOSPHERES ACROSS THE MASS RANGE ANJALI AURÉLIE ALISON PIETTE UNDER THE SUPERVISION OF PROF. NIKKU MADHUSUDHAN This thesis is submitted for the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/346616d6-f54a-4eda-aae8-54ced6231f08/content"/>
-    <published>2026-03-27T09:50:47+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de4f4#0</id>
-    <title>Scaling laws in empirical networks</title>
-    <updated>2026-03-27T09:50:48+00:00</updated>
-    <author>
-      <name>Aaron Clauset</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; U Dutta, A Ray, A Clauset - arXiv preprint arXiv:2603.20973, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How does the shape of a network change as its size increases? Although random graph models provide some expectations for such" scaling behaviors" in the structure of networks, relatively little is known about how empirical network structure scales ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Aaron Clauset (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.20973"/>
-    <published>2026-03-27T09:50:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de476#1</id>
-    <title>Retrieving the Red Edge on Earth-like Planets with Heterogeneous Clouds and Surfaces</title>
-    <updated>2026-03-27T09:50:49+00:00</updated>
-    <author>
-      <name>Renyu Hu</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Burr, M Damiano, V Kofman, R Hu, GL Villanueva - arXiv preprint arXiv:2603.20033, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The detection and characterization of potentially habitable exoplanets is one of the chief goals of astrophysics for the coming decades. Imaging in reflected light is well suited for characterizing Earth-like planets, as much can be learned about these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.20033"/>
-    <published>2026-03-27T09:50:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de476#0</id>
-    <title>ExoReLR: Modeling and retrieving exoplanet reflected-light and thermal-emission spectra</title>
-    <updated>2026-03-27T09:50:49+00:00</updated>
-    <author>
-      <name>Renyu Hu</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Damiano, R Hu - Astrophysics Source Code Library, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ExoReLR models exoplanet reflected-light and thermal-emission spectra using physics-based forward calculations and Bayesian retrieval for planets ranging from cold giants to sub-Neptunes and terrestrial worlds. It couples radiative transfer with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ascl.soft02013D/abstract"/>
-    <published>2026-03-27T09:50:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de32f#0</id>
-    <title>IntegriLAB: A Blockchain-Enabled Electronic Lab Notebook for Reproducible Neuroimaging Research</title>
-    <updated>2026-03-27T09:50:50+00:00</updated>
-    <author>
-      <name>Federico Turkheimer</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Easmin, M Veronese, P Allen, G Nordio... - Frontiers in Neuroinformatics&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In the era of data-intensive science, managing and verifying research processes that include raw data, analysis scripts, workflows, and documentation, remains a major challenge, particularly in complex fields like neuroimaging were multiple processing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
-    <link href="https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2026.1753937/full"/>
-    <published>2026-03-27T09:50:50+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de1b7#0</id>
-    <title>A high-coverage Neandertal genome from the Altai Mountains reveals population structure among Neandertals</title>
-    <updated>2026-03-27T09:50:52+00:00</updated>
-    <author>
-      <name>Tom Higham</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Massilani, S Peyrégne, LNM Iasi, C de Filippo... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome sequenced to~ 37-fold genomic coverage from an approximately 110,000-y-old male Neandertal from Denisova Cave in the Altai Mountains and analyze it together with previously published Neandertal genomes of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tom Higham (author alert)</content>
-    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2534576123"/>
-    <published>2026-03-27T09:50:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de14b#1</id>
-    <title>Should I Stay or Should I Go: Comparing MCMC vs. RFR For Modeling Low Temperature Brown Dwarf Spectra from JWST</title>
-    <updated>2026-03-27T09:50:53+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Softich, A Burgasser, A Lueber, J Haynes - American Astronomical Society Meeting ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brown dwarf spectra are challenging to model as their cold temperatures result in strong molecular features, complicated chemistry and even condensate clouds. Models have had to increase in complexity to match improved data, and are thus ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24726903S/abstract"/>
-    <published>2026-03-27T09:50:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de14b#0</id>
-    <title>pySpextool: A Python-Based Data Reduction Package for SpeX on the NASA IRTF</title>
-    <updated>2026-03-27T09:50:53+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Cushing, A Burgasser, K Cruz, C Theissen, CC Hsu - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present pySpextool, a python-based data reduction package for the near-infrared spectrograph SpeX on the NASA Infrared Telescope Facility. The algorithms are based on those included in the GUI-based reduction package written in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24710201C/abstract"/>
-    <published>2026-03-27T09:50:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ed2de09b#0</id>
-    <title>Mg2+ Catalyzes Nonenzymatic RNA Primer Extension through a Concerted Outer-Sphere Mechanism</title>
-    <updated>2026-03-27T09:50:54+00:00</updated>
-    <author>
-      <name>Jack W. Szostak</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Wang, C Nisler, Q Cui, L Gagliardi, JW Szostak&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The nonenzymatic replication of the primordial genetic material was an essential stage in the origin of life. One intensively studied model for this process is the template-directed extension of an RNA primer with imidazolium-bridged dinucleotide ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jack W. Szostak (author alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001132"/>
-    <published>2026-03-27T09:50:54+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Lozano, M Kumar, P Jelinek, D Soler-Polo -arXivpreprintarXiv:2603.22505, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. ... arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/abs/2603.22505"/>
+    <published>2026-03-28T05:12:29+00:00</published>
   </entry>
 </feed>
