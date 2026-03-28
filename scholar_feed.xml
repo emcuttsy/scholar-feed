@@ -2,30 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-28T06:59:39.117329+00:00</updated>
+  <updated>2026-03-28T14:21:47.386033+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76edb08967#1</id>
-    <title>Emergence of correlation-driven altermagnetism in Hubbard model on geometrically frustrated square lattice</title>
-    <updated>2026-03-28T05:12:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76edde74b0#1</id>
+    <title>TRINITY COLLEGE· UNIVERSITY OF CAMBRIDGE· DECEMBER 2016</title>
+    <updated>2026-03-28T09:28:58+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Fahad Equbal, MAH Ahsan -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate the emergence of altermagnetism--a collinear magnetic phase characterized by large non-relativistic spin splitting and zero net magnetization--driven by electronic correlations on 3x3 geometrically frustrated square lattice. Using exact ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260300536F/abstract"/>
-    <published>2026-03-28T05:12:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SW Thomas&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... moving from an era of exoplanet detection to one of characterisation. But ... to briefly review what is currently achievable in exoplanet science. ... ously absent from our solar system—except for the icy moons of Jupiter ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/5a3baacb-0cdc-4b88-8a07-c91aff010d1a/content"/>
+    <published>2026-03-28T09:28:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76edb08967#0</id>
-    <title>Cotunneling theory and multiplet excitations: emergence of asymmetric line shape in inelastic scanning tunneling spectroscopy of correlated molecules on surfaces</title>
-    <updated>2026-03-28T05:12:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76edde74b0#0</id>
+    <title>On the importance of laboratory experiments for interpreting exoplanet observations</title>
+    <updated>2026-03-28T09:28:58+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Lozano, M Kumar, P Jelinek, D Soler-Polo -arXivpreprintarXiv:2603.22505, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. ... arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/abs/2603.22505"/>
-    <published>2026-03-28T05:12:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MA Thompson - Astrophysics and Space Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... 6, we briefly discuss astrobiology laboratory experiments that are important for assessing potential exoplanet biosignatures with next-... bodies (eg, volcanoes on Io, cryovolcanic plumes on Enceladus and Europa ). Similarly, analytical methods can ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s10509-026-04564-6"/>
+    <published>2026-03-28T09:28:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#9</id>
+    <title>Mineral-facilitated aqueous synthesis of hydrogen cyanide from prebiotically abundant amino acids for chemical evolution</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Yang, Y Li, N Kitadai, M Yamamoto, Y Ueno, Y Lu... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Origin of life strongly relies on reactive carbon and nitrogen precursors, among which hydrogen cyanide (HCN) is one of the most versatile ... Here, we report aqueous phase synthesis of HCN from amino acids promoted by minerals, which ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2515805123"/>
+    <published>2026-03-28T09:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#8</id>
+    <title>NARRATIVE REVIEW: POTENSI EKSTRAK BAWANG PUTIH (Allium sativum) DALAM MENINGKATKAN PERTUMBUHAN LACTOBACILLUS DAN MENGHAMBAT ...</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Amanda, OAP Hartono, Y Atifah - Jurnal Biogenerasi, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In conclusion, Allium sativum has dual potential as an antibacterial agent and prebiotic , whose effectiveness is influenced by concentration and extraction method. Further research ... Prebiotic activity of garlic ( Allium sativum ) extract on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://e-journal.my.id/biogenerasi/article/view/8316"/>
+    <published>2026-03-28T09:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#7</id>
+    <title>Stage-specific nutritional blueprints of date fruit revealed by integrated LC–MS metabolomics and ICP–OES profiling</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Barathikannan, K Sridhar, M Rommala, SA Saleh... - npj Science of Food, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Later stages accumulated simple sugars, prebiotic oligosaccharides (stachyose), and cardioprotective polyphenols (apigenin glycosides, ... , neuroprotective compounds from Rutab, and energy-rich prebiotic foods from Tamr. Combining ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41538-026-00807-6_reference.pdf"/>
+    <published>2026-03-28T09:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#6</id>
+    <title>Publisher Correction: Ex vivo real-time monitoring of volatile metabolites resulting from nasal odorant metabolism</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JM Heydel - Scientific Reports&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... origin of life may have emerged through physical mechanisms that enable molecular organization and self-assembly. Building on Alexander Oparin's concept of coacervate droplets, liquid–liquid phase separation (LLPS) offers a plausible ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/77714059/s41598-019-44134-1.pdf"/>
+    <published>2026-03-28T09:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#5</id>
+    <title>Life as Information Preservation: A Thermodynamic Criterion for Living Systems</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DS Islam&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... abiogenesis bounds mapping catalytic strength and energy flux to threshold inequalities with concrete worked examples. The framework offers falsifiable predictions for origins - of - life ... We consider two prebiotic scenarios with parameter ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/128357171/abiogenesis.pdf"/>
+    <published>2026-03-28T09:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#4</id>
+    <title>The Consumptive Replicator Hypothesis: A Quantitative Framework for Life's Origin Through Biotic Autophagy</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MSU Khan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life represents one of science's most profound challenges, requiring explanation of how non-living ... RNA World hypothesis, metabolism - first approaches, and autocatalytic set theory— face significant limitations in explaining ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/132092798/research_origin.pdf"/>
+    <published>2026-03-28T09:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#3</id>
+    <title>Detection of Complex Molecules from MillimeterWavelength Spectra Radiating from Interstellar Medium and Planetary Objects</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Manna&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The detection of complex prebiotic molecules such as methylene imine (CH2NH), methylamine (CH3NH2), cyanamide (NH2CN), and ... avenues for understanding prebiotic chemistry in the universe. The detection of chemically related complex ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://mcc-idr.l2c2academy.co.in/xmlui/handle/123456789/870"/>
+    <published>2026-03-28T09:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#2</id>
+    <title>Origin of Life as a Physical Process: A Framework Based on Space Element and Primordial Centripetal Attraction</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ray&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life remains one of the most fundamental unsolved problems in science. Existing models, including the RNA World Hypothesis, ... In this work, a new physical framework for the origin of life is proposed, based on the concepts of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Sumeru-Ray/publication/403022802_Origin_of_Life_as_a_Physical_Process_A_Framework_Based_on_Space_Element_and_Primordial_Centripetal_Attraction/links/69bfbd1eac3812287560310f/Origin-of-Life-as-a-Physical-Process-A-Framework-Based-on-Space-Element-and-Primordial-Centripetal-Attraction.pdf"/>
+    <published>2026-03-28T09:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#1</id>
+    <title>Prebiotic Bimuno® GOS reduces illness symptoms and supports gut barrier function and immunity after intermittent exercise in the heat</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CJ Parker, SJ Abbott, LR Butterfield, KA Hunter... - Experimental Physiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Exercise in hot climates increases the risk of gastrointestinal (GI) disruption and respiratory illness. We investigated the effects of a 42 day prebiotic intervention on markers of intestinal epithelial injury, GI discomfort and immunity following football ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://physoc.onlinelibrary.wiley.com/doi/pdf/10.1113/EP092682"/>
+    <published>2026-03-28T09:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76edde7198#0</id>
+    <title>The impact of prebiotic supplementation in a triple-hit rat model of schizophrenia</title>
+    <updated>2026-03-28T09:29:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SB Plesz, KF Szűcs, B Ágg, N Makra, B Ligeti... - Neuropharmacology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Schizophrenia is associated with cognitive deficits and higher stress sensitivity, potentially related to gut-brain axis disturbances, partially due to dysbiosis. To ascertain this phenomenon, we aimed to evaluate these behavioral phenotypes in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S002839082600119X"/>
+    <published>2026-03-28T09:29:03+00:00</published>
   </entry>
 </feed>
