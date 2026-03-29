@@ -2,96 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-29T07:04:01.118622+00:00</updated>
+  <updated>2026-03-29T14:23:56.454050+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec397315#0</id>
-    <title>Ecological modelling of hycean worlds</title>
-    <updated>2026-03-29T01:21:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ec44fe8c#0</id>
+    <title>Emergence of the Partial Trace from Classical Probability Theory</title>
+    <updated>2026-03-29T07:06:12+00:00</updated>
     <author>
-      <name>Nikku Madhusudhan</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GJ Cooke, N Madhusudhan, EG Mitchell - arXiv preprint arXiv:2603.22491, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; New observations are opening the possibility of characterising habitable environments in exoplanetary systems, with the recent example of the candidate hycean world K2-18 b. This motivates an exploration of the possible ecological ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://arxiv.org/abs/2603.22491"/>
-    <published>2026-03-29T01:21:39+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec3972b3#1</id>
-    <title>Abstract A061: Longitudinal multimodal profiling of IDH-wildtype glioblastoma reveals the molecular evolution and cellular phenotypes underlying prognostically ...</title>
-    <updated>2026-03-29T01:21:40+00:00</updated>
-    <author>
-      <name>Edward F Chang</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CH Lucas, N Al-Adli, J Young, R Gupta, R Morshed... - Cancer Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Despite recent advances in the biology of IDH-wildtype glioblastoma, it remains a devastating disease with median survival of less than two years. However, the molecular underpinnings of the heterogeneous response to the current standard ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://aacrjournals.org/cancerres/article/86/6_Supplement/A061/775424"/>
-    <published>2026-03-29T01:21:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec3972b3#0</id>
-    <title>Abstract A043: Genomically-tailored multi-agent precision medicine clinical trial for adults with recurrent glioblastoma</title>
-    <updated>2026-03-29T01:21:40+00:00</updated>
-    <author>
-      <name>Edward F Chang</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Solomon, E Chen, NA Oberheim Bush... - Cancer Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Existing salvage therapies for recurrent glioblastoma (rGBM) have limited efficacy, with median survival of approximately 9 months. Given the complex molecular heterogeneity of GBM, single-target approaches have consistently failed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://aacrjournals.org/cancerres/article/86/6_Supplement/A043/775369"/>
-    <published>2026-03-29T01:21:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec3972b2#0</id>
-    <title>Classification and Characterization of Thick Disk and Halo Low Mass Stars in Deep JWST Surveys</title>
-    <updated>2026-03-29T01:21:40+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Pritchard, M Loritsch, J Haynes, S Morrissey... - ... Society Meeting Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; With the launch of The James Webb Space Telescope (JWST) our ability to discover faint near infrared sources, including dim objects within our Milky Way such as very low mass stars and brown dwarfs, has greatly improved. Historically, these objects ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24726902P/abstract"/>
-    <published>2026-03-29T01:21:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec396010#0</id>
-    <title>Cross-diffusion and fast-reaction in pattern formation: a structural analysis</title>
-    <updated>2026-03-29T01:22:38+00:00</updated>
-    <author>
-      <name>Cinzia Soresina</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Brocchieri, C Soresina&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cross-diffusion systems play a central role in mathematical modelling, in which density-dependent dispersal and multiscale mechanisms can lead to spatial segregation and diffusion-driven instabilities. In several relevant examples, including ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Cinzia Soresina (author alert)</content>
-    <link href="https://hal.science/hal-05563816/document"/>
-    <published>2026-03-29T01:22:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec395fb3#2</id>
-    <title>Coronal dimmings as diagnostics of the May 2024 solar energetic events</title>
-    <updated>2026-03-29T01:22:39+00:00</updated>
-    <author>
-      <name>Astrid Veronig</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Razquin, AM Veronig, K Dissauer, G Barnes...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Coronal dimmings are regions of transiently reduced extreme ultraviolet (EUV) and soft X-ray (SXR) emission caused by plasma evacuation during the liftoff of coronal mass ejections (CMEs). As such, they serve as powerful diagnostics of CME initiation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-5329.html"/>
-    <published>2026-03-29T01:22:39+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec395fb3#1</id>
-    <title>Studying the connection between coronal dimmings and flux rope footpoints using data-driven modelling and observations</title>
-    <updated>2026-03-29T01:22:39+00:00</updated>
-    <author>
-      <name>Astrid Veronig</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Wagner, A Razquin, A Veronig, K Dissauer...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Studying the structure of solar active regions through magnetic field modelling and observations strengthens our understanding of eruptive phenomena in the solar atmosphere. AR12975 featured an interesting event, where a significant restructuring ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-5621.html"/>
-    <published>2026-03-29T01:22:39+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec395fb3#0</id>
-    <title>Tracing Magnetic Helicity from the Solar Source Region to Interplanetary Space: A Multi-Spacecraft Analysis of the March 23, 2024 ICME</title>
-    <updated>2026-03-29T01:22:39+00:00</updated>
-    <author>
-      <name>Astrid Veronig</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Moulin, J Thalmann, A Veronig, M Dumbović...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent multi-spacecraft observations show the complex structure of Interplanetary Coronal Mass Ejections (ICMEs) as they propagate through interplanetary space. These observations allow us to monitor magnetic-field-related parameters ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-6837.html"/>
-    <published>2026-03-29T01:22:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AM Ortiz, FJF Peláez, J Capmany -arXivpreprintarXiv:2603.24290, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The partial trace is commonly introduced in quantum mechanics as an algebraic operation used to define reduced states of composite systems. However, the probabilistic origin of this operation goes systematically unnoticed in the literature ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.24290"/>
+    <published>2026-03-29T07:06:12+00:00</published>
   </entry>
 </feed>
