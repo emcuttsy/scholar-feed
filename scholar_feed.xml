@@ -2,118 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-30T07:27:48.296054+00:00</updated>
+  <updated>2026-03-30T14:55:31.106220+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#9</id>
-    <title>Natural Mannose-Containing Glycans as Gut Modulators: A Mechanistic and Translational Perspective</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e311a207#0</id>
+    <title>Quantum‐Dot‐Mediated Light Field Imaging by Photocurrent Scanning Force Microscopy</title>
+    <updated>2026-03-30T13:22:04+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Joachim R Krenn</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Shang, M Wang, F Tian, G Wei, M Zhou, B Yan... - Trends in Food Science &amp; ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review summarizes recent advances concerning the sources, structural characteristics, and gut-modulating mechanisms of natural mannose-containing glycans, with a focus on their prebiotic , immunomodulatory, and barrier-protective ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0924224426001810"/>
-    <published>2026-03-29T17:53:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Küstner, A Hohenau, H Ditlbacher, JR Krenn - Nanophotonics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Light field distributions on sample surfaces are mapped by detecting the photocurrents locally induced in a monolayer of colloidal perovskite‐capped PbS quantum dots with a conductive scanning force microsope. The signal levels depend ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joachim R Krenn (author alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/nap2.70057"/>
+    <published>2026-03-30T13:22:04+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#8</id>
-    <title>Microbial Evolution and Systematics: Archaea and Bacteria</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e311a105#0</id>
+    <title>Magnetic flux systems involved in the May 2024 solar energetic events from AR 13664 inferred through coronal dimmings</title>
+    <updated>2026-03-30T13:22:06+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Astrid Veronig</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Ay - Progress in molecular and subcellular biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of life on Earth is a profound biological question, with Bacteria and Archaea-the two principal prokaryotic lineages-central to the inquiry. Together, they represent microbial diversity and offer insights into Earth's earliest biosphere and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/41882392/"/>
-    <published>2026-03-29T17:53:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Razquin, K Dissauer, AM Veronig, G Barnes - arXiv preprint arXiv:2603.23623, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Coronal dimmings are transient depletions of coronal plasma observed in extreme ultraviolet and soft X-rays, interpreted as low-corona signatures of coronal mass ejections (CMEs). Their evolution is closely linked to CME dynamics, flare ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://arxiv.org/abs/2603.23623"/>
+    <published>2026-03-30T13:22:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#7</id>
-    <title>Temporally Controlled Interconversion Between Suprasome and Supracube Structures to Regulate Catalytic Activities</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e317e253#0</id>
+    <title>Dogs were widely distributed across western Eurasia during the Palaeolithic</title>
+    <updated>2026-03-30T13:32:38+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Tom Higham</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BM Prusty, S Srimayee, D Manna - Chemistry–A European Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The development of catalytically active, compartmentalized structures that can be maintained in a metastable state is crucial for protocell -... This underscores the significance of compartmentalization in understanding the origin of life and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202503167"/>
-    <published>2026-03-29T17:53:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WA Marsh, L Scarsbrook, E Yüncü, L Hodgson, AT Lin... - Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Archaeological evidence suggests that dogs diverged from wolves during the Palaeolithic, more than 15,000 years ago,,,,,–. The earliest unequivocal genetic evidence, however, is associated with dog remains from Mesolithic archaeological ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tom Higham (author alert)</content>
+    <link href="https://www.nature.com/articles/s41586-026-10170-x"/>
+    <published>2026-03-30T13:32:38+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#6</id>
-    <title>Ensayo Alumnos en Condicion de Vulnerabilidad</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e317dff2#1</id>
+    <title>Cooperation by non-kin during birth underpins sperm whale social complexity</title>
+    <updated>2026-03-30T13:32:41+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Giovanni Petri</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IBZ Diego&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the emergence of life from chemistry is not miraculous, not lucky, and not improbable — it is thermodynamically inevitable. The proof rests on three pillars: Gibbs free energy (every step on the abiogenesis ... Every major step on the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.academia.edu/download/132143455/Ensayo_Alumnos_en_Condicion_de_Vulnerabilidad.pdf"/>
-    <published>2026-03-29T17:53:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Maalouf, J DelPreto, M Lucas, S Poetto, J Andreas... - Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We quantitatively document a sperm whale birth event, revealing collective support behaviors across kinship lines. Using high-resolution drone footage, computer vision, and multiscale network analysis, we studied the interactions within a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giovanni Petri (author alert)</content>
+    <link href="https://www.science.org/doi/pdf/10.1126/science.ady9280"/>
+    <published>2026-03-30T13:32:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#5</id>
-    <title>Impact of microbiota related foods on mental health in young adults</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e317dff2#0</id>
+    <title>Description of a collaborative sperm whale birth and shifts in coda vocal styles during key events</title>
+    <updated>2026-03-30T13:32:41+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Giovanni Petri</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Abahuni Uçar, Ç Pınarlı Falakacılar - British Food Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Therefore, this study aimed to investigate the association between probiotic and prebiotic food consumption and depression, stress, and ... and prebiotic foods influence levels of depression among university students?; (RQ2) How does the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.emerald.com/bfj/article/doi/10.1108/BFJ-09-2025-1194/1352773"/>
-    <published>2026-03-29T17:53:27+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#4</id>
-    <title>Behavior of biomolecules under high-pressure torsion and its implications for astrobiology</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Edalati - High Pressure Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... is central to astrobiology and the origin of life . Astronomical impacts uniquely combine high ... Recent HPT studies of key prebiotic molecules, like amino acids (glycine, glutamic acid and ... plastic strain as a crucial factor in prebiotic chemistry. By ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/abs/10.1080/08957959.2026.2649865"/>
-    <published>2026-03-29T17:53:27+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#3</id>
-    <title>An Atmospheric Test of Cometary Panspermia Updates</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NC WICKRAMASINGHE, F HOYLE&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Experiments currently under way could settle once and for all the beleaguered question of the existence or otherwise of microbial life on comets. A program of research planned by Indian scientists under the auspices of the Indian Space ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.panspermia.org/balloon2.htm"/>
-    <published>2026-03-29T17:53:27+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#2</id>
-    <title>ECOSYSTEM DYNAMICS OF TURBULOGENESIS: ABIOGENESIS IN THE TURBULENT PROTOATMOSPHERE</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Bisenbaev&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... could have arisen, where the conditions for abiogenesis not only briefly coincided but were also ... In addition to chemical and physical models, ecological interpretations of abiogenesis have ... substantiates a new hypothesis for the origin ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.academia.edu/download/132214219/ECOSYSTEM_DYNAMICS_OF_TURBULOGENESIS.pdf"/>
-    <published>2026-03-29T17:53:27+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#1</id>
-    <title>Prebiotic Low FODMAP Foods</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RDN Jody Garlick&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... As you can see, just because onions and garlic are limited on the low FODMAP diet, that doesn't mean you can't get your prebiotic fiber from foods. The best way to get enough prebiotic fiber in your diet is to include a large variety of low FODMAP ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.fodmapeveryday.com/our-favorite-prebiotic-low-fodmap-foods/"/>
-    <published>2026-03-29T17:53:27+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ec98ac9b#0</id>
-    <title>Influence of media composition and prebiotic -based protectants on the growth and storage stability of probiotic Lactobacillus pentosus A6</title>
-    <updated>2026-03-29T17:53:27+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Jawan, R Ahmad Basir, AA Abdul Wahid - IOP Conference Series: Earth and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Probiotic lactic acid bacteria are live microorganisms that confer health benefits when consumed in adequate viable counts; however, their strain-specific growth depends on factors such as nutrient media composition, and to ensure their stability ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://iopscience.iop.org/article/10.1088/1755-1315/1592/1/012009/pdf"/>
-    <published>2026-03-29T17:53:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Aluma, Z Baron, R Barrett, C Baumgartner, G Beguš... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Wild cetacean birth observations are extremely rare, with observations having been recorded in less than 10% of cetacean species. Here, we describe a detailed accounting of a sperm whale (Physeter macrocephalus) birth off the coast of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giovanni Petri (author alert)</content>
+    <link href="https://www.nature.com/articles/s41598-025-27438-3"/>
+    <published>2026-03-30T13:32:41+00:00</published>
   </entry>
 </feed>
