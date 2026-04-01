@@ -2,140 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-03-31T14:53:12.224910+00:00</updated>
+  <updated>2026-04-01T07:21:07.453386+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d5f9#0</id>
-    <title>Polluted White Dwarfs: Insights into Ancient Extrasolar Planetary Systems John Henry David Harrison Institute of Astronomy</title>
-    <updated>2026-03-31T08:31:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e2266051#0</id>
+    <title>90095, USA. 19. Program in Neurogenetics, Department of Neurology, University of California, Los Angeles, CA 90095, USA. 20. Center for Autism Research and ...</title>
+    <updated>2026-03-31T21:14:01+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Varun Warrier</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JHD Harrison&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... If this were the case, complex life may be present on our nearest neighbours ... entered the space age, the speculation of complex life inhabiting the surface of Venus ... of a rocky world and the composition of its layers are: the composition of the stellar ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/2cf42914-b815-48a1-b86c-8a7e2df6894a/content"/>
-    <published>2026-03-31T08:31:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Warrier, EM Stauffer, QQ Huang, EM Wigdor...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Warrier et al., Genetics of cortical organisation and development The genetics of cortical organisation and development: a study of 2,347 neuroimaging phenotypes Short title: Genetics of cortical organisation and development Varun Warrier*1,2, Eva-Maria ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/de70954d-39e2-414b-87a6-fb89362b0afd/content"/>
+    <published>2026-03-31T21:14:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d55a#0</id>
+    <id>http://www.inoreader.com/article/3a9c6e76e2265f48#0</id>
+    <title>Worlds Next Door. IV. Mapping the Late Stages of Giant Planet Evolution with a Precise Dynamical Mass and Luminosity for $∊ $ Ind Ab</title>
+    <updated>2026-03-31T21:14:03+00:00</updated>
+    <author>
+      <name>Björn Benneke</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Sanghi, W Thompson, J Mang, J Xuan, D Mawet... - arXiv e-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present new JWST/NIRCam 4-5$ μ $ m (F410M, F430M) and JWST/MIRI 18-25$ μ $ m (F1800W, F2100W, F2550W) imaging detections of the nearby (3.6 pc) cold (275 K) gas giant exoplanet $∊ $ Ind Ab. The F2550W detection of $∊ $ Ind Ab ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260308787S/abstract"/>
+    <published>2026-03-31T21:14:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e2265d01#0</id>
+    <title>Hot Rocks Survey. V. Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI</title>
+    <updated>2026-03-31T21:14:05+00:00</updated>
+    <author>
+      <name>Adam J. Burgasser</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Holmberg, H Diamond-Lowe, JM Mendonça... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; JWST is transforming our ability to characterize small exoplanets, from sub-Neptunes to rocky worlds. A key open question is whether highly irradiated rocky planets can retain atmospheres or are stripped bare by stellar irradiation—a boundary that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae4c45/pdf"/>
+    <published>2026-03-31T21:14:05+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e2265b72#0</id>
     <title>Ammonia as a parameter shaping habitability on icy moons</title>
-    <updated>2026-03-31T08:31:29+00:00</updated>
+    <updated>2026-03-31T21:14:09+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Charles Cockell</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CM Hopton, CS Cockell - FEMS Microbes, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The search for life now extends beyond the traditional habitable zone to include the 30 icy moons of Jupiter and Saturn. These moons ... Ammonia could therefore influence the habitability of extraterrestrial 35 oceans, yet this topic has received ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CM Hopton, CS Cockell - FEMS Microbes, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The search for life now extends beyond the traditional habitable zone to include the icy moons of Jupiter and Saturn. These moons feature ice-covered surfaces overlying substantial oceans formed primarily of liquid water and other potential ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
     <link href="https://academic.oup.com/femsmicrobes/advance-article-pdf/doi/10.1093/femsmc/xtag015/67552232/xtag015.pdf"/>
-    <published>2026-03-31T08:31:29+00:00</published>
+    <published>2026-03-31T21:14:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#9</id>
-    <title>Ammonia as a parameter shaping habitability on icy moons</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e2265414#1</id>
+    <title>A PAC-Bayesian approach to generalization for quantum models</title>
+    <updated>2026-03-31T21:14:22+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CM Hopton, CS Cockell - FEMS Microbes, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We examine the role of ammonia in prebiotic 40 chemistry, biochemistry, and toxicity. Focusing on bacteria, we compare known 41 survival limits in ammonia to estimated ammonia concentrations on Enceladus and 42 Titan. We find that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://academic.oup.com/femsmicrobes/advance-article-pdf/doi/10.1093/femsmc/xtag015/67552232/xtag015.pdf"/>
-    <published>2026-03-31T08:31:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Rodriguez-Grasa, MC Caro, J Eisert, E Gil-Fuster... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Generalization is a central concept in machine learning theory, yet for quantum models, it is predominantly analyzed through uniform bounds that depend on a model's overall capacity rather than the specific function learned. These capacity ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.22964"/>
+    <published>2026-03-31T21:14:22+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#8</id>
-    <title>Gut-liver axis mediates the ameliorative effects of North Hawthorn polysaccharide on liver inflammation and oxidative stress in hyperlipidemic mice via Nrf2 signaling ...</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e2265414#0</id>
+    <title>Measurement-induced non-commutativity in adaptive fermionic linear optics</title>
+    <updated>2026-03-31T21:14:22+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Lingling, Y Yang, M Jiang, Z Fan - Food Science and Biotechnology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our study demonstrates that NHP functions as a prebiotic , reshaping the gut microbiome ... Secondly, NHP modulates the gut-liver axis by acting as a prebiotic . It restores a healthy gut ... functional groups within NHP responsible for its prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s10068-026-02133-9"/>
-    <published>2026-03-31T08:31:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#7</id>
-    <title>Advanced engineering of microbiome-related therapeutics for targeted treatment of inflammatory bowel diseases</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YJ Kim, N Park, X Cheng, Y Lee - Journal of Controlled Release, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Given these challenges, nano- and bioengineering of microbiome-related therapeutics—including microbial-derived metabolites, probiotics, and prebiotic natural products—has emerged as a promising strategy, offering high ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0168365926002749"/>
-    <published>2026-03-31T08:31:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#6</id>
-    <title>Infrared Search for Vinyl Cyanide in Cassini/CIRS Polar Winter Observations</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z McQueen, C Nixon, K Sung&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Titan's atmosphere is a dense and active chemical reactor forming complex organic and nitrile species relevant to prebiotic chemistry. Molecular nitrogen (N 2) and methane (CH 4) undergo photolysis and subsequently react to form more complex ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-22787.html"/>
-    <published>2026-03-31T08:31:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#5</id>
-    <title>Method Development for the Analysis of Carbonaceous Chondrites by Laser Desorption/Ionization and Secondary Ion Time-of-Flight Mass Spectrometry</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Rados, J Frank, E Pittenauer - Journal of mass spectrometry: JMS, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study focuses on the development of a laser desorption/ionization mass spectrometric method for analyzing carbonaceous chondrites, meteorites that may hold clues to the origin of life . Since carbonaceous chondrites are only available in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/41887270/"/>
-    <published>2026-03-31T08:31:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#4</id>
-    <title>The origin and development of life in an informational dissipative perspective</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Chirumbolo, A Vella - Theory in Biosciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... : the RNA World remains the lead functional hypothesis because we can: a demonstrate RNA catalysis and heredity in vitro, b sketch plausible prebiotic ... In short, the RNA World looks less like a stand-alone "soup" and more like RNA in a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s12064-026-00463-0"/>
-    <published>2026-03-31T08:31:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#3</id>
-    <title>Proteinoid Computing on Olivine Substrates</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Mougkogiannis, A Adamatzky - Langmuir, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Olivine's ubiquity in meteorites, planetary surfaces, and protoplanetary disks makes it a geochemically relevant template for prebiotic chemistry ... This work illuminates mineral–organic interactions relevant to both terrestrial and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.6c00952"/>
-    <published>2026-03-31T08:31:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#2</id>
-    <title>Reconstructing ancient protein alphabets: what can we truly infer?</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SD Fried, G Hochberg, K Hlouchova - Trends in Genetics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Early views emphasized prebiotic availability and the expansion of metabolic pathways, but ... However, prebiotic availability is not necessarily synonymous with early genetic encoding. ... Metabolism - first models for the origins of life tend to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(26)00063-6"/>
-    <published>2026-03-31T08:31:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#1</id>
-    <title>Prebiotic activity of resistant starch derived from corn starch sugar residue and its modulation of gut microbiota in largemouth bass, a carnivorous fish</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Dai, J Ni, C He, L Huang, Y Ma, H Xiong - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... However, the prebiotic activity of CRS and its effects on animal gut microbiota are unknown. This study systematically evaluated its prebiotic ... CRS fermentation significantly lowered medium pH, demonstrating its acid-producing capacity, and its ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226005389"/>
-    <published>2026-03-31T08:31:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e3b9d3f3#0</id>
-    <title>Physicochemical Characterization, Prebiotic Potential, and Lipid-Lowering Effect of Mesembryanthemum crystallinum L. Polysaccharide</title>
-    <updated>2026-03-31T08:31:31+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Cao, B Yang, Y Wang, J Zhang, H Xiong, H Zhang... - Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Excessive lipid accumulation, a hallmark characteristic of high-fat diet (HFD)-induced obesity, has become a worldwide challenge, necessitating the exploration of secure and efficacious natural products for its intervention. In the present work, a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2304-8158/15/7/1153"/>
-    <published>2026-03-31T08:31:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Cao, Y Tang, J Eisert - arXiv preprint arXiv:2603.24950, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Fermionic linear optics (FLO) with Gaussian resources is efficiently classically simulable. We show that this is no longer the case for such quantum circuits for fermions with internal degrees of freedom, equipped with mid-circuit number ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.24950"/>
+    <published>2026-03-31T21:14:22+00:00</published>
   </entry>
 </feed>
