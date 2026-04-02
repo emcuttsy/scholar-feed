@@ -2,41 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-02T07:13:19.704326+00:00</updated>
+  <updated>2026-04-02T14:45:18.321165+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e2fdc5b4#2</id>
-    <title>How to Rebuild Your Gut Microbiome After Antibiotics: A Complete Science-Based Recovery Guide</title>
-    <updated>2026-04-01T20:58:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e1351e9c#1</id>
+    <title>Rigorous Asymptotics for First-Order Algorithms Through the Dynamical Cavity Method</title>
+    <updated>2026-04-02T07:23:49+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Lenka Zdeborová</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WYGB Matters&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Sauerkraut and kimchi — These lacto-fermented vegetables deliver Lactobacillus species along with prebiotic fiber from the vegetables themselves. Make sure to choose refrigerated, unpasteurized versions — shelf-stable products have been heat-treated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://siallac.com/how-to-rebuild-your-gut-microbiome-after-antibiotics-a-complete-science-based-recovery-guide/"/>
-    <published>2026-04-01T20:58:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Dandi, D Gamarnik, F Pernice, L Zdeborová - arXiv preprint arXiv:2603.14573, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Dynamical Mean Field Theory (DMFT) provides an asymptotic description of the dynamics of macroscopic observables in certain disordered systems. Originally pioneered in the context of spin glasses by Sompolinsky and Zippelius (1982), it has ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenka Zdeborová (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.14573"/>
+    <published>2026-04-02T07:23:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e2fdc5b4#1</id>
-    <title>Bacterial Chemotaxis as a Test Case for Cause-Class Evaluation in Origin - of - Life Science</title>
-    <updated>2026-04-01T20:58:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e1351e9c#0</id>
+    <title>The Rules-and-Facts Model for Simultaneous Generalization and Memorization in Neural Networks</title>
+    <updated>2026-04-02T07:23:49+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Lenka Zdeborová</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mason&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... is central to both evolutionary biology and origin - of - life science. Standard accounts attribute such systems to cumulative natural selection acting on random variation within already-living populations, or, in the case of prebiotic systems, to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/403224991_Bacterial_Chemotaxis_as_a_Test_Case_for_Cause-Class_Evaluation_in_Origin-of-Life_Science_Signal_Transduction_Integral_Feedback_Control_and_the_Integration_Problem_Framework_Design_Biology_Forensic_Eva/links/69c714ec60c0371a60f1c35f/Bacterial-Chemotaxis-as-a-Test-Case-for-Cause-Class-Evaluation-in-Origin-of-Life-Science-Signal-Transduction-Integral-Feedback-Control-and-the-Integration-Problem-Framework-Design-Biology-Forensic-E.pdf"/>
-    <published>2026-04-01T20:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e2fdc5b4#0</id>
-    <title>Prebiotic Potential of Turmeric and Fingerroot Polysaccharides: Modulation of Human Gut Microbiota and Metabolite Profiles in In Vitro Colonic Fermentation</title>
-    <updated>2026-04-01T20:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O La-ongkham, J Klinsoda, M Nakphaichit... - Applied Food Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The prebiotic potential of crude polysaccharide extracts from turmeric (Curcuma longa; CP-TM) and fingerroot (Boesenbergia rotunda; CP-FR) was investigated using galactooligosaccharides (GOS) as a reference. Extracts were characterized for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S277250222600288X"/>
-    <published>2026-04-01T20:58:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Farné, F Boncoraglio, L Zdeborová - arXiv preprint arXiv:2603.25579, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A key capability of modern neural networks is their capacity to simultaneously learn underlying rules and memorize specific facts or exceptions. Yet, theoretical understanding of this dual capability remains limited. We introduce the Rules-and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenka Zdeborová (author alert)</content>
+    <link href="https://arxiv.org/pdf/2603.25579"/>
+    <published>2026-04-02T07:23:49+00:00</published>
   </entry>
 </feed>
