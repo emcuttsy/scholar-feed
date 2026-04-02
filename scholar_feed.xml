@@ -2,74 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-01T07:21:07.453386+00:00</updated>
+  <updated>2026-04-02T07:13:19.704326+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e2266051#0</id>
-    <title>90095, USA. 19. Program in Neurogenetics, Department of Neurology, University of California, Los Angeles, CA 90095, USA. 20. Center for Autism Research and ...</title>
-    <updated>2026-03-31T21:14:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e2fdc5b4#2</id>
+    <title>How to Rebuild Your Gut Microbiome After Antibiotics: A Complete Science-Based Recovery Guide</title>
+    <updated>2026-04-01T20:58:08+00:00</updated>
     <author>
-      <name>Varun Warrier</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Warrier, EM Stauffer, QQ Huang, EM Wigdor...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Warrier et al., Genetics of cortical organisation and development The genetics of cortical organisation and development: a study of 2,347 neuroimaging phenotypes Short title: Genetics of cortical organisation and development Varun Warrier*1,2, Eva-Maria ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/de70954d-39e2-414b-87a6-fb89362b0afd/content"/>
-    <published>2026-03-31T21:14:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WYGB Matters&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Sauerkraut and kimchi — These lacto-fermented vegetables deliver Lactobacillus species along with prebiotic fiber from the vegetables themselves. Make sure to choose refrigerated, unpasteurized versions — shelf-stable products have been heat-treated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://siallac.com/how-to-rebuild-your-gut-microbiome-after-antibiotics-a-complete-science-based-recovery-guide/"/>
+    <published>2026-04-01T20:58:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e2265f48#0</id>
-    <title>Worlds Next Door. IV. Mapping the Late Stages of Giant Planet Evolution with a Precise Dynamical Mass and Luminosity for $∊ $ Ind Ab</title>
-    <updated>2026-03-31T21:14:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e2fdc5b4#1</id>
+    <title>Bacterial Chemotaxis as a Test Case for Cause-Class Evaluation in Origin - of - Life Science</title>
+    <updated>2026-04-01T20:58:08+00:00</updated>
     <author>
-      <name>Björn Benneke</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Sanghi, W Thompson, J Mang, J Xuan, D Mawet... - arXiv e-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present new JWST/NIRCam 4-5$ μ $ m (F410M, F430M) and JWST/MIRI 18-25$ μ $ m (F1800W, F2100W, F2550W) imaging detections of the nearby (3.6 pc) cold (275 K) gas giant exoplanet $∊ $ Ind Ab. The F2550W detection of $∊ $ Ind Ab ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260308787S/abstract"/>
-    <published>2026-03-31T21:14:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mason&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... is central to both evolutionary biology and origin - of - life science. Standard accounts attribute such systems to cumulative natural selection acting on random variation within already-living populations, or, in the case of prebiotic systems, to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/403224991_Bacterial_Chemotaxis_as_a_Test_Case_for_Cause-Class_Evaluation_in_Origin-of-Life_Science_Signal_Transduction_Integral_Feedback_Control_and_the_Integration_Problem_Framework_Design_Biology_Forensic_Eva/links/69c714ec60c0371a60f1c35f/Bacterial-Chemotaxis-as-a-Test-Case-for-Cause-Class-Evaluation-in-Origin-of-Life-Science-Signal-Transduction-Integral-Feedback-Control-and-the-Integration-Problem-Framework-Design-Biology-Forensic-E.pdf"/>
+    <published>2026-04-01T20:58:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e2265d01#0</id>
-    <title>Hot Rocks Survey. V. Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI</title>
-    <updated>2026-03-31T21:14:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e2fdc5b4#0</id>
+    <title>Prebiotic Potential of Turmeric and Fingerroot Polysaccharides: Modulation of Human Gut Microbiota and Metabolite Profiles in In Vitro Colonic Fermentation</title>
+    <updated>2026-04-01T20:58:08+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Holmberg, H Diamond-Lowe, JM Mendonça... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; JWST is transforming our ability to characterize small exoplanets, from sub-Neptunes to rocky worlds. A key open question is whether highly irradiated rocky planets can retain atmospheres or are stripped bare by stellar irradiation—a boundary that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae4c45/pdf"/>
-    <published>2026-03-31T21:14:05+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e2265b72#0</id>
-    <title>Ammonia as a parameter shaping habitability on icy moons</title>
-    <updated>2026-03-31T21:14:09+00:00</updated>
-    <author>
-      <name>Charles Cockell</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CM Hopton, CS Cockell - FEMS Microbes, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The search for life now extends beyond the traditional habitable zone to include the icy moons of Jupiter and Saturn. These moons feature ice-covered surfaces overlying substantial oceans formed primarily of liquid water and other potential ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
-    <link href="https://academic.oup.com/femsmicrobes/advance-article-pdf/doi/10.1093/femsmc/xtag015/67552232/xtag015.pdf"/>
-    <published>2026-03-31T21:14:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e2265414#1</id>
-    <title>A PAC-Bayesian approach to generalization for quantum models</title>
-    <updated>2026-03-31T21:14:22+00:00</updated>
-    <author>
-      <name>Jens Eisert</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Rodriguez-Grasa, MC Caro, J Eisert, E Gil-Fuster... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Generalization is a central concept in machine learning theory, yet for quantum models, it is predominantly analyzed through uniform bounds that depend on a model's overall capacity rather than the specific function learned. These capacity ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.22964"/>
-    <published>2026-03-31T21:14:22+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e2265414#0</id>
-    <title>Measurement-induced non-commutativity in adaptive fermionic linear optics</title>
-    <updated>2026-03-31T21:14:22+00:00</updated>
-    <author>
-      <name>Jens Eisert</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Cao, Y Tang, J Eisert - arXiv preprint arXiv:2603.24950, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Fermionic linear optics (FLO) with Gaussian resources is efficiently classically simulable. We show that this is no longer the case for such quantum circuits for fermions with internal degrees of freedom, equipped with mid-circuit number ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2603.24950"/>
-    <published>2026-03-31T21:14:22+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O La-ongkham, J Klinsoda, M Nakphaichit... - Applied Food Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The prebiotic potential of crude polysaccharide extracts from turmeric (Curcuma longa; CP-TM) and fingerroot (Boesenbergia rotunda; CP-FR) was investigated using galactooligosaccharides (GOS) as a reference. Extracts were characterized for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S277250222600288X"/>
+    <published>2026-04-01T20:58:08+00:00</published>
   </entry>
 </feed>
