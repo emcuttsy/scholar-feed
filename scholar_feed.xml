@@ -2,52 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-04T07:01:45.151717+00:00</updated>
+  <updated>2026-04-04T14:23:50.924397+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e0505370#0</id>
-    <title>Insula structure is linked to autonomic cardiac dysregulation in depression</title>
-    <updated>2026-04-03T19:20:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ad16d8#1</id>
+    <title>Emergence of Non-Hermitian Magic Angles and Topological Phase Transitions in Twisted Bilayer $\alpha $-$ T_3 $ Lattices</title>
+    <updated>2026-04-04T09:14:09+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ASR Fermin, HL Chan, M Takamura, N Ichikawa... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Background Major Depressive Disorder (MDD), characterized primarily by mood disturbances, is also accompanied by abnormal cardiovascular functioning. However, the neuroanatomical substrates underlying this cardiovascular dysfunction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0006322326011273"/>
-    <published>2026-04-03T19:20:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Gandhi, G Paul, S Lahiri, S Basu -arXivpreprintarXiv:2603.29779, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This results in the emergence of nearly isolated, extremely flat bands that persist throughout the moiré Brillouin zone (mBZ) [5]. In these flattened ... III, we discuss the emergence of three distinct NHMAs and analyze the flat-band conditions across the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.29779"/>
+    <published>2026-04-04T09:14:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e05052ec#0</id>
-    <title>The unbearable hardness of deciding about magic</title>
-    <updated>2026-04-03T19:20:50+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ad16d8#0</id>
+    <title>Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild</title>
+    <updated>2026-04-04T09:14:09+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Eisert, L Leone, S Oliviero&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Identifying the boundary between classical and quantum computation is a central challenge in quantum information. In multi-qubit systems, entanglement and magic are the key resources underlying genuinely quantum behaviour. While entanglement ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-8988905/latest"/>
-    <published>2026-04-03T19:20:50+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Akkil, M Allaham, A Raj, T Abuelsaad, R Kokku -arXivpreprintarXiv:2603.29020, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To address these challenges, we introduce Emergence WebVoyager1, an enhanced version of the WebVoyager benchmark that standardizes evaluation methodology through clear guidelines for task instantiation, failure handling ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.29020"/>
+    <published>2026-04-04T09:14:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e0505236#0</id>
-    <title>Selection for growth drives the emergence of genetic heredity in protocells</title>
-    <updated>2026-04-03T19:20:51+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca6958#0</id>
+    <title>The Evolving Faber-Jackson Relation: A Unifying Framework for Galaxy Ages and the Baryonic Tully-Fisher Connection</title>
+    <updated>2026-04-04T13:39:55+00:00</updated>
     <author>
-      <name>Nick Lane</name>
+      <name>stuart kauffman</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Nunes Palmeira, M Colnaghi, A Pomiankowski... - PLoS biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Most theoretical work on the origin of heredity has focused on how genetic information can be maintained without mutational degradation in the absence of error-proofing systems. A simple and parsimonious solution assumes the first gene ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Lane (author alert)</content>
-    <link href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003544"/>
-    <published>2026-04-03T19:20:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Marongwe, S Kauffman - arXiv preprint arXiv:2603.29210, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The baryonic Tully-Fisher relation (BTFR) and Faber-Jackson relation (FJR) represent fundamental scaling laws linking the baryonic mass of galaxies to their kinematics, yet their physical origin and apparent offsets between different galaxy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; stuart kauffman (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.29210"/>
+    <published>2026-04-04T13:39:55+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e054c181#0</id>
-    <title>The impact of sociocultural background and parental education on academic performance and time management in mathematics and introductory courses</title>
-    <updated>2026-04-03T19:55:25+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca68f2#0</id>
+    <title>First Detection of Exoplanetary Cannabinoids: Evidence for THC and CBD in the Atmosphere of K2 - 18b</title>
+    <updated>2026-04-04T13:39:56+00:00</updated>
     <author>
-      <name>Guilherme M. de O. Wood</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AKF Loder, GM de Oliveira Wood - Acta Psychologica, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigates the impact of various demographic factors—nationality, migration status, and parental education—on students' academic performance and timing of attempts in both mathematics and introduction courses at an Austrian ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0001691826005342"/>
-    <published>2026-04-03T19:55:25+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AJ Chism, MJ van der Pot, BP Hasheau, HJ Grasmann... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... this represents a paradigm shift in our understanding of biosignatures and the prevalence of recreational organic chemistry in the cosmos. ... • Coordinating with SETI to listen for signals from potentially very relaxed alien civilizations We conclude ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2603.29700"/>
+    <published>2026-04-04T13:39:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#9</id>
+    <title>In Vivo and In Vitro Effects of Fermentable Dietary Fiber from High-Amylose Wheat Containing Resistant Starch on the Intestinal Environment: A Randomized, Double ...</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Iwata, Y Otomo, Y Nishitsuji, J Node, K Toyota... - Microorganisms, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Overall, these results highlight HAW flour as a practical prebiotic ingredient that helps support gut health. ... Because HAW contains similar amounts of insoluble and soluble dietary fiber, it is expected to represent a prebiotic that can maintain the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2076-2607/14/4/797"/>
+    <published>2026-04-04T13:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#8</id>
+    <title>Effects of Physicochemical, Fermentation, and Enzymatic Modifications on the Microstructural and Chemical Properties of Barley (Hordeum vulgare) Flour</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Anshory, RHB Setiarto, D Andrianto, T Khusniati...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Abstract: Resistant starch, a dietary component with prebiotic potential, can be enhanced through starch modification techniques. This ... However, the nutritional implications remain inferential, as direct assessments of digestibility and prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Raden-Setiarto/publication/403332060_Effects_of_Physicochemical_Fermentation_and_Enzymatic_Modifications_on_the_Microstructural_and_Chemical_Properties_of_Barley_Hordeum_vulgare_Flour/links/69cbe708ac38122875652735/Effects-of-Physicochemical-Fermentation-and-Enzymatic-Modifications-on-the-Microstructural-and-Chemical-Properties-of-Barley-Hordeum-vulgare-Flour.pdf"/>
+    <published>2026-04-04T13:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#7</id>
+    <title>The Potential Role of Dietary (Poly) phenols in Cardiometabolic Risk During Menopause: A Narrative Review</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Sánchez-Martínez, R González-Barrio, MJ Periago - Nutrients, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... ) phenols are plant secondary metabolites that present several mechanisms of action that could improve human health, including the regulation of gene expression, the control of lipid metabolism, the maintenance of glucose homeostasis, a reduction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2072-6643/18/7/1130"/>
+    <published>2026-04-04T13:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#6</id>
+    <title>Optimized Enzymatic Synthesis of Isomaltooligosaccharides (IMOs) From Riceberry Rice Starch: Chemical Analysis, Antioxidant Properties, and Cell Viability ...</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Phuphuak, P Jampen, B Phungphian, P Khumfu - Starch‐Stärke, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The increasing demand for functional foods enriched with bioactive ingredients highlights the need for effective prebiotic formulations. This study optimized the enzymatic production of isomaltooligosaccharides (IMOs) from Riceberry rice starch ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/abs/10.1002/star.70199"/>
+    <published>2026-04-04T13:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#5</id>
+    <title>Physical extraction, structural characteristics and food-related bioactivities of edible fungi polysaccharides: A review</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Lyu, Q Zhao, S Cui, Q Li, L Yu, Z Li, X Ren, D Gao... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Polysaccharides, as the core active components in edible fungi, demonstrate remarkable efficacy in antioxidant, immunomodulatory and anti-inflammatory effects. They have been widely applied in food, health supplements, pharmaceuticals and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0141813026017241"/>
+    <published>2026-04-04T13:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#4</id>
+    <title>The PolyMeOS Laboratory</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NM Aliman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... - panspermia and panspermia research: Now that the less controversial pseudo- panspermia ... obases) can circulate, it is time to consider panspermia and take note of the ongoing successful ... Crucially, the question of the specific location of the origin of life would ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/ALITPL"/>
+    <published>2026-04-04T13:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#3</id>
+    <title>NARRATIVE REVIEW OF THE ROLE OF PROBIOTICS AND PREBIOTICS IN THE TREATMENT OF IRRITABLE BOWEL SYNDROME</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NLA Tuan, TTH Binh, PT Tai, NK Vuong&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Bằng chứng cho prebiotic và synbiotic yếu hơn; trong đó PHGG là prebiotic có tín hiệu thuận lợi hơn đối với đầy hơi, còn các prebiotic dễ sinh hơi cần được sử dụng rất thận trọng. Do vậy, probiotic hoặc prebiotic không nên được áp dụng thường quy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Binh-Ton-That/publication/403316794_NARRATIVE_REVIEW_OF_THE_ROLE_OF_PROBIOTICS_AND_PREBIOTICS_IN_THE_TREATMENT_OF_IRRITABLE_BOWEL_SYNDROME/links/69cb94fe60c0371a60f4c851/NARRATIVE-REVIEW-OF-THE-ROLE-OF-PROBIOTICS-AND-PREBIOTICS-IN-THE-TREATMENT-OF-IRRITABLE-BOWEL-SYNDROME.pdf"/>
+    <published>2026-04-04T13:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#2</id>
+    <title>The Narrative That Builds Itself: A Forensic Evaluation of Ligrone (2021)</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mason&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... synthesizing the RNA World hypothesis, alkaline hydrothermal vent and terrestrial geothermal field ... The RNA World hypothesis requires selfreplicating RNA. The paper explicitly states that no self-replicating RNA has been demonstrated. The best ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/403294830_The_Narrative_That_Builds_Itself_A_Forensic_Evaluation_of_Ligrone_2021_The_Origins_of_Life_Novel_Perspectives_Over_an_Old_Problem/links/69cac8b93c6189430672483e/The-Narrative-That-Builds-Itself-A-Forensic-Evaluation-of-Ligrone-2021-The-Origins-of-Life-Novel-Perspectives-Over-an-Old-Problem.pdf"/>
+    <published>2026-04-04T13:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#1</id>
+    <title>Life as a Filtered Outcome: Filtered Configuration Framework</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AA Nekludoff&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper introduces the Filtered Configuration Framework (FCF), a formal account of how observable structures arise from a broader space of possible configurations. The framework challenges a common assumption in discussions of abiogenesis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/NEKLAA"/>
+    <published>2026-04-04T13:39:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76e0ca682f#0</id>
+    <title>Production of saturated and Δ4, 5-unsaturated oligogalacturonides from differently methylated pectins and evaluation of their prebiotic activity</title>
+    <updated>2026-04-04T13:39:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Campos, J Sanchez, A Aguilar-Galvez, L Carrasco... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigated the enzymatic modification of pectin into structurally distinct including saturated, unsaturated, and saturated/methylated forms (SOGals, UMOGals, and S/MOGals) using polygalacturonase and pectin lyase on substrates with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226005705"/>
+    <published>2026-04-04T13:39:58+00:00</published>
   </entry>
 </feed>
