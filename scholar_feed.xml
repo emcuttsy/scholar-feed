@@ -2,184 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-03T07:09:43.700368+00:00</updated>
+  <updated>2026-04-04T07:01:45.151717+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fade#0</id>
-    <title>Cosmos Revealed: The Science and Ethics of Life Beyond Earth</title>
-    <updated>2026-04-03T03:15:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e0505370#0</id>
+    <title>Insula structure is linked to autonomic cardiac dysregulation in depression</title>
+    <updated>2026-04-03T19:20:49+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Karl Friston</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Johnsen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... planetary phenomena can create pockets of habitability . Each chapter is designed to expand your imagination, grounded in current science and observational evidence, and to show how life might emerge in ways both familiar ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=KqzMEQAAQBAJ&amp;oi=fnd&amp;pg=PR4&amp;dq=(habitable%7Chabitability+planet%7Cplanetary%7Cworld%7Cexoplanet)%7C%22habitale+zone%22%7Cbiosignature%7Castrobiology%7Ctechnosignature%7C(%22search+for%22+~alien%7Cextraterrestrial+life)%7CSETI%7C%22biosignature+detection%22&amp;ots=U2kVSxjne-&amp;sig=zXdxwUk3rpmMZJlaALm2uLVUR5Q"/>
-    <published>2026-04-03T03:15:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ASR Fermin, HL Chan, M Takamura, N Ichikawa... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Background Major Depressive Disorder (MDD), characterized primarily by mood disturbances, is also accompanied by abnormal cardiovascular functioning. However, the neuroanatomical substrates underlying this cardiovascular dysfunction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0006322326011273"/>
+    <published>2026-04-03T19:20:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa7f#0</id>
-    <title>Cosmos Revealed: The Science and Ethics of Life Beyond Earth</title>
-    <updated>2026-04-03T03:15:33+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e05052ec#0</id>
+    <title>The unbearable hardness of deciding about magic</title>
+    <updated>2026-04-03T19:20:50+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Johnsen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in exoplanet science. Its powerful infrared instruments allow astronomers to dissect the light passing through an exoplanet's atmosphere ... If we found a single, immortal alien being on Mars that didn't reproduce and didn't evolve, would we have ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=KqzMEQAAQBAJ&amp;oi=fnd&amp;pg=PR4&amp;dq=(~biosignature%7Clife%7Calien%7Corganic)+(Mars%7CVenus%7CEuropa%7CEnceladus%7CTitan%7C%22icy+moon%22%7CJupiter%7CSaturn%7CNeptune%7CPluto%7CAsteroid%7CComet+~exoplanet%7C%22super+Earth%22%7C%22sub+Neptune%22%7C%22rocky+world%22%7C%22terrestrial+planet%22%7CTRAPPIST%7CK2-18b%7CProxima)&amp;ots=U2kVSxjne1&amp;sig=vwsAMcBekzhNxnFHkUmA2aOILko"/>
-    <published>2026-04-03T03:15:33+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Eisert, L Leone, S Oliviero&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Identifying the boundary between classical and quantum computation is a central challenge in quantum information. In multi-qubit systems, entanglement and magic are the key resources underlying genuinely quantum behaviour. While entanglement ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://www.researchsquare.com/article/rs-8988905/latest"/>
+    <published>2026-04-03T19:20:50+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#9</id>
-    <title>Genomic characterization of Lacticaseibacillus paracasei strains from Greek fermented olives reveals common and unique characteristics and distinct clades</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Feidaki, Y Yan, B Yang, A Argiriou, P Panas... - Applied and Environmental ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We also compared in silico results with functional in vitro experiments to assess growth on different prebiotic substrates (fructooligosaccharides [FOS], XOS, galactooligosaccharides [GOS], and inulin), growth in olive pomace, and in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://journals.asm.org/doi/pdf/10.1128/aem.00515-26"/>
-    <published>2026-04-03T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#8</id>
-    <title>NMR Spectroscopy of Ribose-Borate Complexes Revisited</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Chauhan, JJ Brown, RG DiNardi, A Wang...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The strong RNA world hypothesis2–4 proposes that RNA was the primordial genetic polymer to emerge from prebiotic chemistry5–8, ... This work provides a practical reference for future studies of ribose-borate interactions in complex ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001357/v1"/>
-    <published>2026-04-03T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#7</id>
-    <title>Prebiotics for Brain Health: How Your Gut Feeds Your Mind</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WYGB Matters&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The metabolic activity triggered by prebiotic fermentation stimulates the production of key neurotransmitters. Gut bacteria produce approximately 95% of the body's serotonin (which regulates mood and sleep), significant amounts of GABA (which ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://siallac.com/prebiotics-for-brain-health-how-your-gut-feeds-your-mind/"/>
-    <published>2026-04-03T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#6</id>
+    <id>http://www.inoreader.com/article/3a9c6e76e0505236#0</id>
     <title>Selection for growth drives the emergence of genetic heredity in protocells</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
+    <updated>2026-04-03T19:20:51+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Nick Lane</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Nunes Palmeira, M Colnaghi, A Pomiankowski... - PLoS biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... When a protocell reaches an arbitrary size threshold, set by the number of fatty acids in the protocell , we assume it divides, and one other protocell is deleted at random from the population, in a similar process to a Moran model [37]. The RNA ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Nunes Palmeira, M Colnaghi, A Pomiankowski... - PLoS biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Most theoretical work on the origin of heredity has focused on how genetic information can be maintained without mutational degradation in the absence of error-proofing systems. A simple and parsimonious solution assumes the first gene ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Lane (author alert)</content>
     <link href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003544"/>
-    <published>2026-04-03T03:15:34+00:00</published>
+    <published>2026-04-03T19:20:51+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#5</id>
-    <title>The characterization of Palmaria palamata xylo-oligosaccharides and their potential health benefits</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e054c181#0</id>
+    <title>The impact of sociocultural background and parental education on academic performance and time management in mathematics and introductory courses</title>
+    <updated>2026-04-03T19:55:25+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Guilherme M. de O. Wood</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Ansín Vallejo, MI González-Siso, M Becerra - The characterization of Palmaria ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic testing with single-strain growth determination to evaluate its prebiotic potential; cytotoxic and immunomodulatory assays to determine its safety and other potential health benefits in different mammalian cell lines, as well as the study of its ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://portalcientifico.sergas.es/documentos/69b6e60a08c7fb4f904988e1"/>
-    <published>2026-04-03T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#4</id>
-    <title>In the Beginning, There Was Computation</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BA y Arcas&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , thinking, at present, of origin of life ; one might as well think of origin of matter." ... of abiogenesis —the study of the moment when, 3 or 4 billion years ago, chemistry became life—have developed multiple plausible origin stories. In one, proto-organisms ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://nautil.us/in-the-beginning-there-was-computation-787023"/>
-    <published>2026-04-03T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#3</id>
-    <title>Revisiting Darwin's Warm Little Pond in the 21st Century: Land-Based Scenarios for Life's Origins</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Damer, D Deamer - Astrobiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of the heterotrophic theory of the origin of life and how it informs our models today. ... The emerging field of research on land-based origin of life scenarios on Earth or other rocky, ... In the coming decades, we hope that by constructing and testing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://journals.sagepub.com/doi/abs/10.1177/15311074261434368"/>
-    <published>2026-04-03T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#2</id>
-    <title>Structure-Function Correlations of Commercial Fucoidan Extracts: Antioxidant, Antiviral, Antifungal, Antibacterial and Prebiotic Activities</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Chadwick, MSR Lancerin, P Hazelton, K Vidalis...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic due to its ability to enhance the growth [22,86,87] and short-chain fatty acid production [88] of probiotic bacteria. In this study, Lactobacillus casei was selected for its widespread commercial use in prebiotic ... Furthermore, this analysis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/d01f71b08c910212ce053260199e2ddd/download_pub"/>
-    <published>2026-04-03T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#1</id>
-    <title>Quantifying Building Blocks of Life in Planetary Analog Materials: Implications for Prebiotic Chemistry and Biosignature Identification</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Luo, C He, Z Yang, Y Wang, Z Fang, Y Liu, S Wang... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... diverse prebiotic compounds (amino acids, nucleobases, sugars, and other prebiotic species) in complex matrices. Such quantitative information is crucial for understanding prebiotic ... prebiotic sources and determine whether polymerization ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.27598"/>
-    <published>2026-04-03T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1d5fa13#0</id>
-    <title>Ulvan acts as a prebiotic polysaccharide enhancing the production of indoles and short-chain fatty acids in vitro: a metabolomics study</title>
-    <updated>2026-04-03T03:15:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Zonfrillo, CMS Ambrosio, N Mulinacci, J Rubert - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigated the fermentability and prebiotic potential of ulvan, a sulfated polysaccharide from Ulva lactuca L., using an in vitro human colonic fermentation model. Targeted metabolomics quantified SCFA and tryptophan-derived metabolites ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626012586"/>
-    <published>2026-04-03T03:15:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1e31208#3</id>
-    <title>The Structure of Scientific Socialism: Quantum Emergence , Frustration, and the Non-Dual Dialectic</title>
-    <updated>2026-04-03T04:57:18+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SB Roy -arXivpreprintarXiv:2603.27649, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Classical Marxism and the algebra of revolution were formulated within the ontological constraints of 19th-century Newtonian materialism-a world of discrete, predictable, billiard-ball interactions. However, the 20th-century transitions in physics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.27649"/>
-    <published>2026-04-03T04:57:18+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1e31208#2</id>
-    <title>Morphogenesis Across n: Overlays, Emergence Thresholds, and Weak Self-Similarity in the Partition Graph</title>
-    <updated>2026-04-03T04:57:18+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FB Lyudogovskiy -arXivpreprintarXiv:2603.25917, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study the partition graphs $G_n$ as a growing family of discrete geometric objects and introduce a formal framework for comparing their structures across different levels. The main tool is a family of Ferrers-translation maps \[ T_\tau:G_n\to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.25917"/>
-    <published>2026-04-03T04:57:18+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1e31208#1</id>
-    <title>Emergence of multiple quasi-ferromagnetic magnon modes induced by strong magnetoelastic coupling in $ TmFeO_3 $ single crystal</title>
-    <updated>2026-04-03T04:57:18+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Manna, F Fuhrmann, O Gomonay, X Ma, H Chen... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate the magnetization dynamics of $TmFeO_3$ single crystals across the spin-reorientation phase transition using broadband microwave absorption spectroscopy up to 87.5 GHz. Temperature- and magnetic-field-dependent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.26284"/>
-    <published>2026-04-03T04:57:18+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e1e31208#0</id>
-    <title>Emergence of a molecular quantum liquid in one dimension</title>
-    <updated>2026-04-03T04:57:18+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Parida, B Paul, HS Adsule, D Sen, T Mishra... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate the fate of a one-dimensional lattice superfluid formed by hard-core bosons, aka `atoms' (alternatively, a free spinless Fermi sea) subjected to nearest-neighbor attractive Hubbard-like interactions only in subgroups of two sites. The system, as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2603.28635"/>
-    <published>2026-04-03T04:57:18+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AKF Loder, GM de Oliveira Wood - Acta Psychologica, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigates the impact of various demographic factors—nationality, migration status, and parental education—on students' academic performance and timing of attempts in both mathematics and introduction courses at an Austrian ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0001691826005342"/>
+    <published>2026-04-03T19:55:25+00:00</published>
   </entry>
 </feed>
