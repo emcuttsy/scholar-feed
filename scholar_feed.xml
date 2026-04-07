@@ -2,140 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-07T07:18:01.145727+00:00</updated>
+  <updated>2026-04-07T14:58:56.759076+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d4308c#1</id>
-    <title>Learning to Predict Clouds: A Neural Network Model for Predicting Exoplanetary Cloud Formation</title>
-    <updated>2026-04-06T14:58:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e6926f87#0</id>
+    <title>Redox processes of slightly-carbon-rich rocky planets</title>
+    <updated>2026-04-07T14:52:59+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Raymond Pierrehumbert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Reza, Z Zalenska, L Carone, C Helling&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... habitability (ie, biosignature ) of exoplanets. It is pivotal in determining which gas species may be observable in exoplanet spectra. The ... We apply this ML framework on a GCM grid comprising 60 inflated hot Jupiters orbiting A, F, G, K, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-18570.html"/>
-    <published>2026-04-06T14:58:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CM Guimond, O Shorttle, R Pierrehumbert&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Whether a planet's volcanic gas is oxidising or reducing is inherited from redox conditions in the planet's mantle. It is often presumed that reactions between iron species control mantle oxygen fugacity. However, iron alone need not be the sole ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Raymond Pierrehumbert (author alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-20810.html"/>
+    <published>2026-04-07T14:52:59+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d4308c#0</id>
-    <title>Extraterrestrial Hydrometeological Phenomena and Their Communicative Implications Interpretive Journalism Perspective</title>
-    <updated>2026-04-06T14:58:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e6926e07#0</id>
+    <title>A highly limited amino acid library from asteroid Bennu yields wide-ranging protein folds</title>
+    <updated>2026-04-07T14:53:00+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Stuart Bartlett</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OO Amos, MU Onuh - International Journal of Innovative Inventions in Social ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... journalism can humanize and translate alien precipitation events for meaningful public ... of Titan (CH₄ rain), Venus (H₂SO₄ virga), and exoplanets like WASP-76b (Fe rain) and ... constraints into climate models to improve exoplanet predictions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://ijiissh.com/v3i2/3.php"/>
-    <published>2026-04-06T14:58:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Bartlett, A Gupta, D Phung, JE Goldford, J Yang... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AI protein design software is used to explore the world of ancient protein structures, and very small, primordial amino acid libraries are found to produce a wide variety of key folds. Data from asteroid analyses and protobiotic chemistry experiments are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stuart Bartlett (author alert)</content>
+    <link href="https://www.nature.com/articles/s41467-026-71509-6_reference.pdf"/>
+    <published>2026-04-07T14:53:00+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#9</id>
-    <title>Targeting the Gut-Bone Axis through Traditional Chinese Medicine: Therapeutic Strategies for Osteoporosis Prevention and Treatment</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e6926cbd#0</id>
+    <title>Fracture geometry and topology and their spectral signatures at OxiaPlanum, Mars</title>
+    <updated>2026-04-07T14:53:02+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Douglas Jerolmack</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Wu, S Shi, C Zhang, M Lu, Z Zhang, Z Luo, X Yao... - ... Research-Modern Chinese ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Individual medicinals and bioactive constituents exert taxon-specific effects through neuroendocrine, prebiotic , and metabolic pathways. Nano-engineered delivery systems further overcome bioavailability limitations for targeted colonic release. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2667142526000564"/>
-    <published>2026-04-06T14:58:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#8</id>
-    <title>A comprehensive review on structural, chemical, and functional perspectives of dietary polysaccharide-driven gut microbiota modulation: Mechanisms and challenges</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AJ Subhash, M Abdin, GB Bamigbade, MP Arachchi... - ... and Biophysics Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Polysaccharides in the diet have been increasingly recognized as major modulators of gut microbiota and multifunctional ingredients in food systems. Despite extensive research on various polysaccharides regarding their prebiotic activities, a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2405580826001354"/>
-    <published>2026-04-06T14:58:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#7</id>
-    <title>Maternal obesity promotes gut dysbiosis, CD4+ T-cell reprogramming and increased prostate cancer in offspring</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F de Oliveira Andrade, L Jin, MÖ Önal, S Yadav... - Cancer Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (FMT), and microbiota modulation was further examined using a prebiotic intervention with partially hydrolyzed guar gum (PHGG). Activated ... Prebiotic PHGG, which increases SCFA production, reduced tumor growth in MO offspring ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://aacrjournals.org/cancerres/article/86/7_Supplement/2869/780000"/>
-    <published>2026-04-06T14:58:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#6</id>
-    <title>An exopolysaccharide-rich fraction from Bifidobacterium animalis subsp. lactis MG741 ameliorates high-fat diet–induced MASLD by enhancing intestinal barrier ...</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HJ Kim, HK Son, YR Lee, Y Ahn, HB Lee, JY Lee... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... lactis MG741 (EPS-BL) by ethanol precipitation and dialysis, characterized its major molecular features, and evaluated its prebiotic and ... reinforcement of the gut barrier and modulation of the gut–liver metabolic axis, supporting its potential as a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0141813026017289"/>
-    <published>2026-04-06T14:58:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#5</id>
-    <title>Quantum Biology</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MV Pires de Sousa - Frontiers in Photonics&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... origin of life is one of the most important themes in quantum biology. Mechanistic and molecular-scale investigations about the origin of life are presented by Chemistry of the origins of life : how prebiotic ... computational approaches inform ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/photonics/articles/10.3389/fphot.2026.1826400/full"/>
-    <published>2026-04-06T14:58:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#4</id>
-    <title>Emergent Synthesis of Life's Molecular Toolkit from Bare Atoms via Free-Market Agent-Based Modeling</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Jaraiz&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Beyond origins - of - life research, the framework offers a rapid exploration tool for novel synthesis pathway design in modern chemistry. ... , and build increasingly complex molecules until, in just minutes of simulation time, the building blocks of life ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001587/v1"/>
-    <published>2026-04-06T14:58:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#3</id>
-    <title>Better origin (s) of life research through collaboration across disciplines</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Rajamani, C Mathis, S Asche, D Boulesteix, C Blanco... - Cell Reports Physical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Beyond the historical distance separating us from abiogenesis as it may have occurred on our planet, the difficulty of resolving the ... In this sense, the task of surveying the many techniques used to study the origin(s) of life seems tailor-made ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00126-8"/>
-    <published>2026-04-06T14:58:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#2</id>
-    <title>Prebiotic fiber supplementation mitigates the effects of maternal obesity on offspring's gut microbiome and mammary tumorigenesis</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Yadav, F Andrade, MO Onal, S Shirk, S Kenanogly... - Cancer Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The prevalence of maternal obesity has gradually increased over successive decades, with over 50% of pre-pregnant women in the United States at present time classified as overweight or obese. Maternal obesity exerts deleterious effects on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://aacrjournals.org/cancerres/article/86/7_Supplement/2864/780411"/>
-    <published>2026-04-06T14:58:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#1</id>
-    <title>Cilembu sweet potato (Ipomoea batatas L.) puree as a local prebiotic source to enhance the quality of synbiotic yogurt</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Rozana, PP Rahayu, L Hakim, N Jambang... - J. Anim. Health Prod, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... or imported prebiotic ingredients, ... prebiotic -related characteristics, yet its application as a prebiotic source in fermented dairy products has not been comprehensively evaluated. This study evaluated the use of Cilembu sweet potato (Ipomoea ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Agus-Bahar-Rachman/publication/403442099_Cilembu_Sweet_Potato_Ipomoea_batatas_L_Puree_as_a_Local_Prebiotic_Source_to_Enhance_the_Quality_of_Synbiotic_Yogurt/links/69cf480fe8c973662963c9d2/Cilembu-Sweet-Potato-Ipomoea-batatas-L-Puree-as-a-Local-Prebiotic-Source-to-Enhance-the-Quality-of-Synbiotic-Yogurt.pdf"/>
-    <published>2026-04-06T14:58:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e7d42fe6#0</id>
-    <title>Evaluation of Prebiotic Potential of Curdlan Gum Produced by Marine Bacteria, Enterobacter cloacae RSW2n</title>
-    <updated>2026-04-06T14:58:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Pandi, A Reghu, KS Subramaniyan, NB Gayathri... - Biology Bulletin, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The present study investigated the in vitro digestibility and prebiotic effect of curdlan gum ... In this perspective, curdlan gum produced using maltose was selected to evaluate prebiotic activity by ... Hence, curdlan gum produced by marine ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1134/S1062359025610250"/>
-    <published>2026-04-06T14:58:04+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Rasmussen, F Altieri, A Frigeri, J Brossier, JT Ponce...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The European Space Agency (ESA) Rosalind Franklin rover Mission (RFM) is expected to land at Oxia Planum, Mars in 2030. Orbital spectral data and imagery reveal layered, clay-rich sedimentary deposits, often overlain by or interbedded with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Douglas Jerolmack (author alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-12476.html"/>
+    <published>2026-04-07T14:53:02+00:00</published>
   </entry>
 </feed>
