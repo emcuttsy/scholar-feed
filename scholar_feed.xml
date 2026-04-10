@@ -2,173 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-10T07:28:22.857627+00:00</updated>
+  <updated>2026-04-10T14:41:24.043472+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa316#1</id>
-    <title>Assessment of PLATO Science Performance</title>
-    <updated>2026-04-09T22:03:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4b67e62#0</id>
+    <title>Spiking neuromorphic circuits for solving finite element problems</title>
+    <updated>2026-04-10T12:33:08+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>James B Aimone</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Cabrera, H Rauer, R Samadi, V Nascimbeni... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Since the uncertainty in the occurrence rate of planets in the habitable zone is high, we do a sensitivity study and generate simulations where no terrestrial planet in the habitable zone occurs (following strictly the reported occurrence rates) but we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.04818"/>
-    <published>2026-04-09T22:03:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BH Theilman, JB Aimone - US Patent App. 18/812,419, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A spiking neuromorphic circuit that instantiates a finite element methods (FEM) mesh is provided. The circuit comprises a number of groups of spiking neurons, wherein each group of spiking neurons represents a mesh node in the FEM mesh, wherein ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; James B Aimone (author alert)</content>
+    <link href="https://patents.google.com/patent/US20260057224A1/en"/>
+    <published>2026-04-10T12:33:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa316#0</id>
-    <title>Project B2/212/P1/PORTAL-PhOtotrophy on Rocky habiTAble pLanets BRAIN-be 2.0 (Belgian Research Action through Interdisciplinary Networks) 4</title>
-    <updated>2026-04-09T22:03:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4b67cd7#0</id>
+    <title>Biomining of Lunar-Relevant Materials under Simulated Lunar Gravity on the International Space Station</title>
+    <updated>2026-04-10T12:33:09+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Charles Cockell</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Javaux, P Cardol, V Dehant, M Gillon, Y Lara&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , our knowledge of terrestrial planet environments being restricted to the few 4.5-Gyrs old cases around the Sun and our comprehension of life , ... detection strategies during the mission ExoMars 2028 in which Promotor E Javaux is involved, and for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://orbi.uliege.be/bitstream/2268/343653/1/_PORTAL_FinRep.pdf"/>
-    <published>2026-04-09T22:03:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Acciardo, R Santomartino, C Cockell, C Magnabosco...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; With near-future manned space exploration expanding beyond low Earth orbit out toward the Moon and beyond, there is a critical need to understand how a sustained human lunar presence can be supported through in-situ resource utilization (ISRU) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-14643.html"/>
+    <published>2026-04-10T12:33:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#9</id>
-    <title>Impact of brewer's spent grain (BSG) and bio-transformed BSG biscuits on metabolic and gut health in adults with metabolic impairments: a randomized controlled trial</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4b5cf7f#1</id>
+    <title>Early to Middle Miocene terrestrial paleoenvironmental reconstructions of the Dinarides Lake System (Croatia, Bosnia and Herzegovina)</title>
+    <updated>2026-04-10T12:37:36+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Gerald Auer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Xu, ZN Leong, Y Huang, Z Ma, GCT Chan, JE Kim - European Journal of Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... its prebiotic effects, as the dietary fiber in BSG can be fermented by gut microbiota, particularly bifidobacteria and lactobacilli, and consequently producing SCFAs [17, 18]. Moreover, recent studies have also explored the potential prebiotic ... and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00394-026-03952-6"/>
-    <published>2026-04-09T22:03:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Moreau, M Löberbauer, G Sanchez-Ortiz, O Mandic...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Dinarides Lake System (DLS) constituted a set of intramontane freshwater lakes, which expanded during the Early to Middle Miocene in southeastern Europe. Sedimentation between ca. 18-12.5 Ma was contemporaneous with two well ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-7590.html"/>
+    <published>2026-04-10T12:37:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#8</id>
-    <title>The Impacts of Ready-To-Eat-Cereals and Cereal Fibers on Gut Health, Body Weight, and Cardiometabolic Health</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4b5cf7f#0</id>
+    <title>Calcite vein microstructures along the South Atlantic Transect: Implications for intraplate stress variations</title>
+    <updated>2026-04-10T12:37:36+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Gerald Auer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KB Comerford - Frontiers in Nutrition&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ready-to-eat breakfast cereals are a major source of dietary fiber, and their intake is associated with better diet quality and reduced incidence of chronic disease. However, dietary fiber intake remains significantly lower than recommended levels ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1717345/full"/>
-    <published>2026-04-09T22:03:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Kurz, L Eckstein, G Auer, T Kunkelova, T Müller...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The South Atlantic Transect (SAT) is a multidisciplinary scientific ocean drilling experiment designed to investigate the evolution of the ocean crust and overlying sediments across the western flank of the Mid-Atlantic Ridge (Coggon et al., 2024) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-5180.html"/>
+    <published>2026-04-10T12:37:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#7</id>
-    <title>On Theories of More Things</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4b5cea8#0</id>
+    <title>EDITED BY Stefania Masci, CIMMYT's maize Germplasm University of Tuscia, Italy REVIEWED BY Bank</title>
+    <updated>2026-04-10T12:37:37+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Kelly Swarts</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NM Aliman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... [5], the origin of life is not to be searched within Minuversum1. In the case of MWIAncestral, the origin of all life would have to be traced back to the Platonic landscape of string theory. In sum, while pseudo- panspermia , panspermia and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/archive/ALIOTO"/>
-    <published>2026-04-09T22:03:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Kumari, CA Guadarrama-Espinoza, Z Kehel...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; TYPE Original Research PUBLISHED 02 August 2022 DOI 10.3389/fsufs.2022.937200 Mining alleles for tar spot OPEN ACCESS complex resistance from EDITED BY Stefania Masci, CIMMYT's maize Germplasm University of Tuscia, Italy REVIEWED ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Kelly Swarts (author alert)</content>
+    <link href="https://cgspace.cgiar.org/server/api/core/bitstreams/399de01f-aa27-4624-837c-aad5f20b6fa1/content"/>
+    <published>2026-04-10T12:37:37+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#6</id>
-    <title>obal Ecology</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4b5cde2#0</id>
+    <title>Climate-Driven Slope Instability: Landslide Hazard at Danube riverside slopes (Hungary)</title>
+    <updated>2026-04-10T12:37:39+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Török, Ákos</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Tudge&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In Global Ecology, eminent science writer Colin Tudge offers an authoritative overview of ecological science, one that encompasses the many diverse terrains, climates and habitats of our planet while emphasizing the global unity of the Earth's ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3ceabb31-bcf9-4898-a359-b91bd85887fc/content"/>
-    <published>2026-04-09T22:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#5</id>
-    <title>Influence of CO versus CH $ _4 $ on organic haze formation in atmospheres of diverse terrestrial exoplanets</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Wang, Z Yang, H Li, C He, Y Wang, X Luo, Y Liu... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , and further support the possibility that reducing atmospheres may facilitate prebiotic organic chemistry relevant to the emergence of life . ... formulas consistent with prebiotic species suggests that reducing atmospheres may support organic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.03575"/>
-    <published>2026-04-09T22:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#4</id>
-    <title>From Chemistry to Life: The Mathematics of Inevitable Biology</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MW Vick - Scale Geometry (self-published), 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The paper accurately summarizes established laboratory evidence for abiogenesis . Its central claim, that life's emergence from chemistry is thermodynamically and statistically inevitable, is not established by the evidence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/403514519_DB-FEP_DQA_ELIS_Full_Protocol_Evaluation_From_Chemistry_to_Life_The_Mathematics_of_Inevitable_Biology_Step_1_Document_Profile_Title_From_Chemistry_to_Life_The_Mathematics_of_Inevitable_Biology/links/69d1aac9ac38122875668296/DB-FEP-DQA-ELIS-Full-Protocol-Evaluation-From-Chemistry-to-Life-The-Mathematics-of-Inevitable-Biology-Step-1-Document-Profile-Title-From-Chemistry-to-Life-The-Mathematics-of-Inevitable-Biology.pdf"/>
-    <published>2026-04-09T22:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#3</id>
-    <title>Natural Panspermia to Earth: Quantitative Limits on Donor Classes, Transport, Survival, and Establishment</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SG Turyshev - arXiv preprint arXiv:2604.03916, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our purpose here is therefore not to rehearse panspermia as a general idea, but to answer a narrower and more decisive Earth-specific question... Panspermia is often discussed as though it were a single proposition. It is not. At minimum one ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.03916"/>
-    <published>2026-04-09T22:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#2</id>
-    <title>Fermented Citrus as a Functional Food Matrix: Evaluating Probiotic, Prebiotic , and Postbiotic Potential</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kumari, R Debbarma, S Haque, H Baruah - AgriFood: Journal of Agricultural ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review critically evaluates the scientific basis for probiotic, prebiotic , synbiotic, and postbiotic potentials in fermented citrus products. ... Fermented citrus shows promise primarily as a source of prebiotic substrates and fermentation‐derived ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://iadns.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agf2.70018"/>
-    <published>2026-04-09T22:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#1</id>
-    <title>Protein coacervation-driven active forces power protocell dynamics</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Jia, H Sun, W Zhang, X Ning, S Mann - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Protein coacervates formed by liquid-liquid phase separation are emerging as active force generators, independent of ATP-driven motors. Nevertheless, the coordination and force scaling of protein coacervates remain largely unexplored. Here, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41467-026-71593-8"/>
-    <published>2026-04-09T22:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e45fa20a#0</id>
-    <title>Experimental and Computational Simulation of the Prebiotic Peptide Bond Formation Driven by Wet-Dry Cycles and Gamma Ionizing Radiation: An Insight into ...</title>
-    <updated>2026-04-09T22:03:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Fonseca-González, CA Fuentes-Carreon... - Journal of Molecular ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life through prebiotic chemistry and molecular evolution processes is a ... frequent wet-dry cycles to promote prebiotic peptide synthesis. Our preliminary results substantiate ... We propose that its gamma-irradiated form is a plausible ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00239-026-10309-4"/>
-    <published>2026-04-09T22:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e4623078#2</id>
-    <title>Interaction with the Environment via Random Matrices and the Emergence of Classical Field Theory</title>
-    <updated>2026-04-10T01:38:41+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AA Kryukov -arXivpreprintarXiv:2604.03778, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; It was recently shown that Newtonian dynamics of macroscopic particles can be derived from unitary Schr\"odinger evolution under an assumption on the system-environment interaction, namely that the interaction Hamiltonian effectively exhibits a random-matrix ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.03778"/>
-    <published>2026-04-10T01:38:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e4623078#1</id>
-    <title>CASCADE: A Cascading Architecture for Social Coordination with Controllable Emergence at Low Cost</title>
-    <updated>2026-04-10T01:38:41+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Xu -arXivpreprintarXiv:2604.03091, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Creating scalable and believable game societies requires balancing authorial control with computational cost. Existing scripted NPC systems scale efficiently but are often rigid, whereas fully LLM-driven agents can produce richer social behavior ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.03091"/>
-    <published>2026-04-10T01:38:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e4623078#0</id>
-    <title>Prediction of Magnetic Flux Evolution During Solar Active Region Emergence using Long Short-Term Memory Networks</title>
-    <updated>2026-04-10T01:38:41+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Dogan, S Kasapis, S Patil, J Tirona, J Stefan... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We develop machine learning models capable of predicting the evolution of magnetic flux during AR emergence using 1D time series of the ... To define magnetic flux emergence , we adopt an emergence criterion similar to that of Kasapis et al. (2025) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.03507"/>
-    <published>2026-04-10T01:38:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Á Török, A Kis, B Turák, S Rózsa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Slope movements are among the most widespread and damaging natural hazards in Hungary and worldwide. In recent decades, the occurrence and impact of landslides and related mass movements have markedly increased, a trend commonly linked to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Török, Ákos (author alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-14824.html"/>
+    <published>2026-04-10T12:37:39+00:00</published>
   </entry>
 </feed>
