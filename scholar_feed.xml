@@ -2,74 +2,239 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-10T14:41:24.043472+00:00</updated>
+  <updated>2026-04-11T07:01:14.752108+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e4b67e62#0</id>
-    <title>Spiking neuromorphic circuits for solving finite element problems</title>
-    <updated>2026-04-10T12:33:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4ee783a#4</id>
+    <title>Optical outburst evolution of the transient black hole X-ray binary Swift J1727. 8-1613: Disc response to jet ejections and late-outburst emergence of powerful disc ...</title>
+    <updated>2026-04-10T16:47:49+00:00</updated>
     <author>
-      <name>James B Aimone</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BH Theilman, JB Aimone - US Patent App. 18/812,419, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A spiking neuromorphic circuit that instantiates a finite element methods (FEM) mesh is provided. The circuit comprises a number of groups of spiking neurons, wherein each group of spiking neurons represents a mesh node in the FEM mesh, wherein ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; James B Aimone (author alert)</content>
-    <link href="https://patents.google.com/patent/US20260057224A1/en"/>
-    <published>2026-04-10T12:33:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Castro Segura, K Solomons, JM Corral-Santana... -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Swift J1727. 8$-$1613 is a newly discovered transient low-mass X-ray binary harbouring a stellar-mass ($\sim 10M_\odot $) black hole. We present state-resolved VLT/X-Shooter optical spectroscopy of its 2023 outburst, sampling the luminous hard-to-soft ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260317023C/abstract"/>
+    <published>2026-04-10T16:47:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e4b67cd7#0</id>
-    <title>Biomining of Lunar-Relevant Materials under Simulated Lunar Gravity on the International Space Station</title>
-    <updated>2026-04-10T12:33:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4ee783a#3</id>
+    <title>Contractions of the relativistic quantum LCT group and the emergence of spacetime symmetries</title>
+    <updated>2026-04-10T16:47:49+00:00</updated>
     <author>
-      <name>Charles Cockell</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Acciardo, R Santomartino, C Cockell, C Magnabosco...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; With near-future manned space exploration expanding beyond low Earth orbit out toward the Moon and beyond, there is a critical need to understand how a sustained human lunar presence can be supported through in-situ resource utilization (ISRU) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-14643.html"/>
-    <published>2026-04-10T12:33:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Feno Hasina Rasamimanana... -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Advances in the study of relativistic quantum phase space have established the set of Linear Canonical Transformations (LCTs) as a candidate for the fundamental symmetry group associated with relativistic quantum physics. In this framework, for a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260321333F/abstract"/>
+    <published>2026-04-10T16:47:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e4b5cf7f#1</id>
-    <title>Early to Middle Miocene terrestrial paleoenvironmental reconstructions of the Dinarides Lake System (Croatia, Bosnia and Herzegovina)</title>
-    <updated>2026-04-10T12:37:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4ee783a#2</id>
+    <title>Emergence of volume-law scaling for entanglement negativity from the Hawking radiation of analogue black holes</title>
+    <updated>2026-04-10T16:47:49+00:00</updated>
     <author>
-      <name>Gerald Auer</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Moreau, M Löberbauer, G Sanchez-Ortiz, O Mandic...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Dinarides Lake System (DLS) constituted a set of intramontane freshwater lakes, which expanded during the Early to Middle Miocene in southeastern Europe. Sedimentation between ca. 18-12.5 Ma was contemporaneous with two well ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-7590.html"/>
-    <published>2026-04-10T12:37:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Mahesh Chandran, UR Fischer -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The quantum information content of Hawking radiation holds the key to understanding black-hole evaporation and the fate of unitarity. Motivated by recent advances in cold-atom experiments, we develop a lattice-regularization approach ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260402075M/abstract"/>
+    <published>2026-04-10T16:47:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e4b5cf7f#0</id>
-    <title>Calcite vein microstructures along the South Atlantic Transect: Implications for intraplate stress variations</title>
-    <updated>2026-04-10T12:37:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4ee783a#1</id>
+    <title>The Structure of Scientific Socialism: Quantum Emergence , Frustration, and the Non-Dual Dialectic</title>
+    <updated>2026-04-10T16:47:49+00:00</updated>
     <author>
-      <name>Gerald Auer</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Kurz, L Eckstein, G Auer, T Kunkelova, T Müller...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The South Atlantic Transect (SAT) is a multidisciplinary scientific ocean drilling experiment designed to investigate the evolution of the ocean crust and overlying sediments across the western flank of the Mid-Atlantic Ridge (Coggon et al., 2024) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-5180.html"/>
-    <published>2026-04-10T12:37:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Barman Roy -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Classical Marxism and the algebra of revolution were formulated within the ontological constraints of 19th-century Newtonian materialism-a world of discrete, predictable, billiard-ball interactions. However, the 20th-century transitions in physics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260327649B/abstract"/>
+    <published>2026-04-10T16:47:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e4b5cea8#0</id>
-    <title>EDITED BY Stefania Masci, CIMMYT's maize Germplasm University of Tuscia, Italy REVIEWED BY Bank</title>
-    <updated>2026-04-10T12:37:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76e4ee783a#0</id>
+    <title>Emergence of the Partial Trace from Classical Probability Theory</title>
+    <updated>2026-04-10T16:47:49+00:00</updated>
     <author>
-      <name>Kelly Swarts</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Kumari, CA Guadarrama-Espinoza, Z Kehel...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; TYPE Original Research PUBLISHED 02 August 2022 DOI 10.3389/fsufs.2022.937200 Mining alleles for tar spot OPEN ACCESS complex resistance from EDITED BY Stefania Masci, CIMMYT's maize Germplasm University of Tuscia, Italy REVIEWED ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Kelly Swarts (author alert)</content>
-    <link href="https://cgspace.cgiar.org/server/api/core/bitstreams/399de01f-aa27-4624-837c-aad5f20b6fa1/content"/>
-    <published>2026-04-10T12:37:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Macho Ortiz, FJ Fraile Peláez, J Capmany -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The partial trace is commonly introduced in quantum mechanics as an algebraic operation used to define reduced states of composite systems. However, the probabilistic origin of this operation goes systematically unnoticed in the literature ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260324290M/abstract"/>
+    <published>2026-04-10T16:47:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76e4b5cde2#0</id>
-    <title>Climate-Driven Slope Instability: Landslide Hazard at Danube riverside slopes (Hungary)</title>
-    <updated>2026-04-10T12:37:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bc0f9#0</id>
+    <title>Searching for Life as We Don't Know It: Detecting Signatures of Planetary -scale Complexity in Exoplanet Atmospheric Spectra</title>
+    <updated>2026-04-10T23:03:46+00:00</updated>
     <author>
-      <name>Török, Ákos</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Á Török, A Kis, B Turák, S Rózsa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Slope movements are among the most widespread and damaging natural hazards in Hungary and worldwide. In recent decades, the occurrence and impact of landslides and related mass movements have markedly increased, a trend commonly linked to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Török, Ákos (author alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-14824.html"/>
-    <published>2026-04-10T12:37:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Walker, E Janin, E Shkolnik, L Slocombe - ... Society of the Pacific Conference Series, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These findings underscore the framework's value as a complementary approach to biosignatures , less restricted to Earth-like life ... Habitable Worlds Observatory (HWO) is uniquely positioned as NASA's first telescope dedicated to the search for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..325W/abstract"/>
+    <published>2026-04-10T23:03:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bc0c0#3</id>
+    <title>Tracing life through light: to ards detecting life on exoplanets ith spectroscop and spectropolarimetr</title>
+    <updated>2026-04-10T23:03:46+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Mulder&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Jupiter ' has a mass of a bit more than five Jupiter masses. To date, 82 planets have been directly imaged, including about 50 other Super Jupiters ... High-resolution Doppler spectroscopy plays a crucial role in our understanding of exoplanet ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://scholarlypublications.universiteitleiden.nl/access/item%3A4300418/download"/>
+    <published>2026-04-10T23:03:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bc0c0#2</id>
+    <title>Vipa-based Instrument for Oxygen Loaded Atmospheres (VIOLA) for VLT2030 and beyond</title>
+    <updated>2026-04-10T23:03:46+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Rukdee - VLT Beyond 2030, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of exoplanet atmospheres is key to identifying habitable worlds and potential biosignatures . ... HCN around nearby M-dwarf super - Earth , sub - Neptune exoplanets from a ground-based ... of astrophysics in the ELT era, enabling ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026vltb.confE..62R/abstract"/>
+    <published>2026-04-10T23:03:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bc0c0#1</id>
+    <title>Continuing to Advance European High-ContrastImaging R&amp;D towards HWO and LIFE</title>
+    <updated>2026-04-10T23:03:46+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Chauvin, O Carrion-Gonzalez, I Laginja, D Dicken...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This report represents a milestone for the European HCI community. It is a collective effort to consolidate expertise, define strategic ... the next generation of exoplanet exploration. As part of the RD-HCI II organization, following updates on the Roman ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.researchsquare.com/article/rs-9085916/latest.pdf"/>
+    <published>2026-04-10T23:03:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bc0c0#0</id>
+    <title>Searching for Life as We Don't Know It: Detecting Signatures of Planetary-scale Complexity in Exoplanet Atmospheric Spectra</title>
+    <updated>2026-04-10T23:03:46+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Walker, E Janin, E Shkolnik, L Slocombe - ... Society of the Pacific Conference Series, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... life on exoplanets is a central challenge of 21st-century astronomy. We present a new, observation-driven framework for life detection that applies Assembly Theory to exoplanet ... worlds and simulated archetypal exoplanets, including Hot Jupiters ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..325W/abstract"/>
+    <published>2026-04-10T23:03:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bc02a#0</id>
+    <title>The JWST Search for Earth-Luna Analogs: Upper Limits on Exomoons and Refined Ephemerides for TOI 700 d and e</title>
+    <updated>2026-04-10T23:03:47+00:00</updated>
+    <author>
+      <name>JL bean</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EK Pass, D Charbonneau, A Vanderburg,JL Bean- arXiv preprint arXiv:2604.05235, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; While no conclusive detections of exomoons have been reported to date, planet formation theories predict that satellites should be a common outcome of the collisional dynamics in early extrasolar systems. Such satellites have the potential to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.05235"/>
+    <published>2026-04-10T23:03:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#9</id>
+    <title>Synergistic efficacy of probiotics with prebiotics in managing colorectal cancer</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Soni, U Noor, E Gupta - ... for Better Life withPrebiotic, Probiotic, Postbiotic and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Colorectal cancer (CRC) is one of the most prevalent malignancies worldwide and represents a major public health concern due to its increasing incidence and mortality rates. Recent advances in microbiome research have highlighted the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Nidhi-Singh-116/publication/403546369_Gut_Revolution_Optimizing_Nutrition_and_Health_for_Better_Life_with_Prebiotic_Probiotic_Postbiotic_and_Synbiotic/links/69d3da7eb6bee42358230ed9/Gut-Revolution-Optimizing-Nutrition-and-Health-for-Better-Life-with-Prebiotic-Probiotic-Postbiotic-and-Synbiotic.pdf#page=92"/>
+    <published>2026-04-10T23:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#8</id>
+    <title>A Clue for the Hen and Egg Question: The Simultaneous Formation of Uracil and Amino Acids Under Simulated Hadean Conditions</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Seitz, D Schuldeis, K Vogel, W Eisenreich, C Huber - Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life is commonly discussed within two competing conceptual frameworks: the metabolism - first and information-first hypotheses. While ... building blocks, offering a potential resolution to the dichotomy between metabolism - first and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2075-1729/16/4/624"/>
+    <published>2026-04-10T23:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#7</id>
+    <title>Prebiosignatures with the Habitable Worlds Observatory</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ranjan, D Adams, M Wong, M Schlecker, N Wogan... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiosignatures gases are gases whose detection constrains theories of the evolution of prebiotic (habitable but uninhabited) planets, thereby testing theories of abiogenesis and guiding laboratory investigations of the origin of life . We catalog 5 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..309R/abstract"/>
+    <published>2026-04-10T23:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#6</id>
+    <title>Atmospheric stability and its implication on prebiotic chemistry on early Venus, Earth, and Mars</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Scherf, F Weichbold, H Lammer, P Woitke...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... atmospheric stability and the lower atmosphere/homosphere to evaluate prebiotic chemistry and climatic conditions if we want to better ... rainout of prebiotic molecules (with a focus on formaldehyde) within thermally stable atmospheres, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-19506.html"/>
+    <published>2026-04-10T23:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#5</id>
+    <title>Correction to:'The prebiotic emergence of biological evolution'Kocher and Dill</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Kocher, K Dill - Royal Society Open Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; There is a typo in our article,'The prebiotic emergence of biological evolution.'R. Soc. Open Sci. 11: 240431 (https://doi. org/10.1098/rsos. 240431). In Equation (B 1), the rate equation for monomer (⁠ du 1/dt=...⁠) had the wrong sign on the term ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://royalsocietypublishing.org/rsos/article/13/4/260430/481271"/>
+    <published>2026-04-10T23:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#4</id>
+    <title>What it takes to solve the origin of life : An integrated review. Part 1–Experimental methods and data repositories</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Asche, C Bautista, C Blanco, D Boulesteix... - Cell Reports Physical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It has found applications in studying the role of amino acids and simulated prebiotic reaction mixtures in the formation of goethite, 34 the ... RS is usually not used exclusively but in conjunction with other techniques to establish the surface ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00118-9"/>
+    <published>2026-04-10T23:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#3</id>
+    <title>Nutritional composition, in vitro prebiotic potential, and antimicrobial efficacy of Wheatgrass (Triticum aestivum)</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Tripathi, N Mishra, D Pandey, K Shah, NS Chauhan - Vegetos, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The current research prospect deals with the in-vitro nutritional analysis, prebiotic potency, antimicrobial activity and HPLC of the wheatgrass extract.The antimicrobial activity was assessed by agar well diffusion method. The proximate analysis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s42535-026-01628-4"/>
+    <published>2026-04-10T23:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#2</id>
+    <title>Effects of Prebiotic Gum Arabic Under Antibiotic-Containing Conditions in Atopic Dermatitis-Associated Bacteria: In Vitro Evaluation and Development of Semisolid ...</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Doğanay, E Mertoğlu, AA Kurt, BC Özkan... - Antibiotics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Moreover, the controlled and predictable release of active prebiotic components from the ... The primary objective of this study was to evaluate whether GA, as a prebiotic , could support ... Consistent with the literature, our findings demonstrated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2079-6382/15/4/378"/>
+    <published>2026-04-10T23:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#1</id>
+    <title>Emergence of autocatalysis in prebiotic reaction networks</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Varanasi, J Korenaga - Physical Review E, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper presents an analytical model for the emergence of reflexively autocatalytic and food-generated (RAF) sets in Kauffman networks. The sharp transition in the probability of observing RAF sets as a function of catalytic probability ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.aps.org/pdf/10.1103/nmt5-qsym"/>
+    <published>2026-04-10T23:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76db1bbf4e#0</id>
+    <title>Maternal choline and prebiotic supplementation ameliorate PCOS traits and reduce intergenerational transmission in rats</title>
+    <updated>2026-04-10T23:03:50+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Rawat, A Sandhu, A Kumar, L Saha, A Bhatia... - Life Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Polycystic ovary syndrome (PCOS) is a common endocrine disorder with strong heritability, driven by complex metabolic, epigenetic, and gut-microbial dysregulation. While both epigenetic and microbial axes are implicated in PCOS, their integration ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0024320526001943"/>
+    <published>2026-04-10T23:03:50+00:00</published>
   </entry>
 </feed>
