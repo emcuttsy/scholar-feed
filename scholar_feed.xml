@@ -2,184 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-12T07:14:33.321164+00:00</updated>
+  <updated>2026-04-12T14:31:49.255265+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db855725#0</id>
-    <title>Super-Solar Metallicity and Tentative Evidence for Photochemistry on WASP-96b from JWST and Ground-Based VLT Transmission Spectroscopy</title>
-    <updated>2026-04-11T22:49:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#4</id>
+    <title>The AI Skills Shift: Mapping Skill Obsolescence, Emergence , and Transition Pathways in the LLM Era</title>
+    <updated>2026-04-12T11:38:43+00:00</updated>
     <author>
-      <name>Jake Taylor</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Radica, J Taylor, Y Rotman, J Blecic, L Welbanks... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; With its expanded wavelength coverage and increased precision compared to previous space-based observatories, JWST provides the opportunity to revisit benchmark planets and view them in a new light. Here, we conduct an in-depth study ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jake Taylor (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.05049"/>
-    <published>2026-04-11T22:49:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Jadhav, J Danve -arXivpreprintarXiv:2604.06906, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As Large Language Models reshape the global labor market, policymakers and workers need empirical data on which occupational skills may be most susceptible to automation. We present the Skill Automation Feasibility Index (SAFI) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.06906"/>
+    <published>2026-04-12T11:38:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db8556d8#1</id>
-    <title>The Search for Life on Potentially Habitable Exoplanets</title>
-    <updated>2026-04-11T22:49:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#3</id>
+    <title>Emergence of Non-Markovian Classical-Quantum Dynamics from Decoherence</title>
+    <updated>2026-04-12T11:38:43+00:00</updated>
     <author>
-      <name>Sara Imari Walker</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Arney, N Parenteau, N Hinkel, E Mamajek... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The discovery of a biosphere on another planet would transform how we view ourselves, and our planet Earth, in relation to the rest of the cosmos. We now know Earth is one planet among eight circling our sun; our sun is part of a swirling galaxy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sara Imari Walker (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..279A/abstract"/>
-    <published>2026-04-11T22:49:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Tomizuka, H Takeda -arXivpreprintarXiv:2604.06891, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The quantum nature of gravity remains experimentally unverified, despite recent proposals to probe it using tabletop experiments such as gravity-mediated entanglement schemes. In parallel, consistent formulations of classical--quantum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.06891"/>
+    <published>2026-04-12T11:38:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db8556d8#0</id>
-    <title>Searching for Life as We Don't Know It: Detecting Signatures of Planetary-scale Complexity in Exoplanet Atmospheric Spectra</title>
-    <updated>2026-04-11T22:49:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#2</id>
+    <title>Dissipative Hamilton Jacobi Dynamics and the Emergence of Quantum Wave Mechanics</title>
+    <updated>2026-04-12T11:38:43+00:00</updated>
     <author>
-      <name>Sara Imari Walker</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Walker, E Janin, E Shkolnik, L Slocombe - ... Society of the Pacific Conference Series, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Detecting extraterrestrial life on exoplanets is a central challenge of 21st-century astronomy. We present a new, observation-driven framework for life detection that applies Assembly Theory to exoplanet atmospheres, with the goal of revealing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sara Imari Walker (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..325W/abstract"/>
-    <published>2026-04-11T22:49:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NJ Matjelo -arXivpreprintarXiv:2604.06455, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We develop a dissipative extension of classical mechanics based on a complex, and more generally quaternionic, action principle that endows every classical system with an intrinsic environment. Decomposing the action into conservative and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.06455"/>
+    <published>2026-04-12T11:38:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db855694#1</id>
-    <title>Detecting and Characterizing Venus Analogs Orbiting Other Stars with the Habitable Worlds Observatory</title>
-    <updated>2026-04-11T22:49:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#1</id>
+    <title>Emergence of cooperation in nonlinear higher-order public goods games</title>
+    <updated>2026-04-12T11:38:43+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SR Kane, EL Miles, CM Ostberg, NR Izenberg, S Blunt... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding planetary habitability requires a comparative approach anchored to the divergent evolutionary outcomes of Earth and Venus. The Habitable Worlds Observatory (HWO) will be uniquely positioned to conduct a statistical and physical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..529K/abstract"/>
-    <published>2026-04-11T22:49:48+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Llabrés, O Sadekar, F Malizia, F Battiston -arXivpreprintarXiv:2604.07228, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Evolutionary game theory has provided substantial contributions to explain the emergence of cooperation under unfavourable conditions in ... Here, we study the emergence of cooperation in a nonlinear public goods game (PGG) on hypergraphs ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.07228"/>
+    <published>2026-04-12T11:38:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db855694#0</id>
-    <title>Detecting Surface Liquid Water on Exoplanets</title>
-    <updated>2026-04-11T22:49:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#0</id>
+    <title>Tracking the emergence of linguistic structure in self-supervised models learning from speech</title>
+    <updated>2026-04-12T11:38:43+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Lustig-Yaeger, NB Cowan, R Hu, LC Mayorga... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Planets with large bodies of water on their surface will have more temperate and stable climates, and such planets are the ideal places for life-as-we-know-it to arise and evolve. A key science case for the Habitable Worlds Observatory (HWO) is to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..439L/abstract"/>
-    <published>2026-04-11T22:49:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db855684#0</id>
-    <title>Quantum coherence in neuromorphic computing</title>
-    <updated>2026-04-11T22:49:48+00:00</updated>
-    <author>
-      <name>Gregory Scholes</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Wang, K Li, GD Scholes - The Journal of Chemical Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Yuanheng Wang ORCID logo https://orcid. org/0000-0002-4683-1614 a), Kai Li ORCID logo https://orcid. org/0000-0001-7025-5314, Gregory D. Scholes ORCID logo https://orcid. org/0000-0003-3336-7960 b)&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://pubs.aip.org/aip/jcp/article/164/14/145102/3386461"/>
-    <published>2026-04-11T22:49:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db855647#0</id>
-    <title>Explanation, scope, and perspective: sources of schismogenesis in consciousness science</title>
-    <updated>2026-04-11T22:49:49+00:00</updated>
-    <author>
-      <name>Naotsugu Tsuchiya</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Ellia, N Tsuchiya - Trends in Cognitive Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Contemporary consciousness science faces an impasse: competing theoretical frameworks—structuralist versus functionalist, universal versus local, intrinsic versus extrinsic—appear to be inducing philosophical deadlocks and conceptual standstills ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Naotsugu Tsuchiya (author alert)</content>
-    <link href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(26)00055-0"/>
-    <published>2026-04-11T22:49:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db855632#2</id>
-    <title>Testing False Positive Biosignature Scenarios with the Habitable Worlds Observatory</title>
-    <updated>2026-04-11T22:49:50+00:00</updated>
-    <author>
-      <name>Joshua Krissansen-Totton</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EW Schwieterman, J Krissansen-Totton... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The search for life is one of the primary science cases for the Habitable Worlds Observatory. Important potential biosignatures include molecular oxygen (O 2) and its photochemical proxy ozone (O 3), which could signify the presence of a global ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joshua Krissansen-Totton (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..357S/abstract"/>
-    <published>2026-04-11T22:49:50+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db855632#1</id>
-    <title>The Search for Life on Potentially Habitable Exoplanets</title>
-    <updated>2026-04-11T22:49:50+00:00</updated>
-    <author>
-      <name>Joshua Krissansen-Totton</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Arney, N Parenteau, N Hinkel, E Mamajek... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The discovery of a biosphere on another planet would transform how we view ourselves, and our planet Earth, in relation to the rest of the cosmos. We now know Earth is one planet among eight circling our sun; our sun is part of a swirling galaxy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joshua Krissansen-Totton (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..279A/abstract"/>
-    <published>2026-04-11T22:49:50+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db855632#0</id>
-    <title>Breathing Worlds: Leveraging Seasonality for Exo-Earth Biosphere Characterization with HWO</title>
-    <updated>2026-04-11T22:49:50+00:00</updated>
-    <author>
-      <name>Joshua Krissansen-Totton</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ÉA Laflèche, AG Ulses, S Gilbert-Janizek, J Jernigan... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Earth is a complex, living system that experiences significant changes over a variety of timescales, including seasonal cycles. Exo-Earths observed with the Habitable Worlds Observatory (HWO) likely experience seasons as well, but the consequences ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joshua Krissansen-Totton (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..377L/abstract"/>
-    <published>2026-04-11T22:49:50+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db8555ef#0</id>
-    <title>VizieR Online Data Catalog: Keck/NIRES spectrum for CWISE J105512. 11+ 544328.3 (Robbins+, 2023)</title>
-    <updated>2026-04-11T22:49:51+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Robbins, AM Meisner, AC Schneider, AJ Burgasser... - VizieR Online Data Catalog, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; VizieR Online Data Catalog: Keck/NIRES spectrum for CWISE J105512.11+544328.3 (Robbins+, 2023) - ADS Now on home page ads icon ads Enable full ADS view ADS VizieR Online Data Catalog: Keck/NIRES spectrum for CWISE J105512.11+544328.3 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026yCat..19580094R/abstract"/>
-    <published>2026-04-11T22:49:51+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db8555e3#2</id>
-    <title>Testing False Positive Biosignature Scenarios with the Habitable Worlds Observatory</title>
-    <updated>2026-04-11T22:49:52+00:00</updated>
-    <author>
-      <name>Jacob Lustig-Yaeger</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EW Schwieterman, J Krissansen-Totton... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The search for life is one of the primary science cases for the Habitable Worlds Observatory. Important potential biosignatures include molecular oxygen (O 2) and its photochemical proxy ozone (O 3), which could signify the presence of a global ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..357S/abstract"/>
-    <published>2026-04-11T22:49:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db8555e3#1</id>
-    <title>The Search for Life on Potentially Habitable Exoplanets</title>
-    <updated>2026-04-11T22:49:52+00:00</updated>
-    <author>
-      <name>Jacob Lustig-Yaeger</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Arney, N Parenteau, N Hinkel, E Mamajek... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The discovery of a biosphere on another planet would transform how we view ourselves, and our planet Earth, in relation to the rest of the cosmos. We now know Earth is one planet among eight circling our sun; our sun is part of a swirling galaxy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..279A/abstract"/>
-    <published>2026-04-11T22:49:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db8555e3#0</id>
-    <title>Detecting Surface Liquid Water on Exoplanets</title>
-    <updated>2026-04-11T22:49:52+00:00</updated>
-    <author>
-      <name>Jacob Lustig-Yaeger</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Lustig-Yaeger, NB Cowan, R Hu, LC Mayorga... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Planets with large bodies of water on their surface will have more temperate and stable climates, and such planets are the ideal places for life-as-we-know-it to arise and evolve. A key science case for the Habitable Worlds Observatory (HWO) is to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..439L/abstract"/>
-    <published>2026-04-11T22:49:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db855510#0</id>
-    <title>The central dogma in reverse</title>
-    <updated>2026-04-11T22:49:54+00:00</updated>
-    <author>
-      <name>William Martin</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Mrnjavac, WF Martin - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Among all issues in early evolution, the origin of the genetic code is far and away the most poorly resolved. As such, there is no shortage of theories as to how it arose (1, 2). In PNAS, Shi et al.(3) report laboratory experiments that run counter to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; William Martin (author alert)</content>
-    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2604888123"/>
-    <published>2026-04-11T22:49:54+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76db9be31e#0</id>
-    <title>Nonthermal X-Ray Emission Associated with Supra-arcade Downflows in the Late Decay Phase of a Solar Flare</title>
-    <updated>2026-04-11T23:10:09+00:00</updated>
-    <author>
-      <name>Astrid Veronig</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Pan, AM Veronig, R Liu, Y Li, T Gou - The Astrophysical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Supra-arcade downflows (SADs)—dark, tadpole-like, sunward-moving structures observed above post-flare loops—are considered key signatures of magnetic reconnection in solar eruptions. However, their physical origin and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/1538-4357/ae5183/pdf"/>
-    <published>2026-04-11T23:10:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M de Heer Kloots, M Bentum, H Mohebbi, C Pouw... -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Self-supervised speech models learn effective representations of spoken language, which have been shown to reflect various aspects of linguistic structure. But when does such structure emerge in model training? We study the encoding of a wide ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260402043D/abstract"/>
+    <published>2026-04-12T11:38:43+00:00</published>
   </entry>
 </feed>
