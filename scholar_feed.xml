@@ -2,63 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-12T14:31:49.255265+00:00</updated>
+  <updated>2026-04-13T08:03:56.237982+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#4</id>
-    <title>The AI Skills Shift: Mapping Skill Obsolescence, Emergence , and Transition Pathways in the LLM Era</title>
-    <updated>2026-04-12T11:38:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76da00895e#1</id>
+    <title>Chemical Abundances Shape History (CASH). I. A Link between Giant Planets Orbital Periods and Host Stellar C/O Ratios</title>
+    <updated>2026-04-12T22:53:30+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Jadhav, J Danve -arXivpreprintarXiv:2604.06906, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As Large Language Models reshape the global labor market, policymakers and workers need empirical data on which occupational skills may be most susceptible to automation. We present the Skill Automation Feasibility Index (SAFI) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.06906"/>
-    <published>2026-04-12T11:38:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Zhang, JW Xie, M Pan, B Liu, JL Zhou, J Wang... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... near PB ≈ 35 days, close to our fiducial boundary of 30days and consistent with the transition region between hot and warm Jupiters . ... Future high-precision spectroscopic surveys of exoplanet hosts, coupled with advanced hydrodynamical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.06809"/>
+    <published>2026-04-12T22:53:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#3</id>
-    <title>Emergence of Non-Markovian Classical-Quantum Dynamics from Decoherence</title>
-    <updated>2026-04-12T11:38:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76da00895e#0</id>
+    <title>Habitability Study of Terrestrial Planets: Application to Venus -like Worlds</title>
+    <updated>2026-04-12T22:53:30+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Tomizuka, H Takeda -arXivpreprintarXiv:2604.06891, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The quantum nature of gravity remains experimentally unverified, despite recent proposals to probe it using tabletop experiments such as gravity-mediated entanglement schemes. In parallel, consistent formulations of classical--quantum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.06891"/>
-    <published>2026-04-12T11:38:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Raviprakash, MK Jagadeesh, M Safonova... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to the extreme forms of life , we introduced the Mars Similarity Index (MSI). However, extreme forms of life have also been hypothesized ... In our calculations, the exoplanet data is obtained from the online Exoplanets Catalog (PHL-EC) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.06792"/>
+    <published>2026-04-12T22:53:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#2</id>
-    <title>Dissipative Hamilton Jacobi Dynamics and the Emergence of Quantum Wave Mechanics</title>
-    <updated>2026-04-12T11:38:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76da0088e7#0</id>
+    <title>Extreme Arabian environments and their microbiomes: new frontiers for astrobiology and biosignature discovery</title>
+    <updated>2026-04-12T22:53:32+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NJ Matjelo -arXivpreprintarXiv:2604.06455, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We develop a dissipative extension of classical mechanics based on a complex, and more generally quaternionic, action principle that endows every classical system with an intrinsic environment. Decomposing the action into conservative and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.06455"/>
-    <published>2026-04-12T11:38:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Schultz, PM García-Martínez, S Altalhi, N Kontis... - Extremophiles, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Astrobiology assesses the habitability of planetary bodies and the potential for extraterrestrial life . Analog environments on Earth serve as ... The primary objective of astrobiology is to assess the potential habitability of planetary bodies in this solar ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s00792-026-01426-5"/>
+    <published>2026-04-12T22:53:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#1</id>
-    <title>Emergence of cooperation in nonlinear higher-order public goods games</title>
-    <updated>2026-04-12T11:38:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#9</id>
+    <title>EFFECT OF INULIN AND ALOE VERA EXTRACT ON FUNCTIONAL PARAMETERS IN THE PRODUCTION OF WHEY-BASED BEVERAGES</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Llabrés, O Sadekar, F Malizia, F Battiston -arXivpreprintarXiv:2604.07228, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Evolutionary game theory has provided substantial contributions to explain the emergence of cooperation under unfavourable conditions in ... Here, we study the emergence of cooperation in a nonlinear public goods game (PGG) on hypergraphs ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.07228"/>
-    <published>2026-04-12T11:38:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Ismaylov - Вестник науки, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The demand for functional beverages in the modern food industry is growing rapidly. This research is devoted to studying the effect of inulin and aloe vera extract on the physicochemical, rheological, and organoleptic parameters in the production of whey-based ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://cyberleninka.ru/article/n/effect-of-inulin-and-aloe-vera-extract-on-functional-parameters-in-the-production-of-whey-based-beverages"/>
+    <published>2026-04-12T22:53:33+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dbc70f53#0</id>
-    <title>Tracking the emergence of linguistic structure in self-supervised models learning from speech</title>
-    <updated>2026-04-12T11:38:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#8</id>
+    <title>Abiotic CO2 reduction promoted by carbonate and phyllosilicate minerals on the primitive seafloor</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M de Heer Kloots, M Bentum, H Mohebbi, C Pouw... -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Self-supervised speech models learn effective representations of spoken language, which have been shown to reflect various aspects of linguistic structure. But when does such structure emerge in model training? We study the encoding of a wide ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260402043D/abstract"/>
-    <published>2026-04-12T11:38:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhong, N Zhang, D Huan, J Low, I Daniel... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... by carbonates and phyllosilicates could facilitate the origin of life on the primitive Earth and ... The origin of life is a perplexing problem that probably depends on the availability of organic ... , under temperature-pressure conditions potentially relevant ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41467-026-71130-7"/>
+    <published>2026-04-12T22:53:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#7</id>
+    <title>Development of probiotic enriched chakka whey drink</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Sakhare, SR Badhe, KS Rathod, AP Dhok, SA Ingle...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... NCDC-14, with and without the prebiotic inulin, to formulate three treatment variants: T1 (... compared to T2, indicating a marked prebiotic mediated protective effect of inulin on probiotic ... Furthermore, the incorporation of inulin as a prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Shekhar-Badhe/publication/403570757_Development_of_probiotic_enriched_chakka_whey_drink_DA_Sakhare_SR_Badhe_KS_Rathod_AP_Dhok_SA_Ingle_PS_Patil_SV_Shinde_SP_Honshette_and_SA_Janorkar/links/69d4db6ee8c9736629651951/Development-of-probiotic-enriched-chakka-whey-drink-DA-Sakhare-SR-Badhe-KS-Rathod-AP-Dhok-SA-Ingle-PS-Patil-SV-Shinde-SP-Honshette-and-SA-Janorkar.pdf"/>
+    <published>2026-04-12T22:53:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#6</id>
+    <title>The master molecule that built biology: How water shaped the chemistry of life</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J DiGiacomo, GD Rose, LD Williams - Protein Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The deep entanglement of biomolecular structure and function with aqueous systems supports the view that water actively sculpted both molecules and processes during the origins of life and continues to constrain evolution today ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.70532"/>
+    <published>2026-04-12T22:53:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#5</id>
+    <title>Polypotent potential of apple fiber from secondary raw materials of frips production: Prospects and possibilities</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Donchenko, M Lukyanenko, N Limareva... - E3S Web of Conferences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To evaluate the prebiotic properties of the test product, we used a method for adding potential prebiotic components to a nutrient medium. This study compared the growth of probiotic microorganisms, specifically strains of Bifidobacterium longum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.e3s-conferences.org/articles/e3sconf/pdf/2026/21/e3sconf_aees2026_03004.pdf"/>
+    <published>2026-04-12T22:53:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#4</id>
+    <title>Macroalgae in Functional Foods and Nutraceuticals</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Diddigi - Healing from the Ocean–Medicinal Macroalgae ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Marine macroalgae demonstrate potential as effective weight management solutions while they help improve gut health through their high fiber content and prebiotic effects. Regularly consuming these nutrient-dense seaweeds will enhance ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=fdzOEQAAQBAJ&amp;oi=fnd&amp;pg=PA97&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=wNMyd1mQBh&amp;sig=7fXbriB-LgC5140aqun7YFMlszs"/>
+    <published>2026-04-12T22:53:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#3</id>
+    <title>On the Non-Equivalence of Molecular Synthesis and Life Formation</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AA Nekludoff&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Standard approaches to abiogenesis are typically framed in terms of constructing specific biomolecular structures under controlled conditions, ... This leads to a reformulation of abiogenesis : not as a problem of molecular construction, but as a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/NEKOTN"/>
+    <published>2026-04-12T22:53:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#2</id>
+    <title>Chirality's journey: Pasteur, Kelvin, the origins of life , chiral nanotechnologies, and insights from AI</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Govorov, DA Govorov, S Hoffman - Chem, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This backstory recounts several episodes in the development of chirality by tracing how the definition proposed by Lord Kelvin appeared about 50 years after Pasteur's discovery of molecular dissymmetry, which is essentially chirality. Kelvin's concepts ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cell.com/chem/abstract/S2451-9294(26)00057-4"/>
+    <published>2026-04-12T22:53:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#1</id>
+    <title>Rate-Independent Control and the Origin of Life</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mason&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper develops a unified interpretive framework for evaluating origin - of - life claims. The framework draws on four intellectual contributions in retrospect: Peirce's logic of triadic sign relations, Turing's formal model of sequential symbolic procedure ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/403553781_Rate-Independent_Control_and_the_Origin_of_Life_A_Forensic_Evaluation_of_the_Sequential_Memory_Requirement/links/69d44b35ac3812287566d135/Rate-Independent-Control-and-the-Origin-of-Life-A-Forensic-Evaluation-of-the-Sequential-Memory-Requirement.pdf"/>
+    <published>2026-04-12T22:53:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76da008865#0</id>
+    <title>Rumen Microbiome Development in Lambs Following Maternal and Early-Life Prebiotic Mannan-Rich Fraction (MRF) Supplementation</title>
+    <updated>2026-04-12T22:53:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Corrigan, S Stockdale, AM Mackenzie, RG Wilkinson... - Animals, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Together, these findings suggest that prebiotic supplementation may shape both the taxonomic and functional maturation ... prebiotic exposure, and (3) VFA production profiles in lambs at critical developmental stages. We hypothesized that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2076-2615/16/8/1137"/>
+    <published>2026-04-12T22:53:33+00:00</published>
   </entry>
 </feed>
