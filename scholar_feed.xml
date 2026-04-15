@@ -2,151 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-14T07:46:16.675853+00:00</updated>
+  <updated>2026-04-15T07:46:39.897593+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80544#1</id>
-    <title>GROUNDWATER ACTIVITY ON MARS AND ITS IMPLICATIONS FOR ASTROBIOLOGICAL EXPLORATION</title>
-    <updated>2026-04-13T23:50:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d95818d5#0</id>
+    <title>Global carbonate production and accumulation–Updated present-day estimates and future projections</title>
+    <updated>2026-04-14T17:40:18+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Gerald Auer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Timilehin, L Alexander&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The search for extraterrestrial life has increasingly focused on Mars due to compelling ... their significance in the context of habitability and the search for life .Using data synthesized from ... to surface modification and potentially creating habitable ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Oladoja-Timilehin/publication/403613139_GROUNDWATER_ACTIVITY_ON_MARS_AND_ITS_IMPLICATIONS_FOR_ASTROBIOLOGICAL_EXPLORATION_1/links/69d649f3b6bee42358238034/GROUNDWATER-ACTIVITY-ON-MARS-AND-ITS-IMPLICATIONS-FOR-ASTROBIOLOGICAL-EXPLORATION-1.pdf"/>
-    <published>2026-04-13T23:50:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Auer, C Pederson, Z Steiner, K de Mutsert... - EGU26, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; There are two primary mechanisms for carbon transfer into the geological record within the ocean: the organic sink and the inorganic carbon sink. The inorganic carbon sink (ie, the long-term preservation of carbonate minerals in the geologic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-13127.html"/>
+    <published>2026-04-14T17:40:18+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80544#0</id>
-    <title>Viruses in Extreme Marine Environments and Their Potential Existence in Extraterrestrial Environments</title>
-    <updated>2026-04-13T23:50:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d953908c#0</id>
+    <title>Reply to Hu: Reasoning traces need not be faithful to account for the cost of human thinking</title>
+    <updated>2026-04-14T18:11:14+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Evelina (Ev) Fedorenko</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A McMinn, Y Liang, Z Wang, M Wang - Viruses, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... habitability , specifically the ability of a planet to support the activity of at least one lifeform. The most likely candidates for extraterrestrial habitability ... If microorganisms were to be detected in these extraterrestrial environments, viruses ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/1999-4915/18/4/457"/>
-    <published>2026-04-13T23:50:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AG de Varda, FP D'Elia, H Kean, A Lampinen... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hu (1) raises two concerns about our finding that reasoning costs in large reasoning models (LRMs) and humans are aligned (2): a) that chains of thought (CoTs) may not faithfully represent the computations that lead to the final answer, and b) that CoT ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2606498123"/>
+    <published>2026-04-14T18:11:14+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#9</id>
-    <title>The Role of Retroelements in the Formation of CNV in the Human Genome in the Development of Diseases</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9538fdb#0</id>
+    <title>The genome sequence of the Lesser Horseshoe Bat, Rhinolophus hipposideros (Bechstein, 1800)(Chiroptera: Rhinolophidae)</title>
+    <updated>2026-04-14T18:11:15+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Sonja Vernes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RN Mustafin - Opera Medica et Physiologica, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These relationships suggest the possible retroelements role in triplet code development during the origin of life . At the human population level, the underlying mechanisms of evolution through the influence of retroelements are the cause of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://cyberleninka.ru/article/n/the-role-of-retroelements-in-the-formation-of-cnv-in-the-human-genome-in-the-development-of-diseases"/>
-    <published>2026-04-13T23:50:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Alvarez van Tussenbroek, SC Vernes, H Nicolaou... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual female Rhinolophus hipposideros (Lesser Horseshoe Bat; Chordata; Mammalia; Chiroptera; Rhinolophidae). The assembly contains two haplotypes with total lengths of 2 171.31 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
+    <link href="https://wellcomeopenresearch.org/articles/11-212"/>
+    <published>2026-04-14T18:11:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#8</id>
-    <title>Hydrolyzed Hazes on Water-rich Exoplanets: Optical Constants and Detectability</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9538ee2#0</id>
+    <title>Harmonic morphisms and dynamical invariants in network renormalization</title>
+    <updated>2026-04-14T18:11:16+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Giovanni Petri</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Pesciotta, SM Hörst, MJ Radke, SE Moran, C He... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Observations of temperate sub-Neptunes suggest active chemical environments, finding evidence of both water vapor and photochemical hazes in their atmospheres. Hazes formed in water-rich atmospheres are chemically complex, containing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.07498"/>
-    <published>2026-04-13T23:50:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FM Guadagnuolo, M Nurisso, F Galluzzi, A Allard... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Renormalization of complex networks requires principled criteria for assessing whether a coarse-graining preserves dynamical content. We prove that discrete harmonic morphisms--surjective maps preserving harmonic functions--provide the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giovanni Petri (author alert)</content>
+    <link href="https://arxiv.org/pdf/2604.08386"/>
+    <published>2026-04-14T18:11:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#7</id>
-    <title>Stability and transformation of interstellar amino acid precursors under simulated meteorite parent body conditions</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9538de1#0</id>
+    <title>Earth system instability explains redox paradox during late Cambrian SPICE event</title>
+    <updated>2026-04-14T18:11:18+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Timothy Lenton</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Ikeda, R Futami, I Yoda, Y Kebukawa, K Kobayashi - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Carbonaceous chondrites contain various organic compounds, including amino acids (AAs), which may have contributed to the emergence of life on Earth. However, their origin remains debated. Previous studies have shown that amino acid ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5F16575CB78DC10060D2B6CAD3366D7E/S1473550426100299a.pdf/div-class-title-stability-and-transformation-of-interstellar-amino-acid-precursors-under-simulated-meteorite-parent-body-conditions-div.pdf"/>
-    <published>2026-04-13T23:50:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Sheng, ZH Li, JL Zhou, YB Lin, GL Xiong, GY Ren... - Science Advances, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The late Neoproterozoic–early Paleozoic (~ 600 to 520 million years ago) witnessed a fundamental shift under atmosphere-ocean redox conditions, where pulsed ocean oxygenation events (OOEs) were replaced by episodic ocean anoxic events (OAEs) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://www.science.org/doi/full/10.1126/sciadv.aeb9224"/>
+    <published>2026-04-14T18:11:18+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#6</id>
-    <title>Nanoparticle-Mediated Gut Microbiota Modulation in Obesity: Mechanistic Insights and Therapeutic Prospects</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9538ce4#1</id>
+    <title>Mapping of subjective account into interpreted clusters (MOSAIC): Topic Modelling and LLM applies to stroboscopically phenomenology</title>
+    <updated>2026-04-14T18:11:19+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Anil Seth</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Nyiramana Mukamurera - SCIENCES (NIJRMS), 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Functionally, they allow a combination of multiple payloads within a single construct, such as a narrow-spectrum antibiotic with a prebiotic substrate or a phage cocktail with an anti-inflammatory drug, thereby coordinating direct microbial effects ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Kampala-International-University-Viii/publication/403689270_Nanoparticle-Mediated_Gut_Microbiota_Modulation_in_Obesity_Mechanistic_Insights_and_Therapeutic_Prospects/links/69d8a7c800864436152ba914/Nanoparticle-Mediated-Gut-Microbiota-Modulation-in-Obesity-Mechanistic-Insights-and-Therapeutic-Prospects.pdf"/>
-    <published>2026-04-13T23:50:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Beauté, DJ Schwartzman, G Dumas, J Crook...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Stroboscopic light stimulation (SLS) on closed eyes typically induces simple visual hallucinations, characterized by vivid, geometric, and colourful patterns. A dataset of 898 sentences, extracted from 407 open subjective reports, was recently compiled as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://philpapers.org/rec/BEAMOS"/>
+    <published>2026-04-14T18:11:19+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#5</id>
-    <title>Ellagic Acid Reduces Inulin's Adverse Effects: A Combined Approach to Enhance Therapeutic Potential in Nonalcoholic Steatohepatitis</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9538ce4#0</id>
+    <title>Domain-General Enhancements of Metacognitive Ability Through Adaptive Training Jason Carpenter University College London and University of California, Los ...</title>
+    <updated>2026-04-14T18:11:19+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Anil Seth</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Senavirathna, A Shafaei, RR Lareu, L Balmer - Molecular Nutrition &amp; Food ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This mouse study investigates the efficacy of ellagic acid (EA), a potent antioxidant in fruits and nuts, and inulin, a prebiotic known for gut microbiota ... Given its widespread availability as a commercial prebiotic supplement, further ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/mnfr.70456"/>
-    <published>2026-04-13T23:50:42+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#4</id>
-    <title>Dietary supplementation of Lactobacillus sp. and garlic extract on growth performance, digestive enzyme, and disease resistance of the whiteleg shrimp, Litopenaeus ...</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TTC Phan, TPT Truong, TKL Nguyen, TG Huynh - International Journal of Aquatic ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In the present study, the effects of a probiotic (Lactobacillus sp.), a prebiotic (1% garlic extract), and their combination were evaluated in whiteleg shrimp (Litopenaeus vannamei) using a feeding supplement. The shrimp in each tank were fed the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="http://ij-aquaticbiology.com/index.php/ijab/article/view/2492"/>
-    <published>2026-04-13T23:50:42+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#3</id>
-    <title>Synbiotic Encapsulation of Lactiplantibacillus plantarum D-12: A Novel Approach to Improve Viability and Industrial Applicability</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Lee, K Hwang, S Kim, HG Yuk, Y Park, SH Eom... - Food and Bioprocess ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Specifically, the combined inclusion of INL and TG aims to exert a synergistic prebiotic effect while simultaneously enhancing structural ... By using MD as a practical wall material and incorporating INL and TG as synbiotic materials with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s11947-026-04355-5"/>
-    <published>2026-04-13T23:50:42+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#2</id>
-    <title>Acyl Phosphate‐Driven Acylation in Biology, Chemistry, and in Between</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Saile, CG Pappas - Angewandte Chemie Novit, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review highlights the emerging potential of acyl phosphates in chemical biology, systems chemistry and origins - of - life research, seeking to connect their biological and synthetic functions. We discuss their synthesis and reactions across ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/full/10.1002/anov.70019"/>
-    <published>2026-04-13T23:50:42+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#1</id>
-    <title>Potential anti-obesity effects of a xylooligosaccharide-rich hydrolysate from wheat straw</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NM Nogueira-Prieto - Potential anti-obesity effects of a xylooligosaccharide ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in vitro data in on the prebiotic , antidiabetic and antiadipogenic capacity of the hysrolysate. For the study of prebiotic potential, 48-hour faecal ... The data support the use of wheat straw-derived XOS as health-promoting nutraceuticals and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://portalcientifico.sergas.es/documentos/69c416c351799c7f541a96f0"/>
-    <published>2026-04-13T23:50:42+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dac80499#0</id>
-    <title>Prebiotic Efficacy of Natural Gums and Their Partial Hydrolysates: Linking Fermentation Dynamics with Glycosyl Hydrolase Expression</title>
-    <updated>2026-04-13T23:50:42+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Ajith, S Kumar, AR Chowdhury, R Mishra, C Sravani... - Food Hydrocolloids for ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These soluble dietary fibre fractions with prebiotic characteristics have given this biopolymer the status of a functional food. The prebiotic ... Altogether, these results indicate the effectiveness of partial hydrolysates as prebiotic compounds and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2667025926000130"/>
-    <published>2026-04-13T23:50:42+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76dadaeb21#0</id>
-    <title>Emergence of Lissajous trajectories in skyrmion oscillator</title>
-    <updated>2026-04-14T02:16:03+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Mukherjee, V Murthy -arXivpreprintarXiv:2604.08073, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding the dynamics of current-driven skyrmion is essential for their practical applications. In this study, we apply an AC current pulse (a) in x-- direction, and (b) in both x-- and y-- directions through the free layer of a Co/Pt thin film and investigate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.08073"/>
-    <published>2026-04-14T02:16:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MT Sherman, RA Kievit, AK Seth, H Lau, SM Fleming&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Domain-General Enhancements of Metacognitive Ability Through Adaptive Training Jason Carpenter University College London and University of California, Los Angeles Maxine T. Sherman University of Sussex Rogier A. Kievit University College London ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/56ee5c8c-784d-4b86-9023-6cbbc6842c5b/content"/>
+    <published>2026-04-14T18:11:19+00:00</published>
   </entry>
 </feed>
