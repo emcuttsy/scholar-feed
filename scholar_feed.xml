@@ -2,85 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-15T07:46:39.897593+00:00</updated>
+  <updated>2026-04-15T14:58:17.282012+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d95818d5#0</id>
-    <title>Global carbonate production and accumulation–Updated present-day estimates and future projections</title>
-    <updated>2026-04-14T17:40:18+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9e7b90b#5</id>
+    <title>The Three Domains of Life</title>
+    <updated>2026-04-15T13:50:18+00:00</updated>
     <author>
-      <name>Gerald Auer</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Auer, C Pederson, Z Steiner, K de Mutsert... - EGU26, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; There are two primary mechanisms for carbon transfer into the geological record within the ocean: the organic sink and the inorganic carbon sink. The inorganic carbon sink (ie, the long-term preservation of carbonate minerals in the geologic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-13127.html"/>
-    <published>2026-04-14T17:40:18+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AMF Valli&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; What is the purpose of studying the history of Life? Why should we take an interest in events that occurred long ago and are often difficult to interpret? Knowledge of the past is essential for understanding the present and for answering fundamental ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/content/pdf/10.1007/978-3-032-14802-5.pdf"/>
+    <published>2026-04-15T13:50:18+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d953908c#0</id>
-    <title>Reply to Hu: Reasoning traces need not be faithful to account for the cost of human thinking</title>
-    <updated>2026-04-14T18:11:14+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9e7b90b#4</id>
+    <title>WJCCM</title>
+    <updated>2026-04-15T13:50:18+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AG de Varda, FP D'Elia, H Kean, A Lampinen... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hu (1) raises two concerns about our finding that reasoning costs in large reasoning models (LRMs) and humans are aligned (2): a) that chains of thought (CoTs) may not faithfully represent the computations that lead to the final answer, and b) that CoT ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2606498123"/>
-    <published>2026-04-14T18:11:14+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AN Ghosh, CJ Walsh, MJ Maiden, TP Stinear...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic effect of inulin is discussed in further detail later. Human milk oligosaccharides have a very specific effect of increasing Bifidobacteria. In a parallel, double-blind, randomised, placebo-controlled trial involving one hundred adult ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/e4ddc80f-5ac4-4cd3-ad8b-d004e00ef9c3/content"/>
+    <published>2026-04-15T13:50:18+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d9538fdb#0</id>
-    <title>The genome sequence of the Lesser Horseshoe Bat, Rhinolophus hipposideros (Bechstein, 1800)(Chiroptera: Rhinolophidae)</title>
-    <updated>2026-04-14T18:11:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9e7b90b#3</id>
+    <title>Fructo-oligosaccharides as a healthier sugar alternative in granola bars: impact on physical, chemical, and sensory attributes</title>
+    <updated>2026-04-15T13:50:18+00:00</updated>
     <author>
-      <name>Sonja Vernes</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Alvarez van Tussenbroek, SC Vernes, H Nicolaou... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual female Rhinolophus hipposideros (Lesser Horseshoe Bat; Chordata; Mammalia; Chiroptera; Rhinolophidae). The assembly contains two haplotypes with total lengths of 2 171.31 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
-    <link href="https://wellcomeopenresearch.org/articles/11-212"/>
-    <published>2026-04-14T18:11:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NM Fauzi, RYM Nazri, LJ Seow, M Alrosan... - Exploration of Foods and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study investigates the use of fructo-oligosaccharides (FOS), a low-calorie prebiotic ... Among the various prebiotic -enriched foods, granola bars have gained significant popularity. ... Fructo-oligosaccharides (FOS) are prebiotic carbohydrates ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.explorationpub.com/Journals/eff/Article/1010129"/>
+    <published>2026-04-15T13:50:18+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d9538ee2#0</id>
-    <title>Harmonic morphisms and dynamical invariants in network renormalization</title>
-    <updated>2026-04-14T18:11:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9e7b90b#2</id>
+    <title>Your Gut Bacteria Are Secretly Controlling Your Blood Sugar</title>
+    <updated>2026-04-15T13:50:18+00:00</updated>
     <author>
-      <name>Giovanni Petri</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FM Guadagnuolo, M Nurisso, F Galluzzi, A Allard... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Renormalization of complex networks requires principled criteria for assessing whether a coarse-graining preserves dynamical content. We prove that discrete harmonic morphisms--surjective maps preserving harmonic functions--provide the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giovanni Petri (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.08386"/>
-    <published>2026-04-14T18:11:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WYGB Matters&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... For a deeper dive into prebiotic -rich foods, see our guide on postbiotics and their role in gut ... A meta-analysis of 33 randomized controlled trials found that prebiotic supplementation ... species, HMOs have highly selective prebiotic activity ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://siallac.com/your-gut-bacteria-are-secretly-controlling-your-blood-sugar/"/>
+    <published>2026-04-15T13:50:18+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d9538de1#0</id>
-    <title>Earth system instability explains redox paradox during late Cambrian SPICE event</title>
-    <updated>2026-04-14T18:11:18+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9e7b90b#1</id>
+    <title>Love: The Absolute Definition</title>
+    <updated>2026-04-15T13:50:18+00:00</updated>
     <author>
-      <name>Timothy Lenton</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Sheng, ZH Li, JL Zhou, YB Lin, GL Xiong, GY Ren... - Science Advances, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The late Neoproterozoic–early Paleozoic (~ 600 to 520 million years ago) witnessed a fundamental shift under atmosphere-ocean redox conditions, where pulsed ocean oxygenation events (OOEs) were replaced by episodic ocean anoxic events (OAEs) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://www.science.org/doi/full/10.1126/sciadv.aeb9224"/>
-    <published>2026-04-14T18:11:18+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ALB Carvajal&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... And what is the origin of Life ? Beginning from the most primitive logical inputs available — 0 and 1 — and proceeding without cultural, ... Third: the origin of Life is reframed through this framework — demonstrating that the foundational error in all ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philpapers.org/rec/BRALTA-6"/>
+    <published>2026-04-15T13:50:18+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d9538ce4#1</id>
-    <title>Mapping of subjective account into interpreted clusters (MOSAIC): Topic Modelling and LLM applies to stroboscopically phenomenology</title>
-    <updated>2026-04-14T18:11:19+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d9e7b90b#0</id>
+    <title>Love: The Absolute Definition—A Cross-Disciplinary Derivation from Linguistics, Philosophy, Logic, Biology, and Physiology</title>
+    <updated>2026-04-15T13:50:18+00:00</updated>
     <author>
-      <name>Anil Seth</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Beauté, DJ Schwartzman, G Dumas, J Crook...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Stroboscopic light stimulation (SLS) on closed eyes typically induces simple visual hallucinations, characterized by vivid, geometric, and colourful patterns. A dataset of 898 sentences, extracted from 407 open subjective reports, was recently compiled as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
-    <link href="https://philpapers.org/rec/BEAMOS"/>
-    <published>2026-04-14T18:11:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d9538ce4#0</id>
-    <title>Domain-General Enhancements of Metacognitive Ability Through Adaptive Training Jason Carpenter University College London and University of California, Los ...</title>
-    <updated>2026-04-14T18:11:19+00:00</updated>
-    <author>
-      <name>Anil Seth</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MT Sherman, RA Kievit, AK Seth, H Lau, SM Fleming&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Domain-General Enhancements of Metacognitive Ability Through Adaptive Training Jason Carpenter University College London and University of California, Los Angeles Maxine T. Sherman University of Sussex Rogier A. Kievit University College London ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/56ee5c8c-784d-4b86-9023-6cbbc6842c5b/content"/>
-    <published>2026-04-14T18:11:19+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ALB Carvajal&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper has presented a unified derivation connecting the absolute definition of Love, the Law of Perfection, and the origin of Life through a single logical structure — derivable from 0 and 1 without assumption, accessible to any mind willing to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philpapers.org/archive/CARLTA-14.pdf"/>
+    <published>2026-04-15T13:50:18+00:00</published>
   </entry>
 </feed>
