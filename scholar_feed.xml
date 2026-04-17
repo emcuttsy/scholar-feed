@@ -2,151 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-16T15:15:55.385475+00:00</updated>
+  <updated>2026-04-17T07:47:15.176678+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880fac6#1</id>
-    <title>Polarimetry in Planetary Sciences and Astronomy</title>
-    <updated>2026-04-16T10:52:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#8</id>
+    <title>Electron localization, charge redistribution, and emergence of topological states at graphite junctions</title>
+    <updated>2026-04-16T23:15:58+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CH Patty, J Grone, BO Demory, J Kühn, J Ma, W Mulder... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... and the very dim but polarized light reflected by an exoplanet . In this paper, we discuss and review ... In section 4 we describe the studies carried out on using polarimetry to detect biosignatures . The ... will be very useful to image the surface of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.08975"/>
-    <published>2026-04-16T10:52:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Soneji, S Crampin, M Mucha-Kruczynski -arXivpreprintarXiv:2604.11515, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Low-energy electronic behavior in graphite crystals is highly dependent on the relative stacking arrangement of the constituent layers. Topologically non-trivial electronic states can arise due to interrupted rhombohedral (ABC) stacking ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.11515"/>
+    <published>2026-04-16T23:15:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880fac6#0</id>
-    <title>René Doyon| Université de Montréal, Département de physique, Trottier Institute for Research on Exoplanet and Observatoire du Mont Mégantic</title>
-    <updated>2026-04-16T10:52:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#7</id>
+    <title>Emergence of the unexpected charge-density-wave phase driven by artificial gauge field in three-leg Bose-Hubbard ladder</title>
+    <updated>2026-04-16T23:15:58+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PXI Medal, C Pio IV, XIV Leo, XVI Benedict...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We make an exception to include the temperate mini- Neptune K2 - 18b as a potential habitable world, despite its mass uncertainty of 18%. ... is more likely to be due to life or a planetary process. K2 - 18b serves as a reminder that the search for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.pas.va/en/publications/scripta-varia/sv155pas/doyon.html"/>
-    <published>2026-04-16T10:52:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Yokoyama, Y Tada -arXivpreprintarXiv:2604.11169, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate hard-core bosons at half filling on a three-leg ladder under the uniform artificial gauge field. By analyzing current patterns and correlation functions, we uncover a rich quantum phase diagram containing multiple superfluid and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.11169"/>
+    <published>2026-04-16T23:15:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f8c4#0</id>
-    <title>The Grammar of Emergence</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#6</id>
+    <title>Isomorphic Functionalities between Ant Colony and Ensemble Learning: Part III--Gradient Descent, Neural Plasticity, and the Emergence of Deep Intelligence</title>
+    <updated>2026-04-16T23:15:58+00:00</updated>
     <author>
-      <name>stuart kauffman</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CF Dietz&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Stuart Kauffman has spent five decades working out the details of this grammar: the mathematics of catalytic closure, the thermodynamics of constraint closure, the expansion logic of the adjacent possible, the organizational character of Kantian ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; stuart kauffman (keyword alert)</content>
-    <link href="https://carldietz.com/papers/downloads/Grammar_of_Emergence.pdf"/>
-    <published>2026-04-16T10:52:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E FokouĂŠ, G Babbitt, Y Levental -arXivpreprintarXiv:2604.09677, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In Parts I and II of this series, we established isomorphisms between ant colony decision-making and two major families of ensemble learning: random forests (parallel, variance reduction) and boosting (sequential, bias reduction). Here we complete the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.09677"/>
+    <published>2026-04-16T23:15:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#9</id>
-    <title>Engineering pH and thermostability of β-mannanase from Aspergillus niger for simplified and direct production of manno-oligosaccharides from guar split</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#5</id>
+    <title>Modelling the Diachronic Emergence of Phoneme Frequency Distributions</title>
+    <updated>2026-04-16T23:15:58+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Liu, Q Yao, D Sun, C Wu, Q Yan, Y Li, Z Jiang - Bioresource Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In vitro fermentation assays demonstrated its superior prebiotic activity, stimulating the growth of various Lactobacillus and Bifidobacterium strains more effectively than partially hydrolyzed guar gum or fructo-oligosaccharide. This study ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0960852426007054"/>
-    <published>2026-04-16T10:52:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Moscoso del Prado Martín, S Salhan -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Phoneme frequency distributions exhibit robust statistical regularities across languages, including exponential-tailed rank-frequency patterns and a negative relationship between phonemic inventory size and the relative entropy of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260309503M/abstract"/>
+    <published>2026-04-16T23:15:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#8</id>
-    <title>Veterinary and Animal Science</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#4</id>
+    <title>Dissipative Hamilton Jacobi Dynamics and the Emergence of Quantum Wave Mechanics</title>
+    <updated>2026-04-16T23:15:58+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Prasert, N Akrimajirachoote, M Pattarapanawan...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To the best of our knowledge, limited information is available regarding the experimental evaluation of HMT cassava starch as a potential prebiotic for chicken feed. Accordingly, this study aimed to enhance the RS content of cassava starch via ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Ditpon-Kotatha/publication/403046795_Enhancing_the_resistant_starch_content_of_cassava_starch_via_heat-moisture_treatment_for_application_as_a_prebiotic_in_chicken_feed/links/69cca71fac381228756559d8/Enhancing-the-resistant-starch-content-of-cassava-starch-via-heat-moisture-treatment-for-application-as-a-prebiotic-in-chicken-feed.pdf"/>
-    <published>2026-04-16T10:52:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Jubert Matjelo -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We develop a dissipative extension of classical mechanics based on a complex, and more generally quaternionic, action principle that endows every classical system with an intrinsic environment. Decomposing the action into conservative and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260406455J/abstract"/>
+    <published>2026-04-16T23:15:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#7</id>
-    <title>Prebiotics and Gut Microbiota: Role in Maintaining Normal Human Physiology</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#3</id>
+    <title>Early emergence of ultimate-like transport in two-dimensional turbulent thermomagnetic convection</title>
+    <updated>2026-04-16T23:15:58+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Bibi, Z Nisa, A Ahmed, M Tuaseen, M Ibrahim...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review article examines the development of the prebiotic concept, lists the different kinds of prebiotics, such as fructans, galacto-oligosaccharides, xylo-oligosaccharides, chitooligosaccharides, lactulose, resistant starch, and polyphenols, and explains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://uniquescientificpublishers.com/pdf-files/HH/Nutritional-Foundations-of-Holistic-Health/199-205.pdf"/>
-    <published>2026-04-16T10:52:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Capobianchi -arXivpreprintarXiv:2604.09507, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Scaling laws for turbulent thermomagnetic convection of a high-Pr fluid in a square cavity are obtained through direct numerical simulations and formulated via theoretical arguments informed by the numerical data. A regime consistent with an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.09507"/>
+    <published>2026-04-16T23:15:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#6</id>
-    <title>Photochemistry and haze in chemically reducing terrestrial atmospheres</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#2</id>
+    <title>Emergence of Complex Structures</title>
+    <updated>2026-04-16T23:15:58+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Gu, S Fan - Fundamental Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In summary, the secondary atmosphere of the prebiotic Earth is potentially chemically reducing. Abundant reducing gases have likely contributed to the production of prebiotic compounds and to keeping the planet sufficiently warm ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2667325826002281"/>
-    <published>2026-04-16T10:52:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FS Kitaura -arXivpreprintarXiv:2604.11481, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Complex structures often emerge from initially homogeneous or weakly correlated states. We address the apparent tension between this ordering and entropy growth through a unified framework combining semi-microscopic phase-space dynamics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.11481"/>
+    <published>2026-04-16T23:15:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#5</id>
-    <title>The Grammar of Emergence</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#1</id>
+    <title>Emergence of Stereotypes and Affective Polarization from Belief Network Dynamics</title>
+    <updated>2026-04-16T23:15:58+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CF Dietz&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life is the origin of the first biological closure. The moment when some subset of the prebiotic chemistry first began constituting ... The dominant framework for understanding this transition has been the RNA world hypothesis: a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://carldietz.com/papers/downloads/Grammar_of_Emergence.pdf"/>
-    <published>2026-04-16T10:52:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OC Seckin, R Aiyappa, M Vlasceanu, F Menczer... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We show that group identity can drive the emergence of shared individual preferences around initially unaligned concepts— providing a pathway ... Our work provides a cognitively grounded perspective on the emergence of consensus and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.10251"/>
+    <published>2026-04-16T23:15:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#4</id>
-    <title>Role of Prebiotics in Reducing Heat Stress in Rabbits</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#0</id>
+    <title>Comment on" On the emergence of preferred structures in quantum theory" by Soulas, Franzmann, and Di Biagio</title>
+    <updated>2026-04-16T23:15:58+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Ali, AB Kachiwal, KU Rahman, M Waheed, I Hussain... - Planta Animalia, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The second group received prebiotic supplementation in addition to their regular diet. The prebiotic supplements used in this study were ... Conclusion: The study's key finding is that prebiotic supplementation resulted in improved physiological and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="http://plantanimalia.com/index.php/journal/article/view/407"/>
-    <published>2026-04-16T10:52:59+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#3</id>
-    <title>... Architecture, Origins, and Conscious Experience: Evidence-First Answers to Persistent Questions in Genetics, Human Evolution, Abiogenesis , and Quantum-Level ...</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Mohamed&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... For abiogenesis , we articulate an experimentally anchored chain from plausible prebiotic synthesis to nonenzymatic copying and protocell growth/division, while acknowledging unresolved bottlenecks (error thresholds, sustained cycles, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/6e5201307730e447932c99498fc3e78c/download_pub"/>
-    <published>2026-04-16T10:52:59+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#2</id>
-    <title>... Recovery from Rapeseed Meal via Conventional and Enzyme-Assisted Extraction Techniques: Toward Emerging Prebiotic Pectic Oligosaccharide Development</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Banjanac, M Veljković, M Simović, A Tomić... - Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigates the extraction of pectic polysaccharides from rapeseed meal (RSM) using both conventional and enzyme-assisted techniques, and the obtained pectic polysaccharide fractions will be used later to produce prebiotic pectic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2304-8158/15/8/1338"/>
-    <published>2026-04-16T10:52:59+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#1</id>
-    <title>Prebiotic xylooligosaccharides ameliorate metabolic dysfunction-associated steatotic liver disease via modulating gut microbiota and metabolites</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Chen, TD Shan - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The study investigated the dose-dependent protective effects of xylooligosaccharides (XOS) against metabolic dysfunction-associated steatotic liver disease (MASLD) in mice, focusing on gut microbiota and microbial metabolites ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-48643-8_reference.pdf"/>
-    <published>2026-04-16T10:52:59+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d880f87f#0</id>
-    <title>Prebiotic Organic Chemistry of Diketopiperazines</title>
-    <updated>2026-04-16T10:52:59+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Ohata - Asian Journal of Organic Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of amino acids and polypeptides is well recognized in broad prebiotic chemistry fields, 2,5... roles and functions of DKPs in simulated prebiotic reactions reported over the past few ... and characterization are critical not only in prebiotic chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://aces.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajoc.70395"/>
-    <published>2026-04-16T10:52:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Cristinel Stoica -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... impossibility of emergence of preferred structures from the Hamiltonian $\mathsf{H}$ and the unit vector $|ψ\rangle$ only. The obstructions to emergence are illustrated on the concrete construction of a tensor product structure (TPS) from Soulas et al ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260307674C/abstract"/>
+    <published>2026-04-16T23:15:58+00:00</published>
   </entry>
 </feed>
