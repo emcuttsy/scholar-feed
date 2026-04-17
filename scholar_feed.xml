@@ -2,107 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-17T07:47:15.176678+00:00</updated>
+  <updated>2026-04-17T14:45:52.853858+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#8</id>
-    <title>Electron localization, charge redistribution, and emergence of topological states at graphite junctions</title>
-    <updated>2026-04-16T23:15:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df50666d#0</id>
+    <title>Reading comprehension involves distinct cognitive operators for establishing simple and composite discourse referents in a mental model</title>
+    <updated>2026-04-17T13:20:27+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Manuel Carreiras</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Soneji, S Crampin, M Mucha-Kruczynski -arXivpreprintarXiv:2604.11515, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Low-energy electronic behavior in graphite crystals is highly dependent on the relative stacking arrangement of the constituent layers. Topologically non-trivial electronic states can arise due to interrupted rhombohedral (ABC) stacking ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.11515"/>
-    <published>2026-04-16T23:15:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Matar, PM Ortega, M Carreiras&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Reading comprehension involves constructing a cumulative mental model that represents unfolding information. Within this model, the mind establishes discourse referents—entities that can be picked out and referred to, such as 'sponges' and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
+    <link href="https://europepmc.org/article/ppr/ppr1175216"/>
+    <published>2026-04-17T13:20:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#7</id>
-    <title>Emergence of the unexpected charge-density-wave phase driven by artificial gauge field in three-leg Bose-Hubbard ladder</title>
-    <updated>2026-04-16T23:15:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df5064df#1</id>
+    <title>Epigenomic methylome landscape of promoters in vertebrate genomes</title>
+    <updated>2026-04-17T13:20:30+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Erich Jarvis</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Yokoyama, Y Tada -arXivpreprintarXiv:2604.11169, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate hard-core bosons at half filling on a three-leg ladder under the uniform artificial gauge field. By analyzing current patterns and correlation functions, we uncover a rich quantum phase diagram containing multiple superfluid and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.11169"/>
-    <published>2026-04-16T23:15:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YH Lee, C Lee, ED Jarvis, H Kim&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Genomic promoters are crucial gene regulatory elements 1, 2. Yet, comparative analyses of promoter architecture have been constrained by the limited resolution of GC-rich regions in short-read-based genome resources 3–6. The Vertebrate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
+    <link href="https://europepmc.org/article/pmc/pmc13060365"/>
+    <published>2026-04-17T13:20:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#6</id>
-    <title>Isomorphic Functionalities between Ant Colony and Ensemble Learning: Part III--Gradient Descent, Neural Plasticity, and the Emergence of Deep Intelligence</title>
-    <updated>2026-04-16T23:15:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df5064df#0</id>
+    <title>The reference genome of the Asian Elephant (Elephas maximus): a foundation for conservation and genomic research</title>
+    <updated>2026-04-17T13:20:30+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Erich Jarvis</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E FokouĂŠ, G Babbitt, Y Levental -arXivpreprintarXiv:2604.09677, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In Parts I and II of this series, we established isomorphisms between ant colony decision-making and two major families of ensemble learning: random forests (parallel, variance reduction) and boosting (sequential, bias reduction). Here we complete the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.09677"/>
-    <published>2026-04-16T23:15:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D De Panis, LS Arantes, T Brown, E Somenzi... - BMC Genomics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background The Asian elephant (Elephas maximus), a keystone species with both ecological and cultural significance, is highly endangered and has disappeared from 95% of its historical range. In this study, we present a chromosome-level assembly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s12864-026-12821-9"/>
+    <published>2026-04-17T13:20:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#5</id>
-    <title>Modelling the Diachronic Emergence of Phoneme Frequency Distributions</title>
-    <updated>2026-04-16T23:15:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df506494#0</id>
+    <title>A Refined Chronology for the Middle‒Upper Paleolithic Transition at Kozarnika Cave (Bulgaria) 40‒50,000 Years Ago: New AMS Radiocarbon Dates and ...</title>
+    <updated>2026-04-17T13:20:30+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Tom Higham</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Moscoso del Prado Martín, S Salhan -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Phoneme frequency distributions exhibit robust statistical regularities across languages, including exponential-tailed rank-frequency patterns and a negative relationship between phonemic inventory size and the relative entropy of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260309503M/abstract"/>
-    <published>2026-04-16T23:15:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R HOPKINS, JLUC GUADELLI, D WHITE...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The site of Kozarnika in Bulgaria is a key, deep (~ 6m) archaeological sequence spanning the Lower, Middle and Upper Paleolithic of Europe. In its latter phases, it documents the transition from a Neanderthal-dominated Europe to one in which only ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tom Higham (author alert)</content>
+    <link href="https://www.researchgate.net/profile/Philippe-Fernandez-2/publication/401020172_A_Refined_Chronology_for_the_Middle-Upper_Palaeolithic_Transition_at_Kozarnika_Cave_Bulgaria_40-50000_years_ago_New_AMS_radiocarbon_dates_and_implications_for_early_Homo_sapiens_in_Europe/links/69c11c0c9f53d47411bf39ac/A-Refined-Chronology-for-the-Middle-Upper-Palaeolithic-Transition-at-Kozarnika-Cave-Bulgaria-40-50-000-years-ago-New-AMS-radiocarbon-dates-and-implications-for-early-Homo-sapiens-in-Europe.pdf"/>
+    <published>2026-04-17T13:20:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#4</id>
-    <title>Dissipative Hamilton Jacobi Dynamics and the Emergence of Quantum Wave Mechanics</title>
-    <updated>2026-04-16T23:15:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df5063df#0</id>
+    <title>Integrated information theory: the good, the bad and the misunderstood</title>
+    <updated>2026-04-17T13:20:32+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Anil Seth</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Jubert Matjelo -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We develop a dissipative extension of classical mechanics based on a complex, and more generally quaternionic, action principle that endows every classical system with an intrinsic environment. Decomposing the action into conservative and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260406455J/abstract"/>
-    <published>2026-04-16T23:15:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AB Barrett, B Milinkovic, PAM Mediano, FE Rosas... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The integrated information theory of consciousness (IIT) is uniquely ambitious in proposing a mathematical formula, derived from apparently fundamental properties of conscious experience, to describe the quantity and quality of consciousness for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://arxiv.org/pdf/2604.11482"/>
+    <published>2026-04-17T13:20:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#3</id>
-    <title>Early emergence of ultimate-like transport in two-dimensional turbulent thermomagnetic convection</title>
-    <updated>2026-04-16T23:15:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df5063a7#0</id>
+    <title>Integrated information theory: the good, the bad and the misunderstood</title>
+    <updated>2026-04-17T13:20:32+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Fernando E. Rosas</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Capobianchi -arXivpreprintarXiv:2604.09507, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Scaling laws for turbulent thermomagnetic convection of a high-Pr fluid in a square cavity are obtained through direct numerical simulations and formulated via theoretical arguments informed by the numerical data. A regime consistent with an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.09507"/>
-    <published>2026-04-16T23:15:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AB Barrett, B Milinkovic, PAM Mediano, FE Rosas... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The integrated information theory of consciousness (IIT) is uniquely ambitious in proposing a mathematical formula, derived from apparently fundamental properties of conscious experience, to describe the quantity and quality of consciousness for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
+    <link href="https://arxiv.org/pdf/2604.11482"/>
+    <published>2026-04-17T13:20:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#2</id>
-    <title>Emergence of Complex Structures</title>
-    <updated>2026-04-16T23:15:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df5062a1#0</id>
+    <title>A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need</title>
+    <updated>2026-04-17T13:20:34+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Michael Levin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FS Kitaura -arXivpreprintarXiv:2604.11481, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Complex structures often emerge from initially homogeneous or weakly correlated states. We address the apparent tension between this ordering and entropy growth through a unified framework combining semi-microscopic phase-space dynamics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.11481"/>
-    <published>2026-04-16T23:15:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Hazan, Y Zhang, B Hartl, M Levin - arXiv preprint arXiv:2604.08749, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How many of a neural network's parameters actually encode task-specific information? We investigate this question with LottaLoRA, a training paradigm in which every backbone weight is drawn at random and frozen; only low-rank LoRA ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
+    <link href="https://arxiv.org/pdf/2604.08749"/>
+    <published>2026-04-17T13:20:34+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#1</id>
-    <title>Emergence of Stereotypes and Affective Polarization from Belief Network Dynamics</title>
-    <updated>2026-04-16T23:15:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df50625d#0</id>
+    <title>Spectroscopic Characterization of WD J000801. 25-350450 and its Two Co-Moving Companions</title>
+    <updated>2026-04-17T13:20:34+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OC Seckin, R Aiyappa, M Vlasceanu, F Menczer... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We show that group identity can drive the emergence of shared individual preferences around initially unaligned concepts— providing a pathway ... Our work provides a cognitively grounded perspective on the emergence of consensus and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.10251"/>
-    <published>2026-04-16T23:15:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TP Bickle, JD Kirkpatrick, SL Casewell, NG Fusillo... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present new spectroscopic data for Gaia DR3 2309499817384726016 (WD0008- 350A) and its two wide, co-moving, low-mass companions. We confirm the white dwarf is a hydrogen-rich DA, with T $ _ {\rm eff} $= 6200$\pm $90~ K and a mass of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/pdf/2604.09845"/>
+    <published>2026-04-17T13:20:34+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d8fdec25#0</id>
-    <title>Comment on" On the emergence of preferred structures in quantum theory" by Soulas, Franzmann, and Di Biagio</title>
-    <updated>2026-04-16T23:15:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df506066#0</id>
+    <title>No Coincidence, George: Capacity Limits in Cognitive Processing Reflect the Curse of Generalization</title>
+    <updated>2026-04-17T13:20:37+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Giovanni Petri</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Cristinel Stoica -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... impossibility of emergence of preferred structures from the Hamiltonian $\mathsf{H}$ and the unit vector $|ψ\rangle$ only. The obstructions to emergence are illustrated on the concrete construction of a tensor product structure (TPS) from Soulas et al ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260307674C/abstract"/>
-    <published>2026-04-16T23:15:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SM Frankland, R Marjieh, M Nurisso, J Fluegemann...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The striking constraints of some human cognitive processes stand in stark contrast to the nearlimitless capability of others. While we can acquire and flexibly use vast amounts ofinformation, the amount we can process at any one time is often stiflingly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giovanni Petri (author alert)</content>
+    <link href="https://europepmc.org/article/ppr/ppr1157025"/>
+    <published>2026-04-17T13:20:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76df55e835#0</id>
+    <title>Coronal dimmings from active region 13664 during the May 2024 solar energetic events (Corrigendum)</title>
+    <updated>2026-04-17T13:36:17+00:00</updated>
+    <author>
+      <name>Astrid Veronig</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Razquin, AM Veronig, K Dissauer, T Podladchikova... - Astronomy &amp; Astrophysics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This corrigendum to Razquin et al.(2025) corrects an inconsistency in the comparison between the total unsigned magnetic flux of the May 2024 events' coronal dimmings and that of the general dimming population reported by Dissauer ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://www.aanda.org/articles/aa/full_html/2026/04/aa60138e-26/aa60138e-26.html"/>
+    <published>2026-04-17T13:36:17+00:00</published>
   </entry>
 </feed>
