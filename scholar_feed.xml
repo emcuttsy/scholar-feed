@@ -2,118 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-17T14:45:52.853858+00:00</updated>
+  <updated>2026-04-18T07:08:12.839768+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df50666d#0</id>
-    <title>Reading comprehension involves distinct cognitive operators for establishing simple and composite discourse referents in a mental model</title>
-    <updated>2026-04-17T13:20:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df9710ed#0</id>
+    <title>An Atmosphere on the Ultra-Short Period super-Earth HD 3167 b</title>
+    <updated>2026-04-17T21:02:37+00:00</updated>
     <author>
-      <name>Manuel Carreiras</name>
+      <name>JL bean</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Matar, PM Ortega, M Carreiras&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Reading comprehension involves constructing a cumulative mental model that represents unfolding information. Within this model, the mind establishes discourse referents—entities that can be picked out and referred to, such as 'sponges' and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
-    <link href="https://europepmc.org/article/ppr/ppr1175216"/>
-    <published>2026-04-17T13:20:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., C Smith, M Zhang, EMR Kempton,JL Bean... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 'Lava worlds'-Earth-sized planets hot enough (Teq &gt;~ 1100 K) to melt their dayside silicate surfaces-have emerged as promising candidates for atmospheric detection and characterization. Thermal emission observations show an apparent dichotomy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.11911"/>
+    <published>2026-04-17T21:02:37+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df5064df#1</id>
-    <title>Epigenomic methylome landscape of promoters in vertebrate genomes</title>
-    <updated>2026-04-17T13:20:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df971062#0</id>
+    <title>Carbon Cycle Imbalances on Arid Terrestrial Planets with Implications for Venus</title>
+    <updated>2026-04-17T21:02:38+00:00</updated>
     <author>
-      <name>Erich Jarvis</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YH Lee, C Lee, ED Jarvis, H Kim&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Genomic promoters are crucial gene regulatory elements 1, 2. Yet, comparative analyses of promoter architecture have been constrained by the limited resolution of GC-rich regions in short-read-based genome resources 3–6. The Vertebrate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
-    <link href="https://europepmc.org/article/pmc/pmc13060365"/>
-    <published>2026-04-17T13:20:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HT White-Gianella, J Krissansen-Totton - The Planetary Science Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Thus, a terrestrial planet in the HZ needs the right atmospheric composition and albedo to ... Liquid water might exist on a terrestrial planet with a 100 bar CO 2 atmosphere and 450 K surface, ... -like life , which is approximately −20 ∘ C (−253 K) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/PSJ/ae4faa/pdf"/>
+    <published>2026-04-17T21:02:38+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df5064df#0</id>
-    <title>The reference genome of the Asian Elephant (Elephas maximus): a foundation for conservation and genomic research</title>
-    <updated>2026-04-17T13:20:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#9</id>
+    <title>The Self-Information Theory of Life.</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
     <author>
-      <name>Erich Jarvis</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D De Panis, LS Arantes, T Brown, E Somenzi... - BMC Genomics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background The Asian elephant (Elephas maximus), a keystone species with both ecological and cultural significance, is highly endangered and has disappeared from 95% of its historical range. In this study, we present a chromosome-level assembly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s12864-026-12821-9"/>
-    <published>2026-04-17T13:20:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CH HUANG, JF CHEN, JZ Tsien - Chinese Journal of Biochemistry &amp; Molecular ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of life and its organizing principles represent a long-standing, scientific hard problem. Because information, together with matter and energy, form the three cornerstones of our knowledge system and even the universe, we ask whether life ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://openurl.ebsco.com/contentitem/gcd:192502901?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:192502901&amp;crl=c&amp;jrnl=10077626"/>
+    <published>2026-04-17T21:02:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df506494#0</id>
-    <title>A Refined Chronology for the Middle‒Upper Paleolithic Transition at Kozarnika Cave (Bulgaria) 40‒50,000 Years Ago: New AMS Radiocarbon Dates and ...</title>
-    <updated>2026-04-17T13:20:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#8</id>
+    <title>Potential Utilization of Pseudocereals and Their By-Products in Food and Non-Food Industries</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
     <author>
-      <name>Tom Higham</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R HOPKINS, JLUC GUADELLI, D WHITE...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The site of Kozarnika in Bulgaria is a key, deep (~ 6m) archaeological sequence spanning the Lower, Middle and Upper Paleolithic of Europe. In its latter phases, it documents the transition from a Neanderthal-dominated Europe to one in which only ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tom Higham (author alert)</content>
-    <link href="https://www.researchgate.net/profile/Philippe-Fernandez-2/publication/401020172_A_Refined_Chronology_for_the_Middle-Upper_Palaeolithic_Transition_at_Kozarnika_Cave_Bulgaria_40-50000_years_ago_New_AMS_radiocarbon_dates_and_implications_for_early_Homo_sapiens_in_Europe/links/69c11c0c9f53d47411bf39ac/A-Refined-Chronology-for-the-Middle-Upper-Palaeolithic-Transition-at-Kozarnika-Cave-Bulgaria-40-50-000-years-ago-New-AMS-radiocarbon-dates-and-implications-for-early-Homo-sapiens-in-Europe.pdf"/>
-    <published>2026-04-17T13:20:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D DÜLGER ALTINER, E Aydın, G Yıldız&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Thanks to their high fiber content, they are also recognized as effective prebiotic foods. These attributes make pseudocereals promising candidates for addressing a range of health challenges, including obesity, osteoporosis, cardiovascular diseases ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://avesis.kocaeli.edu.tr/yayin/e98c6183-edeb-478d-96c0-37d4b3838def/potential-utilization-of-pseudocereals-and-their-by-products-in-food-and-non-food-industries"/>
+    <published>2026-04-17T21:02:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df5063df#0</id>
-    <title>Integrated information theory: the good, the bad and the misunderstood</title>
-    <updated>2026-04-17T13:20:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#7</id>
+    <title>Interdimensional Information Systems: The Arkhe (n) Framework From Quantum Blockchain Detectors to RNA Computing and the Neural-Molecular Interface</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
     <author>
-      <name>Anil Seth</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AB Barrett, B Milinkovic, PAM Mediano, FE Rosas... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The integrated information theory of consciousness (IIT) is uniquely ambitious in proposing a mathematical formula, derived from apparently fundamental properties of conscious experience, to describe the quantity and quality of consciousness for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.11482"/>
-    <published>2026-04-17T13:20:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Oliveira&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The framework is validated through a six-layer architecture spanning RNA World to Silicon GPU clusters. ... By unifying the RNA World , Silicon substrates, and Quantum Consensus, we provide a pathway for the engineer of 2140 to not just ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ipfs-cache.desci.com/ipfs/bafybeigcmsr74gmhsstshzk2aqx67zigp4vzya6s5fzs4un7ytbh6theuq/main.pdf"/>
+    <published>2026-04-17T21:02:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df5063a7#0</id>
-    <title>Integrated information theory: the good, the bad and the misunderstood</title>
-    <updated>2026-04-17T13:20:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#6</id>
+    <title>Formulation and Quality Evaluation of Probiotic-Enriched Dairy and Non-Dairy Food Products</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AB Barrett, B Milinkovic, PAM Mediano, FE Rosas... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The integrated information theory of consciousness (IIT) is uniquely ambitious in proposing a mathematical formula, derived from apparently fundamental properties of conscious experience, to describe the quantity and quality of consciousness for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.11482"/>
-    <published>2026-04-17T13:20:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Tiger - International Journal of Research in Multidisciplinary ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The rising interest in functional foods has prompted significant research into the development of probiotic-enriched food products, both dairy and non-dairy. This study investigates the formulation, sensory attributes, and microbiological stability of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ijrmt.com/index.php/ijrmt/article/download/7/6"/>
+    <published>2026-04-17T21:02:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df5062a1#0</id>
-    <title>A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need</title>
-    <updated>2026-04-17T13:20:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#5</id>
+    <title>Mechanism vs Probability</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Hazan, Y Zhang, B Hartl, M Levin - arXiv preprint arXiv:2604.08749, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How many of a neural network's parameters actually encode task-specific information? We investigate this question with LottaLoRA, a training paradigm in which every backbone weight is drawn at random and frozen; only low-rank LoRA ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.08749"/>
-    <published>2026-04-17T13:20:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mason&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper examines the deepest unresolved question in origin - of - life research: not whether ... of Inevitable Biology argues that abiogenesis was thermodynamically inevitable, this paper ... a special accommodation used in origin - of - life research ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/403781088_Mechanism_vs_Probability_The_Epistemic_Divide_in_Origin-of-Life_Research/links/69dd5d5b5518257d60ea723c/Mechanism-vs-Probability-The-Epistemic-Divide-in-Origin-of-Life-Research.pdf"/>
+    <published>2026-04-17T21:02:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df50625d#0</id>
-    <title>Spectroscopic Characterization of WD J000801. 25-350450 and its Two Co-Moving Companions</title>
-    <updated>2026-04-17T13:20:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#4</id>
+    <title>From random pools to precision tools: The expanding repertoire of synthetic nucleic acid catalysts</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TP Bickle, JD Kirkpatrick, SL Casewell, NG Fusillo... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present new spectroscopic data for Gaia DR3 2309499817384726016 (WD0008- 350A) and its two wide, co-moving, low-mass companions. We confirm the white dwarf is a hydrogen-rich DA, with T $ _ {\rm eff} $= 6200$\pm $90~ K and a mass of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.09845"/>
-    <published>2026-04-17T13:20:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CPM Scheitl, C Höbartner - Current Opinion in Chemical Biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Beyond applications in nucleic acid research and diagnostics, the study of nucleic acid catalysts offers fundamental insights into the origin of life and the RNA world hypothesis. This review covers both fundamental and applied perspectives and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S136759312600030X"/>
+    <published>2026-04-17T21:02:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df506066#0</id>
-    <title>No Coincidence, George: Capacity Limits in Cognitive Processing Reflect the Curse of Generalization</title>
-    <updated>2026-04-17T13:20:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#3</id>
+    <title>On the Possibility of Programmable Scanning and Y-Modulated EM Detection to Study the Charge Heterogeneity of Uracil Crystals</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
     <author>
-      <name>Giovanni Petri</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SM Frankland, R Marjieh, M Nurisso, J Fluegemann...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The striking constraints of some human cognitive processes stand in stark contrast to the nearlimitless capability of others. While we can acquire and flexibly use vast amounts ofinformation, the amount we can process at any one time is often stiflingly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giovanni Petri (author alert)</content>
-    <link href="https://europepmc.org/article/ppr/ppr1157025"/>
-    <published>2026-04-17T13:20:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OV Gradov, MK Filippov, OV Gradov, IA Maklakova - J Integrated Health, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study explores the abiotically driven synthesis of uracil under prebiotic conditions, highlighting its formation ... prebiotic materials. Initial results demonstrate the feasibility of this approach, providing critical insights into prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://urfpublishers.com/open-access/on-the-possibility-of-programmable-scanning-and-y-modulated-em-detection-to-study-the-charge-heterogeneity-of-uracil-crystals.pdf"/>
+    <published>2026-04-17T21:02:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76df55e835#0</id>
-    <title>Coronal dimmings from active region 13664 during the May 2024 solar energetic events (Corrigendum)</title>
-    <updated>2026-04-17T13:36:17+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#2</id>
+    <title>The Phase Transition from Nothing to Something: From Primordial Soup to Particle Zoo in Four Parameters</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Razquin, AM Veronig, K Dissauer, T Podladchikova... - Astronomy &amp; Astrophysics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This corrigendum to Razquin et al.(2025) corrects an inconsistency in the comparison between the total unsigned magnetic flux of the May 2024 events' coronal dimmings and that of the general dimming population reported by Dissauer ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://www.aanda.org/articles/aa/full_html/2026/04/aa60138e-26/aa60138e-26.html"/>
-    <published>2026-04-17T13:36:17+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Jia&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate whether particle-like entities defined as persistent, localized, propagating, and interaction-capable subgraph structures can emerge spontaneously in a minimal dynamical system with no predefined geometry. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/JIATPT"/>
+    <published>2026-04-17T21:02:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#1</id>
+    <title>Variance-dependent inheritance fidelity drives residence-time symmetry breaking in a protocell model</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MJ Carr - BioSystems, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Symmetry breaking in prebiotic and protocellular systems is often attributed to fitness gradients, catalytic amplification, or explicit selective advantages. The present study tests whether direction-neutral, state-dependent variance coupling can generate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726000985"/>
+    <published>2026-04-17T21:02:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76df970fb5#0</id>
+    <title>Squid cartilage-derived chondroitin sulfate from Uroteuthis chinensis: a novel marine prebiotic modulating gut microbiota and ameliorating ulcerative colitis</title>
+    <updated>2026-04-17T21:02:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Chen, H Li, R Chen, Z Liang, Z Ou, P Zhang, L Ni... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study evaluated the prebiotic potential of chondroitin sulfate (CS) derived from the cartilage of the squid Uroteuthis chinensis, and its protective effects against dextran sulfate sodium (DSS)-induced ulcerative colitis (UC) in mice. Dietary ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926008185"/>
+    <published>2026-04-17T21:02:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76dfcd00b3#1</id>
+    <title>Emergence of Statistical Financial Factors by a Diffusion Process</title>
+    <updated>2026-04-18T05:46:11+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Negrete Jr, JJ Ramos -arXivpreprintarXiv:2604.12197, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Factor models characterize the joint behavior of large sets of financial assets through a smaller number of underlying drivers. We develop a network-based framework in which factors emerge naturally from the structure of interactions among ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.12197"/>
+    <published>2026-04-18T05:46:11+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76dfcd00b3#0</id>
+    <title>Generalized symmetries and emergence in axion effective field theories</title>
+    <updated>2026-04-18T05:46:11+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Sehayek, N Craig -arXivpreprintarXiv:2604.11877, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We show that emergence constraints are universally saturated by anomaly inflow onto topological defects, while in perturbative UV ... phenomenological implications of the emergence constraints. To do so, we will first explore the way in which ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.11877"/>
+    <published>2026-04-18T05:46:11+00:00</published>
   </entry>
 </feed>
