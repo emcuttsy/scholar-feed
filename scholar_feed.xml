@@ -2,162 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-19T07:20:01.510105+00:00</updated>
+  <updated>2026-04-19T14:32:58.149399+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de1a005e#0</id>
-    <title>Carbon Cycle Imbalances on Arid Terrestrial Planets with Implications for Venus</title>
-    <updated>2026-04-18T18:37:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76de41684a#5</id>
+    <title>Quantum fluctuations and the emergence of in-gap Higgs mode in superconductors</title>
+    <updated>2026-04-19T07:32:15+00:00</updated>
     <author>
-      <name>Joshua Krissansen-Totton</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HT White-Gianella, J Krissansen-Totton - The Planetary Science Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Arid terrestrial exoplanets are potentially abundant and are thus interesting targets in the search for life. In particular, M-dwarf planets such as those in the TRAPPIST-1 system may possess limited surface water, whereas early solar system terrestrials ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joshua Krissansen-Totton (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/PSJ/ae4faa/pdf"/>
-    <published>2026-04-18T18:37:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Tian, N Tsuji, D Manske -arXivpreprintarXiv:2604.15120, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We extend the well-established action of the Higgs mode in $s$-wave superconductors to include quantum fluctuations (QFs). We find that already one-loop quantum corrections to the Higgs propagator shift its eigenfrequency below the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.15120"/>
+    <published>2026-04-19T07:32:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de19ffed#0</id>
-    <title>Detecting entanglement from few partial transpose moments and their decay via weight enumerators</title>
-    <updated>2026-04-18T18:37:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76de41684a#4</id>
+    <title>Emergence of Nontrivial Topological Magnon States in Skyrmionium Lattices with Zero Topological Charge</title>
+    <updated>2026-04-19T07:32:15+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Miller, J Eisert - arXiv preprint arXiv:2604.12576, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The $ p_3 $-PPT criterion is an experimentally viable relaxation of the well-known positive partial transposition (PPT) criterion for the certification of quantum entanglement. Recently, it has been generalized to various families of entanglement ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.12576"/>
-    <published>2026-04-18T18:37:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Zheng, P Tang, X Liu, Z Li, P Yan, H Wu -arXivpreprintarXiv:2604.13451, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We predict the emergence of nontrivial topological magnon states in the skyrmionium lattice with zero topological charge. We propose the concept of weighted magnetic flux, which provides a clear physical picture for this anomalous ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.13451"/>
+    <published>2026-04-19T07:32:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de19fee0#0</id>
-    <title>Reference genome assembly of the false killer whale (Pseudorca crassidens)</title>
-    <updated>2026-04-18T18:37:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76de41684a#3</id>
+    <title>Emergence of Open Chemical Reaction Network Thermodynamics within Closed Systems</title>
+    <updated>2026-04-19T07:32:15+00:00</updated>
     <author>
-      <name>Erich Jarvis</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KM Hernandez, KK Martien, RW Baird, MT Schmitz... - Journal of Heredity, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; High-quality genomic resources are essential tools for conservation and management actions. We present a chromosome-level genome assembly for the false killer whale (Pseudorca crassidens, Owen, 1846), a large globicephaline ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
-    <link href="https://academic.oup.com/jhered/advance-article-pdf/doi/10.1093/jhered/esag031/68079233/esag031.pdf"/>
-    <published>2026-04-18T18:37:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Remlein, M Esposito, F Avanzini -arXivpreprintarXiv:2604.14848, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We now turn to closed CRNs and introduce the fundamental framework that enable the emergence of open-CRN behavior. To this end, ... the emergence of open-CRN dynamics. In Subs. VI B, we show that imposing abundance separation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.14848"/>
+    <published>2026-04-19T07:32:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#9</id>
-    <title>Yan Ürünlerden ve Tarımsal-Gıda Atıklarından Sürdürülebilir Gıda Paketleme Gelişimi İçin Mikrobiyal Eksopolisakkarit (EPS) Üretimindeki Güncel Gelişmeler</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76de41684a#2</id>
+    <title>Emergence of Time Semicrystals in Holographic Driven-Dissipative Systems</title>
+    <updated>2026-04-19T07:32:15+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Karabacak Aydın&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://avesis.omu.edu.tr/yayin/208a4cbb-b367-44ea-9fc9-8daa4fdc5525/yan-urunlerden-ve-tarimsal-gida-atiklarindan-surdurulebilir-gida-paketleme-gelisimi-icin-mikrobiyal-eksopolisakkarit-eps-uretimindeki-guncel-gelismeler"/>
-    <published>2026-04-18T22:52:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YQ Lei, XH Ge, Y Tian, SF Wu -arXivpreprintarXiv:2604.14131, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how temporal order degrades in quantum systems remains a central issue in nonequilibrium physics. Here we study the melting of discrete time crystals in a periodically driven holographic system, where a distinct (discrete) time ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.14131"/>
+    <published>2026-04-19T07:32:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#8</id>
-    <title>Chemical complexity in a young Class I protostellar disk</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76de41684a#1</id>
+    <title>CAMO: An Agentic Framework for Automated Causal Discovery from Micro Behaviors to Macro Emergence in LLM Agent Simulations</title>
+    <updated>2026-04-19T07:32:15+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Meduntseva&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hot corinos are compact (&lt;100 au), hot (&gt; 100 K), and dense (&gt;10^7 cm^-3) regions of solar-type protostars, characterized by a remarkable enrichment of interstellar complex organic molecules. These species are fundamental building blocks of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://amslaurea.unibo.it/id/eprint/38776/"/>
-    <published>2026-04-18T22:52:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Yu, Y Guo, Y Hou, X Xue, Q Ma -arXivpreprintarXiv:2604.14691, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; LLM-empowered agent simulations are increasingly used to study social emergence , yet the micro-to-macro causal mechanisms behind macro outcomes often remain unclear. This is challenging because emergence arises from intertwined agent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.14691"/>
+    <published>2026-04-19T07:32:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#7</id>
-    <title>Inter-protocellular macromolecular communication via nanoparticle-induced gap-junction mimics</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76de41684a#0</id>
+    <title>Operator Space Transport and the Emergence of Boundary Time Crystals</title>
+    <updated>2026-04-19T07:32:15+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Guan, J Zhang, Y Qian, Y Cui, S Yang, R Gu, H Dou - Nano Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... By engineering interactions between charged nanoparticles and protocell membrane, we modulated the contact and higher-order assembly behavior of protocells. We also achieved molecular weight-dependent and concentration ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciopen.com/local/article_pdf/10.26599/NR.2026.94908733.pdf"/>
-    <published>2026-04-18T22:52:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#6</id>
-    <title>Enhanced Abiotic RNA Homopolymer Formation in Recirculated Microdroplet Reactions</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SE Pryor, MF Schaller, JT Shelley&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in origins - of - life and prebiotic chemistry has been relatively underexplored. Confined-volume systems, and particularly microdroplets, are becoming increasingly recognized for their ability to host and enable prebiotic ... (4.5 Ga) to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15002042/v1"/>
-    <published>2026-04-18T22:52:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#5</id>
-    <title>Hemp protein functional properties, amino acid profile, and growth promotion of Lactiplantibacillus plantarum via ultrasound-induced Maillard reaction with Chito ...</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Chaiwong, M Gavahian, N Leksawasdi, SL Htike... - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study developed an ultrasound-induced Maillard reaction (UMR) to conjugate hemp protein (HP) with chito-oligosaccharides (COS) and evaluate the resulting functional and biological enhancements. The optimal UMR condition (90 C, 1 h) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626014573"/>
-    <published>2026-04-18T22:52:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#4</id>
-    <title>Evaluation of Fidelity in Origins Science Literature: A Multi-AI Forensic Audit Using the DB-FEP</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mason - Evolutionary Biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Origins science, and specifically the chemical evolution program addressing the question of abiogenesis , ... prebiotic chemistry problem in Oparin's original model, which required polysaccharides that are not found in meteorites or are not ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/403832358_Evaluation_of_Fidelity_in_Origins_Science_Literature_A_Multi-AI_Forensic_Audit_Using_the_DB-FEP_DQA_ELIS_Framework/links/69df736ab1056332819c6557/Evaluation-of-Fidelity-in-Origins-Science-Literature-A-Multi-AI-Forensic-Audit-Using-the-DB-FEP-DQA-ELIS-Framework.pdf"/>
-    <published>2026-04-18T22:52:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#3</id>
-    <title>Ancient History: The Origin of Earth Life and Its Consequences</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JG Cramer - How to Live Much Longer: The Mitochondrial DNA ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... emergence of life on Earth from the violent Hadean Era through the rise of mitochondria‑bearing eukaryotic "supercells," highlighting how early planetary conditions shaped biology's fundamental architecture. It follows the progression ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-3-032-17741-4_2"/>
-    <published>2026-04-18T22:52:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#2</id>
-    <title>The Gut Microbiome Modulates the Lipase-Mediated Digestion of Dietary Lipid Emulsions</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Collins, L Donnellan, Z Asif, NSL Chan... - Colloids and Surfaces B ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Rats were pretreated for 14 days with either broad-spectrum antibiotics or a prebiotic to ... prebiotic group showed a 3–4-fold increase in fatty acid release compared to the antibiotic group after 60 minutes of digestion (p &lt; 0.0001) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0927776526003036"/>
-    <published>2026-04-18T22:52:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#1</id>
-    <title>Phase separation induced by active polymerization makes protocells robust against environmental changes</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Chen, JU Sommer, TS Harmon - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our findings show how nonequilibrium polymerization not only promotes protocell formation but also enhances their resilience to survive environmental fluctuations. This contrasts with equilibrium systems which do not show resilience to recrossing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2524346123"/>
-    <published>2026-04-18T22:52:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eca13#0</id>
-    <title>Body mass index, prebiotic supplementation during pregnancy and gestational diabetes mellitus risk: an effect modification analysis from a randomised controlled trial</title>
-    <updated>2026-04-18T22:52:26+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Pretorius, TR Sullivan, SVM Walker, J Garssen... - Nutrition Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiotic dietary supplementation has been shown to improve glucose homeostasis in type 2 diabetes patients. The aim of this analysis was to determine whether pre-pregnancy body mass index (BMI) modifies the effect of prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s12937-026-01323-9"/>
-    <published>2026-04-18T22:52:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de2eaf9c#0</id>
-    <title>Continuing to Advance European High Contrast Imaging Research and Development towards HWO and LIFE</title>
-    <updated>2026-04-18T22:53:57+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Chauvin, OC Gonzalez, I Laginja, D Dicken, S Haffert... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This report represents a milestone for the European HCI community. It is a collective effort to consolidate expertise, define strategic ... the next generation of exoplanet exploration. As part of the RD-HCI II organization, following updates on the Roman ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.15077"/>
-    <published>2026-04-18T22:53:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Nemeth, A Nazir, RJ Slager, A Principi -arXivpreprintarXiv:2604.14291, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Boundary time crystals (BTCs) are prominent examples of continuous time crystals in collective spin systems governed by Lindbladian evolution. To date, their analysis has mostly relied on semiclassical and numerical approaches. Here, we develop a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.14291"/>
+    <published>2026-04-19T07:32:15+00:00</published>
   </entry>
 </feed>
