@@ -2,74 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-19T14:32:58.149399+00:00</updated>
+  <updated>2026-04-20T08:07:42.252599+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de41684a#5</id>
-    <title>Quantum fluctuations and the emergence of in-gap Higgs mode in superconductors</title>
-    <updated>2026-04-19T07:32:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dead452c#0</id>
+    <title>Co-occurring fisheries and tourism synergistically drive behavioural shifts in endangered dolphins</title>
+    <updated>2026-04-20T00:04:56+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Damien Farine</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Tian, N Tsuji, D Manske -arXivpreprintarXiv:2604.15120, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We extend the well-established action of the Higgs mode in $s$-wave superconductors to include quantum fluctuations (QFs). We find that already one-loop quantum corrections to the Higgs propagator shift its eigenfrequency below the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.15120"/>
-    <published>2026-04-19T07:32:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Samad, H Patil, M Cantor, D Farine, D Sutaria... - Marine Ecology Progress ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Intensifying human activities are reshaping marine ecosystems worldwide, and yet their impact on wildlife behaviour and survival remain poorly understood. While fisheries-related mortality is the primary threat to cetaceans globally, many dolphin ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
+    <link href="https://www.int-res.com/journals/meps/articles/meps15111"/>
+    <published>2026-04-20T00:04:56+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de41684a#4</id>
-    <title>Emergence of Nontrivial Topological Magnon States in Skyrmionium Lattices with Zero Topological Charge</title>
-    <updated>2026-04-19T07:32:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dead44e4#0</id>
+    <title>CP26 is not involved in qE-or qZ-type non-photochemical quenching in Arabidopsis</title>
+    <updated>2026-04-20T00:04:57+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Graham Fleming</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Zheng, P Tang, X Liu, Z Li, P Yan, H Wu -arXivpreprintarXiv:2604.13451, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We predict the emergence of nontrivial topological magnon states in the skyrmionium lattice with zero topological charge. We propose the concept of weighted magnetic flux, which provides a clear physical picture for this anomalous ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.13451"/>
-    <published>2026-04-19T07:32:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Walter, D Patel-Tupper, L Lam, A Ma, G Taylor... - Plant Physiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; CP26 is a monomeric minor light-harvesting complex of Photosystem II (LHCII) protein located at the interface between LHCII trimers and the PSII core in thylakoid membranes. Previous studies have proposed CP26 plays a role in non ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Graham Fleming (author alert)</content>
+    <link href="https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiag207/8656904"/>
+    <published>2026-04-20T00:04:57+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de41684a#3</id>
-    <title>Emergence of Open Chemical Reaction Network Thermodynamics within Closed Systems</title>
-    <updated>2026-04-19T07:32:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dead449c#1</id>
+    <title>Augpred: Microarray-Based Machine Learning for Heart Transplants Rejection and Infection Detection</title>
+    <updated>2026-04-20T00:04:58+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Manlio De Domenico</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Remlein, M Esposito, F Avanzini -arXivpreprintarXiv:2604.14848, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We now turn to closed CRNs and introduce the fundamental framework that enable the emergence of open-CRN behavior. To this end, ... the emergence of open-CRN dynamics. In Subs. VI B, we show that imposing abundance separation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.14848"/>
-    <published>2026-04-19T07:32:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Perazzolo, I Barison, M Fedrigo, A Angelini, C Basso... - The Journal of Heart and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose: Differentiating Cytomegalovirus (CMV) infection from rejection in heart transplant recipients is challenging due to the possible overlapping of some histopathological features. Microarray transcripts profiling offers a promising ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
+    <link href="https://www.jhltonline.org/article/S1053-2498(26)01695-5/abstract"/>
+    <published>2026-04-20T00:04:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de41684a#2</id>
-    <title>Emergence of Time Semicrystals in Holographic Driven-Dissipative Systems</title>
-    <updated>2026-04-19T07:32:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dead449c#0</id>
+    <title>Multilayer Networks Reveal Centrality Rewiring in Heart Transplant Rejection and Infection</title>
+    <updated>2026-04-20T00:04:58+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Manlio De Domenico</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YQ Lei, XH Ge, Y Tian, SF Wu -arXivpreprintarXiv:2604.14131, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how temporal order degrades in quantum systems remains a central issue in nonequilibrium physics. Here we study the melting of discrete time crystals in a periodically driven holographic system, where a distinct (discrete) time ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.14131"/>
-    <published>2026-04-19T07:32:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Perazzolo, I Barison, M Fedrigo, A Angelini, C Basso... - The Journal of Heart and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose: Transcript-level regulatory mechanisms in cardiac allograft vasculopathy, infection, and graft dysfunction remain poorly characterized. Complex network systems can explore the intricate architecture of interactions and capture phenotype ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
+    <link href="https://www.jhltonline.org/article/S1053-2498(26)01696-7/abstract"/>
+    <published>2026-04-20T00:04:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de41684a#1</id>
-    <title>CAMO: An Agentic Framework for Automated Causal Discovery from Micro Behaviors to Macro Emergence in LLM Agent Simulations</title>
-    <updated>2026-04-19T07:32:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dead444c#0</id>
+    <title>Entropy production bounds for systems running computer programs</title>
+    <updated>2026-04-20T00:04:59+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>David H. Wolpert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Yu, Y Guo, Y Hou, X Xue, Q Ma -arXivpreprintarXiv:2604.14691, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; LLM-empowered agent simulations are increasingly used to study social emergence , yet the micro-to-macro causal mechanisms behind macro outcomes often remain unclear. This is challenging because emergence arises from intertwined agent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.14691"/>
-    <published>2026-04-19T07:32:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Yadav, F Caravelli, D Wolpert - PNAS Nexus, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mismatch cost (MMC) is a universally applicable lower bound on the entropy production (EP) of any fixed physical process across a given time interval. In the first part of the paper, we establish results concerning MMC to prove that it scales at least ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David H. Wolpert (author alert)</content>
+    <link href="https://academic.oup.com/pnasnexus/advance-article-pdf/doi/10.1093/pnasnexus/pgag116/68088976/pgag116.pdf"/>
+    <published>2026-04-20T00:04:59+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76de41684a#0</id>
-    <title>Operator Space Transport and the Emergence of Boundary Time Crystals</title>
-    <updated>2026-04-19T07:32:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76dead43ff#0</id>
+    <title>Epistemic Pluralism &amp; Astrobiology</title>
+    <updated>2026-04-20T00:05:00+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Michael L Wong</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Nemeth, A Nazir, RJ Slager, A Principi -arXivpreprintarXiv:2604.14291, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Boundary time crystals (BTCs) are prominent examples of continuous time crystals in collective spin systems governed by Lindbladian evolution. To date, their analysis has mostly relied on semiclassical and numerical approaches. Here, we develop a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.14291"/>
-    <published>2026-04-19T07:32:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KJ Smith, PD Anderson, ML Wong - Journal for General Philosophy of Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Astrobiology is a field that asks profound questions about the universe by simultaneously acquiring knowledge from multiple disciplines in order to propel us toward a better understanding of what life is, how it emerges, and if it exists beyond ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s10838-025-09760-6"/>
+    <published>2026-04-20T00:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76dead4395#0</id>
+    <title>Processing argument structure in mild, non-fluent aphasia: Preliminary findings from contrasting Spanish with Basque and English</title>
+    <updated>2026-04-20T00:05:02+00:00</updated>
+    <author>
+      <name>Manuel Carreiras</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Heinzova, M Goral, M Carreiras, S Mancini - International Journal of Speech ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose People with aphasia have been found to experience more difficulty in producing verbs with a greater number of arguments (transitives vs. intransitives) or non-canonical argument mapping (unaccusatives vs. unergatives). Basque is an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
+    <link href="https://www.tandfonline.com/doi/abs/10.1080/17549507.2026.2651734"/>
+    <published>2026-04-20T00:05:02+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76dead431f#0</id>
+    <title>Optimal algorithmic complexity of inference in quantum kernel methods</title>
+    <updated>2026-04-20T00:05:03+00:00</updated>
+    <author>
+      <name>Jens Eisert</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Gil-Fuster, S Shin, S Jerbi, J Eisert, MJ Kramer - arXiv preprint arXiv:2604.15214, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum kernel methods are among the leading candidates for achieving quantum advantage in supervised learning. A key bottleneck is the cost of inference: evaluating a trained model on new data requires estimating a weighted sum $\sum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2604.15214"/>
+    <published>2026-04-20T00:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76dead430f#0</id>
+    <title>Received: 5 November 2019/Accepted: 16 April 2020# The Author (s) 2020</title>
+    <updated>2026-04-20T00:05:03+00:00</updated>
+    <author>
+      <name>Anil Seth</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EHF de Haan, PM Corballis, SA Hillyard, CA Marzi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; REVIEW Split-Brain: What We Know Now and Why This is Important for Understanding Consciousness Edward HF de Haan1 &amp; Paul M. Corballis2 &amp; Steven A. Hillyard3 &amp; Carlo A. Marzi4 &amp; Anil Seth5 &amp; Victor AF Lamme1 &amp; Lukas Volz6 &amp; Mara Fabri7 &amp; ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://researchspace.auckland.ac.nz/server/api/core/bitstreams/d2b3bafc-3801-49e4-b0c9-7e269c936f6d/content"/>
+    <published>2026-04-20T00:05:03+00:00</published>
   </entry>
 </feed>
