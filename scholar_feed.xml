@@ -2,195 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-26T07:40:04.392862+00:00</updated>
+  <updated>2026-04-27T08:25:44.062707+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b14633#0</id>
-    <title>Energy constraint on human health</title>
-    <updated>2026-04-25T19:18:51+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d13625bf#0</id>
+    <title>Empirical evaluation of analytic validity of polygenic scores</title>
+    <updated>2026-04-26T20:31:43+00:00</updated>
     <author>
-      <name>Chris Kempes</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Behnke, E Shaulson, H Pontzer, CPKempes... - Trends in Endocrinology &amp; ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Evolved constraints to human energy transformation force the body–brain system to operate an economy of energy. To survive and thrive, an organism's finite internal energy resources must be dynamically reallocated, forcing trade-offs from organelle ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
-    <link href="https://www.cell.com/trends/endocrinology-metabolism/fulltext/S1043-2760(26)00045-7"/>
-    <published>2026-04-25T19:18:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Lin, J Zeng, SD Gordon, L Wallace, L Ziser, S Shah... - Genome Medicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Polygenic scores (PGSs) are weighted sum scores of trait-associated alleles from up to millions of SNPs. As PGS research pivots to translation into health care settings a key issue for laboratories providing PGS is demonstration of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s13073-026-01654-6"/>
+    <published>2026-04-26T20:31:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#9</id>
-    <title>Programmable Coacervates Based on Minimalist Sticker–Spacer Frameworks: Chemical Design, Functions, and Emerging Applications</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d1362566#0</id>
+    <title>Synch. Live: Collective problem-solving through flocking motion associated with higher connectedness to others</title>
+    <updated>2026-04-26T20:31:45+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Fernando E. Rosas</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Essa, M Abbas - ACS Applied Materials &amp; Interfaces, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (11−13) Similarly, amphiphilic polymersomes have been extensively explored as protocell models due to their ability to self-assemble into ... Owing to their life-like properties, coacervates are widely regarded as protocell models with the potential to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/full/10.1021/acsami.6c03853"/>
-    <published>2026-04-25T19:18:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MI Sas, PAM Mediano, FE Rosas, H Leone, A Sas... - Collective Intelligence, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Collective self-organising behaviour is ubiquitous in nature, whereby complex patterns emerge from the local interactions between individuals. Yet in humans, most group behaviour is attributed to explicit central control or pre-planning ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
+    <link href="https://journals.sagepub.com/doi/pdf/10.1177/26339137261435117"/>
+    <published>2026-04-26T20:31:45+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#8</id>
-    <title>Protein folds and catalytic strategies at the origin of biological CO2 fixation</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d1362480#1</id>
+    <title>The genome sequence of Schreibers's Long-fingered Bat, Miniopterus schreibersii (Kuhl, 1817)(Chiroptera: Miniopteridae)</title>
+    <updated>2026-04-26T20:31:46+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Sonja Vernes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Mrnjavac - FEMS Microbiology Ecology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Under a chemolithoautotrophic origins framework, how did mineral surface-promoted prebiotic reactions evolve into bona fide cells bolstering intricate metabolic networks that sustain steady state concentrations of metabolites, all while maintaining redox ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://academic.oup.com/femsec/advance-article-pdf/doi/10.1093/femsec/fiag041/68136830/fiag041.pdf"/>
-    <published>2026-04-25T19:18:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Alvarez van Tussenbroek, SC Vernes, H Nicolaou... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual male Miniopterus schreibersii (Schreibers's Long-fingered Bat; Chordata; Mammalia; Chiroptera; Miniopteridae). The assembly contains two haplotypes with total lengths of 1 850.57 megabases and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
+    <link href="https://wellcomeopenresearch.org/articles/11-233"/>
+    <published>2026-04-26T20:31:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#7</id>
-    <title>Bitter almond gum as a nutraceutical intervention for lipid profile and anthropometry in women with T2DM: triple-blinded, randomized, placebo-controlled study</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d1362480#0</id>
+    <title>The genome sequence of Nathusius' pipistrelle, Pipistrellus nathusii (Keyserling &amp; Blasius, 1839)(Chiroptera: Vespertilionidae)</title>
+    <updated>2026-04-26T20:31:46+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Sonja Vernes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Rafiei, P Dehghan, S Aliasgharzadeh, NL Yagin... - Journal of Functional Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Bitter almond (Amygdalus communis L. var. amara) gum—a soluble fiber-rich exudate—has been suggested to exhibit prebiotic properties and confer potential cardiometabolic benefits. This study evaluated the effects of bitter almond gum on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1756464626000885"/>
-    <published>2026-04-25T19:18:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Ruedi, M Mai, EC Teeling, SC Vernes... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual female Pipistrellus nathusii (Nathusius' pipistrelle; Chordata; Mammalia; Chiroptera; Vespertilionidae). The assembly contains two haplotypes with total lengths of 1 961.71 megabases and 1 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
+    <link href="https://wellcomeopenresearch.org/articles/11-234"/>
+    <published>2026-04-26T20:31:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#6</id>
-    <title>Physicochemical characterization and in vitro digestibility of pretreated green banana flour through hot air oven drying</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d1362461#0</id>
+    <title>Parasitic infection is associated with reduced latency to socially learn a novel foraging task</title>
+    <updated>2026-04-26T20:31:47+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Damien Farine</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Mushtaq, M Hussain, SH Phyo, MU Khalid, L Li... - Applied Food Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The potential functionality and health benefits of green banana flour (GBF) arise from its resistant starch (RS) and high bioactive compound concentrations. Thus, we investigated the physicochemical, structural, in vitro digestibility, starch hydrolysis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S277250222600394X"/>
-    <published>2026-04-25T19:18:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Abdu, M Chimento, G Alarcón-Nieto, KM Wanelik... - Royal Society Open Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Social learning, whereby individuals use social information to explore and exploit the environment, is widespread among animals. It enables individuals to have greater efficiency in extracting resources and better adapt to changing environments. At the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
+    <link href="https://royalsocietypublishing.org/rsos/article/13/4/252220/481414"/>
+    <published>2026-04-26T20:31:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#5</id>
-    <title>Energy gradients as potential drivers of pre-cellular chemical organization</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d13412cb#0</id>
+    <title>Ethical Precision in Nanoscale Brain Interfacing</title>
+    <updated>2026-04-26T20:59:09+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Guilherme M. de O. Wood</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Tozzi - arXiv preprint arXiv:2604.19842, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Potential applications include experimental platforms for studying prebiotic chemistry, microfluidic systems with controlled gradients and ... Three interacting chemical species 𝑆(𝑥, 𝑡), 𝑋(𝑥, 𝑡) and 𝑃(𝑥, 𝑡) were interpreted as representatives ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.19842"/>
-    <published>2026-04-25T19:18:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Wood - Advanced Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent advances in nanotechnological brain interfacing are transforming precision from a technical achievement into a new form of intimate access to neural and mental life. Nanoscale sensors and stimulators approach synaptic resolution while reducing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
+    <link href="https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202524255"/>
+    <published>2026-04-26T20:59:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#4</id>
-    <title>Mesoporous silica nanoparticles encapsulating xylanase: Efficient platform for low-polymerization-degree xylooligosaccharides preparation</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d134125f#0</id>
+    <title>The geology of the Twelve Apostles in the Port Campbell Embayment in southeast Australia</title>
+    <updated>2026-04-26T20:59:11+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Gerald Auer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Zhu, A Li, C Huang, Y Du, Q Yong - Bioresource Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Xylooligosaccharides (XOS) are prebiotic oligosaccharides that can be efficiently produced through enzymatic hydrolysis. Therefore, the oriented control of the degree of polymerization (DP) of oligosaccharides obtained through enzymatic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S096085242600790X"/>
-    <published>2026-04-25T19:18:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#3</id>
-    <title>Icariin Enhances the Enzymatic Activity of N-acetylgalactosaminidase to Augment Akkermansia Abundance in Gut Microbiota for Improved PD-1 Blockade Efficacy in ...</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Qiao, L Yang, H Hao, Q Ding, F Ding, Z Chen... - Advanced science (Weinheim ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Here, we identified the flavonoid icariin as a novel prebiotic candidate that could specifically enrich intestinal Akk abundance under various ... These findings establish icariin as a promising Akk-targeting prebiotic that selectively enriches Akk ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42017465/"/>
-    <published>2026-04-25T19:18:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#2</id>
-    <title>Prebiotic -based" Shield" hydrogel embedded with rod-shaped Mn 2 (Olsa) MOF particles for inflammatory bowel disease and associated mental disorders</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Wang, W Su, X Li, H Xu, H Tian, L Huang, L Guo... - Nano Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Inflammatory bowel disease (IBD), with its colonic predilection, was frequently complicated by neuropsychiatric comorbidities such as anxiety and depression. To address this, we developed a colon-targeted, prebiotic -based synergistic therapeutic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciopen.com/local/article_pdf/10.26599/NR.2026.94908754.pdf"/>
-    <published>2026-04-25T19:18:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#1</id>
-    <title>Borate-Bridged Protolipids: A Prebiotic Route to Abiotic Membranes</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; VM Dembitsky, AO Terent'ev, IRI Scorei - Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... origin of life , yet the molecular nature of the earliest abiotic membranes remains uncertain. Existing models based on simple fatty acids, while experimentally tractable, often lack the environmental robustness required under fluctuating ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2075-1729/16/5/714"/>
-    <published>2026-04-25T19:18:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2b1459d#0</id>
-    <title>Prebiotic Effects of Lycium barbarum Polysaccharides on Gut Microbiota and Short‐Chain Fatty Acids Production in Wilson's Disease: An In Vitro Fermentation Study</title>
-    <updated>2026-04-25T19:18:52+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Fang, K Zhang, X Fang, D Liu, Y Yang, G Chen... - Food Science &amp; Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this study, we aimed to investigate the prebiotic effects of LBPs on the gut microbiota of WD patients using an in vitro simulated digestion and anaerobic fermentation model, combined with high‐throughput 16S rRNA gene sequencing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13099278/"/>
-    <published>2026-04-25T19:18:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2dca319#5</id>
-    <title>Emergence biases in molecular evolution</title>
-    <updated>2026-04-26T01:55:40+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Fuqua, N Vakirlis -arXivpreprintarXiv:2604.20477, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , emergence bias, to provide support for this new concept , and speculate on its molecular underpinnings. We believe that emergence biases ... Here, we present evidence for emergence biases across different subfields of molecular biology, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.20477"/>
-    <published>2026-04-26T01:55:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2dca319#4</id>
-    <title>The emergence of (3+ 1)-dimensional expanding spacetime from complex Langevin simulations of the Lorentzian type IIB matrix model with deformations</title>
-    <updated>2026-04-26T01:55:40+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KN Anagnostopoulos, T Azuma, M Hirasawa... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The near-horizontal distribution of ⟨αa⟩ at late times (large |αa|) indicates the emergence of real time. We find that one of the nine eigenvalues of Tij(t) grows with t. While this was misinterpreted as an evidence for the emergence of an expanding (1+1)-dimensional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.19836"/>
-    <published>2026-04-26T01:55:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2dca319#3</id>
-    <title>Autonomous Emergence of Hamiltonian in Deep Generative Models</title>
-    <updated>2026-04-26T01:55:40+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Xi, WQ Chen -arXivpreprintarXiv:2604.20821, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The unprecedented predictive success of deep generative models in complex many-body systems, such as AlphaFold3, raises an epistemological question: do these networks merely memorize data distributions via high-dimensional interpolation, or ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.20821"/>
-    <published>2026-04-26T01:55:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2dca319#2</id>
-    <title>Emergence of Transport Regimes from the Axial Field-Induced Interfacial Gradients in Uniform Surface Potential Nanopores</title>
-    <updated>2026-04-26T01:55:40+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Srinivasula, D Pandey -arXivpreprintarXiv:2604.20379, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Gate-modulated nanopores have emerged as a promising platform for achieving ion selectivity and ionic current rectification (ICR) with the advantage of active field-based control. However, the mechanistic origin of these experimentally reported ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.20379"/>
-    <published>2026-04-26T01:55:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2dca319#1</id>
-    <title>Emergence Transformer: Dynamical Temporal Attention Matters</title>
-    <updated>2026-04-26T01:55:40+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Zhou, BW Qin, K Du, W Lin -arXivpreprintarXiv:2604.19816, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in emergence phenomenon of complex systems including oscillatory coherence in quantum, biophysical, or climate systems. Here, by designing dynamical temporal attention (DTA) with timevarying query, key, and value matrices, we propose an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.19816"/>
-    <published>2026-04-26T01:55:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d2dca319#0</id>
-    <title>More Is Different: Toward a Theory of Emergence in AI-Native Software Ecosystems</title>
-    <updated>2026-04-26T01:55:40+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Russo -arXivpreprintarXiv:2604.19827, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Software engineering faces a fundamental challenge: multi-agent AI systems fail in ways that defy explanation by traditional theories. While individual agents perform correctly, their interactions degrade entire ecosystems, revealing a gap in our ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.19827"/>
-    <published>2026-04-26T01:55:40+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Gallagher, CW Mallett, R Soman, G Auer, A Herries - Australian Journal of Earth ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The coastal strata of the Port Campbell region in southeast Australia host several 40– 70 m-high limestone sea stacks called the 'Twelve Apostles' and over 40 km of near continuous sea cliffs. Despite their 'iconic'status, their geology is not well known ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
+    <link href="https://www.tandfonline.com/doi/full/10.1080/08120099.2026.2638817"/>
+    <published>2026-04-26T20:59:11+00:00</published>
   </entry>
 </feed>
