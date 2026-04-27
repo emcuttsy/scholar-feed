@@ -2,85 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-27T08:25:44.062707+00:00</updated>
+  <updated>2026-04-27T15:28:16.856905+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d13625bf#0</id>
-    <title>Empirical evaluation of analytic validity of polygenic scores</title>
-    <updated>2026-04-26T20:31:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d1ac7d11#2</id>
+    <title>Emergence of Mandelbrot-like and Julia-like Structures in Parameter Slices of Rational Maps</title>
+    <updated>2026-04-27T12:42:10+00:00</updated>
     <author>
-      <name>Nick Martin</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Lin, J Zeng, SD Gordon, L Wallace, L Ziser, S Shah... - Genome Medicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Polygenic scores (PGSs) are weighted sum scores of trait-associated alleles from up to millions of SNPs. As PGS research pivots to translation into health care settings a key issue for laboratories providing PGS is demonstration of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s13073-026-01654-6"/>
-    <published>2026-04-26T20:31:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PIS Navarro -arXivpreprintarXiv:2604.21048, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study complex one-dimensional parameter slices in a three-parameter family of rational maps with two free critical points, obtained by imposing the existence of periodic orbits with prescribed multipliers. Using explicit parametrizations, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.21048"/>
+    <published>2026-04-27T12:42:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1362566#0</id>
-    <title>Synch. Live: Collective problem-solving through flocking motion associated with higher connectedness to others</title>
-    <updated>2026-04-26T20:31:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d1ac7d11#1</id>
+    <title>Emergence of a non-bulk hexagonal Fe $ _2 $ S $ _2 $ single layer via phase transformation</title>
+    <updated>2026-04-27T12:42:10+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MI Sas, PAM Mediano, FE Rosas, H Leone, A Sas... - Collective Intelligence, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Collective self-organising behaviour is ubiquitous in nature, whereby complex patterns emerge from the local interactions between individuals. Yet in humans, most group behaviour is attributed to explicit central control or pre-planning ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://journals.sagepub.com/doi/pdf/10.1177/26339137261435117"/>
-    <published>2026-04-26T20:31:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Safeer, W Beida, F Oberbauer, N Atodiresei... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Two-dimensional materials can stabilize crystal structures that are absent from their bulk counterparts, offering opportunities for materials design. Here, we report the synthesis of a previously unknown hexagonal Fe$_2$S$_2$ single layer with $\beta$-CuI ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.21613"/>
+    <published>2026-04-27T12:42:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1362480#1</id>
-    <title>The genome sequence of Schreibers's Long-fingered Bat, Miniopterus schreibersii (Kuhl, 1817)(Chiroptera: Miniopteridae)</title>
-    <updated>2026-04-26T20:31:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d1ac7d11#0</id>
+    <title>Multi-Agent Empowerment and Emergence of Complex Behavior in Groups</title>
+    <updated>2026-04-27T12:42:10+00:00</updated>
     <author>
-      <name>Sonja Vernes</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Alvarez van Tussenbroek, SC Vernes, H Nicolaou... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual male Miniopterus schreibersii (Schreibers's Long-fingered Bat; Chordata; Mammalia; Chiroptera; Miniopteridae). The assembly contains two haplotypes with total lengths of 1 850.57 megabases and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
-    <link href="https://wellcomeopenresearch.org/articles/11-233"/>
-    <published>2026-04-26T20:31:46+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1362480#0</id>
-    <title>The genome sequence of Nathusius' pipistrelle, Pipistrellus nathusii (Keyserling &amp; Blasius, 1839)(Chiroptera: Vespertilionidae)</title>
-    <updated>2026-04-26T20:31:46+00:00</updated>
-    <author>
-      <name>Sonja Vernes</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Ruedi, M Mai, EC Teeling, SC Vernes... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual female Pipistrellus nathusii (Nathusius' pipistrelle; Chordata; Mammalia; Chiroptera; Vespertilionidae). The assembly contains two haplotypes with total lengths of 1 961.71 megabases and 1 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
-    <link href="https://wellcomeopenresearch.org/articles/11-234"/>
-    <published>2026-04-26T20:31:46+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1362461#0</id>
-    <title>Parasitic infection is associated with reduced latency to socially learn a novel foraging task</title>
-    <updated>2026-04-26T20:31:47+00:00</updated>
-    <author>
-      <name>Damien Farine</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Abdu, M Chimento, G Alarcón-Nieto, KM Wanelik... - Royal Society Open Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Social learning, whereby individuals use social information to explore and exploit the environment, is widespread among animals. It enables individuals to have greater efficiency in extracting resources and better adapt to changing environments. At the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
-    <link href="https://royalsocietypublishing.org/rsos/article/13/4/252220/481414"/>
-    <published>2026-04-26T20:31:47+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d13412cb#0</id>
-    <title>Ethical Precision in Nanoscale Brain Interfacing</title>
-    <updated>2026-04-26T20:59:09+00:00</updated>
-    <author>
-      <name>Guilherme M. de O. Wood</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Wood - Advanced Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent advances in nanotechnological brain interfacing are transforming precision from a technical achievement into a new form of intimate access to neural and mental life. Nanoscale sensors and stimulators approach synaptic resolution while reducing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
-    <link href="https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202524255"/>
-    <published>2026-04-26T20:59:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d134125f#0</id>
-    <title>The geology of the Twelve Apostles in the Port Campbell Embayment in southeast Australia</title>
-    <updated>2026-04-26T20:59:11+00:00</updated>
-    <author>
-      <name>Gerald Auer</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Gallagher, CW Mallett, R Soman, G Auer, A Herries - Australian Journal of Earth ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The coastal strata of the Port Campbell region in southeast Australia host several 40– 70 m-high limestone sea stacks called the 'Twelve Apostles' and over 40 km of near continuous sea cliffs. Despite their 'iconic'status, their geology is not well known ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
-    <link href="https://www.tandfonline.com/doi/full/10.1080/08120099.2026.2638817"/>
-    <published>2026-04-26T20:59:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Shah, I Nemenman, D Polani, S Tiomkin -arXivpreprintarXiv:2604.21155, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this work we study the emergence of behaviors driven by one such incentive, empowerment, specifically in the context of more than one agent. We formulate a principled extension of empowerment to the multi-agent setting, and demonstrate its ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.21155"/>
+    <published>2026-04-27T12:42:10+00:00</published>
   </entry>
 </feed>
