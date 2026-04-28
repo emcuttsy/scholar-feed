@@ -2,195 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-28T08:25:27.190984+00:00</updated>
+  <updated>2026-04-28T16:10:20.450035+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd888#0</id>
-    <title>Eberhard Karls University of Tübingen</title>
-    <updated>2026-04-27T21:53:21+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NB Thapa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... One reason we want to study exomoons is that they might help make planets suitable, for life . ... It tells us that we should look at Super - Earth where the stars gravity is not too strong. This ... This way of doing things is good enough to find ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Netra-Thapa/publication/404064970_The_Formation_of_ExoMoons_by_Collisions/links/69e872d0a07af005d34694e0/The-Formation-of-ExoMoons-by-Collisions.pdf"/>
-    <published>2026-04-27T21:53:21+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd82d#0</id>
-    <title>Mathematics Is Learning: Professional Development for High School Teachers to Reimagine Teaching</title>
-    <updated>2026-04-27T21:53:22+00:00</updated>
-    <author>
-      <name>JL bean</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JL Bean- 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Many high school students experience mathematics as disconnected, procedural, and intellectually disengaging. Despite decades of reform, national assessment data confirm persistent underachievement and a lack of meaningful mathematical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/a488ceae2c4dd1bfe28ceb6700904ae8/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
-    <published>2026-04-27T21:53:22+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#9</id>
-    <title>Prebiotics/synbiotics as natural alternatives for brain development and aging–focus on nutrigenomic and direct effects: a systematic review</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d0722434#5</id>
+    <title>Nutraceutical Potential of Fermented Foods: A Perspective on Health and Wellness</title>
+    <updated>2026-04-28T14:53:02+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LVP Gonçalves, PFG Holanda, AVS Cabral... - Nutritional Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objectives This review highlights the importance of prebiotics and their combination with probiotics as essential nutrients for brain development and as potential therapeutic alternatives for neurodegenerative diseases. It further highlights the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/abs/10.1080/1028415X.2026.2649604"/>
-    <published>2026-04-27T21:53:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Shahni, B Haobam, OI Singh, KS Devi, ST Devi... - Fermentation, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Emerging evidence from both animal and human studies suggests that probiotic and prebiotic interventions can improve mood, reduce anxiety, and alleviate symptoms of depression [140]. Diet plays a central role in shaping the composition ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2311-5637/12/5/211"/>
+    <published>2026-04-28T14:53:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#8</id>
-    <title>Food development</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d0722434#4</id>
+    <title>Multidimensional Exploration of the Relationship between Gut Microbita and Colorectal Cancer: Focus on Clinical Tumorigenesis and Treatment</title>
+    <updated>2026-04-28T14:53:02+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Collias, FM Torres-McLaverty, N Miller-Ka...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... For example, the demand for efficacious prebiotic ingredients is quickly rising due to a diversity of market drivers, including digestive health. According to FMCG Gurus, 68% of consumers now recognize the link between good digestive health and good ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.supplysidefbj.com/food-ingredients/baobab-a-sustainable-superfruit"/>
-    <published>2026-04-27T21:53:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Zhang, K Zhang, J Liu, H Luo - Frontiers in Immunology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The gut microbiota has received considerable attention in the field of colorectal cancer (CRC) research in recent years. In this review, we have explored the multifaceted relationship between the gut microbiota and CRC progression and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1807247/full"/>
+    <published>2026-04-28T14:53:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#7</id>
-    <title>Gut Modulators Alter BDNF/Cortisol Axis in Severe Obesity: A Triple-Blind Randomized Trial</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d0722434#3</id>
+    <title>Sensing the Light With Artificial Cells</title>
+    <updated>2026-04-28T14:53:02+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D da Silva Borges, R Fernandes, BBP Martins, SI Kraus...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study aimed to evaluate the effects of prebiotic or synbiotic on serum markers related to ... Serum BDNF concentrations decreased significantly after 30 days of prebiotic ... Serum TNF-α concentrations increased significantly after 30 days of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/96c585203ab9eddd469aec5f65809d7e/download_pub"/>
-    <published>2026-04-27T21:53:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Liu, P Song, M Luo, L Zhao, Y Lin - Chembiochem: a European journal of chemical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Artificial cells, designed to replicate natural cells, offer a unique platform for investigating biological processes and the origins of life . The development of hierarchical structures capable of light harvesting, sensory detection, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42033041/"/>
+    <published>2026-04-28T14:53:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#6</id>
-    <title>Molecular War and Peace: the Concurrent Path to Antibiosis and Antibiotic Resistance</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d0722434#2</id>
+    <title>GutOptim Review: Synbiotic Supplement for Bloating &amp; Gut Health</title>
+    <updated>2026-04-28T14:53:02+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Baquero, R Cantón, C Herencias, JA Gama...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The question we are examining in 85 this work is the prebiotic origin of the molecular ... -like 99 molecules could have evolved in ancient prebiotic times through a sprawling, vast network of ... resistance molecules evolved in 107 ancient ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ecoevorxiv.org/repository/object/12703/download/22646/"/>
-    <published>2026-04-27T21:53:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HI Works&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... THE ROOT CAUSE: Probiotic bacteria need prebiotic fiber to survive stomach acid and colonize the colon. Without it, many strains may ... The prebiotic side of the equation has its own evidence base. Konjac glucomannan — one of GutOptim's key ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.danilichev.info/gutoptim/"/>
+    <published>2026-04-28T14:53:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#5</id>
-    <title>Effect of dietary probiotics, prebiotics and synbiotics on Jaffarabadi buffalo calves</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d0722434#1</id>
+    <title>Effects of a Novel Prebiotic and Postbiotic Dietary Supplement on Gut Microbiota, Intestinal Barrier Markers, and Inflammation in Healthy Dogs</title>
+    <updated>2026-04-28T14:53:02+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BA Pata, MR Gadariya, HH Savsani, T Patbandha... - Journal of Livestock Science (ISSN ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; An experiment was conducted to evaluate the effects of probiotic, prebiotic and synbiotic administration on blood enzyme profile, antioxidant activity and health status in neonatal Jaffarabadi buffalo calves. Twenty-four calves, randomized into ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://livestockscience.in/wp-content/uploads/probiotic-Jaffrabadi.pdf"/>
-    <published>2026-04-27T21:53:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Yi, CS Nicolas, Z Sun, Q Wang, T Dong, Y Wu - Veterinary Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Although prebiotics and postbiotics support gastrointestinal health, evidence for their combined effects in dogs remains limited. This study evaluated a novel prebiotic and postbiotic supplement in healthy dogs undergoing a dietary transition. Thirty-six ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2306-7381/13/5/417"/>
+    <published>2026-04-28T14:53:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#4</id>
-    <title>Effect of Prebiotic Yeast Cell Wall on Starter Broilers Undergoing Gastrointestinal Challenge</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d0722434#0</id>
+    <title>Maillard reaction with milk proteins reduced the prebiotic activity of 2′-fucosyllactose in a neonatal rat model</title>
+    <updated>2026-04-28T14:53:02+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Abdaljaleei, AM Alsadwi, M Al-Ajeeli... - The Iraqi Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In recent years, yeast cell wall (YCW) prebiotics have been increasingly explored as alternatives to prophylactic antibiotic growth promoters in poultry production. Threonine, the third limiting amino acid in broiler diets, plays an essential role in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://jcovm.uobaghdad.edu.iq/index.php/Iraqijvm/article/view/2069"/>
-    <published>2026-04-27T21:53:23+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#3</id>
-    <title>Edible Plant-Derived Exosome-like Nanoparticles as Prebiotic Nanocarriers: Gut Microbiota Modulation and Functional Food Potential</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Alkan, YM Yalçıntaş, M Bechelany, S Karav - Pharmaceutics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Edible Plant-Derived Exosome-like Nanoparticles as Prebiotic Nanocarriers: Gut Microbiota Modulation and Functional Food Potential ... Thus, they are repositioned as " prebiotic nanocarriers." Also this review evaluates the potential of functional food ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/1999-4923/18/5/520"/>
-    <published>2026-04-27T21:53:23+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#2</id>
-    <title>The RNA-First Fallacy: Conflating Evolutionary Ancestry with Prebiotic Primacy</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Kahana&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The RNA World hypothesis remains the most widely accepted framework in origins - of - life research, anchored in compelling biochemical evidence for RNA's deep evolutionary ancestry. However, this viewpoint routinely extends beyond that and is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15002357"/>
-    <published>2026-04-27T21:53:23+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#1</id>
-    <title>From Physical Difference to Meaning: A Constructor-Theoretic Framework for Prebiotic Information in Casimir-Lifshitz-Coupled Protocell Clusters</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Massoth - arXiv preprint arXiv:2604.20885, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper develops a physical framework for the prebiotic emergence of information and meaning. Building on Constructor Theory, we define information as a reproducible physical difference and meaning as a difference with stable ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.20885"/>
-    <published>2026-04-27T21:53:23+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d1fcd7b4#0</id>
-    <title>The Effects of a Prebiotic Formula Promoting Akkermansia muciniphila (AKK) on Gut Health: A Single-Centre, Randomised Controlled Trial</title>
-    <updated>2026-04-27T21:53:23+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CK Wu, I Cheng, YC Chung, MF Liu, YK Lin, YH Lin... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic formulation used in this study, hereafter termed the AKK formula, was designed to promote the growth of A. muciniphila and ... This study aimed to evaluate the effects of this prebiotic blend on gut microbiota modulation and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.medsci.org/v23p1952.htm"/>
-    <published>2026-04-27T21:53:23+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d03e5c2a#0</id>
-    <title>Early Microbial Life: Our Past, Present, and Future Project Report</title>
-    <updated>2026-04-28T07:49:23+00:00</updated>
-    <author>
-      <name>Michael Lynch</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Sperandio, KC Carroll, S Crosson...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Life on Earth has evolved over the past 4 billion years, from simple, non-living chemical compounds to early unicellular life, culminating in the vast diversity of unicellular and multicellular organisms seen today. Understanding this extraordinary ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Lynch (author alert)</content>
-    <link href="https://europepmc.org/books/n/earlymicrobiallifere/"/>
-    <published>2026-04-28T07:49:23+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d03e5b89#0</id>
-    <title>Toward Inferring the Surface Fluxes of Biosignature Gases on Rocky Exoplanets from Telescope Spectra</title>
-    <updated>2026-04-28T07:49:24+00:00</updated>
-    <author>
-      <name>Joshua Krissansen-Totton</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NF Wogan, NE Batalha, J Krissansen-Totton, K Zahnle... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The James Webb Space Telescope and the future Habitable Worlds Observatory aim to discover exoplanet atmospheric spectra that detect life. Currently, most existing spectral" retrieval" algorithms focus on inferring the abundances of biogenic gases ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joshua Krissansen-Totton (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.21848"/>
-    <published>2026-04-28T07:49:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d03e5a85#0</id>
-    <title>Postapproval Study for Brain-Responsive Neurostimulation for Drug-Resistant Focal Epilepsy: Three-Year Efficacy and Interim Safety Results</title>
-    <updated>2026-04-28T07:49:26+00:00</updated>
-    <author>
-      <name>Edward F Chang</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Eliashiv, VR Rao, BC Jobst, JP Szaflarski... - Neurology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background and Objectives Neuromodulation therapies are approved for the treatment of focal epilepsy based on data from randomized controlled trials (RCTs). After approval of a responsive direct brain stimulation device (The RNS System for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://www.neurology.org/doi/full/10.1212/WNL.0000000000214875"/>
-    <published>2026-04-28T07:49:26+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d0320349#0</id>
-    <title>Metaphors we learn to sign by: Positive transfer effects of existing sign language expertise and gestural repertoire on metaphor inferencing in a novel sign language</title>
-    <updated>2026-04-28T08:19:40+00:00</updated>
-    <author>
-      <name>Zhenghan QI</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Hofweber, L Aumônier, T Latham, K Trice, Z Qi - Brain and Language, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Our study investigated metaphor inferencing in second languages (L2). According to universalist accounts, L2 metaphor comprehension should be intuitive. However, cross-linguistic differences suggest that successful metaphor inferencing is subject to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Zhenghan QI (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0093934X26000313"/>
-    <published>2026-04-28T08:19:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d0320196#0</id>
-    <title>Was die Semantik aus Gullivers Reisen lernen kann</title>
-    <updated>2026-04-28T08:19:42+00:00</updated>
-    <author>
-      <name>Edgar Onea</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Onea&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In diesem Aufsatz schlage ich eine empirische Methode zur Untersuchung realer oder vermuteter semantischer Grenzfälle vor. Sie eignet sich besonders zur Untersuchung der Bedeutung solcher Wörter, die in aktuellen ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edgar Onea (author alert)</content>
-    <link href="https://www.researchgate.net/profile/Edgar-Onea/publication/404067138_Was_die_Semantik_aus_Gullivers_Reisen_lernen_kann/links/69e8a9f845713a29cada1f68/Was-die-Semantik-aus-Gullivers-Reisen-lernen-kann.pdf"/>
-    <published>2026-04-28T08:19:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Liu, Y Pan, Y Tu, X Liu, C Wu, J Liu, M Liu, C Wang... - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 2'-Fucosyllactose (2'-FL), a human milk oligosaccharide commonly added to infant formula, readily undergoes the Maillard reaction with milk proteins, but the impact of this modification on its in vivo prebiotic activity remains unclear. This study evaluated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626015682"/>
+    <published>2026-04-28T14:53:02+00:00</published>
   </entry>
 </feed>
