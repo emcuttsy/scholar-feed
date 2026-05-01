@@ -2,96 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-01T08:11:17.334636+00:00</updated>
+  <updated>2026-05-01T14:44:51.955205+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d65e5ead#0</id>
-    <title>Smell</title>
-    <updated>2026-05-01T04:23:11+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#4</id>
+    <title>The Divisor Function along a Deterministic Orbit and the Emergence of Ladders</title>
+    <updated>2026-05-01T09:32:56+00:00</updated>
     <author>
-      <name>Asifa Majid</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Majid&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The sense of smell responds to airborne chemicals and alerts us to environmental hazards, it provides information about other people's emotions and health, and is responsible in a large part for our enjoyment of food and drink. More specifically ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Asifa Majid (author alert)</content>
-    <link href="https://assets.pubpub.org/y2euxljpjc2qur26b1beuy34wveawvoi.pdf"/>
-    <published>2026-05-01T04:23:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Mantovanelli -arXivpreprintarXiv:2604.25446, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... scale, and small variance of τ(nj) along the orbit forces the emergence of a long near-arithmetic progression on which τ(n) is essentially ... developed in this paper, where deviations from average behavior are explained by the emergence of rigid ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.25446"/>
+    <published>2026-05-01T09:32:56+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d6525cc5#0</id>
-    <title>279. Distance-and Hierarchy-Dependent Functional Dysconnectivity in Schizophrenia</title>
-    <updated>2026-05-01T05:04:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#3</id>
+    <title>Impact of supersymmetry on the dynamical emergence of the spacetime in the type IIB matrix model with the Lorentz symmetry" gauge fixed"</title>
+    <updated>2026-05-01T09:32:56+00:00</updated>
     <author>
-      <name>Melanie Boly</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I David, S Sasai, FB de Paiva, M Boly, G Tononi... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Schizophrenia is associated with widespread functional dysconnectivity, but the spatial scale and structural correlates of these alterations remain unclear. Short-range connectivity, in particular, has received limited attention due to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Boly (author alert)</content>
-    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00628-1/abstract"/>
-    <published>2026-05-01T05:04:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KN Anagnostopoulos, T Azuma, M Hirasawa... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The type IIB matrix model has been proposed as a nonperturbative formulation of superstring theory. While numerical simulations of this model are essential for probing nonperturbative effects, such as the emergence of time and an expanding 3--dimensional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.25564"/>
+    <published>2026-05-01T09:32:56+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d6525c1b#0</id>
-    <title>279. Distance-and Hierarchy-Dependent Functional Dysconnectivity in Schizophrenia</title>
-    <updated>2026-05-01T05:04:40+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#2</id>
+    <title>Messaging strategies and the emergence of echo chambers in collective decision-making</title>
+    <updated>2026-05-01T09:32:56+00:00</updated>
     <author>
-      <name>Larissa Albantakis</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I David, S Sasai, FB de Paiva, M Boly, G Tononi... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Schizophrenia is associated with widespread functional dysconnectivity, but the spatial scale and structural correlates of these alterations remain unclear. Short-range connectivity, in particular, has received limited attention due to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Larissa Albantakis (author alert)</content>
-    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00628-1/abstract"/>
-    <published>2026-05-01T05:04:40+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LW Kong, NE Leonard, AM Hein -arXivpreprintarXiv:2604.23408, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Collective decision-making arises from individual agents integrating their own personal observations with information obtained from social partners. In many biological systems that exhibit collective decision-making, the process by which ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.23408"/>
+    <published>2026-05-01T09:32:56+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d6525b92#0</id>
-    <title>Comparing Results from Two Uniform Phase-curve Surveys</title>
-    <updated>2026-05-01T05:04:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#1</id>
+    <title>Emergence of dual axion response in condensed matter</title>
+    <updated>2026-05-01T09:32:56+00:00</updated>
     <author>
-      <name>Lisa Dang</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Decocq, M Swain, L Dang, DR Ciardi, G Bryden - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a comparison of the two most recent and comprehensive Spitzer phase curve studies—L. Dang et al. and MR Swain et al.—which report analyses of the Spitzer 4.5 μ m phase curves. The studies employ different approaches for correcting ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae5486"/>
-    <published>2026-05-01T05:04:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Kokurina, D Vagin, E Barredo-Alamilla, MA Gorlach -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recently, it was predicted that nonreciprocal magneto-electric effect in antiferromagnetic multilayered metamaterials occurs in two distinct versions. One is the conventional axion response, while another one is dual axion response ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.23186"/>
+    <published>2026-05-01T09:32:56+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d6525b5f#0</id>
-    <title>556. Therapeutic Ventral Capsule DBS for OCD Suppresses Orbitofrontal Electrophysiological Activity</title>
-    <updated>2026-05-01T05:04:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#0</id>
+    <title>Measuring Temporal Linguistic Emergence in Diffusion Language Models</title>
+    <updated>2026-05-01T09:32:56+00:00</updated>
     <author>
-      <name>Edward F Chang</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Anderson, A Kist, K Sellers, AN Khambhati, L Sugrue... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Cortico-striato-thalamo-cortical (CSTC) hyperactivity has been hypothesized to mediate obsessive-compulsive disorder (OCD). Deep brain stimulation (DBS) is a treatment for severe, refractory OCD associated with∼ 60 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00905-4/abstract"/>
-    <published>2026-05-01T05:04:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d6525ac1#0</id>
-    <title>A SPHEREx Pipeline and Spectral Library for Ultracool Dwarfs</title>
-    <updated>2026-05-01T05:04:45+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Gagné, JK Faherty, AR Diaz, LP Coulombe, TP Bickle... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a Python spectrophotometry extraction tool tailored for fast-moving point sources detected in the SPHEREx mission, and use it to construct a set of 0.75-5.0 {\mu} m low-resolution ({\lambda}/{\Delta}{\lambda}~ 50) spectrophotometry data ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.22012"/>
-    <published>2026-05-01T05:04:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d6525a13#1</id>
-    <title>417. Home and Laboratory EEG Reveal Anxiety-Related Slow Wave Sleep Reductions in Preadolescent Girls</title>
-    <updated>2026-05-01T05:04:46+00:00</updated>
-    <author>
-      <name>Giulio Tononi</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Light, L Williams, B Peterson, G Tononi, S Jones... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Sleep-related problems are common for children with anxiety disorders (ADs), but few studies have characterized their biological correlates using electroencephalography (EEG). At-home single channel EEG and laboratory high ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
-    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00766-3/abstract"/>
-    <published>2026-05-01T05:04:46+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d6525a13#0</id>
-    <title>279. Distance-and Hierarchy-Dependent Functional Dysconnectivity in Schizophrenia</title>
-    <updated>2026-05-01T05:04:46+00:00</updated>
-    <author>
-      <name>Giulio Tononi</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I David, S Sasai, FB de Paiva, M Boly, G Tononi... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Schizophrenia is associated with widespread functional dysconnectivity, but the spatial scale and structural correlates of these alterations remain unclear. Short-range connectivity, in particular, has received limited attention due to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
-    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00628-1/abstract"/>
-    <published>2026-05-01T05:04:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Lu -arXivpreprintarXiv:2604.23235, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Diffusion language models expose an explicit denoising trajectory, making it possible to ask when different kinds of information become measurable during generation. We study three independent 32-step runs of LLaDA-8B-Base on masked ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.23235"/>
+    <published>2026-05-01T09:32:56+00:00</published>
   </entry>
 </feed>
