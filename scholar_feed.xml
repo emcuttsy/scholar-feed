@@ -2,184 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-04-30T08:22:00.855918+00:00</updated>
+  <updated>2026-05-01T08:11:17.334636+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d76bc9ba#0</id>
-    <title>Integrating tipping point concepts across diverse systems</title>
-    <updated>2026-04-29T19:29:11+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d65e5ead#0</id>
+    <title>Smell</title>
+    <updated>2026-05-01T04:23:11+00:00</updated>
     <author>
-      <name>Timothy Lenton</name>
+      <name>Asifa Majid</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JF Abrams, LM Pereira, V Spaiser, N Wunderling... - Communications ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The concept of a "tipping point" is widely used to describe abrupt, potentially irreversible changes in complex systems-from climate subsystems to ecosystems and social dynamics. However, concerns have been raised about definitional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://www.nature.com/articles/s44458-026-00063-5"/>
-    <published>2026-04-29T19:29:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Majid&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The sense of smell responds to airborne chemicals and alerts us to environmental hazards, it provides information about other people's emotions and health, and is responsible in a large part for our enjoyment of food and drink. More specifically ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Asifa Majid (author alert)</content>
+    <link href="https://assets.pubpub.org/y2euxljpjc2qur26b1beuy34wveawvoi.pdf"/>
+    <published>2026-05-01T04:23:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d78492c7#1</id>
-    <title>Emergence of Multiple Crossing Limit Cycles in Planar Piecewise Systems with Isochronous Centers and Nonsmooth Switching Manifolds</title>
-    <updated>2026-04-30T02:54:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6525cc5#0</id>
+    <title>279. Distance-and Hierarchy-Dependent Functional Dysconnectivity in Schizophrenia</title>
+    <updated>2026-05-01T05:04:39+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Melanie Boly</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SI Renteria Alva, P Iván Suárez Navarro -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Discontinuous piecewise differential systems exhibit dynamical behaviors with no counterpart in smooth systems, particularly in the presence of nonsmooth switching structures. In this work, we extend previous results for systems separated by a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260419483R/abstract"/>
-    <published>2026-04-30T02:54:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I David, S Sasai, FB de Paiva, M Boly, G Tononi... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Schizophrenia is associated with widespread functional dysconnectivity, but the spatial scale and structural correlates of these alterations remain unclear. Short-range connectivity, in particular, has received limited attention due to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Boly (author alert)</content>
+    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00628-1/abstract"/>
+    <published>2026-05-01T05:04:39+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d78492c7#0</id>
-    <title>Emergence of Mandelbrot-like and Julia-like Structures in Parameter Slices of Rational Maps</title>
-    <updated>2026-04-30T02:54:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6525c1b#0</id>
+    <title>279. Distance-and Hierarchy-Dependent Functional Dysconnectivity in Schizophrenia</title>
+    <updated>2026-05-01T05:04:40+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Larissa Albantakis</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Iván Suárez Navarro -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study complex one-dimensional parameter slices in a three-parameter family of rational maps with two free critical points, obtained by imposing the existence of periodic orbits with prescribed multipliers. Using explicit parametrizations, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260421048I/abstract"/>
-    <published>2026-04-30T02:54:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I David, S Sasai, FB de Paiva, M Boly, G Tononi... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Schizophrenia is associated with widespread functional dysconnectivity, but the spatial scale and structural correlates of these alterations remain unclear. Short-range connectivity, in particular, has received limited attention due to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Larissa Albantakis (author alert)</content>
+    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00628-1/abstract"/>
+    <published>2026-05-01T05:04:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a559e4#0</id>
-    <title>Toward a Hybrid Ground-Space Exoplanet Observatory─ Summary of Caltech Keck Institute for Space Studies (KISS) Program</title>
-    <updated>2026-04-30T07:27:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6525b92#0</id>
+    <title>Comparing Results from Two Uniform Phase-curve Surveys</title>
+    <updated>2026-05-01T05:04:42+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Lisa Dang</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Soliman, S Shaklan, J Mather, E Peretz - American Astronomical Society Meeting ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We focus on the first hybrid ground-space observatory dedicated to the search for life beyond ... nm) and image full planetary systems, from Venus to Saturn , within minutes at 5─17 pc. ... We investigate hybrid telescopes sharing a single orbiting ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026AAS...24735401S/abstract"/>
-    <published>2026-04-30T07:27:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Decocq, M Swain, L Dang, DR Ciardi, G Bryden - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a comparison of the two most recent and comprehensive Spitzer phase curve studies—L. Dang et al. and MR Swain et al.—which report analyses of the Spitzer 4.5 μ m phase curves. The studies employ different approaches for correcting ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae5486"/>
+    <published>2026-05-01T05:04:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a558eb#0</id>
-    <title>An Atmosphere on the Ultra-Short Period super-Earth HD 3167 b</title>
-    <updated>2026-04-30T07:27:25+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6525b5f#0</id>
+    <title>556. Therapeutic Ventral Capsule DBS for OCD Suppresses Orbitofrontal Electrophysiological Activity</title>
+    <updated>2026-05-01T05:04:43+00:00</updated>
     <author>
-      <name>JL bean</name>
+      <name>Edward F Chang</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., C Smith, M Zhang, EMR Kempton,JL Bean... - arXiv e-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 'Lava worlds'-Earth-sized planets hot enough (Teq&gt;~ 1100 K) to melt their dayside silicate surfaces-have emerged as promising candidates for atmospheric detection and characterization. Thermal emission observations show an apparent dichotomy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260411911P/abstract"/>
-    <published>2026-04-30T07:27:25+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Anderson, A Kist, K Sellers, AN Khambhati, L Sugrue... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Cortico-striato-thalamo-cortical (CSTC) hyperactivity has been hypothesized to mediate obsessive-compulsive disorder (OCD). Deep brain stimulation (DBS) is a treatment for severe, refractory OCD associated with∼ 60 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
+    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00905-4/abstract"/>
+    <published>2026-05-01T05:04:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a557d2#0</id>
-    <title>Exploring the Interplay between Cosmology and Astrobiology</title>
-    <updated>2026-04-30T07:27:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6525ac1#0</id>
+    <title>A SPHEREx Pipeline and Spectral Library for Ultracool Dwarfs</title>
+    <updated>2026-05-01T05:04:45+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Kamaya - Memoirs of the National Defense Academy of Japan ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... planetary habitability (HZ: Habitable Zone), and then the Drake Equation, a probabilistic framework for estimating the number of extraterrestrial ... to propose a new pathway for the origin of life by incorporating recent cosmological ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026MNDAJ..63...17K/abstract"/>
-    <published>2026-04-30T07:27:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Gagné, JK Faherty, AR Diaz, LP Coulombe, TP Bickle... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a Python spectrophotometry extraction tool tailored for fast-moving point sources detected in the SPHEREx mission, and use it to construct a set of 0.75-5.0 {\mu} m low-resolution ({\lambda}/{\Delta}{\lambda}~ 50) spectrophotometry data ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/pdf/2604.22012"/>
+    <published>2026-05-01T05:04:45+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#9</id>
-    <title>Barnyard Millet (Echinochloa species): An Underutilized Nutritional Powerhouse with Emerging Nutraceutical Benefits</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6525a13#1</id>
+    <title>417. Home and Laboratory EEG Reveal Anxiety-Related Slow Wave Sleep Reductions in Preadolescent Girls</title>
+    <updated>2026-05-01T05:04:46+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Giulio Tononi</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Sasi, V Krishnan, R Naik M, C Das, DR Dendi... - Frontiers in Plant Science&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The impact of climate change presents an opportunity for orphan crops like millet to contribute to sustainable food systems. A prime example of an orphan crop with special traits and the potential to develop climate-smart agriculture is Barnyard millet ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1794657/full"/>
-    <published>2026-04-30T07:27:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Light, L Williams, B Peterson, G Tononi, S Jones... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Sleep-related problems are common for children with anxiety disorders (ADs), but few studies have characterized their biological correlates using electroencephalography (EEG). At-home single channel EEG and laboratory high ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
+    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00766-3/abstract"/>
+    <published>2026-05-01T05:04:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#8</id>
-    <title>Valorization of artichoke processing by-products via production of oligosaccharide-enriched extracts optimized by artificial neural networks</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6525a13#0</id>
+    <title>279. Distance-and Hierarchy-Dependent Functional Dysconnectivity in Schizophrenia</title>
+    <updated>2026-05-01T05:04:46+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Giulio Tononi</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Gabaldón, C Sabater, P López-Revenga, FJ Moreno... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Valorisation of agro-industrial by-products is central to circular-economy strategies. This study evaluates the potential of industrial artichoke by-products to yield oligo-fructan (OS-Fr)-enriched extracts and optimises production using artificial neural networks (ANN) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0141813026021653"/>
-    <published>2026-04-30T07:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#7</id>
-    <title>The Roles of Gut Microbiota and Their Metabolites in Uric Acid–Related Metabolic Diseases: Mechanisms and Therapeutic Targets</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Li, H Zhou, M Li, J Wu, L Pan - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Gut microbiota and their metabolites play a central regulatory role in uric-acid–related metabolic diseases, serving as a crucial interface linking purine metabolism with host inflammatory responses. This review synthesizes current evidence on microbial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1781413/full"/>
-    <published>2026-04-30T07:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#6</id>
-    <title>Xylooligosaccharides ameliorate intestinal barrier injury by inhibiting apoptosis, RhoA/ROCK/MLCK signaling and NKG2DLs in intestinal epithelial cells</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Yang, L Guo, S Ren, Q Lai, S Yang, Y Wu, S Ying... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic xylooligosaccharides (XOS) hold promise for ameliorating such injury by regulating NKG2DLs, yet the underlying mechanisms remain elusive. This study aimed to investigate the efficacy of XOS in improving IB injury and explore its ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926009701"/>
-    <published>2026-04-30T07:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#5</id>
-    <title>Microalgal Exopolysaccharides as Emerging Food Hydrocolloids: Structure–Rheology Relationships, Bioactivity, and Industrial Potential</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Rizwan, Y Dinakarkumar, SI Romauld, A Selvaraj... - Food Hydrocolloids, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Microalgal exopolysaccharides (EPSs) are emerging as promising next-generation food hydrocolloids with distinctive structuring and biofunctional attributes. This review critically evaluates the taxonomic diversity, molecular architecture, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0268005X26004017"/>
-    <published>2026-04-30T07:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#4</id>
-    <title>Exploring the Interplay between Cosmology and Astrobiology</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Kamaya - Memoirs of the National Defense Academy of Japan ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Although these have traditionally been considered separate fields, the purpose of this study is to propose a new pathway for the origin of life by incorporating recent cosmological developments concerning the potential influence of PBHs as dark ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026MNDAJ..63...17K/abstract"/>
-    <published>2026-04-30T07:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#3</id>
-    <title>The Allium cepa Derived Compound Propyl Propane Thiosulfonate (PTSO) Improves Tumorigenesis Due to Its Immunomodulatory Effect: A Preclinical Study</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MJ Rodríguez-Sojo, L Hidalgo-García... - Phytotherapy research: PTR&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Allium-derived organosulfur compounds offer significant health benefits. Specifically, PTSO, an organosulfur compound extracted from Allium cepa, has demonstrated immunomodulatory and prebiotic properties. However, its effects on tumorigenesis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42037123/"/>
-    <published>2026-04-30T07:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#2</id>
-    <title>Health Benefits of Prebiotics in Vegan Diet</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ray - Vegan Gastronomy and Sustainable Health, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prebiotics are categorized as oligosaccharides, polysaccharides, phytochemicals, phenolics, and polyunsaturated fatty acids. Their presence in vegan diets is abundant, and provides a wide range of health benefits to consumers. Natural ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&amp;identifierValue=10.1201/9781998511891-19&amp;type=chapterpdf"/>
-    <published>2026-04-30T07:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#1</id>
-    <title>Simultaneous extraction and enzymatic hydrolysis for the production of a mixture of emerging prebiotics from sunflower meal</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Tomić, M Veljković, M Simović, K Banjanac... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... under these favorable conditions were subsequently evaluated for prebiotic activity. In comparison to inulin, a well-established reference prebiotic , hydrolysate obtained at significantly shorter reaction times showed promising prebiotic potential ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226007406"/>
-    <published>2026-04-30T07:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d7a55733#0</id>
-    <title>Research Advances on the Prebiotic Functions of Arabinoxylan and Arabinoxylooligosaccharides: Postprint</title>
-    <updated>2026-04-30T07:27:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Zhao, Y Dafei, Y Jianmin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Consequently, research on the prebiotic functions of AX and AXOS has become a focal ... and ferulic acid, which exert distinct prebiotic and physiological effects. Current research on AX ... This review addresses the prebiotic functions of AX and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chinarxiv.org/items/chinaxiv-201711.01534"/>
-    <published>2026-04-30T07:27:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I David, S Sasai, FB de Paiva, M Boly, G Tononi... - Biological Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Schizophrenia is associated with widespread functional dysconnectivity, but the spatial scale and structural correlates of these alterations remain unclear. Short-range connectivity, in particular, has received limited attention due to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
+    <link href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(26)00628-1/abstract"/>
+    <published>2026-05-01T05:04:46+00:00</published>
   </entry>
 </feed>
