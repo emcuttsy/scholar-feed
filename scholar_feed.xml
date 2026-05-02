@@ -2,63 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-01T14:44:51.955205+00:00</updated>
+  <updated>2026-05-02T07:44:23.247708+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#4</id>
-    <title>The Divisor Function along a Deterministic Orbit and the Emergence of Ladders</title>
-    <updated>2026-05-01T09:32:56+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#9</id>
+    <title>Reconstitution of Archaeal Membrane Lipid Biosynthesis in Bacterial and Eukaryotic Hosts</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Mantovanelli -arXivpreprintarXiv:2604.25446, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... scale, and small variance of τ(nj) along the orbit forces the emergence of a long near-arithmetic progression on which τ(n) is essentially ... developed in this paper, where deviations from average behavior are explained by the emergence of rigid ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.25446"/>
-    <published>2026-05-01T09:32:56+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Li, Y Luo, S Zhang, J Li, Z Hong, T Si, W Liu - Chembiochem: a European journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We consider how heterologous reconstitution informs longstanding questions about membrane evolution and the nature of the last universal common ancestor . Engineered strains with hybrid archaeal-bacterial membranes not only remain ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42046273/"/>
+    <published>2026-05-01T21:51:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#3</id>
-    <title>Impact of supersymmetry on the dynamical emergence of the spacetime in the type IIB matrix model with the Lorentz symmetry" gauge fixed"</title>
-    <updated>2026-05-01T09:32:56+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#8</id>
+    <title>Solvent-Free Synthesis of Novel Galactose-Branched Oligosaccharides from Cellulose for Potential Prebiotics</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KN Anagnostopoulos, T Azuma, M Hirasawa... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The type IIB matrix model has been proposed as a nonperturbative formulation of superstring theory. While numerical simulations of this model are essential for probing nonperturbative effects, such as the emergence of time and an expanding 3--dimensional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.25564"/>
-    <published>2026-05-01T09:32:56+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Zeng, X Cui, R Tang, M Zhao, X Yu, Z Song, Y Bai... - ACS Sustainable Chemistry ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study developed a novel strategy for sustainable prebiotic synthesis in a green and ... In this work, a facile and novel method was developed for the synthesis of potential prebiotic BGO... 1 H NMR, which were compared to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.6c01612"/>
+    <published>2026-05-01T21:51:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#2</id>
-    <title>Messaging strategies and the emergence of echo chambers in collective decision-making</title>
-    <updated>2026-05-01T09:32:56+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#7</id>
+    <title>Investigating soil bacteria beneficial associations with plants, using culture-dependent and-independent approaches</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LW Kong, NE Leonard, AM Hein -arXivpreprintarXiv:2604.23408, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Collective decision-making arises from individual agents integrating their own personal observations with information obtained from social partners. In many biological systems that exhibit collective decision-making, the process by which ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.23408"/>
-    <published>2026-05-01T09:32:56+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Moen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It has been demonstrated that Bacillus velezensis, in combination with a pectin-rich prebiotic , ... to combine Bacillus velezensis AP193 and a pectin-rich prebiotic , orange peel, to study their ... We also used a pectin-rich prebiotic , CitraFiber, in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://etd.auburn.edu/handle/10415/10364"/>
+    <published>2026-05-01T21:51:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#1</id>
-    <title>Emergence of dual axion response in condensed matter</title>
-    <updated>2026-05-01T09:32:56+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#6</id>
+    <title>The Evil Reflection of Life: A Thermodynamic and Metabolic Analysis of Viral Origins</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Kokurina, D Vagin, E Barredo-Alamilla, MA Gorlach -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recently, it was predicted that nonreciprocal magneto-electric effect in antiferromagnetic multilayered metamaterials occurs in two distinct versions. One is the conventional axion response, while another one is dual axion response ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.23186"/>
-    <published>2026-05-01T09:32:56+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Azadi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This report advances the hypothesis that the emergence of life is not merely a process of accumulating complexity, but rather a dynamic ... and the chemical history of the RNA World , we argue that the "host-parasite" dynamic is the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Poria-Azadi-2/publication/404205466_The_Evil_Reflection_of_Life_A_Thermodynamic_and_Metabolic_Analysis_of_Viral_Origins/links/69ee05efb1dace04f1434d95/The-Evil-Reflection-of-Life-A-Thermodynamic-and-Metabolic-Analysis-of-Viral-Origins.pdf"/>
+    <published>2026-05-01T21:51:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d67e094c#0</id>
-    <title>Measuring Temporal Linguistic Emergence in Diffusion Language Models</title>
-    <updated>2026-05-01T09:32:56+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#5</id>
+    <title>Evaluating the Prebiotic Effects of Fermented Cocoyam Peel and Fish Meal on Broiler Chick Performance</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Lu -arXivpreprintarXiv:2604.23235, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Diffusion language models expose an explicit denoising trajectory, making it possible to ask when different kinds of information become measurable during generation. We study three independent 32-step runs of LLaDA-8B-Base on masked ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2604.23235"/>
-    <published>2026-05-01T09:32:56+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MN Okeke, IE Okoye, IH Iheukwumere... - Journal of Agriculture, Food ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The use of antibiotics in poultry production has led to the development of antibiotic-resistant bacteria, posing a significant threat to human health. The need for alternative feed additives to promote growth and health in broiler chicks is urgent. Fermented ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journals.ipsintelligentsia.com/life-science/index.php/ijafts/article/view/155"/>
+    <published>2026-05-01T21:51:41+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#4</id>
+    <title>Dust to Dust: An Analysis of Clay Catalyzed RNA Polymerization in Prebiotic Conditions</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EM Kahrl&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Origins of Life (OoL) field has recognized and demonstrated the use of acid activated clay mineral catalysts in prebiotic RNA polymerization; however, this is constrained to a single acid-concentration (0.5 M HCl) a small group of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://rave.ohiolink.edu/etdc/view?acc_num=akron1775831080744042"/>
+    <published>2026-05-01T21:51:41+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#3</id>
+    <title>Context without contact: top–down information flow from shared modulation in uncoupled prebiotic systems</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Blanco - Royal Society Open Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Shifts from bottom–up to top–down influences are considered a hallmark of major evolutionary transitions, including the origin of life . We explore how such directional information flow can arise without direct interactions among the system components ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://royalsocietypublishing.org/rsos/article/13/4/251750/481526"/>
+    <published>2026-05-01T21:51:41+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#2</id>
+    <title>Bioaccessibility and prebiotic effect of apple pomace: a promising new functional ingredient</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LA Pascoalino, L Barros, JCM Barreira, MBPP Oliveira... - Food Structure, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Apple pomace (AP) is an underutilized bio-residue of the fruit processing industry with outstanding potential for conversion into bio-based ingredients. To assess its potential as a functional ingredient, a comparative in vitro digestion study (focusing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2213329126000249"/>
+    <published>2026-05-01T21:51:41+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#1</id>
+    <title>Digestive stability and prebiotic potential of coffee husks: chemical characterization and in vitro lactobacilli fermentation</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Machado, I Fernandes, A Fernandes, V de Freitas... - European Food Research ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Coffee husks, one of the main by-products of processing coffee beans, are often underutilised. Yet, they represent a promising source of functional ingredients. In this study, coffee husks were subjected to in vitro gastrointestinal digestion (digested ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s00217-026-05106-8"/>
+    <published>2026-05-01T21:51:41+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76d6da8bae#0</id>
+    <title>A Neutral Triple-Helix Pomegranate (Punica granatum) Peel Polysaccharide with Lipid-Lowering and Prebiotic Activities</title>
+    <updated>2026-05-01T21:51:41+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HX Shen, L Shi, YX Li, XY Zhang, CQ Zhao, H Ma... - Journal of Agricultural and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A homogeneous neutral polysaccharide (PPP-1; 1.5 × 10 4 Da) was isolated from pomegranate peel and characterized as a glucose-rich glucan with α-/β-pyranose linkages and a triple-helix conformation. PPP-1 improved lipid dysregulation in oleic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/doi/abs/10.1021/acs.jafc.5c16652"/>
+    <published>2026-05-01T21:51:41+00:00</published>
   </entry>
 </feed>
