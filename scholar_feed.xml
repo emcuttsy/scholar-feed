@@ -2,173 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-03T08:00:58.935827+00:00</updated>
+  <updated>2026-05-03T14:40:08.032064+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d521a081#0</id>
-    <title>Numerical cognition in speakers of an Amazonian language with exactly twenty number words</title>
-    <updated>2026-05-02T15:31:12+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d597c77c#0</id>
+    <title>Emergence of $\pi $ from Equatorial Quantum Localization</title>
+    <updated>2026-05-03T14:35:51+00:00</updated>
     <author>
-      <name>Asifa Majid</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V da Silva Sinha, WK Sabino, SM Göbel, A Majid - Psychological Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent research has examined the relationship between number word vocabularies and performance on tasks requiring exact number representation and processing. Many studies in this area have focused on a small number of Amazonian languages ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Asifa Majid (author alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00426-026-02300-x"/>
-    <published>2026-05-02T15:31:12+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5219ff9#0</id>
-    <title>Multi-Viewpoint Observation of a Failed Prominence Eruption on the Sun</title>
-    <updated>2026-05-02T15:31:13+00:00</updated>
-    <author>
-      <name>Astrid Veronig</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Gou, KK Reeves, PR Young, AM Veronig, X Chen... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Solar eruptions are sudden ejections of coronal mass and magnetic fields accompanied by intense energy release. The eruptive structure does not always erupt successfully, but sometimes fails to escape the Sun after initiation. The failure ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.23084"/>
-    <published>2026-05-02T15:31:13+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5219f86#0</id>
-    <title>Mittag-Leffler expansion of the optical scattering matrix via rescaled scattering channels</title>
-    <updated>2026-05-02T15:31:14+00:00</updated>
-    <author>
-      <name>Thomas Weiss</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Fösleitner, AC Valero, Z Sztranyovszky, EA Muljarov... - Optics Letters, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The optical scattering matrix describes how light interacts with scatterers by relating incoming and outgoing waves via scattering channels. It can be expanded in terms of optical resonances through a pole expansion, providing an efficient and physically ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Thomas Weiss (author alert)</content>
-    <link href="https://opg.optica.org/ol/fulltext.cfm?uri=ol-51-9-2656"/>
-    <published>2026-05-02T15:31:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5219f69#0</id>
-    <title>Petrophysical response of sandstone and tuff to water and freeze–thaw: ONLINE FIRST (pre-proof)</title>
-    <updated>2026-05-02T15:31:14+00:00</updated>
-    <author>
-      <name>Török, Ákos</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Moghrabi, Á Török, B Vásárhelyi - Geosciences and Engineering, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study evaluates the durability of 11 Hungarian lithotypes (sandstone and volcanic tuff) from the Eger region under water saturation and 100 freeze–thaw (F–T) cycles. Utilizing 468 specimens, physical degradation was quantified via ultrasonic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Török, Ákos (author alert)</content>
-    <link href="https://ojs.uni-miskolc.hu/index.php/geosciences/article/view/4369"/>
-    <published>2026-05-02T15:31:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535c49#0</id>
-    <title>Horizontal transport as a source of disequilibrium chemistry on the nightside of a hot exoplanet</title>
-    <updated>2026-05-03T01:10:01+00:00</updated>
-    <author>
-      <name>JL bean</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., Y Tang, M Line, H Shivkumar, X Tan,JL Bean... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hot Jupiters have temperature gradients of several hundreds of degrees between their permanent daysides and nightsides. Such a strong gradient creates winds with speeds of the order of kilometres per second, which advect chemical species over ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41550-026-02845-2"/>
-    <published>2026-05-03T01:10:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#9</id>
-    <title>Renewbiome Mega</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WRM is Exceptional&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It contains 75 clinically relevant bacterial and yeast strains, 50 billion CFU in one gastro-resistant plant capsule, and the synergistic prebiotic ... It can be combined with Oligopre DIA (for initial tolerance and additional prebiotic support) and Oligopre ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://natviehealthcare.com/product/renewbiome-mega/"/>
-    <published>2026-05-03T01:10:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#8</id>
-    <title>Toward a Geochemical Model for Directional Chiral Selection: Peptide β-Sheet Nucleation at Chiral Mineral–Seawater Interfaces as a Candidate Mechanism</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M MIYAKE&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We do not claim that β-sheets were the only self-assembling motif in prebiotic chemistry. The present focus reflects a specific structural ... These minerals have been widely discussed in origin - of - life research because many modern metabolic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-9392776/latest.pdf"/>
-    <published>2026-05-03T01:10:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#7</id>
-    <title>A Top-Down Framework for the Spontaneous Emergence of Digital Communication Systems from Non-Equilibrium Chemistry</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Lee&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We identify six fundamental barriers that have historically blocked progress in origin - of - life research: ... Miller and Urey [9] demonstrated that amino acids form under prebiotic conditions, but amino acids are not a code. The RNA World ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Taekyung-Lee-12/publication/404216338_A_Top-Down_Framework_for_the_Spontaneous_Emergence_of_Digital_Communication_Systems_from_Non-Equilibrium_Chemistry_How_NDE-Based_Thermodynamic_Filtering_and_Frohlich_Condensation_Overcome_the_Shannon_/links/69eeb532751e8801513ddf69/A-Top-Down-Framework-for-the-Spontaneous-Emergence-of-Digital-Communication-Systems-from-Non-Equilibrium-Chemistry-How-NDE-Based-Thermodynamic-Filtering-and-Froehlich-Condensation-Overcome-the-Shannon.pdf"/>
-    <published>2026-05-03T01:10:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#6</id>
-    <title>Development and nutritional characterization of non-dairy synbiotic chocolate enriched with pea powder and Lactobacillus acidophilus</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Tewari, S Goswami, BH Mithun, S Sanyal, N Ghosh...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The present study focused on the development of a novel non-dairy synbiotic chocolate by incorporating pea powder as a prebiotic source, Lactobacillus acidophilus as a probiotic, and coconut milk as a plant-based alternative to dairy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Souvik-Tewari/publication/404262857_Development_and_nutritional_characterization_of_non-_dairy_synbiotic_chocolate_enriched_with_pea_powder_and_Lactobacillus_acidophilus/links/69f093e2db00ec75d02e140b/Development-and-nutritional-characterization-of-non-dairy-synbiotic-chocolate-enriched-with-pea-powder-and-Lactobacillus-acidophilus.pdf"/>
-    <published>2026-05-03T01:10:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#5</id>
-    <title>A Bioorthogonal Reaction Network Programs Selective Death in an Ensemble of Assorted Protocells</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Srivastava, A Maity, M Solra, P Bhatt, S Rana&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... By employing an bioorothogonal HCHO/bisulfite reaction network, here we demonstrate "fractional killing" of a selective protocell subpopulation in a heterogeneous protocell community comprising diverse phenotypes, preserving the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15002552"/>
-    <published>2026-05-03T01:10:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#4</id>
-    <title>Physics Determines and Evolution Shapes Basic Units of Protein Function and Allosteric Regulation</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IN Berezovsky - Methods in molecular biology (Clifton, NJ), 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... A starting point of the journey here is a prebiotic evolution, in which short linear peptides and corresponding RNA duplexes with traits determined by demands to survive and to move on in the harshness of the Origin of Life emerged first. Next, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42056691/"/>
-    <published>2026-05-03T01:10:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#3</id>
-    <title>Protein Architecture Comparisons and the Reconstruction of the Last Universal Common Ancestor (LUCA)</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Hernández-Morales, CCG Luna, A Lazcano... - Methods in molecular ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Last Universal Common Ancestor (LUCA) represents an early stage of evolution that can be studied using phylogenetic and bioinformatic methods. Research efforts focus on reconstructing LUCA's genome, proteome, metabolism, habitat, ecological ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42056701/"/>
-    <published>2026-05-03T01:10:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#2</id>
-    <title>Painlevé Dynamics and the Origin of Life : A Universal Chemical Pathway</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Planat&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We propose that the origin of life represents a universal integrable transition governed by Painlevé ... We propose these correspond precisely to the four prebiotic subsystems: ... evolutionary path from prebiotic chemistry to LUCA ( Last ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/dc977d2ca7526bf6dc7ab82ab94aeca4/download_pub"/>
-    <published>2026-05-03T01:10:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#1</id>
-    <title>A Prebiotic and Panthenol-Containing Repair Balm Improves Tolerability of Topical 5-Fluorouracil Field Therapy for Actinic Keratoses: A Randomised Controlled Trial</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Tseng, R Yu, S Brown, N Muller, SX Tan, E Roy... - Dermatology and Therapy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction Topical 5-fluorouracil (5-FU) is an effective field therapy for actinic keratoses (AKs) with proven chemopreventive benefit; however, treatment-limiting local skin reactions frequently impair tolerability and adherence in clinical practice ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s13555-026-01775-1"/>
-    <published>2026-05-03T01:10:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d5535ba7#0</id>
-    <title>Exploring the Prebiotic Effects of Composite Fungal Polysaccharides From Hericium erinaceus and Lyophyllum decastes on Gut Microbiota and Metabolism</title>
-    <updated>2026-05-03T01:10:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Yang, Y Zhou, H Zhuang, L Yao, M Sun, H Wang... - Journal of Food Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic activities, particularly in modulating gut microbiota, regulating metabolism, and supporting immune function? Investigating this question could pave the way for more effective prebiotic ... communities and assess potential ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.71071"/>
-    <published>2026-05-03T01:10:04+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Ye, R Chen, L Yin -arXivpreprintarXiv:2604.26638, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genuinely non-radial quantum-mechanical route by which $\pi$ emerges from equatorial localization on the sphere. For the highest-weight branch of spherical harmonics, this localization is captured by a natural geometric rigidity index ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.26638"/>
+    <published>2026-05-03T14:35:51+00:00</published>
   </entry>
 </feed>
