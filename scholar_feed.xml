@@ -2,96 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-04T15:52:56.599169+00:00</updated>
+  <updated>2026-05-05T08:09:20.210182+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d41879dd#0</id>
-    <title>Novel chemical pathways for the formation of nucleobase precursors via benzene π-bond addition to HCN</title>
-    <updated>2026-05-04T11:16:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d470ad2f#1</id>
+    <title>Leptoquarks and the Emergence of the Standard Model Gauge Group in a Self-Consistent Preon Model</title>
+    <updated>2026-05-05T00:34:16+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Yang, DJ Adams, R Hu, YL Yung - Icarus, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We propose a simple and efficient pathway for the formation of precursors to core nucleobases in DNA and RNA using a suite of computational chemistry methods. Benzene, which is thermochemically stable in N 2-or CO 2-dominated atmospheres ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0019103526002009"/>
-    <published>2026-05-04T11:16:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Raitio -arXivpreprintarXiv:2604.27016, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We show that in a self-consistent preon model, where Standard Model quarks and leptons are three-body composites confined at a metacolor scale Lambda_cr ~ 10^14 GeV, both leptoquarks and the Standard Model gauge group SU(3)_c x SU(2)_L x U(1)_Y ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.27016"/>
+    <published>2026-05-05T00:34:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d41878f2#0</id>
-    <title>Research briefing</title>
-    <updated>2026-05-04T11:16:56+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76d470ad2f#0</id>
+    <title>Emergence of prethermal time quasicrystalline order in a quasiperiodically driven non-interacting spin chain</title>
+    <updated>2026-05-05T00:34:16+00:00</updated>
     <author>
-      <name>Elsa Ducrot</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Gillon, E Ducrot&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Thermal phase curves of the two innermost planets in the TRAPPIST-1 system show strong dayside emission and faint nightside emission—ruling out thick atmospheres on both planets. TRAPPIST-1 b seems to be airless. But TRAPPIST-1 c might host a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
-    <link href="https://www.nature.com/articles/s41550-026-02805-w"/>
-    <published>2026-05-04T11:16:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4187792#0</id>
-    <title>Horizontal transport as a source of disequilibrium chemistry on the nightside of a hot exoplanet</title>
-    <updated>2026-05-04T11:16:58+00:00</updated>
-    <author>
-      <name>Jake Taylor</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Parmentier, KB Stevenson, L Welbanks, J Taylor... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hot Jupiters have temperature gradients of several hundreds of degrees between their permanent daysides and nightsides. Such a strong gradient creates winds with speeds of the order of kilometres per second, which advect chemical species over ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jake Taylor (author alert)</content>
-    <link href="https://www.nature.com/articles/s41550-026-02845-2"/>
-    <published>2026-05-04T11:16:58+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4187758#0</id>
-    <title>Insights into the biological bases of modern human brain shape</title>
-    <updated>2026-05-04T11:16:59+00:00</updated>
-    <author>
-      <name>Simon E. Fisher</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Ramoser, B Molz, G Alagöz, D Schijven, C Francks...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Modern humans have a globular brain shape, a feature which is unique in the hominin fossil record and estimated to have emerged within the Homo sapiens lineage between 100,000 and 35,000 years ago (Neubauer et al., 2018). This timing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Simon E. Fisher (author alert)</content>
-    <link href="https://pure.mpg.de/rest/items/item_3705883_2/component/file_3705884/content"/>
-    <published>2026-05-04T11:16:59+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d41875c8#0</id>
-    <title>Prebiosignatures with the Habitable Worlds Observatory</title>
-    <updated>2026-05-04T11:17:01+00:00</updated>
-    <author>
-      <name>Michael L Wong</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ranjan, D Adams, M Wong, M Schlecker, N Wogan... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The Habitable Worlds Observatory (HWO) aims to characterize habitable exoplanets in search of signs of life. However, detectable life may be rare, either because abiogenesis is intrinsically contingent and unlikely, or because biospheres ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..309R/abstract"/>
-    <published>2026-05-04T11:17:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d418749b#0</id>
-    <title>The effect of spectral resolution on biosignature detection via reflected light observations of the Earth through time</title>
-    <updated>2026-05-04T11:17:02+00:00</updated>
-    <author>
-      <name>Jacob Lustig-Yaeger</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Gilbert-Janizek, J Lustig-Yaeger, J Krissansen-Totton - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; NASA's Habitable Worlds Observatory (HWO) will search for biosignatures on Earth- like exoplanets using reflected light spectroscopy. A critical instrument design parameter is resolving power, which must balance biosignature detectability against ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.26925"/>
-    <published>2026-05-04T11:17:02+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4187473#0</id>
-    <title>Laminar organization of cellular microcircuits modulating human interictal epileptiform discharges</title>
-    <updated>2026-05-04T11:17:02+00:00</updated>
-    <author>
-      <name>Edward F Chang</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AB Silva, SA Marathe, QR Greicius, D Xu, S Jain... - Nature Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Interictal epileptiform discharges (IEDs) are pathological bursts of brain activity between seizures in people with epilepsy. Despite their importance in diagnosis, cognitive comorbidities and therapeutic implications as biomarkers for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://www.nature.com/articles/s41593-026-02258-4"/>
-    <published>2026-05-04T11:17:02+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4187457#0</id>
-    <title>The effect of spectral resolution on biosignature detection via reflected light observations of the Earth through time</title>
-    <updated>2026-05-04T11:17:03+00:00</updated>
-    <author>
-      <name>Joshua Krissansen-Totton</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Gilbert-Janizek, J Lustig-Yaeger, J Krissansen-Totton - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; NASA's Habitable Worlds Observatory (HWO) will search for biosignatures on Earth- like exoplanets using reflected light spectroscopy. A critical instrument design parameter is resolving power, which must balance biosignature detectability against ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joshua Krissansen-Totton (author alert)</content>
-    <link href="https://arxiv.org/pdf/2604.26925"/>
-    <published>2026-05-04T11:17:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Marripour, J Abouie -arXivpreprintarXiv:2604.27250, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study prethermal time quasicrystalline (TQC) order in a quasiperiodically driven chain of non-interacting spin-1/2 particles. The drive consists of two parts, switched on and off periodically with frequency $\omega_d$: (i) disordered Ising interactions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2604.27250"/>
+    <published>2026-05-05T00:34:16+00:00</published>
   </entry>
 </feed>
