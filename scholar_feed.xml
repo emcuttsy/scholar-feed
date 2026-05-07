@@ -2,140 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-06T15:56:22.749318+00:00</updated>
+  <updated>2026-05-07T08:33:35.226804+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bdddaf#1</id>
-    <title>Space Weather: Advances in Astronomy Reveal Meteorological Secrets of Exoplanets</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cbbf34a4#0</id>
+    <title>Hydrocarbon complexity and photochemical shielding of prebiotic feedstock molecules in</title>
+    <updated>2026-05-06T17:29:55+00:00</updated>
     <author>
       <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Cerveny - Weatherwise, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... WASP-43 b is another "hot Jupiter " type of exoplanet with an atmosphere of hydrogen and helium, and much hotter than any of the giant ... K2-18 b's Possible Organic life Can any exoplanet discovered so far possibly hold life as we know it ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/full/10.1080/00431672.2026.2644100"/>
-    <published>2026-05-05T10:05:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Braam, E Gopaoco, SM Tsai, G Friss, PI Palmer...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... increasing chemical complexity is central to exploring the origin of life on Earth 73 and beyond. ... synthesis of feedstock molecules 124 to known exoplanet parameters (irradiation, orbit), ... ) and for measured abundances in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://boris-portal.unibe.ch/bitstreams/c3324b76-6a9a-48c4-ade0-b3d61447eef5/download"/>
+    <published>2026-05-06T17:29:55+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bdddaf#0</id>
-    <title>The Control of Ocean Salinity on Terrestrial Exoplanet Climate State, Habitability Limits, and Future Observations</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KP Batra&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... I was clipping newspaper articles about the Spirit and Opportunity Mars rovers into a scrapbook. Stephanie has motivated me to ... terrestrial exoplanet climate and habitability must be considered in future exoplanet modeling, observational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://hammer.purdue.edu/articles/thesis/The_Control_of_Ocean_Salinity_on_Terrestrial_Exoplanet_Climate_State_Habitability_Limits_and_Future_Observations/32099287/1/files/64011316.pdf"/>
-    <published>2026-05-05T10:05:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#9</id>
-    <title>Lycium barbarum (Wolfberry) Boosted the Relative Abundance of Akkermansia in Hepatocyte-Specific Yap1 Knockout Mice</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cbbf333e#2</id>
+    <title>Holism and the Evolving Cell</title>
+    <updated>2026-05-06T17:29:57+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Yang, Z Liu, D Wang, Y Xiong, X Shi - Food Biotechnology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study investigated the effect of Lycium barbarum (wolfberry) on the bacterial community structure of knockout mice and its role as a potential prebiotic candidate. Mice with hepatocyte-specific Yap1 knockout exhibited a reduction in A. muciniphila ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/abs/10.1080/08905436.2026.2655428"/>
-    <published>2026-05-05T10:05:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JS Torday&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Symbiogenesis holistically references the Singular origin of life , providing a comprehensive understanding for the interrelationship between the origin of life and the mechanism by which it is perpetuated. Symbiogenesis and Quantum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/content/pdf/10.1007/978-3-032-17234-1.pdf"/>
+    <published>2026-05-06T17:29:57+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#8</id>
-    <title>From Chemistry to Life: How Pre-Biological Purpose Made Life Possible</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cbbf333e#1</id>
+    <title>In-vitro and In-vivo Characterization of Budesonide Pellets for the Treatment of Inflammatory Bowel Disease (IBD)</title>
+    <updated>2026-05-06T17:29:57+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Rishi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The specific molecular mechanisms that first instantiated the dyad are questions for prebiotic chemistry. ... Which specific molecular mechanisms first instantiated the pre-biological dyad is a question deliberately left to prebiotic chemistry. Erwin ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/archive/RISFCT-2"/>
-    <published>2026-05-05T10:05:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Verma, S Kant&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Inulin, a highly effective polysaccharide and prebiotic in treating IBD, possesses inadequate film-forming abilities. However, harnessing the beneficial effects of inulin in IBD treatment, researchers designed a single-layer coating using a central ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Satish-Kant-2/publication/404322910_In-vitro_and_In-vivo_Characterization_of_Budesonide_Pellets_for_the_Treatment_of_Inflammatory_Bowel_Disease_IBD/links/69f41167acd3d67d7100c804/In-vitro-and-In-vivo-Characterization-of-Budesonide-Pellets-for-the-Treatment-of-Inflammatory-Bowel-Disease-IBD.pdf"/>
+    <published>2026-05-06T17:29:57+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#7</id>
-    <title>Curdlan Oligosaccharides: Engineered Production, Multi-Functional Activities, and Next-Generation Applications in Food Systems</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cbbf333e#0</id>
+    <title>Hydrocarbon complexity and photochemical shielding of prebiotic feedstock molecules in</title>
+    <updated>2026-05-06T17:29:57+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhang, T Zhang, M Miao - Trends in Food Science &amp; Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Bioactivities including immunomodulation, prebiotic effects, antioxidant capacity, and antimicrobial properties are summarized, along with current and emerging applications across food, health, and personal care sectors. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0924224426002608"/>
-    <published>2026-05-05T10:05:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#6</id>
-    <title>Nutritional and Functional Potential of Developed Low-Cost Leaf-Based Spreads: A Sustainable Approach for Enhancing Nutrition and Health</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AD Pal, F Ismail, A Banerjee - Journal of Scientific Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Green edible leaves are a sustainable and economical solution for promoting health and nutrition. Nonetheless, their consumption remains limited due to insufficient awareness and appealing recipes. This study explores the nutritional and functional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://banglajol.info/index.php/JSR/article/view/83253/57719"/>
-    <published>2026-05-05T10:05:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#5</id>
-    <title>Undergraduate Researcher Explores Chemistry of Life Beyond Earth</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MC Atkinson&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; OXFORD, Miss.–University of Mississippi senior Megan McKissick may have helped shed light on potential molecular origins of life before she even completed her college degree. Earlier this week, she presented her findings at the American ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://egrove.olemiss.edu/umnews/13305/"/>
-    <published>2026-05-05T10:05:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#4</id>
-    <title>Weissella cibaria strains: From selection of riboflavin-overproducing mutants to application for plant-based beverage fermentation</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Lahmar, N Besrour-Aouam, AF Zeid... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (riboflavin)), the immunomodulatory polysaccharide dextran, and other prebiotic and postbiotic compounds are valuable for the development of ... Metabolic profiling revealed the production of additional functional metabolites, including the prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0168160526002084"/>
-    <published>2026-05-05T10:05:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#3</id>
-    <title>The Impact of Gut Dysbiosis and Hyaluronan Synthase Loss on the Structure and Biomechanics of the Murine Lumbar Spine</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SM Staller&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In Aim 1, a murine model of antibiotic-induced gut microbiome dysbiosis was used to assess spinal changes, with post-dysbiosis intervention groups including exercise and prebiotic supplementation. In Aim 2, hyaluronan synthase knockout ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://hammer.purdue.edu/articles/thesis/The_Impact_of_Gut_Dysbiosis_and_Hyaluronan_Synthase_Loss_on_the_Structure_and_Biomechanics_of_the_Murine_Lumbar_Spine/32104663"/>
-    <published>2026-05-05T10:05:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#2</id>
-    <title>Enzymatic properties of Achatina fulica enzyme GH5–2339 and its application in the preparation of Bletilla striata oligosaccharides</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Huang, S Ji, H Lei, L Xiong, B Hu, H Gao, Z Zhang... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In vitro fermentation demonstrated the prebiotic potential of BO by promoting the growth of Lactococcus lactis and Clostridium beijerinckii and enhancing acetate and butyrate production. This study identified and characterized a novel glucomannan ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S014181302602266X"/>
-    <published>2026-05-05T10:05:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#1</id>
-    <title>Is Cellular-Level Nutritional Repletion Associated with Improved Survival in Stage IV Metastatic Cancer? A 48-Month Follow-Up Study</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MI Yilmaz, MF Demir, Z Demir, NE Yilmaz, D Akdogan... - Medical Research Archives, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (antioxidant liquid-AOL), collagen (type1-3 collagen liquid-CL) and pro- prebiotic (Pro- prebiotic capsules-PPC). In the first 12 months, only 3 food items were given, but in the following 3 years, patients were given two more food items containing collagen and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://esmed.org/MRA/mra/article/view/7427"/>
-    <published>2026-05-05T10:05:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76d4bddce4#0</id>
-    <title>Prebiotic intervention changes host and microbe proteomes in plasma extracellular vesicles of Parkinson's disease</title>
-    <updated>2026-05-05T10:05:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Sharma, RM Voigt, DA Hall, TM Cantu-Jungles... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our prior proof-of-concept clinical trial demonstrated that a precision prebiotic intervention ... Furthermore, the microbiota-directed prebiotic intervention induced an acutely modifiable ... Based on these findings, we suggest that: (1) a precision ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-50859-7_reference.pdf"/>
-    <published>2026-05-05T10:05:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Braam, E Gopaoco, SM Tsai, G Friss, PI Palmer...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The potential of prebiotic chemistry to initiate and propagate on an exoplanet fundamentally ... duction of prebiotic feedstock molecules. Photochemical simulations of exoplanet atmospheres 29 ... of chemical kinetics in understanding ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://boris-portal.unibe.ch/bitstreams/c3324b76-6a9a-48c4-ade0-b3d61447eef5/download"/>
+    <published>2026-05-06T17:29:57+00:00</published>
   </entry>
 </feed>
