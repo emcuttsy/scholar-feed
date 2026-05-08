@@ -2,52 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-07T08:33:35.226804+00:00</updated>
+  <updated>2026-05-08T07:42:18.864031+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cbbf34a4#0</id>
-    <title>Hydrocarbon complexity and photochemical shielding of prebiotic feedstock molecules in</title>
-    <updated>2026-05-06T17:29:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cacaef8f#0</id>
+    <title>Cosmology since the first Astro/Cosmo Moriond meeting//The emergence of the Big Bang 2.0</title>
+    <updated>2026-05-08T06:05:18+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Braam, E Gopaoco, SM Tsai, G Friss, PI Palmer...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... increasing chemical complexity is central to exploring the origin of life on Earth 73 and beyond. ... synthesis of feedstock molecules 124 to known exoplanet parameters (irradiation, orbit), ... ) and for measured abundances in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://boris-portal.unibe.ch/bitstreams/c3324b76-6a9a-48c4-ade0-b3d61447eef5/download"/>
-    <published>2026-05-06T17:29:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Blanchard -arXivpreprintarXiv:2605.01977, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper presents a necessarily incomplete review of the evolution of cosmology since the first Astro/Cosmo Moriond meeting in 1981. I trace the journey from the classical Big Bang model based on three pillars -- universe expansion, primordial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.01977"/>
+    <published>2026-05-08T06:05:18+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cbbf333e#2</id>
-    <title>Holism and the Evolving Cell</title>
-    <updated>2026-05-06T17:29:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cac7bdb0#0</id>
+    <title>The chemical fingerprint of the Gaia BH3 system. Evidence for early cluster enrichment from the analysis of 51 elements</title>
+    <updated>2026-05-08T07:39:08+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Alain Goriely</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JS Torday&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Symbiogenesis holistically references the Singular origin of life , providing a comprehensive understanding for the interrelationship between the origin of life and the mechanism by which it is perpetuated. Symbiogenesis and Quantum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/content/pdf/10.1007/978-3-032-17234-1.pdf"/>
-    <published>2026-05-06T17:29:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cbbf333e#1</id>
-    <title>In-vitro and In-vivo Characterization of Budesonide Pellets for the Treatment of Inflammatory Bowel Disease (IBD)</title>
-    <updated>2026-05-06T17:29:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Verma, S Kant&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Inulin, a highly effective polysaccharide and prebiotic in treating IBD, possesses inadequate film-forming abilities. However, harnessing the beneficial effects of inulin in IBD treatment, researchers designed a single-layer coating using a central ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Satish-Kant-2/publication/404322910_In-vitro_and_In-vivo_Characterization_of_Budesonide_Pellets_for_the_Treatment_of_Inflammatory_Bowel_Disease_IBD/links/69f41167acd3d67d7100c804/In-vitro-and-In-vivo-Characterization-of-Budesonide-Pellets-for-the-Treatment-of-Inflammatory-Bowel-Disease-IBD.pdf"/>
-    <published>2026-05-06T17:29:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cbbf333e#0</id>
-    <title>Hydrocarbon complexity and photochemical shielding of prebiotic feedstock molecules in</title>
-    <updated>2026-05-06T17:29:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Braam, E Gopaoco, SM Tsai, G Friss, PI Palmer...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The potential of prebiotic chemistry to initiate and propagate on an exoplanet fundamentally ... duction of prebiotic feedstock molecules. Photochemical simulations of exoplanet atmospheres 29 ... of chemical kinetics in understanding ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://boris-portal.unibe.ch/bitstreams/c3324b76-6a9a-48c4-ade0-b3d61447eef5/download"/>
-    <published>2026-05-06T17:29:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GV Broeck, T Merle, NT Mai, S Van Eck, SGoriely... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Gaia BH3 system hosts the most massive known stellar-origin black hole and a low-mass metal-poor companion whose chemical composition may constrain early explosive nucleosynthesis processes. We investigate the chemical abundances of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Alain Goriely (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.02353"/>
+    <published>2026-05-08T07:39:08+00:00</published>
   </entry>
 </feed>
