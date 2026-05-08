@@ -2,30 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-08T07:42:18.864031+00:00</updated>
+  <updated>2026-05-08T15:12:14.009728+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cacaef8f#0</id>
-    <title>Cosmology since the first Astro/Cosmo Moriond meeting//The emergence of the Big Bang 2.0</title>
-    <updated>2026-05-08T06:05:18+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b982c#1</id>
+    <title>The Secondary Eclipse of the Inflated Super-Neptune WASP-107b</title>
+    <updated>2026-05-08T13:33:38+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Laura Kreidberg</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Blanchard -arXivpreprintarXiv:2605.01977, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper presents a necessarily incomplete review of the evolution of cosmology since the first Astro/Cosmo Moriond meeting in 1981. I trace the journey from the classical Big Bang model based on three pillars -- universe expansion, primordial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.01977"/>
-    <published>2026-05-08T06:05:18+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Deming, L Kreidberg - Research Notes of the AAS, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The inflated transiting super-Neptune WASP-107b is believed to be generating measurable internal heat, possibly by tidal dissipation of energy in a slightly eccentric orbit. Small orbital eccentricities can be difficult to measure using radial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/2515-5172/ae6661"/>
+    <published>2026-05-08T13:33:38+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cac7bdb0#0</id>
-    <title>The chemical fingerprint of the Gaia BH3 system. Evidence for early cluster enrichment from the analysis of 51 elements</title>
-    <updated>2026-05-08T07:39:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b982c#0</id>
+    <title>The dark and featureless surface of rocky exoplanet LHS 3844 b from JWST mid-infrared spectroscopy</title>
+    <updated>2026-05-08T13:33:38+00:00</updated>
     <author>
-      <name>Alain Goriely</name>
+      <name>Laura Kreidberg</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GV Broeck, T Merle, NT Mai, S Van Eck, SGoriely... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Gaia BH3 system hosts the most massive known stellar-origin black hole and a low-mass metal-poor companion whose chemical composition may constrain early explosive nucleosynthesis processes. We investigate the chemical abundances of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Alain Goriely (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.02353"/>
-    <published>2026-05-08T07:39:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Zieba, L Kreidberg, BP Coy, A Bello-Arufe, K Paragas... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The James Webb Space Telescope (JWST) has opened a new era in the study of rocky exoplanets, enabling direct characterization of their surfaces with mid-infrared spectroscopy. Different types of rock have distinct spectral features that are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.00100"/>
+    <published>2026-05-08T13:33:38+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b96e2#0</id>
+    <title>Polyextremophiles as Model Microorganisms to Search for Life on Mars</title>
+    <updated>2026-05-08T13:33:40+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Yadav, SS Patil, A Shahab, S Kumari, S Sharma - Psychrophilic Microbiome&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... One of the main areas of focus in the search for extraterrestrial life today ... habitability in extreme environments, the limits of life , and the detection of biosignatures . Furthermore, it offers valuable insights into the search for life beyond ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&amp;identifierValue=10.1201/9781003717003-2&amp;type=chapterpdf"/>
+    <published>2026-05-08T13:33:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b95f5#0</id>
+    <title>Computational foundations of the human world</title>
+    <updated>2026-05-08T13:33:41+00:00</updated>
+    <author>
+      <name>Chris Kempes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., N Kornerup, AJ Stier, DH Erwin, H Youn, CPKempes... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Human societies continuously transform scattered information into collective judgments and coordinated action, whether through markets discovering prices, governments allocating resources, communities enforcing norms, or science ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.01680"/>
+    <published>2026-05-08T13:33:41+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#9</id>
+    <title>The Bootstrapping Problem of the Genetic Code</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MW Driesch&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The question of the origin of life is among the oldest and most difficult in the natural sciences. One sub-problem has received particular attention in recent research: the origin of the genetic code. How did it come about that certain ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/MICTBP"/>
+    <published>2026-05-08T13:33:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#8</id>
+    <title>Peptide heterogeneity enables and stabilises peptide/nucleic acid coacervates</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FZ Mihoubi, KK Nakashima, R Staňo, MG Rafique...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Together, these findings indicate that prebiotic chemical imperfection does not hinder protocell formation, but instead provides a powerful ... prebiotic mixtures could have self-organised into functional compartments. While pure homopolymers ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15002649"/>
+    <published>2026-05-08T13:33:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#7</id>
+    <title>Photoactivated Signaling Networks using DNA‐Based Synthetic Organelles as Biomimetic Protocells</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Xue, Y Qin, Y Han, S Xu, I Willner, F Xia, F Huang - ... Chemie International Edition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Integrating such synthetic organelles into protocell carriers remains a key challenge. Here, we introduce a method to assemble functional phase-... machinery in the organelle/ protocell assemblies is demonstrated, resulting in dynamic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.4889049"/>
+    <published>2026-05-08T13:33:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#6</id>
+    <title>Thermodynamic Inevitability or Theoretical Overreach?</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mason&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Taekyung Lee's 2026 Zenodo preprint represents one of the more mathematically ambitious recent entries in the origin - of - life literature. It ... , using the DB-FEP + DQA + ELIS forensic framework developed for systematic evaluation of origin - of - life and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/404392039_Thermodynamic_Inevitability_or_Theoretical_Overreach/links/69f75b77b2e0972eb41d1419/Thermodynamic-Inevitability-or-Theoretical-Overreach.pdf"/>
+    <published>2026-05-08T13:33:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#5</id>
+    <title>Did it all begin with hydrogen cyanide?</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Rahm - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This discovery touches on a central question in origin - of - life research: how did the building ... In that sense, this work highlights a possible bridge between two branches of origin - of - life ... Also notable is that in contrast to many prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2608465123"/>
+    <published>2026-05-08T13:33:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#4</id>
+    <title>Chirality in Abiogenesis</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Tame&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The most perenially interesting problems in science are the origin problems such as How did the universe begin? or How did mankind arise from the primates? In between these two particular questions of course is the fundamental problem of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="http://www.tsurumi.yokohama-cu.ac.jp/pdl/PDL/Writing/Chirality_in_Abiogenesis.pdf"/>
+    <published>2026-05-08T13:33:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#3</id>
+    <title>Testing Origin - of - Life Theories with the Habitable Worlds Observatory</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ranjan, M Schlecker, N Wogan, M Won - ... Society of the Pacific Conference Series, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... requirements and the expected frequency of abiogenesis , meaning that constraints on the frequency and distribution of life on exoplanets from HWO can in principle directly test theories of abiogenesis . We categorize origin - of - life theories ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..542..305R/abstract"/>
+    <published>2026-05-08T13:33:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#2</id>
+    <title>Efficacy of vaginal capsules with D-xylitol and active prebiotic complex in the preoperative and postoperative periods in vaginal correction of pelvic organ prolapse ...</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YV Fedko, KV Chayka - HEALTH OF WOMAN, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... on tissue repair processes, of D-xylitol prebiotic vaginal capsules during the pre-and postoperative ... The use of the prebiotic complex with D-xylitol contributed to the rapid resolution of ... The local peri-and postoperative application of D-xylitol ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://repro-health.com.ua/issue/download/21065/14885#page=28"/>
+    <published>2026-05-08T13:33:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#1</id>
+    <title>Comparative Effects of Prebiotic , Probiotic, and Synbiotic on Intestinal Barrier Function, Immune Responses, and Disease Resistance in Red Hybrid Tilapia ...</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Sasmitha Ritonga, J Iradukunda, S Helmiati...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiotic , probiotic, and synbiotic treatment significantly increased non-specific immune responses, such as respiratory burst, phagocytic activity, and plasma protein levels. 3. Prebiotic ... This research investigated the effects of probiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://agris.fao.org/search/en/providers/125570/records/69e21ae7920f500389b26c4d"/>
+    <published>2026-05-08T13:33:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c90b945f#0</id>
+    <title>Designing ferredoxins composed of only prebiotic amino acids</title>
+    <updated>2026-05-08T13:33:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TTH Thi, B Stockman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Alkaline hydrothermal vents have long been proposed as a cradle for the origin of cellular life because they provide continuous chemical gradients and catalytic mineral surfaces capable of promoting redox reactions. These environments could ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://scholarlyworks.adelphi.edu/esploro/outputs/eventposter/Designing-ferredoxins-composed-of-only-prebiotic/991004536400106266"/>
+    <published>2026-05-08T13:33:43+00:00</published>
   </entry>
 </feed>
