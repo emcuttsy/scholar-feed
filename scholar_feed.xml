@@ -2,195 +2,206 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-10T08:07:17.074089+00:00</updated>
+  <updated>2026-05-11T09:39:01.485926+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9a649dc#0</id>
-    <title>Online Generalised Predictive Coding</title>
-    <updated>2026-05-09T17:30:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c85c3a1b#0</id>
+    <title>Younger Dryas reindeer in northwest Europe: A multi-isotope study of the palaeoecology and mobility of Chelm's Combe fauna, Britain.</title>
+    <updated>2026-05-11T03:59:01+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>Tom Higham</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MHZ Bazargani, S Urbas, A Razi, TB Murphy, K Friston - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper introduces an extension of generalised filtering for online applications. Generalised filtering refers to data assimilation schemes that jointly infer latent states, learn unknown model parameters, and estimate uncertainty in an integrated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.02675"/>
-    <published>2026-05-09T17:30:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RE Stevens, H Reade, D Frémondeau, KL Sayle... - ... Environments and Humans, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractReindeer (Rangifer tarandus) played a central role in the subsistence strategies of Late and Final Palaeolithic populations across northern Europe, particularly during the Younger Dryas (c. 12,850–11,650 cal BP). However, while ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tom Higham (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2950236526000125"/>
+    <published>2026-05-11T03:59:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9a64943#0</id>
-    <title>Computational foundations of the human world</title>
-    <updated>2026-05-09T17:30:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c85c39ac#0</id>
+    <title>Poor mood after oral contraceptive use is associated with increased vulnerability to peripartum depression, premenstrual dysphoric disorder, and higher genetic risk ...</title>
+    <updated>2026-05-11T03:59:02+00:00</updated>
     <author>
-      <name>David H. Wolpert</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MJ Hamilton, A Yadav, H Hartle, J Korbel, N Kornerup... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Human societies continuously transform scattered information into collective judgments and coordinated action, whether through markets discovering prices, governments allocating resources, communities enforcing norms, or science ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David H. Wolpert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.01680"/>
-    <published>2026-05-09T17:30:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Kiewa, PA Lind, IB Hickie, SE Medland, BE Mitchell... - Archives of Women's Mental ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose This study tested whether adverse mood effect of the oral contraceptive pill (OCP) is associated with reproductive depressive episodes, including peripartum depression (PPD), premenstrual dysphoric disorder (PMDD), and perimenopausal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s00737-026-01708-z"/>
+    <published>2026-05-11T03:59:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9a647ea#0</id>
-    <title>The Days Drag On on WASP-121 b: Interpreting its NIRISS Spectroscopic Phase Curve with General Circulation Models</title>
-    <updated>2026-05-09T17:30:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c85c393a#0</id>
+    <title>Robust chemotaxis beyond sensing limits: signal, noise, and strategy</title>
+    <updated>2026-05-11T03:59:04+00:00</updated>
     <author>
-      <name>Lisa Dang</name>
+      <name>Robert G Endres</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RC Frazier, E Rauscher, J Splinter, TD Kennedy, X Tan... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ultra-hot Jupiters present extreme atmospheric phenomena not found in the Solar System. These planets' daysides experience strong temperature inversions, molecular species (including H2) dissociate, and magnetism disrupts their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.01589"/>
-    <published>2026-05-09T17:30:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RG Endres - arXiv preprint arXiv:2605.03632, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Bacterial chemotaxis has long been viewed as operating near the physical limits of sensing, as originally articulated by Berg and Purcell. Recent information-theoretic analyses challenge this view, suggesting that Escherichia coli uses only a small ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Robert G Endres (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.03632"/>
+    <published>2026-05-11T03:59:04+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9a647d5#0</id>
-    <title>The genome sequence of Geoffroy's Bat, Myotis emarginatus (Geoffroy, 1806)(Chiroptera: Vespertilionidae)</title>
-    <updated>2026-05-09T17:30:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c85c38ad#0</id>
+    <title>The Catastrophic Consequences of Agnosticism for Life Searches and a Possible Workaround</title>
+    <updated>2026-05-11T03:59:05+00:00</updated>
     <author>
-      <name>Sonja Vernes</name>
+      <name>David Kipping</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Ruedi, M Mai, EC Teeling, SC Vernes... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual female Myotis emarginatus (Geoffroy's Bat; Chordata; Mammalia; Chiroptera; Vespertilionidae). The assembly contains two haplotypes with total lengths of 2 110.52 megabases and 2 084.88 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
-    <link href="https://wellcomeopenresearch.org/articles/11-258"/>
-    <published>2026-05-09T17:30:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Kipping - arXiv preprint arXiv:2605.02969, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Planned and ongoing searches for life, both biological and technological, confront an epistemic barrier concerning false positives-namely, that we don't know what we don't know. The most defensible and agnostic approach is to adopt diffuse ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.02969"/>
+    <published>2026-05-11T03:59:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9a641eb#0</id>
-    <title>The dark and featureless surface of rocky exoplanet LHS 3844 b from JWST mid-infrared spectroscopy</title>
-    <updated>2026-05-09T17:30:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c85c3777#0</id>
+    <title>Traffic light cycles for a sustainable city</title>
+    <updated>2026-05-11T03:59:08+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>Vito DP Servedio</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Zieba, L Kreidberg, BP Coy, A Bello-Arufe, K Paragas... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The James Webb Space Telescope (JWST) has opened a new era in the study of rocky exoplanets, enabling direct characterization of their surfaces with mid- infrared spectroscopy. Different types of rock have distinct spectral features that are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.00100"/>
-    <published>2026-05-09T17:30:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Cerioli, R Lucarno, J Liang, G Prieto-Viertel... - Royal Society Open Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cities worldwide struggle to reduce car dependency despite its costs: congestion, pollution, inefficient land use and traffic fatalities. Traffic light timing, often favouring cars, plays a surprisingly powerful yet underexplored role in commuters' choices. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Vito DP Servedio (author alert)</content>
+    <link href="https://royalsocietypublishing.org/rsos/article/13/5/251118/481600"/>
+    <published>2026-05-11T03:59:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9d86bde#1</id>
-    <title>Chromosphere of the quiet Sun--II. Atmospheric response to small-scale magnetic flux emergence</title>
-    <updated>2026-05-10T02:02:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0fa9#0</id>
+    <title>Finding Alien Worlds in Queensland--A Decade of MINERVA-Australis</title>
+    <updated>2026-05-11T08:39:16+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Noraz, M Carlsson, G Aulanier -arXivpreprintarXiv:2605.03019, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... atmospheric layers vary as a function of small-scale magnetic flux emergence . We performed a parametric set of 3D radiative-MHD simulations with ... Our results demonstrate the sensitivity of chromospheric structure and dynamics to small-scale ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.03019"/>
-    <published>2026-05-10T02:02:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Horner, RA Wittenmyer, SR Kane, J Kielkopf... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To achieve this, we constructed the southern hemisphere's only dedicated exoplanet detection and characterisation facility, MINERVA-... the most eccentric exoplanet orbits known – with an orbit more reminiscent of the Solar system's Jupiter ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.05449"/>
+    <published>2026-05-11T08:39:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9d86bde#0</id>
-    <title>What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis</title>
-    <updated>2026-05-10T02:02:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0ed6#0</id>
+    <title>CTM-AI: A Blueprint for General AI Inspired by a Model of Consciousness</title>
+    <updated>2026-05-11T08:39:17+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Lenore Blum</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Mao, J Zhao, G Penn, C Wang -arXivpreprintarXiv:2605.03354, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Agent memory failures are silent: an LLM-based agent can produce a fluent response even when it fails to extract, retain, or retrieve the information needed across sessions. The write-manage-read loop describes the external pipeline of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.03354"/>
-    <published>2026-05-10T02:02:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Yu, Y Zhao, L Blum, M Blum, PP Liang - arXiv preprint arXiv:2605.04097, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This work was done in part while Lenore Blum , Manuel Blum, and Paul Liang were visiting the Simons Institute for the Theory of Computing. We are grateful to our friend Michael Xuan for his enormous personal support and encouragement. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenore Blum (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.04097"/>
+    <published>2026-05-11T08:39:17+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#9</id>
-    <title>Determination of Tannins from Seaweed and Its Influence on Human Gut Microbiota</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0e3c#0</id>
+    <title>Testing hydrothermal Origin-of- Life Theories: implications for early Earth and Enceladus</title>
+    <updated>2026-05-11T08:39:19+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Helmbrecht&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... it was able to evolve into complex cellular life . The hydrothermal environments that likely facilitated the origin of life on the early Earth are also promising locations in the search for extraterrestrial life in the universe. A possibly habitable candidate is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://edoc.ub.uni-muenchen.de/36931/"/>
+    <published>2026-05-11T08:39:19+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#9</id>
+    <title>Testing hydrothermal Origin - of - Life Theories: implications for early Earth and Enceladus</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Chakraborty, S Bhunia, J Begum, P Chakraborty... - Leaves as Functional Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Seaweeds are rich sources of polyphenolic chemicals, particularly tannins, which are becoming well-known for their possible antibacterial and prebiotic qualities. Tannins are isolated and described in this work from a few species of red and brown ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-1-0716-5226-8_16"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Helmbrecht&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... last universal common ancestor at the root of the tree of life likely inhabited a similar hydrothermal environment, where it was able to evolve into complex cellular life. The hydrothermal environments that likely facilitated the origin of life ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://edoc.ub.uni-muenchen.de/36931/"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#8</id>
-    <title>Pleasure, Pain and the Art of Questioning Science</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#8</id>
+    <title>THE ORIGIN OF LIFE ON EARTH BEGAN ON CERES: THE SEEDER OF LIFE</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Brown&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Science tells me the origin of life emerged from the sensations of pleasure and pain, leading to a biologically rich planet full of animals and eventually humans which are capable of emotions and consciousness. Art, particularly portraits of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://openresearch.ocadu.ca/id/eprint/5038/"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MD Sipes Jr&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The" Standard Model" of terrestrial abiogenesis —the theory that life originated in a" primordial soup " on Earth—is increasingly incompatible with emerging genomic and planetary data. This thesis challenges the geocentric consensus by proposing the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/SIPTOO"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#7</id>
-    <title>Determination of Polysaccharides from Seaweed and Its Influence on Human Gut Microbiota</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#7</id>
+    <title>Environmental DNA and the Distributed Evolutionary Continuum-From Prebiotic Chemistry to Hybrid Biological Systems</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Chakraborty, S Bhunia, P Ray, S Roy, SK Sen - Leaves as Functional Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Seaweed-derived polysaccharides have attracted more attention due to their possible prebiotic qualities and positive health impacts. The extraction, identification, and measurement of polysaccharides from particular seaweed species are the main ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-1-0716-5226-8_15"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GB Stefano - Biomedical Journal of Scientific &amp; Technical Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The emergence and evolution of life are a continuum of processes governed by thermodynamics, which allows the continuous formation of increasingly complex systems able to store information and utilize energy. The current paradigm of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ideas.repec.org/a/abf/journl/v65y2026i3p57760-57763.html"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#6</id>
-    <title>One-step bioprocess for high-purity 1-kestose: removal of sucrose and glucose by immobilized recombinant Komagataella phaffii</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#6</id>
+    <title>Sustainable production of tilapias (Oreochromis niloticus): essential oils associated with prebiotic and probiotic as an alternative to conventional antibiotics</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Martínez, AG Martínez, Y Quintero, A Sobrino... - Analytical Biochemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... contaminated with residual sucrose and glucose, which diminish prebiotic efficacy and limit use in populations with metabolic disorders. ... conventional fermentation and purification methods and supporting the development of functional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0003269726001016"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ALH Albuquerque&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As a consequence of the global expansion of aquaculture, bacterial diseases with major economic impact have emerged. This increase is largely attributed to higher stocking densities, suboptimal sanitary practices, and the introduction of non-native ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://teses.usp.br/teses/disponiveis/91/91131/tde-06052026-120351/publico/Ana_Luisa_Holanda_de_Albuquerque_versao_revisada.pdf"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#5</id>
-    <title>Seeking Biology's Physics Stories: Simplify, Simplify</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#5</id>
+    <title>An Investigation into the Potential Role of Thioester Bonds in Prebiotic ATP Synthesis</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KA Dill - Annual Review of Biophysics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In related questions of water physics, principles of nonequilibria, cell fitnesses, and the chemical origins of life , our work has been about ... In related questions of water physics, principles of nonequilibria, cell fitnesses, and the chemical origins of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-022224-110227"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AJ Ruf&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this project I will attempt to show a potential prebiotic pathway for the synthesis of ATP. This pathway involves the use of thioester bond containing molecules, as derivatives of these bonds have been shown to exhibit enzyme-like catalytic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ideaexchange.uakron.edu/cgi/viewcontent.cgi?article=3718&amp;context=honors_research_projects"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#4</id>
-    <title>Progress toward a Nonenzymatic Gluconeogenesis: One-Pot Reactions and Model Systems</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#4</id>
+    <title>Problem-Solving Nucleic Acid-Based Prebiotic Entities as Origin of Life</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Zimmermann, Q Dherbassy, N Nogal, S Yahaya... - JACS Au, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This work underlines the challenges inherent to a prebiotic gluconeogenesis and asks the ... Nevertheless, the study unveiled new transformations relevant to prebiotic chemistry and ... Prebiotic environments such as hydrothermal vents are of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/full/10.1021/jacsau.6c00312"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Okayama&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How life originated in the ancient abiotic world is one of the most fundamental questions in modern bioscience. To address this problem, I propose a scientifically credible, fact-based scenario involving a pre life molecular entity that ultimately gave ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/f581f72514f4b809304062f52c912526/download_pub"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#3</id>
-    <title>Variations in the 6.2/m polycyclic aromatic hydrocarbon band in extragalactic sources</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#3</id>
+    <title>The Origin of Life in the Light of Evolution</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CM Canelo, DA Sales, V Avelaneda - Boletim da Sociedade Astronômica Brasileira, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... They are of great astrochemical and astrobiological interest due to their potential to form prebiotic molecules. For instance, their simplest ... Finally, the presence of PAHs in these sources strengthens the idea that organic (and prebiotic ) molecules ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://sab-astro.org.br/wp-content/uploads/2026/04/CarlaCanelo.pdf"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Kaçar, TA Williams, L Eme, JP Gogarten... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Despite having been established for nearly a century15,16, the foundations of evolutionary theory have remained conspicuously absent from origin - of - life research. In our view, origin - of - life research will greatly benefit from a new synthesis treating ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.05464"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#2</id>
-    <title>Unlocking the potential of vegetable by-products as a novel source of prebiotics</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#2</id>
+    <title>Prebiotic oligosaccharides at the carbohydrate health interface: structure centric processing pathways from plant biomass</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Liu, Y Huang, N Wang, G Zhang - Food Wellness, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... with potential prebiotic properties and can be considered a valuable prebiotic resource. Therefore, determining the potential prebiotic effects ... well-designed clinical studies are needed to further determine the prebiotic effects of VBP, thereby ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S3050711126000149"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Raheja, R Kapoor, PD Maibam, K Gautam, A Kumar... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractRising obesity and diet-related disorders drive high-fat, high-sugar, and high-salt (HFSS) reduction in foods, where prebiotic oligosaccharides (POS) like xylo-oligosaccharides (XOS), manno-oligosaccharides (MOS), and cello-oligosaccharides (COS), serve as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226008266"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#1</id>
-    <title>Ratio-Tunable Multistrain Probiotic– Prebiotic Composition for Gut Microbiota Remodeling and Short-Chain Fatty Acid Generation</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#1</id>
+    <title>Non-enzymatic coupling of protometabolic reactions with a prebiotic redox cofactor</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; É Morel, A Ziraoui, L Neumann - Journal of Technology Innovation and Engineering, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a ratio-tunable multistrain probiotic– prebiotic composition centered on Bifidobacterium longum, Bifidobacterium adolescentis, Lactobacillus plantarum, fructooligosaccharides (FOS), and stachyose. The core scientific value of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sci-open.net/index.php/JTIE/article/download/12632/14420"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D González-Martínez, N Nogal, I de la Infanta, P Ocón... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic chemistry, acting as reversible redox agents capable of coupling oxidative and reductive transformations, thus contributing to the emergence of primitive protometabolic networks. In the context of abiogenesis ,... in water and lack ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41467-026-72707-y_reference.pdf"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c9e30b9e#0</id>
-    <title>A Prebiotic Carbon Source Preference Profile and ID of Key Members of a Kombucha Community</title>
-    <updated>2026-05-10T07:01:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c87c0d62#0</id>
+    <title>Enzymatic synthesis of oligodextran with prebiotic potential by a recombinant dextransucrase from Latilactobacillus sakei L3</title>
+    <updated>2026-05-11T08:39:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MC Microplates, CPMA Microplates, MI Microplates...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Kombucha is a fermented tea beverage that is typically made using table sugar (sucrose) and green or black tea; the beverage has become increasingly popular in the health food industry over the last few decades due to the probiotic bacteria and yeast with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.biolog.com/product-literature/a-prebiotic-carbon-source-preference-profile-and-id-of-key-members-of-a-kombucha-community/"/>
-    <published>2026-05-10T07:01:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Wang, L Hao, K Zuo, X Liu, H Yao, W Liu, F Zhao... - Carbohydrate Polymers, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractOligodextran exhibits considerable prebiotic potential and holds significant commercial promise for food and clinical applications. To facilitate its efficient production, the dextransucrase (Dex) gene from Latilactobacillus sakei L3 was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S014486172600531X"/>
+    <published>2026-05-11T08:39:20+00:00</published>
   </entry>
 </feed>
