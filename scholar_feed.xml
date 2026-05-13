@@ -2,74 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-12T08:39:50.853484+00:00</updated>
+  <updated>2026-05-13T08:43:55.700445+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c8dbf272#0</id>
-    <title>The ecology and evolution of sub-exponential replicators</title>
-    <updated>2026-05-11T18:09:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cf8fccd0#0</id>
+    <title>A single power law for the TRAPPIST-1 flare distribution across four orders of magnitude in energy</title>
+    <updated>2026-05-12T17:29:28+00:00</updated>
     <author>
-      <name>Eörs Szathmáry</name>
+      <name>Astrid Veronig</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Kovács, G Barabás, G Meszéna, E Szathmáry... - PLOS Computational ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Systems of oligonucleotide chemical replicator molecules provide some of the finest, empirically realizable models of prebiotic evolution. Yet, a full understanding of their eco-evolutionary implications is hampered by conflicting assumptions, modeling ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
-    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014247"/>
-    <published>2026-05-11T18:09:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Vasilyev, AI Shapiro, N Kostogryz, CL Lin, G Kopp... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; TRAPPIST-1 is an ultra-cool dwarf that flares frequently. These flares shape the surrounding planets' high-energy irradiation environments, with consequences for atmospheric chemistry and escape, and they can contaminate transmission ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.05468"/>
+    <published>2026-05-12T17:29:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c8dbf13f#0</id>
-    <title>The ecology and evolution of sub-exponential replicators</title>
-    <updated>2026-05-11T18:09:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cf8ec41d#1</id>
+    <title>Unraveling the Mystery of the Peculiar and Young Hot Jupiter CoRoT-2b. I. H2O and CO Detection from Dayside Observations with Gemini-S/IGRINS</title>
+    <updated>2026-05-12T17:36:04+00:00</updated>
     <author>
-      <name>Eörs Szathmáry</name>
+      <name>Lisa Dang</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Kovács, G Barabás, G Meszéna, ESzathmáry... - PLOS Computational ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Systems of oligonucleotide chemical replicator molecules provide some of the finest, empirically realizable models of prebiotic evolution. Yet, a full understanding of their eco-evolutionary implications is hampered by conflicting assumptions, modeling ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
-    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014247"/>
-    <published>2026-05-11T18:09:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Shu, L Dang, A Darveau-Bernier, A Kesseli... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present ground-based high-resolution spectroscopic pre-eclipse observations of the hot Jupiter CoRoT-2b obtained with the IGRINS spectrograph on Gemini South. Using cross-correlation analysis, we detect the Doppler-shifted signature of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae5ba6"/>
+    <published>2026-05-12T17:36:04+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c8f9d7d9#3</id>
-    <title>Emergence of conformal properties in Finite Grand Unified Theories via reduction of couplings</title>
-    <updated>2026-05-11T23:12:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cf8ec41d#0</id>
+    <title>The NUV transit of XO-3 b</title>
+    <updated>2026-05-12T17:36:04+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Lisa Dang</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LER Rodríguez, M Mondragón -arXivpreprintarXiv:2605.04378, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Based on this observation, we provide new evidence for a connection between the reduction of parameters in the dimensionful SSB sector and the emergence of an anomaly-mediated (AMSB-like) pattern, under the assumption that the finite Grand ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.04378"/>
-    <published>2026-05-11T23:12:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Cilley, L Corrales, GW King, J Dong, R Frazier... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Near-UV (NUV) measurements of exoplanet transits offer a means to probe atmospheric escape, cloud formation, and planetary magnetic fields. We examine a 2024 XMM-Newton Optical Monitor NUV observation of the transit of XO-3~ b, a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.05068"/>
+    <published>2026-05-12T17:36:04+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c8f9d7d9#2</id>
-    <title>On the Emergence of Pendular Structure in Multi-Contact Locomotion</title>
-    <updated>2026-05-11T23:12:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cf8ec335#0</id>
+    <title>The Origin of Life in the Light of Evolution</title>
+    <updated>2026-05-12T17:36:06+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Michael Lynch</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Lyu, Z Liu -arXivpreprintarXiv:2605.05707, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; LIPM is everywhere in legged-locomotion control, but almost always as a modeling choice rather than as something the controller's cost actually prefers. This note tries to make that link more explicit. Working from a small centroidal OCP that penalizes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.05707"/>
-    <published>2026-05-11T23:12:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Kaçar, TA Williams, L Eme, JP Gogarten... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of life is often framed primarily as a chemical problem, yet life's defining feature is evolution. Advances in geochemistry, prebiotic chemistry, and molecular biology have produced diverse scenarios for the emergence of genomes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Lynch (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.05464"/>
+    <published>2026-05-12T17:36:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c8f9d7d9#1</id>
-    <title>Emergence of a correlated insulating state in bulk 1T-NbSe $ _2 $ via metal intercalation</title>
-    <updated>2026-05-11T23:12:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cf8ec232#0</id>
+    <title>Unraveling the Mystery of the Peculiar and Young Hot Jupiter CoRoT-2b. I. H2O and CO Detection from Dayside Observations with Gemini-S/IGRINS</title>
+    <updated>2026-05-12T17:36:07+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Björn Benneke</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Tomlinson, AKM Rahman, S Devi, R Tuchikawa... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The 1T polymorph of NbSe$_2$, long confined to the monolayer limit, has remained inaccessible in bulk. Here, we report the realization of bulk 1T-NbSe$_2$ via electrochemical Sn intercalation. Transmission electron microscopy directly reveals ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.06545"/>
-    <published>2026-05-11T23:12:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c8f9d7d9#0</id>
-    <title>Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon</title>
-    <updated>2026-05-11T23:12:29+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Bahsoun, J Groenen, G Agez, S Joulié, C Marcelot... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The ability to engineer localized surface plasmon resonances at large scale usually relies on precise nanoscale patterning. Here, we demonstrate that mid-infrared plasmonic responses can instead emerge in unpatterned polysilicon films ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.04854"/>
-    <published>2026-05-11T23:12:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Shu, L Dang, A Darveau-Bernier, A Kesseli... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present ground-based high-resolution spectroscopic pre-eclipse observations of the hot Jupiter CoRoT-2b obtained with the IGRINS spectrograph on Gemini South. Using cross-correlation analysis, we detect the Doppler-shifted signature of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae5ba6"/>
+    <published>2026-05-12T17:36:07+00:00</published>
   </entry>
 </feed>
