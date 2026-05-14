@@ -2,129 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-13T16:12:11.911330+00:00</updated>
+  <updated>2026-05-14T08:36:58.702829+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1652af#0</id>
-    <title>The Habitability and Atmosphere of the Exoplanet TOI-700 e</title>
-    <updated>2026-05-13T13:53:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76ce83f2d1#0</id>
+    <title>Draft assemblies for 177 bird species enhance genus-level coverage</title>
+    <updated>2026-05-14T04:04:42+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Erich Jarvis</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NL Domingues, VYD Sumida, A Valio - Boletim da Sociedade Astronômica Brasileira, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... search for habitable exoplanets is fundamental to understanding the diversity of planetary environments and the possibility of extraterrestrial life ... Therefore, this study contributes to the understanding of the habitability of exoplanets in red dwarf ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://sab-astro.org.br/wp-content/uploads/2026/04/NicoleDomingues.pdf"/>
-    <published>2026-05-13T13:53:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#9</id>
-    <title>Impact of soybean meal enzymatic treatment on chicken caecal microbiota and intestinal epithelial cells</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Plouhinec, M Maresca, J Saget, V Neugnot...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These findings indicate that while industrial enzyme cocktails are well suited to cereal-based diets, targeted pectin-degrading enzymes could be seen as a promising strategy to enhance the prebiotic potential of SBM. This study highlights ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-9542962/latest.pdf"/>
-    <published>2026-05-13T13:53:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#8</id>
-    <title>Linking glycosylation to the functional and health-promoting properties of dairy proteins</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BH Nadugala, C Pegg, R Afshari, CS Ranadheera... - International Dairy Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It further explores the production of biomimetic proteins through synthetic biology or enzymatic pathways, the development of prebiotic ingredients to support beneficial gut bacteria, and next-generation infant formulas designed to more ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0958694626001378"/>
-    <published>2026-05-13T13:53:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#7</id>
-    <title>Sustainable valorization of Pichia pastoris by-products in broiler diets: effects on performance and coccidiosis control</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Eivakpour, MAK Torshizi, SM Kalbolandi... - Journal of Agriculture and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Overall, this study demonstrates that Pichia pastoris by-products represent a sustainable prebiotic strategy for broiler production, contributing to mitigation of coccidiosis. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2666154326003613"/>
-    <published>2026-05-13T13:53:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#6</id>
-    <title>Panax ginseng as a microbial ecosystem modulator: implications for systemic health via the gut-organ axes</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Li, Y Zhao, N Liu, Y Zhang, R Liu, W Shan, J Zhang... - Journal of Ginseng ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractPanax ginseng CA Meyer, a renowned medicinal herb, exerts many of its systemic effects through intricate interactions with the gut microbiota, a relationship that also addresses the challenge of its own limited oral bioavailability. This review ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1226845326000850"/>
-    <published>2026-05-13T13:53:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#5</id>
-    <title>On the Chemistry of Molecules Containing Silicon, Phosphorus, and Sulfur in the Interstellar Medium</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Michielan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Interstellar Medium (ISM) is an extreme environment that requires a wide range of experimental techniques to investigate its many shades. This thesis presents a collection of studies in Laboratory Astrochemistry aimed at providing new ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://iris.unitn.it/handle/11572/485030"/>
-    <published>2026-05-13T13:53:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#4</id>
-    <title>Simulated Enceladus geochemistry enables growth of a chemolithoautotrophic methanogen at alkaline pH</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Helmbrecht, F Postberg, N Khawaja, R Reichelt... - ... HydrothermalOrigin-of-Life...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 4.1 Abstract Saturn's icy moon Enceladus features chemical signatures consistent with an alkaline soda ocean with H2 production via hydrothermal water-rock reactions. Chemolithoautotrophic methanogenesis is thermodynamically favorable ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://edoc.ub.uni-muenchen.de/36931/1/Helmbrecht_Vanessa.pdf#page=114"/>
-    <published>2026-05-13T13:53:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#3</id>
-    <title>Strain-and Individual-specific Effects of Prebiotics on Gut Bacteria</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Kazi, S Jia, L De Silva, J Burton, SN Parvathy&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... However, evidence suggests that prebiotic effects are strain specific. ... prebiotic effects on gut bacteria are highly customized, exhibiting both strain-specific and individual-dependent responses. This highlights the need for precision-based ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://uwindsor.scholaris.ca/items/d1f8c9ed-99e8-42e4-88f2-0534e491b944"/>
-    <published>2026-05-13T13:53:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#2</id>
-    <title>Textural characteristics of volcanic rocks: implications for explosive volcanism and the emergence of life</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Weller&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Volcanic eruptions are among the most fascinating yet dangerous natural phenomena and have influenced the face of the Earth since its formation 4.56 Ga ago (Figure 1.1 A). Their destructive powers can substantially affect life from the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://edoc.ub.uni-muenchen.de/36942/1/Weller_Daniel.pdf"/>
-    <published>2026-05-13T13:53:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#1</id>
-    <title>Prebiotic Induced Modulation of Gut derived Metabolites in Melanoma Patient Stool-An In Vitro Study</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Kazi, S Jia, K Al, M Silverman, J Burton, B Routy...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We hypothesized that prebiotic supplementation would enrich metabolites associated with immune function, gut barrier integrity, and ... -derived microbial metabolites, motivating future investigations of combination prebiotic approaches ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://uwindsor.scholaris.ca/items/1439ab18-e629-4839-b610-42ac565a8414"/>
-    <published>2026-05-13T13:53:29+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ce1651fe#0</id>
-    <title>Phytonutrient-Enriched Prebiotic Mixture Primes the Gut Environment to Enhance Probiotic Efficacy: Ex Vivo Screening and a Human Clinical Trial</title>
-    <updated>2026-05-13T13:53:29+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HJ Lee, DH Suh, S Lee, WH Holzapfel, Y Ji...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Phytonutrient-enriched prebiotic mixtures (PEPs), composed of phytonutrients and prebiotics that serve as substrates for beneficial gut microbes, are widely recognized for their potential to promote gut health. However, despite this established role ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/8432ef6a5c177e4da1251b1655d3e832/download_pub"/>
-    <published>2026-05-13T13:53:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Chen, S Wang, D Bilyeli Øksnebjerg, SD Nielsen... - GigaScience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background With over 10,000 recognized species, birds constitute one of the most diverse and widely distributed vertebrate groups. Although avian genomics has advanced rapidly over the past decade, substantial gaps remain across the global ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Birds&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
+    <link href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giag045/8675036"/>
+    <published>2026-05-14T04:04:42+00:00</published>
   </entry>
 </feed>
