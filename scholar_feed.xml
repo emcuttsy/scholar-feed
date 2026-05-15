@@ -2,96 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-15T08:48:44.404646+00:00</updated>
+  <updated>2026-05-15T15:54:07.006916+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cd18ce06#7</id>
-    <title>Emergence of Tsallis Statistics from a Self-Referential Nonlinear Operator: A Variational Framework</title>
-    <updated>2026-05-14T20:26:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cd77befd#1</id>
+    <title>Positive Alignment: Artificial Intelligence for Human Flourishing</title>
+    <updated>2026-05-15T11:42:54+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Michael Levin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Marassi -arXivpreprintarXiv:2605.06705, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We develop a variational thermodynamic framework for statistical systems governed by a self-referential nonlinear operator Omega characterized by structural exponents alpha &gt; 0, beta &gt;= 0, a symmetric kernel K, and a self-coupling constant kappa &gt;= 0 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.06705"/>
-    <published>2026-05-14T20:26:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Laukkonen, S Krier, C Bakalar, S Chandaria... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Existing alignment research is dominated by concerns about safety and preventing harm: safeguards, controllability, and compliance. This paradigm of alignment parallels early psychology's focus on mental illness: necessary but incomplete. What ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.10310"/>
+    <published>2026-05-15T11:42:54+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cd18ce06#6</id>
-    <title>Genetic Information as a" Chord" of Chemical Oscillations: Emergence of Catalyst-RNA Systems Driven by Superposed Rhythms</title>
-    <updated>2026-05-14T20:26:49+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Ishida -arXivpreprintarXiv:2605.07035, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A central challenge in the origin of life is understanding how catalytic peptide-like polymers and information-bearing nucleic acid-like polymers emerged as an interde-pendent system. This study constructs a primordial cognitive model incorporating two internal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.07035"/>
-    <published>2026-05-14T20:26:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cd18ce06#5</id>
-    <title>Emergence of Social Reality of Emotion through a Social Allostasis Model with Dynamic Interpretants</title>
-    <updated>2026-05-14T20:26:49+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Nomura, Y Tsubamoto, T Horii -arXivpreprintarXiv:2605.07761, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this study, we simulate this emergence process using a computational model that integrates symbol emergence with degrees of freedom ... and symbol probability distributions of the two agents converge, confirming the emergence of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.07761"/>
-    <published>2026-05-14T20:26:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cd18ce06#4</id>
-    <title>Emergence of synthetic twist defects in the surface code under local perturbation</title>
-    <updated>2026-05-14T20:26:49+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Kairys, PC Lotshaw -arXivpreprintarXiv:2605.10839, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We observe the emergence of a 2 new ground states in the small µ limit (the points overlap and can be most easily distinguished in panel C) with a gap that closes exponentially quickly with decreasing µ. We also observe a variety of very low-energy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.10839"/>
-    <published>2026-05-14T20:26:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cd18ce06#3</id>
-    <title>From Syntax to Semantics: Unveiling the Emergence of Chirality in SMILES Translation Models</title>
-    <updated>2026-05-14T20:26:49+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Li, Y Yoshikai, S Nemoto, H Kusuhara, T Mizuno -arXivpreprintarXiv:2605.09949, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These findings show that SMILES translation can serve as a useful experimental system for mechanistic analysis of semantic emergence ... chemical semantic constraints, and lays the groundwork for studying semantic emergence in CLMs. Our ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.09949"/>
-    <published>2026-05-14T20:26:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cd18ce06#2</id>
-    <title>A Semiclassical Diagnostic for Spacetime Emergence</title>
-    <updated>2026-05-14T20:26:49+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Engelhardt, E Gesteau -arXivpreprintarXiv:2605.06780, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... a traditional application of the rules of holography, prompting proposals for restoring their emergence with "observer rules". In this paper, we propose a general semiclassical diagnostic of such failures of emergence , and of the extent to which ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.06780"/>
-    <published>2026-05-14T20:26:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cd18ce06#1</id>
+    <id>http://www.inoreader.com/article/3a9c6e76cd77befd#0</id>
     <title>The Causally Emergent Alignment Hypothesis: Causal Emergence Aligns with and Predicts Final Reward in Reinforcement Learning Agents</title>
-    <updated>2026-05-14T20:26:49+00:00</updated>
+    <updated>2026-05-15T11:42:54+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Michael Levin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Pigozzi, M Levin -arXivpreprintarXiv:2605.06746, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... emergence of their latent-space representations over their lifetimes. We used the recently proposed {\Phi}ID to estimate causal emergence ... Our results suggested a Causally Emergent Alignment Hypothesis: successful agents exhibited causal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Pigozzi, M Levin - arXiv preprint arXiv:2605.06746, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A hallmark of life on Earth is the ability of agents to exert causal power and be drivers of subsequent events. This is key to cognition at all scales. Causal emergence, measuring the degree to which an agent exerts unique predictive power on its future ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
     <link href="https://arxiv.org/pdf/2605.06746"/>
-    <published>2026-05-14T20:26:49+00:00</published>
+    <published>2026-05-15T11:42:54+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cd18ce06#0</id>
-    <title>Convergence and Emergence of In-Context Reinforcement Learning with Chain of Thought</title>
-    <updated>2026-05-14T20:26:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cd77bdf6#0</id>
+    <title>Positive Alignment: Artificial Intelligence for Human Flourishing</title>
+    <updated>2026-05-15T11:42:56+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Fernando E. Rosas</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Xie, X Liu, R Chandra, S Zhang -arXivpreprintarXiv:2605.07123, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... are a global minimizer of the pretraining loss, providing a theoretical understanding on the empirical emergence of those parameters. ... minimizer for a TD-based pretraining algorithm and we empirically validate the emergence of those ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.07123"/>
-    <published>2026-05-14T20:26:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Laukkonen, S Krier, C Bakalar, S Chandaria... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Existing alignment research is dominated by concerns about safety and preventing harm: safeguards, controllability, and compliance. This paradigm of alignment parallels early psychology's focus on mental illness: necessary but incomplete. What ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.10310"/>
+    <published>2026-05-15T11:42:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cd77bc62#0</id>
+    <title>HAT-P-70b through the Eyes of MAROON-X: Constraining Elemental Abundances of Metals and Insights on Atmosphere Dynamics</title>
+    <updated>2026-05-15T11:42:58+00:00</updated>
+    <author>
+      <name>Björn Benneke</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SL Sun, S Pelletier, B Benneke, B Prinoth... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ultra-hot Jupiters (UHJs) are exceptional laboratories for studying planetary atmospheres under extreme irradiation conditions. With close-in tidally locked orbits, these planets can have daysides hot enough for metals to be significantly ionized ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.07873"/>
+    <published>2026-05-15T11:42:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cd77bb78#0</id>
+    <title>Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments</title>
+    <updated>2026-05-15T11:42:59+00:00</updated>
+    <author>
+      <name>Edward F Chang</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Choudhari, M Nentwich, S Johnson, JL Herrero... - Nature Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding speech in noisy environments is difficult for many people, and current hearing aids often fail because they amplify all sounds rather than the talker of interest. Auditory attention decoding (AAD) offers a potential solution by using the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
+    <link href="https://www.nature.com/articles/s41593-026-02281-5"/>
+    <published>2026-05-15T11:42:59+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cd77babf#0</id>
+    <title>A Systematic Search for Trace Molecules in the Atmosphere of Exoplanet K2-18 b</title>
+    <updated>2026-05-15T11:43:01+00:00</updated>
+    <author>
+      <name>Nikku Madhusudhan</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Pica-Ciamarra, N Madhusudhan, GJ Cooke... - The Astrophysical Journal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The first transmission spectrum of the habitable-zone sub-Neptune K2-18 b with JWST has opened a new avenue for atmospheric characterisation of temperate low- mass exoplanets. The observations led to inferences of methane and carbon dioxide ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/2041-8213/ae5dcc/pdf"/>
+    <published>2026-05-15T11:43:01+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cd77b96f#0</id>
+    <title>Mapping histamine pathway networks in the human brain across cognition and psychiatric disorders</title>
+    <updated>2026-05-15T11:43:02+00:00</updated>
+    <author>
+      <name>Federico Turkheimer</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Martins, M Veronese, D van Wamelen, L Shan... - Nature Mental Health, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Histamine is a key neuromodulator shaping cognition, emotion and behavioral flexibility, yet its organization in the human brain remains incompletely characterized. We conducted a multimodal analysis integrating transcriptomic, neuroimaging ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
+    <link href="https://www.nature.com/articles/s44220-026-00637-1"/>
+    <published>2026-05-15T11:43:02+00:00</published>
   </entry>
 </feed>
