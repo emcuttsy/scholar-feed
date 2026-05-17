@@ -2,140 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-16T08:04:29.974470+00:00</updated>
+  <updated>2026-05-17T08:21:18.785411+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cdef13c4#0</id>
+    <id>http://www.inoreader.com/article/3a9c6e76cc4ed75e#0</id>
+    <title>Attributing Emergence in Million-Agent Systems</title>
+    <updated>2026-05-16T19:16:12+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Tang, J Mei, Q Chen, Q Ren, L Zhang, Q Zhang... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper studies emergence attribution in LLM-powered MAS at realistic scale. Existing attribution methods require re-running the simulation over many agent subsets, at cost combinatorial in the number of agents N. Recent adaptations of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.11404"/>
+    <published>2026-05-16T19:16:12+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc6e3cd6#0</id>
     <title>Tensional wrinkling of thin elastic sheets with two circular holes</title>
-    <updated>2026-05-16T02:05:21+00:00</updated>
+    <updated>2026-05-17T03:02:43+00:00</updated>
     <author>
-      <name>Alain Goriely</name>
+      <name>Prof. Alain Goriely FRS</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Liu, S Razavi, P Cicuta, D Vella, AGoriely- arXiv preprint arXiv:2605.11708, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A paradigm for the study of wrinkling in elastic sheet is the Lam\'{e} configuration, in which azimuthal wrinkles form in an annular sheet subjected to tensile loads at both edges. Since wrinkles are spatially extended, this instability provides a mechanism ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Alain Goriely (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Liu, S Razavi, P Cicuta, D Vella, A Goriely - arXiv preprint arXiv:2605.11708, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A paradigm for the study of wrinkling in elastic sheet is the Lam\'{e} configuration, in which azimuthal wrinkles form in an annular sheet subjected to tensile loads at both edges. Since wrinkles are spatially extended, this instability provides a mechanism ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Prof. Alain Goriely FRS (author alert)</content>
     <link href="https://arxiv.org/pdf/2605.11708"/>
-    <published>2026-05-16T02:05:21+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2766b#0</id>
-    <title>The Biological Cosmological Constant: Exploratory Propensity, Dynamical Habitability and the Geometric Origin of Life</title>
-    <updated>2026-05-16T03:05:27+00:00</updated>
-    <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Fariña, S Vallejo - BioSystems, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This geometric perspective offers a novel theoretical distinction between structural and dynamical habitability , reconceptualises ... dynamical habitability . Ultimately, this synthesis suggests that extraterrestrial life -detection strategies ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726001267"/>
-    <published>2026-05-16T03:05:27+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#9</id>
-    <title>Effect of ultrasonic-assisted H2O2/ascorbic acid modification on Platycodon grandiflorum polysaccharide: structural characterization and in vitro functional activities</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Yang, Y Zheng, Y Zou, Q An, L Tang, M Zhang... - Ultrasonics Sonochemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In addition, PGS and all modified fractions significantly promoted the growth of Weissella confusa, Lactobacillus plantarum, Lactobacillus acidophilus, and Leuconostoc mesenteroides, indicating potential prebiotic activity, with DPGS-180 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1350417726001525"/>
-    <published>2026-05-16T03:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#8</id>
-    <title>RNA viruses are an integral part in evolution of all organisms</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Hull - Virology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... several unusual features: a) metagenomic studies suggest that they are probably are the most common group of viruses infecting all organism species and are the most abundant biological entity on earth; b) they have existed ever since the Last ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0042682226001650"/>
-    <published>2026-05-16T03:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#7</id>
-    <title>Primitive replication promotes stabilization of pre-genetic molecular organization under noisy compositional inheritance</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MJ Carr&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... for cumulative evolution remains a central problem in origins - of - life research. In many prior models, ... Using a sequence-explicit protocell model, this study addresses that gap by separately quantifying the ... These results identify a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-9483463/latest.pdf"/>
-    <published>2026-05-16T03:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#6</id>
-    <title>The effect of the prebiotic Mesi-Vit Plus on the oral microbiome and the gastrointestinal tract</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Elistratov, M Shamilov&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The article discusses the mechanism of action of inulin as a highly effective and safe prebiotic of natural origin. The article evaluates the prospects of using the plant-based prebiotic drug Mezi-Vit Plus to improve the condition of the gastrointestinal microflora ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://vrachjournal.ru/en/25877305-2026-04-10"/>
-    <published>2026-05-16T03:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#5</id>
-    <title>Can Neutron-Capture Products Constrain the Origin of Life on Earth?</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KR Bermingham, BS Meyer - Galaxies, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neutron-capture products, such as molybdenum (Mo) isotopes, are an important tool that cosmochemists use to constrain the stellar precursors of the Solar System and, potentially, the origin of life on Earth. Using high-precision Mo isotope data from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2075-4434/14/3/44"/>
-    <published>2026-05-16T03:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#4</id>
-    <title>The Biological Cosmological Constant: Exploratory Propensity, Dynamical Habitability and the Geometric Origin of Life</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Fariña, S Vallejo - BioSystems, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractThe emergence of life represents a fundamental geometric phase transition in the state space of complex systems, rather than a mere sequence of chemical syntheses. Building upon the framework of Biorelativity, we introduce , the biological ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726001267"/>
-    <published>2026-05-16T03:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#3</id>
-    <title>Prebiotic activity and antidiabetic potential of Ginkgo isomalto-oligosaccharides</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Chen, X Zhang, T Li, C Wu, G Fan, X Li, D Zhou... - Food &amp; Function, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study systematically investigates the prebiotic and antidiabetic potential of a novel oligosaccharide derived from Ginkgo, designated ... In conclusion, G-IMO demonstrates stronger prebiotic efficacy and antidiabetic potential than C-IMOs ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.rsc.org/en/content/articlelanding/2026/fo/d6fo00811a"/>
-    <published>2026-05-16T03:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#2</id>
-    <title>Electron configuration and catalytic logic: a physicochemical framework for the inorganic origins of life —part II: electron continuity and beyond</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Huang - Proceedings of the Royal Society A: Mathematical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to an emerging focus on the chemical and energetic origins of life [106]. The modern theory of abiogenesis , developed in the twentieth century, ... Unlike classical spontaneous generation—which imagined fully formed organisms ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://royalsocietypublishing.org/rspa/article/482/2337/20250586/481656"/>
-    <published>2026-05-16T03:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#1</id>
-    <title>Sustainable Production of Ferulic Acid and Prebiotic Sugars via Spore-Displayed Bifunctional Enzymes Purified through Integrated ELP-Intein Strategies</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Wang, X Qi, S Gao, T Stanishneva-Konovalova... - Journal of Agricultural and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The His-ELP-intein tag, containing His-tag, intein, and elastin-like polypeptide (ELP), and the ELP-intein tag, containing intein and ELP, were designed to fuse with bifunctional xylanase/feruloyl esterase XynII-Fae to generate recombinant proteins ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/abs/10.1021/acs.jafc.6c02108"/>
-    <published>2026-05-16T03:05:28+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cde2758e#0</id>
-    <title>Integrated production of prebiotic xylooligosaccharides (XOS) and fermentable sugars from Sugarcane Tops and Leaves (STL) using autoclave-assisted oxalic acid ...</title>
-    <updated>2026-05-16T03:05:28+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Hermiati, HN Fitriana, DA Pramasari, N Rahmani... - Biomass and Bioenergy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the produced XOS exhibited selective prebiotic potential by promoting the growth of Lactobacillus rhamnosus and Lactobacillus fermentum within 24 h, with prebiotic index values of 4.03 ± 0.06 and 3.72 ± 0.04, respectively, and corresponding ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0961953426006057"/>
-    <published>2026-05-16T03:05:28+00:00</published>
+    <published>2026-05-17T03:02:43+00:00</published>
   </entry>
 </feed>
