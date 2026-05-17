@@ -2,30 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-17T08:21:18.785411+00:00</updated>
+  <updated>2026-05-17T14:48:16.255203+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cc4ed75e#0</id>
-    <title>Attributing Emergence in Million-Agent Systems</title>
-    <updated>2026-05-16T19:16:12+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cc9018f0#0</id>
+    <title>Take Me to Your Leader: Perspectives on Your First Alien Encounter</title>
+    <updated>2026-05-17T13:18:42+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Tang, J Mei, Q Chen, Q Ren, L Zhang, Q Zhang... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper studies emergence attribution in LLM-powered MAS at realistic scale. Existing attribution methods require re-running the simulation over many agent subsets, at cost combinatorial in the number of agents N. Recent adaptations of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.11404"/>
-    <published>2026-05-16T19:16:12+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NG Tyson&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This applies not just to intelligent aliens but to any extraterrestrial life we discover. If we find microbial ... We do not need to go to the stars to search for evidence of extraterrestrial life . The solar system, it turns out, is full of potentially habitable ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=TSjZEQAAQBAJ&amp;oi=fnd&amp;pg=PT78&amp;dq=(habitable%7Chabitability+planet%7Cplanetary%7Cworld%7Cexoplanet)%7C%22habitale+zone%22%7Cbiosignature%7Castrobiology%7Ctechnosignature%7C(%22search+for%22+~alien%7Cextraterrestrial+life)%7CSETI%7C%22biosignature+detection%22&amp;ots=uTZvdf--9i&amp;sig=W5ncm1GtCE-4FtaYIRy6oF4nbqg"/>
+    <published>2026-05-17T13:18:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76cc6e3cd6#0</id>
-    <title>Tensional wrinkling of thin elastic sheets with two circular holes</title>
-    <updated>2026-05-17T03:02:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90189d#1</id>
+    <title>The Equation for Planetary mass from any Accretion Disc</title>
+    <updated>2026-05-17T13:18:44+00:00</updated>
     <author>
-      <name>Prof. Alain Goriely FRS</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Liu, S Razavi, P Cicuta, D Vella, A Goriely - arXiv preprint arXiv:2605.11708, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A paradigm for the study of wrinkling in elastic sheet is the Lam\'{e} configuration, in which azimuthal wrinkles form in an annular sheet subjected to tensile loads at both edges. Since wrinkles are spatially extended, this instability provides a mechanism ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Prof. Alain Goriely FRS (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.11708"/>
-    <published>2026-05-17T03:02:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Braben&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Jupiter " retrograde exoplanets, explain the formation of giant planets like Jupiter and Saturn in ... This paper will additionally identify 32 exosystems where life as we know it is likely to ... , and exoplanets, with data taken from the NASA Exoplanet ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/132337410/Abstract2_The_Equation_for_Planetary_mass_from_any_Accretion_Disc.pdf"/>
+    <published>2026-05-17T13:18:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90189d#0</id>
+    <title>Take Me to Your Leader: Perspectives on Your First Alien Encounter</title>
+    <updated>2026-05-17T13:18:44+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NG Tyson&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Never before have we sent probes to the moons of Jupiter and Saturn , places where liquid water and possibly life may be hiding beneath ... search for extraterrestrial life is not SETI - listening for radio signals but the analysis of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=TSjZEQAAQBAJ&amp;oi=fnd&amp;pg=PT78&amp;dq=(~biosignature%7Clife%7Calien%7Corganic)+(Mars%7CVenus%7CEuropa%7CEnceladus%7CTitan%7C%22icy+moon%22%7CJupiter%7CSaturn%7CNeptune%7CPluto%7CAsteroid%7CComet+~exoplanet%7C%22super+Earth%22%7C%22sub+Neptune%22%7C%22rocky+world%22%7C%22terrestrial+planet%22%7CTRAPPIST%7CK2-18b%7CProxima)&amp;ots=uTZvdf--9j&amp;sig=02cBnswasT3XhuwYkzyk7JDktG8"/>
+    <published>2026-05-17T13:18:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#9</id>
+    <title>Synbiotics are Better Than Probiotics and Prebiotics for Use as Nutrition in Growing Rabbits</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Alrajab, T Ghoorchi, A Toghdory, O Ashayerizade... - Veterinary Medicine and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Consequently, this study aims to evaluate the impacts of probiotic, prebiotic and synbiotic feed supplements specifically incorporating the commercially available probiotic S. cerevisiae and MOS prebiotics on performance, digestibility and blood ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13173768/"/>
+    <published>2026-05-17T13:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#8</id>
+    <title>Is Life Outside Earth Possible?</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Minda, A Dolińska&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The aim of this paper is to analyze the possibility of life existing outside Earth based on current scientific knowledge in the fields of astronomy and astrobiology. The study discusses the conditions necessary for the emergence of life , the significance ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/132323218/Is_Life_Outside_Earth_Possible.pdf"/>
+    <published>2026-05-17T13:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#7</id>
+    <title>Prebiotics and cognitive resilience: a path to mental well-being for all?</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KC Kadosh, P Hepsomali, GF Dodd, G Chatonidi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Furthermore, this commentary will discuss considerations for industry applications, including the development of targeted prebiotic formulations for at-risk populations, integration into functional foods, and potential regulatory pathways for health claims. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.agro-food-industry.com/articles/prebiotics-and-cognitive-resilience-a-path-to-mental-well-being-for-all/"/>
+    <published>2026-05-17T13:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#6</id>
+    <title>THE SYNERGISTIC POTENTIAL OF CHITOSAN AND WHEY POWDER IN PREVENTING INTESTINAL DISEASES</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RF Kholbayevich - Лучшие интеллектуальные исследования, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Furthermore, chitosan strengthens the intestinal barrier by stimulating mucin production and acts as a selective prebiotic , promoting beneficial bacteria while inhibiting pathogens. Whey powder, rich in easily digestible proteins and lactose ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journalss.org/index.php/luch/article/download/29780/28780"/>
+    <published>2026-05-17T13:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#5</id>
+    <title>FROM CHEMISTRY TO LIFE</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MW Vick&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The critical claim of this paper: every major step on the abiogenesis ladder has ΔG &lt; 0 under ... This has a direct consequence for abiogenesis : at any given temperature, the molecular population is ... It is a fossil from the RNA World , still ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/132221568/FROM_CHEMISTRY_TO_LIFE.pdf"/>
+    <published>2026-05-17T13:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#4</id>
+    <title>Gender and Age Disparities in Attitude and Preferences of Probiotic and Prebiotic -Rich Foods and Supplements among Adults in Saudi Arabia</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RK Naaman, W Alghafari - Frontiers in Public Health&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction: In recent decades, probiotic-and prebiotic -rich foods and supplements have gained considerable attention for their health benefits, particularly the promotion of gut health. Despite the widespread publicity around these benefits ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1844860/full"/>
+    <published>2026-05-17T13:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#3</id>
+    <title>Organic Compounds in the Universe: Synthesis, Molecular Evolution and Relevance for Prebiotic Processes</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Heredia-Barbero, M Ruiz-Bermejo, R Saladino - Frontiers in Astronomy and Space ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... chemistry on cosmic dust to the formation of key prebiotic molecules. In addition, the Avnirs original ... Equally important is the recognition that prebiotic chemistry is not confined to planetary ... This research topic reinforces the idea that the origins of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2026.1875361/full"/>
+    <published>2026-05-17T13:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#2</id>
+    <title>Shadow of a Shadow Ferrocyanide and Nitroprusside as a Sunscreen for Photosensitive Prebiotic Molecules</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Rossmanith, SK Platymesi, SJ Thompson...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... contributor to the origin of life . Ultraviolet (UV) light interacting with iron cyanide complexes may play an important role in prebiotic chemistry. ... Our toy model constrains the photochemical survival of compounds of interest to the origin of life ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.repository.cam.ac.uk/items/b12c4e28-c058-4ca6-abdd-69e73d63ddc8"/>
+    <published>2026-05-17T13:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#1</id>
+    <title>Liquid-liquid phase separation as a tool to compartmentalize stimuli-responsive cargoes within protocell models</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Moreno, AB Bonhome-Espinosa, JA Lirio-Piñar... - Journal of Colloid and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractIn this work we harness liquid-liquid phase separation to organize the internal content of protocell models based on water-in-oil droplets. Our approach is based on the spatial segregation of two polymers, polyethylene glycol (PEG) and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0021979726009173"/>
+    <published>2026-05-17T13:18:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76cc90181e#0</id>
+    <title>The prebiotic inulin affects virulence factor expression in Candida albicans</title>
+    <updated>2026-05-17T13:18:45+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Hickey, A Pradhan, Q Ma, I Leaves, A Philip-Brookes... - mBio, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... that a commonly used prebiotic influences virulence attributes in a major fungal pathogen. This suggests potential risks for prebiotic usage in ... However, while dietary supplementation with the prebiotic inulin enhances immunological ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journals.asm.org/doi/pdf/10.1128/mbio.03851-25"/>
+    <published>2026-05-17T13:18:45+00:00</published>
   </entry>
 </feed>
