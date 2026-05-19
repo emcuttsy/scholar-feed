@@ -2,151 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-18T10:03:28.259597+00:00</updated>
+  <updated>2026-05-19T09:42:11.811003+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ccc7f470#2</id>
-    <title>The Emergence of Photonic Crystalline Order and Time-Series Dynamics in NaCl Droplet Deposition</title>
-    <updated>2026-05-17T21:34:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c36701ec#0</id>
+    <title>A Motion-Dependent Gravity Model and Its Geometric Predictions in the Solar System</title>
+    <updated>2026-05-18T19:14:09+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GS Ĺťmija, G Cios, BR Jany -arXivpreprintarXiv:2605.15101, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Crystallization during droplet evaporation gives rise to complex, self-organized structures, yet the mechanisms underlying the emergence of ordered functional phases remain poorly understood. In this study, we present a comprehensive, multi-scale ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.15101"/>
-    <published>2026-05-17T21:34:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Chen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Robustness is further confirmed by re- calibrating with Venus , Jupiter , and Saturn , which ... state, while the widespread "hot" exoplanet orbits could be attributed to larger theoretical ... a crucial factor for the evolution of life , especially complex ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/132229364/%E8%AE%BA%E6%96%87.pdf"/>
+    <published>2026-05-18T19:14:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ccc7f470#1</id>
-    <title>Emergence of information interference in stochastic systems with non-diagonal noise and switching environments</title>
-    <updated>2026-05-17T21:34:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#9</id>
+    <title>Coiled-Coil Domains Can Facilitate the Liquid-Liquid Phase Separation of Proteins</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Marchetti, DM Busiello, G Nicoletti -arXivpreprintarXiv:2605.13556, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We study how their presence leads to the emergence of information interference, so that the total mutual information cannot be decomposed as the sum of the contributions from deterministic interactions, noise anisotropy, and environmental ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.13556"/>
-    <published>2026-05-17T21:34:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Ramirez&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... mechanism for concen- trating prebiotic molecules in the proverbial primordial soup [59]. It is suspected that prebiotic chemistry faced a dilution dilemma [46] where the supposed vast expanse of terrestrial water would have inhibited prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://search.proquest.com/openview/5fe048b7ea1cf426c8e7c8a23ba2c1b9/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76ccc7f470#0</id>
-    <title>Action Emergence from Streaming Intent</title>
-    <updated>2026-05-17T21:34:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#8</id>
+    <title>The evolution of biocatalysis: From foundational enzymology to AI-guided biocatalysis through the legacy of Antonio Ballesteros</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Jing, VSJ Huang, H Lu, J Dai, X Yan, B Zhu -arXivpreprintarXiv:2605.12622, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We formalize action emergence as a target capability for end-to-end autonomous driving: ... We show that previous paradigms cannot deliver action emergence : autoregressive trajectory ... We propose Streaming Intent as a concrete way to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.12622"/>
-    <published>2026-05-17T21:34:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Ferrer, P Molina-Espeja, L Fernandez-Lopez... - Biocatalysis and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Plou explicitly identified native, modified and immobilized enzymes acting on carbohydrates and the production of prebiotic additives using glycosidases and glycosyltransferases as central research lines. During this period, his group ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.tandfonline.com/doi/pdf/10.1080/10242422.2026.2671854"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31a755a#1</id>
-    <title>A hyperbolic cell cycle law for early embryonic developmental timing</title>
-    <updated>2026-05-18T09:23:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#7</id>
+    <title>The Central Homeorhetic Principle: Lipid-Organized Boundary Systems as Constraints on Cellular State Realization</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>Bernat Corominas-Murtra</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Aguirre-Tamaral, J Royer, M Schindler-Johnson... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Across metazoans, early embryos exhibit a strikingly conserved slowing down of their cell duplication speed, despite widely varying developmental paces and underlying molecular mechanisms. Here we show that this common behavior arises ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Bernat Corominas-Murtra (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.13234"/>
-    <published>2026-05-18T09:23:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Wang&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sequence information can specify molecular components, but specification is not equivalent to cellular state realization. A gene product contributes to living function only when the cell occupies a physical state in which gradients persist ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/4bb7d3f697124652c4590767e7e0bb03/download_pub"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31a755a#0</id>
-    <title>Tissue rigidity phase transition shapes morphogen gradients</title>
-    <updated>2026-05-18T09:23:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#6</id>
+    <title>_8104642. html</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>Bernat Corominas-Murtra</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Autorino, D Khoromskaia, L Harari, E Floris, H Booth... - Nature Cell Biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; During development, local mechanochemical cues within the cell microenvironment are translated into signalling pathways that drive cell fate decisions. Yet, as cells differentiate collectively, how global tissue-level properties shape these instructive ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Bernat Corominas-Murtra (author alert)</content>
-    <link href="https://www.nature.com/articles/s41556-026-01954-4"/>
-    <published>2026-05-18T09:23:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; 研究紹介...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... de/en/detail-research-news/rare-e arth-elements-of-peptides-and-the- origin - of - life ・レアアース と極めて結合しやすいペプチドレアアース元素は鉱石中の含有量が少なく, しかも互いに 化学的性質が似ているため, 大量の鉱石から手間をかけて分離する際に大量の廃鉱物や ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.jstage.jst.go.jp/article/jaesjb/68/5/68_326/_pdf"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31f1fd8#0</id>
-    <title>World models, artificial general intelligence and the hard problems of life–mind continuity: toward a unified understanding of natural and artificial intelligence</title>
-    <updated>2026-05-18T09:46:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#5</id>
+    <title>Activity, contribution, and regulation of seed pod photosynthesis</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>David Krakauer</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Safron, M Levin, V Klimaj, Z Sheikhbahaee... - ... Transactions of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This special issue examines how natural and artificial intelligences (AIs) model the world, and what this modelling reveals about cognition and relationships between life and mind. Rather than adopting a single definition, the collection considers how ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Krakauer (author alert)</content>
-    <link href="https://royalsocietypublishing.org/rsta/article-pdf/doi/10.1098/rsta.2024.0533/6138007/rsta.2024.0533.pdf"/>
-    <published>2026-05-18T09:46:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NS Manoj, DS O'Maoileidigh -Origins of Lifeand Evolution of Biospheres, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Although leaves are the primary sites of photosynthesis in most species, non-foliar organs are also photosynthetic. Non-foliar photosynthesis has been documented in a wide variety of species, however, understanding of this phenomenon has not ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://search.proquest.com/openview/c2b1efa80ae22897f16f2dfe69c660fd/1?pq-origsite=gscholar&amp;cbl=54154"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31f1f4b#0</id>
-    <title>Comparison of Partial Volume Correction methods for Huntington's disease integrated PET/MR imaging analysis</title>
-    <updated>2026-05-18T09:46:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#4</id>
+    <title>INVESTIGATING THE POTENTIAL OF MICROBIAL BASED FORMULATIONS IN MAINTAINING ORAL HEALTH AND CONTROLLING HALITOSIS</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>Federico Turkheimer</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Moretto, G Baldascino, FE Turkheimer, JH Warner...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Partial volume effects (PVEs) bias PET imaging, particularly in neurodegenerative diseases with regional atrophy such as Huntington's disease (HD). Despite their relevance, partial volume correction (PVC) methods remain inconsistently applied in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-9675918/latest.pdf"/>
-    <published>2026-05-18T09:46:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Ogbonnaya, EC Chukwumbah, IH Iheukwumere - UNIZIK JOURNAL OF ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It contributed to knowledge by providing evidence for probiotic- prebiotic oral supplements as sustainable alternatives to synthetic ... salivarius was reconstituted and homogenized with the probiotic strains before being blended with the prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://unilaws.org/ujervs/article/download/399/399"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31f1dda#0</id>
-    <title>Conditioning as a route to stereotyped behavior in growing populations</title>
-    <updated>2026-05-18T09:46:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#3</id>
+    <title>Dandelion Root Benefits: The Practitioner's Guide to Liver, Gut, and Hormone Support</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>Jack W. Szostak</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Ravasio, K Husain, CG Evans, R Phillips... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biological systems perform complex multi-step processes in a reproducible way despite underlying stochasticity. The standard explanation is micromanagement by molecular machinery that recognizes and corrects specific errors. Here we study ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jack W. Szostak (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.13009"/>
-    <published>2026-05-18T09:46:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RDRDF Matter&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Dandelion root's inulin content makes it a natural prebiotic . Inulin selectively feeds bifidobacteria and lactobacillus strains — the same bacterial groups most relevant to gut barrier integrity and immune regulation. Unlike chicory root inulin ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://blog.sipherbals.com/dandelion-root-benefits/"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31f1c3b#1</id>
-    <title>Six principles for evaluating cognitive capabilities in AI models</title>
-    <updated>2026-05-18T09:46:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#2</id>
+    <title>Quantitative nonequilibrium pathway from fundamental physics to the emergence and persistence of exoplanetary biospheres</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>Melanie Mitchell</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Mitchell - AI Magazine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Modern AI systems have exceeded human performance on many benchmarks meant to evaluate general cognitive capacities. However, it is often the case that benchmark performance does a poor job of predicting general capacities in real‐world settings ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Mitchell (author alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.70061"/>
-    <published>2026-05-18T09:46:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SG Turyshev -Origins of Lifeand Evolution of Biospheres, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... As a result, we recast abiogenesis and biosphere persistence as a gate vector of falsifiable ... , biospheric; where any one fails, abiogenesis stalls or biospheres do not persist. The gates are ... → gates framework that casts abiogenesis and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://search.proquest.com/openview/d308b79b1ea12e957494b161e2f85159/1?pq-origsite=gscholar&amp;cbl=54154"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31f1c3b#0</id>
-    <title>World models, artificial general intelligence and the hard problems of life–mind continuity: toward a unified understanding of natural and artificial intelligence</title>
-    <updated>2026-05-18T09:46:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#1</id>
+    <title>Structural Characterization of Protocells and Confinement-Driven Evolution of Virtual Circular Genomes</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>Melanie Mitchell</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Safron, M Levin, V Klimaj, Z Sheikhbahaee... - ... Transactions of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This special issue examines how natural and artificial intelligences (AIs) model the world, and what this modelling reveals about cognition and relationships between life and mind. Rather than adopting a single definition, the collection considers how ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Mitchell (author alert)</content>
-    <link href="https://royalsocietypublishing.org/rsta/article-pdf/doi/10.1098/rsta.2024.0533/6138007/rsta.2024.0533.pdf"/>
-    <published>2026-05-18T09:46:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Choi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life likely required systems that could store information, maintain individuality, and evolve. Among the proposed models, RNA-containing lipid vesicles are a useful protocell ... In this work, I explore the heterogeneity of protocell ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://search.proquest.com/openview/71ec3a4728ea0e21de09aa2f4a288b7b/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31f1b7c#0</id>
-    <title>World models, artificial general intelligence and the hard problems of life–mind continuity: toward a unified understanding of natural and artificial intelligence</title>
-    <updated>2026-05-18T09:46:33+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c3670137#0</id>
+    <title>Nutritional composition and prebiotic activity of Musa sapientum and Musa acuminata flours in the development of a freeze-dried synbiotic</title>
+    <updated>2026-05-18T19:14:10+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Safron, M Levin, V Klimaj, Z Sheikhbahaee... - ... Transactions of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This special issue examines how natural and artificial intelligences (AIs) model the world, and what this modelling reveals about cognition and relationships between life and mind. Rather than adopting a single definition, the collection considers how ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://royalsocietypublishing.org/rsta/article-pdf/doi/10.1098/rsta.2024.0533/6138007/rsta.2024.0533.pdf"/>
-    <published>2026-05-18T09:46:33+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31f1aa9#0</id>
-    <title>PNI_qMRI_CB</title>
-    <updated>2026-05-18T09:46:35+00:00</updated>
-    <author>
-      <name>Varun Warrier</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FO Uquillas, E Sefik, J Seidlitz, ED Hertz...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; PNI_qMRI_CB | NSF Public Access Repository skip to main content US Flag An official website of the United States government Here's how you know dot gov icon Official websites use .gov A .gov website belongs to an official government organization in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
-    <link href="https://par.nsf.gov/biblio/10682432"/>
-    <published>2026-05-18T09:46:35+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c31f19aa#0</id>
-    <title>A Climate-Constrained Bayesian Inverse Method for JWST Rocky Exoplanet Eclipse Spectra: A Case Study of LTT 1445A b</title>
-    <updated>2026-05-18T09:46:36+00:00</updated>
-    <author>
-      <name>Jacob Lustig-Yaeger</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Wogan, N Batalha, J Ih, J Lustig-Yaeger... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Determining whether temperate rocky exoplanets orbiting M stars retain atmospheres is currently a central goal of exoplanet astronomy. To this end, the James Webb Space Telescope has begun searching for atmospheres on these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.14997"/>
-    <published>2026-05-18T09:46:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Jongrungruangchok, L Sueree, T Songsak... - Heliyon, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... stages and assess their potential as prebiotic substrates and cryoprotective matrices in the ... prebiotic activity score (PAS) value.ResultsResults showed that ripe M. sapientum (RABB) flour had the highest PAS value and showed higher ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2405844026005372"/>
+    <published>2026-05-18T19:14:10+00:00</published>
   </entry>
 </feed>
