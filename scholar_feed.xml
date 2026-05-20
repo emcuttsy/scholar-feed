@@ -2,129 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-19T09:42:11.811003+00:00</updated>
+  <updated>2026-05-20T16:42:38.994722+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c36701ec#0</id>
-    <title>A Motion-Dependent Gravity Model and Its Geometric Predictions in the Solar System</title>
-    <updated>2026-05-18T19:14:09+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Chen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Robustness is further confirmed by re- calibrating with Venus , Jupiter , and Saturn , which ... state, while the widespread "hot" exoplanet orbits could be attributed to larger theoretical ... a crucial factor for the evolution of life , especially complex ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.academia.edu/download/132229364/%E8%AE%BA%E6%96%87.pdf"/>
-    <published>2026-05-18T19:14:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#9</id>
-    <title>Coiled-Coil Domains Can Facilitate the Liquid-Liquid Phase Separation of Proteins</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#4</id>
+    <title>THE DENTAL RESET</title>
+    <updated>2026-05-20T12:32:58+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Ramirez&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... mechanism for concen- trating prebiotic molecules in the proverbial primordial soup [59]. It is suspected that prebiotic chemistry faced a dilution dilemma [46] where the supposed vast expanse of terrestrial water would have inhibited prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/5fe048b7ea1cf426c8e7c8a23ba2c1b9/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
-    <published>2026-05-18T19:14:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Durgam&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It provides the amino acid building blocks for periodontal collagen synthesis alongside high prebiotic fiber that feeds beneficial oral and gut bacteria, and its low glycemic index avoids the insulin-driven inflammatory cascades associated with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://drdurgam.com/uploads/The_Dental_Reset.pdf"/>
+    <published>2026-05-20T12:32:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#8</id>
-    <title>The evolution of biocatalysis: From foundational enzymology to AI-guided biocatalysis through the legacy of Antonio Ballesteros</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#3</id>
+    <title>Is honey healthier than sugar?</title>
+    <updated>2026-05-20T12:32:58+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Ferrer, P Molina-Espeja, L Fernandez-Lopez... - Biocatalysis and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Plou explicitly identified native, modified and immobilized enzymes acting on carbohydrates and the production of prebiotic additives using glycosidases and glycosyltransferases as central research lines. During this period, his group ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/pdf/10.1080/10242422.2026.2671854"/>
-    <published>2026-05-18T19:14:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OM Honey, C Classic&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... More recent research has also revealed that some Australian honeys contain prebiotic oligosaccharides. Oligosaccharides are a type of non-digestible fibre that when consumed, passes through to the lower intestine as acts as a food source for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://capilanohoney.com/learn/is-honey-healthier-than-sugar/"/>
+    <published>2026-05-20T12:32:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#7</id>
-    <title>The Central Homeorhetic Principle: Lipid-Organized Boundary Systems as Constraints on Cellular State Realization</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#2</id>
+    <title>Inulin don Amfani da Masana'antu: Fa'idodin Aiki, Amfani da Matsayin Ka'idoji</title>
+    <updated>2026-05-20T12:32:58+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Wang&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sequence information can specify molecular components, but specification is not equivalent to cellular state realization. A gene product contributes to living function only when the cell occupies a physical state in which gradients persist ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/4bb7d3f697124652c4590767e7e0bb03/download_pub"/>
-    <published>2026-05-18T19:14:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KL da Glycemic&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Lokacin neman zare na prebiotic don amfanin kasuwanci, yana da mahimmanci a san ƙayyadaddun fasaha da buƙatun doka na babban inulin foda Wannan cakuda fructans na layi an fi cire shi daga tushen chicory ta amfani da ruwan zafi da ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.bolinbiotech.com/ha/knowledge/inulin-for-industrial-use-functional-benefits-application-and-regulatory-status"/>
+    <published>2026-05-20T12:32:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#6</id>
-    <title>_8104642. html</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#1</id>
+    <title>Screening of in vitro prebiotic potentials and bioactive properties of ethanol and water extracts of four Centaurea L. species</title>
+    <updated>2026-05-20T12:32:58+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; 研究紹介...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... de/en/detail-research-news/rare-e arth-elements-of-peptides-and-the- origin - of - life ・レアアース と極めて結合しやすいペプチドレアアース元素は鉱石中の含有量が少なく, しかも互いに 化学的性質が似ているため, 大量の鉱石から手間をかけて分離する際に大量の廃鉱物や ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.jstage.jst.go.jp/article/jaesjb/68/5/68_326/_pdf"/>
-    <published>2026-05-18T19:14:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Aydın, MN Dilgen, M Koç, S Mollahaliloğlu, L Açık - Future Microbiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study evaluated the in vitro prebiotic potential of water and ethanol extracts from ... virgata exhibited the highest prebiotic activity score. Extracts significantly improved probiotic survival in ... These in vitro findings suggest that Centaurea ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.tandfonline.com/doi/full/10.1080/17460913.2026.2671626"/>
+    <published>2026-05-20T12:32:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#5</id>
-    <title>Activity, contribution, and regulation of seed pod photosynthesis</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#0</id>
+    <title>Application of pullulanase and glycosyltransferase enzyme to enhance resistant starch content in prebiotic mochi for improved glycemic response</title>
+    <updated>2026-05-20T12:32:58+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NS Manoj, DS O'Maoileidigh -Origins of Lifeand Evolution of Biospheres, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Although leaves are the primary sites of photosynthesis in most species, non-foliar organs are also photosynthetic. Non-foliar photosynthesis has been documented in a wide variety of species, however, understanding of this phenomenon has not ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/c2b1efa80ae22897f16f2dfe69c660fd/1?pq-origsite=gscholar&amp;cbl=54154"/>
-    <published>2026-05-18T19:14:10+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#4</id>
-    <title>INVESTIGATING THE POTENTIAL OF MICROBIAL BASED FORMULATIONS IN MAINTAINING ORAL HEALTH AND CONTROLLING HALITOSIS</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Ogbonnaya, EC Chukwumbah, IH Iheukwumere - UNIZIK JOURNAL OF ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It contributed to knowledge by providing evidence for probiotic- prebiotic oral supplements as sustainable alternatives to synthetic ... salivarius was reconstituted and homogenized with the probiotic strains before being blended with the prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://unilaws.org/ujervs/article/download/399/399"/>
-    <published>2026-05-18T19:14:10+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#3</id>
-    <title>Dandelion Root Benefits: The Practitioner's Guide to Liver, Gut, and Hormone Support</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RDRDF Matter&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Dandelion root's inulin content makes it a natural prebiotic . Inulin selectively feeds bifidobacteria and lactobacillus strains — the same bacterial groups most relevant to gut barrier integrity and immune regulation. Unlike chicory root inulin ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://blog.sipherbals.com/dandelion-root-benefits/"/>
-    <published>2026-05-18T19:14:10+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#2</id>
-    <title>Quantitative nonequilibrium pathway from fundamental physics to the emergence and persistence of exoplanetary biospheres</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SG Turyshev -Origins of Lifeand Evolution of Biospheres, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... As a result, we recast abiogenesis and biosphere persistence as a gate vector of falsifiable ... , biospheric; where any one fails, abiogenesis stalls or biospheres do not persist. The gates are ... → gates framework that casts abiogenesis and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/d308b79b1ea12e957494b161e2f85159/1?pq-origsite=gscholar&amp;cbl=54154"/>
-    <published>2026-05-18T19:14:10+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#1</id>
-    <title>Structural Characterization of Protocells and Confinement-Driven Evolution of Virtual Circular Genomes</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Choi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life likely required systems that could store information, maintain individuality, and evolve. Among the proposed models, RNA-containing lipid vesicles are a useful protocell ... In this work, I explore the heterogeneity of protocell ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/71ec3a4728ea0e21de09aa2f4a288b7b/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
-    <published>2026-05-18T19:14:10+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c3670137#0</id>
-    <title>Nutritional composition and prebiotic activity of Musa sapientum and Musa acuminata flours in the development of a freeze-dried synbiotic</title>
-    <updated>2026-05-18T19:14:10+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Jongrungruangchok, L Sueree, T Songsak... - Heliyon, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... stages and assess their potential as prebiotic substrates and cryoprotective matrices in the ... prebiotic activity score (PAS) value.ResultsResults showed that ripe M. sapientum (RABB) flour had the highest PAS value and showed higher ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2405844026005372"/>
-    <published>2026-05-18T19:14:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AH Nguyen, PT Nguyen, TL Tieu, A Van Nguyen... - Journal of Agriculture and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; TThe growing demand for functional foods has catalyzed the development of products enriched with resistant starch (RS) due to its well documented health benefits. This study optimized the enzymatic hydrolysis and sterilization parameters ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2666154326003571"/>
+    <published>2026-05-20T12:32:58+00:00</published>
   </entry>
 </feed>
