@@ -2,63 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-20T16:42:38.994722+00:00</updated>
+  <updated>2026-05-21T16:31:58.530246+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#4</id>
-    <title>THE DENTAL RESET</title>
-    <updated>2026-05-20T12:32:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c17e9866#0</id>
+    <title>Cognitive Warfare Through the Lens of Critical Neuroscience: Data, Theory, and Values</title>
+    <updated>2026-05-21T14:39:06+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Guilherme M. de O. Wood</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Durgam&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It provides the amino acid building blocks for periodontal collagen synthesis alongside high prebiotic fiber that feeds beneficial oral and gut bacteria, and its low glycemic index avoids the insulin-driven inflammatory cascades associated with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://drdurgam.com/uploads/The_Dental_Reset.pdf"/>
-    <published>2026-05-20T12:32:58+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#3</id>
-    <title>Is honey healthier than sugar?</title>
-    <updated>2026-05-20T12:32:58+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OM Honey, C Classic&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... More recent research has also revealed that some Australian honeys contain prebiotic oligosaccharides. Oligosaccharides are a type of non-digestible fibre that when consumed, passes through to the lower intestine as acts as a food source for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://capilanohoney.com/learn/is-honey-healthier-than-sugar/"/>
-    <published>2026-05-20T12:32:58+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#2</id>
-    <title>Inulin don Amfani da Masana'antu: Fa'idodin Aiki, Amfani da Matsayin Ka'idoji</title>
-    <updated>2026-05-20T12:32:58+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KL da Glycemic&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Lokacin neman zare na prebiotic don amfanin kasuwanci, yana da mahimmanci a san ƙayyadaddun fasaha da buƙatun doka na babban inulin foda Wannan cakuda fructans na layi an fi cire shi daga tushen chicory ta amfani da ruwan zafi da ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.bolinbiotech.com/ha/knowledge/inulin-for-industrial-use-functional-benefits-application-and-regulatory-status"/>
-    <published>2026-05-20T12:32:58+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#1</id>
-    <title>Screening of in vitro prebiotic potentials and bioactive properties of ethanol and water extracts of four Centaurea L. species</title>
-    <updated>2026-05-20T12:32:58+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Aydın, MN Dilgen, M Koç, S Mollahaliloğlu, L Açık - Future Microbiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study evaluated the in vitro prebiotic potential of water and ethanol extracts from ... virgata exhibited the highest prebiotic activity score. Extracts significantly improved probiotic survival in ... These in vitro findings suggest that Centaurea ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/full/10.1080/17460913.2026.2671626"/>
-    <published>2026-05-20T12:32:58+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c2a3ff30#0</id>
-    <title>Application of pullulanase and glycosyltransferase enzyme to enhance resistant starch content in prebiotic mochi for improved glycemic response</title>
-    <updated>2026-05-20T12:32:58+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AH Nguyen, PT Nguyen, TL Tieu, A Van Nguyen... - Journal of Agriculture and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; TThe growing demand for functional foods has catalyzed the development of products enriched with resistant starch (RS) due to its well documented health benefits. This study optimized the enzymatic hydrolysis and sterilization parameters ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2666154326003571"/>
-    <published>2026-05-20T12:32:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Wood - Neuroethics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study examines cognitive warfare through the lens of critical neuroscience and situates it within peace research as a methodological contribution. Cognitive warfare- understood as the strategic modulation of perception, belief, and decision-making ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s12152-026-09647-3"/>
+    <published>2026-05-21T14:39:06+00:00</published>
   </entry>
 </feed>
