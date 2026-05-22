@@ -2,19 +2,228 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-21T16:31:58.530246+00:00</updated>
+  <updated>2026-05-22T09:22:30.224572+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c17e9866#0</id>
-    <title>Cognitive Warfare Through the Lens of Critical Neuroscience: Data, Theory, and Values</title>
-    <updated>2026-05-21T14:39:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c1a6fdb5#3</id>
+    <title>Early Emergence of Environmental Effects: Accelerated Galaxy Assembly in az= 2.96 Protocluster in the COSMOS Field</title>
+    <updated>2026-05-21T21:02:09+00:00</updated>
     <author>
-      <name>Guilherme M. de O. Wood</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Wood - Neuroethics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study examines cognitive warfare through the lens of critical neuroscience and situates it within peace research as a methodological contribution. Cognitive warfare- understood as the strategic modulation of perception, belief, and decision-making ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s12152-026-09647-3"/>
-    <published>2026-05-21T14:39:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Li, Z Cai, Y Wu, F Yu, X Lin, J Men, X Wei -arXivpreprintarXiv:2605.15712, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The redshift range z=2-4 marks a critical transition in large scale structure formation, where the dynamically unrelaxed progenitors of local massive clusters undergo rapid stellar mass assembly. We report the discovery and physical characterization ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.15712"/>
+    <published>2026-05-21T21:02:09+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1a6fdb5#2</id>
+    <title>Primary gravitational waves at high frequencies II: Emergence of the exponential cut-off in the power spectrum</title>
+    <updated>2026-05-21T21:02:09+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Hoory, J Martin, A Paul, L Sriramkumar -arXivpreprintarXiv:2605.18286, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; [Abridged] In slow roll inflation, the power spectrum (PS) of primary gravitational waves (PGWs) generated from the quantum vacuum rises as $k^2$ over wave numbers $k$ which never leave the Hubble radius. In fact, over such small scales ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.18286"/>
+    <published>2026-05-21T21:02:09+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1a6fdb5#1</id>
+    <title>Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models and Precision Levels</title>
+    <updated>2026-05-21T21:02:09+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PK Rath, R Maliakkal -arXivpreprintarXiv:2605.15208, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Large Language Models are routinely compressed via post-training quantization to reduce inference costs and memory footprint for cloud and edge deployment, yet the impact of this compression on model quality remains poorly understood. Existing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.15208"/>
+    <published>2026-05-21T21:02:09+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1a6fdb5#0</id>
+    <title>Emergence of Cluster Formation in Light Nuclei</title>
+    <updated>2026-05-21T21:02:09+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JN Orce, MJ Jaftha -arXivpreprintarXiv:2605.17277, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Spherical harmonics form a complete orthonormal basis which allows any function on the sphere to be expanded. The nuclear shape of a given eigenstate can thus be described within Bohr's quasi-molecular model by a coordinate transformation from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.17277"/>
+    <published>2026-05-21T21:02:09+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9621#0</id>
+    <title>A multi-objective optimization framework for sustainable transitions</title>
+    <updated>2026-05-22T03:11:25+00:00</updated>
+    <author>
+      <name>stuart kauffman</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CR Hasan, LC Pinna, J Crawford, S Kauffman, R Koppl... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Achieving a just and sustainable transition requires the pursuit of multiple social and environmental targets. Two primary barriers impede this process: (1) targets are often in conflict with each other, and (2) policies aimed at these targets are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; stuart kauffman (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.16174"/>
+    <published>2026-05-22T03:11:25+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9567#2</id>
+    <title>A review of research progress in astronomical geography: Theoretical frameworks, key process analysis, and frontier development trends</title>
+    <updated>2026-05-22T03:11:27+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Zhao - Geographical Research Bulletin, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... For example, studies of ancient Martian valleys and subsurface oceans reveal potential hydrological evolution, while spectral analysis of exoplanet atmospheres enables the identification of biosignature gases. Comparative analyses of Earth-like ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.jstage.jst.go.jp/article/grb/5/0/5_459/_pdf"/>
+    <published>2026-05-22T03:11:27+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9567#1</id>
+    <title>The First Remotely Detected Biosignature May Not Be the Most Common: Implications for JWST and HWO</title>
+    <updated>2026-05-22T03:11:27+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Kopparapu - arXiv preprint arXiv:2605.16674, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... that K2 - 18b , or more broadly this class of planet, may occupy in biosignature science a role analogous to that of 51 Pegasi b in exoplanet ... The first pulsar planets, the first hot Jupiter , and the first detection of exoplanet atmospheres were all selection favored ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.16674"/>
+    <published>2026-05-22T03:11:27+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9567#0</id>
+    <title>A Hycean Interpretation of K2 - 18b Supported by Photochemical Atmospheric Compositional</title>
+    <updated>2026-05-22T03:11:27+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Fujisawa, M Shimada, T Yoshida, K Kuramoto - arXiv preprint arXiv:2605.17803, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of the sub - Neptune K2 - 18b is debated between Hycean and mini- Neptune interpretations. ... organic material, compensating a net H2 loss of ∼ 2.38 × 104 kg s−1 requires an organic ... processed organic mass would be ∼ 2.87 × 1022 kg ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.17803"/>
+    <published>2026-05-22T03:11:27+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da94cc#0</id>
+    <title>A review of research progress in astronomical geography: Theoretical frameworks, key process analysis, and frontier development trends</title>
+    <updated>2026-05-22T03:11:28+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Zhao - Geographical Research Bulletin, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of planetary habitability research Planetary habitability research aims to identify and explain environmental conditions that support life and ... (3) Opportunities in extraterrestrial environment exploration and planetary habitability assessment. With ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://www.jstage.jst.go.jp/article/grb/5/0/5_459/_pdf"/>
+    <published>2026-05-22T03:11:28+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da944b#0</id>
+    <title>Do Sudden Shocks Foster or Hamper Transitions Toward Low-Biodiversity-Impact Biomass Supply Chains?</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>Rudolf Hanel</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Roux, S Baum, R Hanel, H Haberl&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Agricultural and timber supply chains are increasingly exposed to a growing constellation of global shocks—including pandemics, armed conflicts, trade disruptions, and extreme weather events. These disturbances propagate through ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Rudolf Hanel (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/WBF2026/WBF2026-379.html"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#9</id>
+    <title>Antibacterial and Antibiofilm Activity of Pullulanase from Paenibacillus macerans Against Urinary Catheter-Associated Pathogens</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SN Muslim, NA Taher, WH Muslem, SR Khudhaier - Proceedings of the Pakistan ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... pullulanase producer and to use the purified pullulanase as prebiotic , antibacterial, and antibiofilm agent. Using ... prebiotic characteristic to enhance lactic acid bacteria growth while allegedly impeding the development of pathogens ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="http://www.ppaspk.org/index.php/PPAS-B/article/view/1708"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#8</id>
+    <title>Could life have been transferred from Mars to Earth? Laboratory and computational simulations of Martian ejecta</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GM Davis, J Horner, BD Carter, SC Marsden - arXiv preprint arXiv:2605.15595, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Summary: The study of the origin of life on Earth has been broadened due to panspermia models that suggest that early life may have been transferred between planets. Mars likely once had conditions that could support life, and it is interesting ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.15595"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#7</id>
+    <title>Effects of Banana (Musa accumulata) Peel Flour as a Dietary Prebiotic Supplement on Growth Performance and Nutrient Utilization of the African Catfish,(Clarias ...</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Yusuf, M Hassan, AI Abdullahi, UM Kolo - Nigerian Journal of Fisheries and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study evaluated the efficacy of diet supplemented with Banana (Musa accumulate) peel flour at different inclusion levels on the growth performance and nutrient utilization of African catfish (Clarias gariepinus). A total of 150 fingerlings of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="http://www.nijfaq.com.ng/index.php/ojs-nijfaq/article/view/359"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#6</id>
+    <title>The Role of the Geomagnetic Field in ATP Hydrolysis under Prebiotic Earth Conditions</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Xu, Y Shi, Y Guo, Y Zhao, S Fu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The geomagnetic field (GMF), as one of Earth's fundamental environmental physical fields, remains underexplored in terms of its potential regulatory role in prebiotic chemical processes. Investigating its influence on key chemical reactions related to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EGU26/EGU26-20833.html"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#5</id>
+    <title>The Inevitability of the Emergence of Life on Earth</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Yasukagawa - Insights Sci Technol, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Dr. Fred Hoyle argues that the possibility of life arising on Earth is extremely low and impossible. However, this study demonstrates that even if Dr. Hoyle''s claim is correct, life would still inevitably arise if branched universes exist. Furthermore, the existence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.scivisionpub.com/pdfs/the-inevitability-of-the-emergence-of-life-on-earth-4335.pdf"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#4</id>
+    <title>Quantum Chemical Prediction of Spectra for Key Prebiotic Molecules</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Krstinić, J Borovec, Z Pišonić, T Hrenar - Book of Abstracts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The search for the origins of life necessitates understanding the formation and evolution of ... , and identifying the spectral signatures of key prebiotic molecules is crucial for interpreting ... the chemical pathways that lead to the emergence of life 's ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.compchemday.org/wp-content/uploads/2026/05/CCD2026-Book_of_Abstracts.pdf#page=54"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#3</id>
+    <title>Dandelion (Taraxacum officinale) as a Prebiotic Source: Implications for Gut Microbiota, Metabolic Health, and Functional Food Development</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Khan, FH Awlqadr, A Ikram, I Ullah, MT Arshad... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review encompasses phytochemical and food composition data and new prebiotic agents from dandelions and their effect on gut ... concentration of specific purified prebiotic molecules need more critical examination, and the potential side ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://academic.oup.com/ijfst/advance-article-abstract/doi/10.1093/ijfood/vvag105/8686420"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#2</id>
+    <title>Engineering of Dietary Fibres: From Cereal Sidestreams Towards Multifunctional Prebiotic Hydrogels</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Rämgård&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The food industry is one of the largest in Sweden and through it, large side streams are being generated. One such is bran, derived from cereal grains, composed of extractable dietary fibres capable of becoming novel materials such as laccase-driven ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.diva-portal.org/smash/record.jsf?pid=diva2:2059900"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#1</id>
+    <title>Supplementation with natural prebiotic extracts modulates the intestinal bacterial community of whiteleg shrimp (Litopenaeus vannamei)</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GT Huynh, HH Vu, PQ Truong, TTC Phan - Israeli Journal of Aquaculture-Bamidgeh, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The objective of this study is to screen extracts derived from natural products as potential prebiotics and to evaluate their combine effects with probiotic bacteria, known as synbiotic, on modulating the intestinal microbiota of the whiteleg shrimp, L ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ija.scholasticahq.com/article/161777-supplementation-with-natural-prebiotic-extracts-modulates-the-intestinal-bacterial-community-of-whiteleg-shrimp-_litopenaeus-vannamei_"/>
+    <published>2026-05-22T03:11:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c1da9431#0</id>
+    <title>The Effects of a Prebiotic Formula Promoting Akkermansia muciniphila (AKK) on Gut Health: A Single-Centre, Randomised Controlled Trial</title>
+    <updated>2026-05-22T03:11:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CK Wu, IS Cheng, YC Chung, MF Liu, YK Lin, YH Lin... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic formulation used in this study, hereafter termed the AKK formula, was designed to promote the growth of A. muciniphila and ... This study aimed to evaluate the effects of this prebiotic blend on gut microbiota modulation and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13181376/"/>
+    <published>2026-05-22T03:11:30+00:00</published>
   </entry>
 </feed>
