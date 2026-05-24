@@ -2,239 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-23T08:19:57.517389+00:00</updated>
+  <updated>2026-05-24T08:28:39.761403+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0653ce1#0</id>
-    <title>Language Game: Talking to Non-Human Systems</title>
-    <updated>2026-05-22T23:58:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c0cdde68#1</id>
+    <title>Emergence of Frontier Superposition: M\" obius attractor and Cascade Supervision</title>
+    <updated>2026-05-23T16:26:32+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhang, M Levin - arXiv preprint arXiv:2605.16321, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Language carries thought and coordination among humans but rarely reaches further along the spectrum of diverse intelligence. Yet non-neural systems--from gene regulatory networks and microbial consortia to fungi--are increasingly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.16321"/>
-    <published>2026-05-22T23:58:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Gu, J Fu -arXivpreprintarXiv:2605.18820, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The thesis of the paper is the equality Möbius attractor + Cascade Supervision = emergence of superposition reasoning: the parameter-free decay law predicts final-step cosine 0.35 vs. 0.71 (end-to-end vs. cascade) at depth D=3; ... We prove emergence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.18820"/>
+    <published>2026-05-23T16:26:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0653c75#2</id>
-    <title>The Complex Brain Hypothesis: Resolving the Entropy-Content Conundrum in Minimal Phenomenal Experience</title>
-    <updated>2026-05-22T23:58:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c0cdde68#0</id>
+    <title>Emergence of a Flow-Assisted Casting Strategy for Olfactory Navigation via Memory-Augmented Reinforcement Learning</title>
+    <updated>2026-05-23T16:26:32+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Mago, E Lopez-Sola, J Vohryzek, M Lifshitz... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Minimal Phenomenal Experiences (MPEs) are states of consciousness in which wakefulness is preserved but phenomenal content is low or absent. The Entropic Brain Hypothesis (EBH) is a model of conscious processes that regards the entropy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.16146"/>
-    <published>2026-05-22T23:58:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0653c75#1</id>
-    <title>The evolutionary and organizational bases of active affordance</title>
-    <updated>2026-05-22T23:58:43+00:00</updated>
-    <author>
-      <name>Karl Friston</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Luu, DM Tucker, KJ Friston - Cerebral Cortex, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The vertebrate brain must balance internally generated predictions with constraints of environmental affordances. This balance constitutes a fundamental principle of neural organization that underwrites cortical computation. Using the prosomeric ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://academic.oup.com/cercor/article/36/5/bhag057/8687200"/>
-    <published>2026-05-22T23:58:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0653c75#0</id>
-    <title>An active inference explanation of discriminatory cognition with regard to social attitudes and harmful behaviour</title>
-    <updated>2026-05-22T23:58:43+00:00</updated>
-    <author>
-      <name>Karl Friston</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Marín Manrique, MJ Walker, KJ Friston&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper offers an active inference narrative that considers discriminatory behaviour in relation to the cognitive concept of zones of bounded surprisal (ZBS). It is argued that narrow ZBS band-widths characterise the discriminatory minds of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://zaguan.unizar.es/record/171246/files/texto_completo.pdf"/>
-    <published>2026-05-22T23:58:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0653c4c#0</id>
-    <title>A framework for evaluating biosignature potential against the abiotic baseline on ocean worlds</title>
-    <updated>2026-05-22T23:58:43+00:00</updated>
-    <author>
-      <name>Charles Cockell</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PM Higgins, W Chen, O Warr, LM Fifer, W Kang... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ocean worlds are considered as targets for life detection missions because they meet several key requirements for habitability. However, identifying potential life on other worlds requires observing clear and unambiguous biosignature signals above ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.15337"/>
-    <published>2026-05-22T23:58:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0653bca#0</id>
-    <title>How nature discovers rare Turing islands: exploration by common limit cycles</title>
-    <updated>2026-05-22T23:58:45+00:00</updated>
-    <author>
-      <name>Robert G Endres</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kim, A Matas-Gil, RG Endres - arXiv preprint arXiv:2605.15839, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Turing patterns are a cornerstone of biological self-organization, yet their emergence typically requires finely tuned parameters occupying narrow regions of high- dimensional space. This poses a fundamental challenge: how can evolving ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Robert G Endres (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.15839"/>
-    <published>2026-05-22T23:58:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0653b73#0</id>
-    <title>Probing Persona-Dependent Preferences in Language Models</title>
-    <updated>2026-05-22T23:58:47+00:00</updated>
-    <author>
-      <name>Patrick Butlin</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Gilg, P Beckmann, D Paleka, P Butlin - arXiv preprint arXiv:2605.13339, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Large language models (LLMs) can be said to have preferences: they reliably pick certain tasks and outputs over others, and preferences shaped by post-training and system prompts appear to shape much of their behaviour. But models can also adopt ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Patrick Butlin (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.13339"/>
-    <published>2026-05-22T23:58:47+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0653b28#1</id>
-    <title>High-threshold decoding of non-Pauli codes for 2D universality</title>
-    <updated>2026-05-22T23:58:48+00:00</updated>
-    <author>
-      <name>Jens Eisert</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JC Magdalena de la Fuente, N Feldman, J Eisert... - arXiv e-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Topological codes have many desirable properties that allow fault-tolerant quantum computation with relatively low overhead. A core challenge for these codes, however, is to achieve a low-overhead universal gate set with limited connectivity. In ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260402033M/abstract"/>
-    <published>2026-05-22T23:58:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0653b28#0</id>
-    <title>Strategy optimization for quantum conference key agreement in asymmetric star networks</title>
-    <updated>2026-05-22T23:58:48+00:00</updated>
-    <author>
-      <name>Jens Eisert</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Memmen, J Kunzelmann, N Walk, J Eisert... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The distribution of entangled states is a core task for quantum networks facilitating quantum communication, and the use of multipartite entangled states comes with its own set of considerations. In this work, we analyze a quantum conference agreement ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.18677"/>
-    <published>2026-05-22T23:58:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c09896db#0</id>
-    <title>Mars as an Exoplanet : Lessons from a Planet at the Edge of Habitability</title>
-    <updated>2026-05-23T07:52:21+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SR Kane, PK Byrne, S D'Angiolillo, ML Hill, EL Miles... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the maturing exoplanet census of Mars -sized and sub-Earth planets. In this paper, we outline the properties of Mars in the context of an exoplanet ... Liquid water is the essential solvent for life as we know it, and the history of its abundance on Mars is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.18949"/>
-    <published>2026-05-23T07:52:21+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c098966d#0</id>
-    <title>Elemental Stoichiometry as an Ecological Biosignature with Applications to Life Detection</title>
-    <updated>2026-05-23T07:52:23+00:00</updated>
-    <author>
-      <name>Chris Kempes</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., C Mathis, JF Malloy, LF Benites, CPKempes... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The vast chemical space of possible small molecules, estimated at 10^60 compounds for molecules composed of just C, N, O, and S, is only sparsely occupied by biology. We propose that where life selects molecules within this space ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.19252"/>
-    <published>2026-05-23T07:52:23+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#9</id>
-    <title>Stereoselective Phosphorylation of d-Ribose as a Driver of Life's Homochirality</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; VM Subbotin, G Fiksel - Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We suggest a mechanism linking the emergence of life 's homochirality to the specific ways in which an initially racemic mixture of d- and l-... in the prebiotic environment we are describing. We hope the proposed experimental tests will shed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2075-1729/16/5/846"/>
-    <published>2026-05-23T07:52:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#8</id>
-    <title>Programmed molecular self-organization directed by molecular Morse code</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Wieczorek, AA Castro, IA Rather, AL Boyle, J Dong... - Chem, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... they are also relevant to the origin of life . It is arguable that the transition from the random mixture of molecules on prebiotic earth to the very ... enzyme-like activities required to clean up the prebiotic chemical mess. While it is likely that RNA predated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cell.com/chem/fulltext/S2451-9294(26)00134-8"/>
-    <published>2026-05-23T07:52:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#7</id>
-    <title>Physicochemical and Morphological Evaluation of Sago (Metroxylon sago) Waste Following Enzymatic Hydrolysis by Xylanase</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Istiqomah - The 3rd International Seminar on Tropical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Converting xylan into xylooligosaccharides (XOs), a high-value prebiotic , is the main focus for optimizing the use of this waste. This study aims to ... that endo-b-1,4-D-xylanase effectively depolymerizes sago xylan into XOs, which has potential for industrial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://conference.ipb.ac.id/isotobat/article/view/4085"/>
-    <published>2026-05-23T07:52:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#6</id>
-    <title>DB-FEP Forensic Audit of Kokić (2018)</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mason&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Principal finding: Kokić's paper supports a distinction between the plausibility of prebiotic components and the causal sufficiency for the origin of life . The field has demonstrated partial chemical relevance. It has not demonstrated a complete causal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Charles-Mason-Jr/publication/404981011_DB-FEP_Forensic_Audit_of_Kokic_2018/links/6a0bb52c9d7cce6f5c7589ee/DB-FEP-Forensic-Audit-of-Kokic-2018.pdf"/>
-    <published>2026-05-23T07:52:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#5</id>
-    <title>The Cosmic Blueprint of Life: Redefining the Origin of Life as a Rendered Manifestation of the Cosmic Program Engineered by Primordial Binary Code</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ray&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Existing biochemical frameworks, including the RNA World Hypothesis, largely rely on stochastic ... This paper details the exact physical and computational mechanics that bias prebiotic ... To mathematically formalize the emergence of life ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Sumeru-Ray/publication/404949366_The_Cosmic_Blueprint_of_Life_Redefining_the_Origin_of_Life_as_a_Rendered_Manifestation_of_the_Cosmic_Program_Engineered_by_Primordial_Binary_Code/links/6a0b3e78e48e8125fa3919b3/The-Cosmic-Blueprint-of-Life-Redefining-the-Origin-of-Life-as-a-Rendered-Manifestation-of-the-Cosmic-Program-Engineered-by-Primordial-Binary-Code.pdf"/>
-    <published>2026-05-23T07:52:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#4</id>
-    <title>Energy Confinement Theory: Thermodynamic Mechanism of Chiral Selection and a New Hypothesis for the Origin of Life</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Heng, H Chen, B Zhuang, Y Zeng, Y Mo, G Chen...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The long-standing puzzles of chiral selection and the origin of life stem from the failure of classical chemical thermodynamics to achieve intrinsic unification with mass–energy conservation. Based on the law of energy conservation, Einstein's ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://langtaosha.org.cn/lts/en/preprint/view/233"/>
-    <published>2026-05-23T07:52:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#3</id>
-    <title>Membrane Information Organization at the Origin of Life : From Interfaces to Informational Bodies</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SKS Rafiei, MA Anar - BioSystems, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractMembranes are usually treated as passive containers in origin - of - life models, confining prebiotic chemistry, buffering diffusion, and sustaining gradients. Here, we argue that early membranes provided the physical substrate for candidate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726001401"/>
-    <published>2026-05-23T07:52:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#2</id>
-    <title>Prebiotic potentials of plant-based foods: modulation of gut microbiota, short-chain fatty acid production, and functional health outcomes</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EO Abolarinwa, TAA Edzili, AN Abubakar... - Nutrire, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This scoping review examines the prebiotic potential of plant-based foods and plant-derived ... Polyphenols exert additional prebiotic -like effects through microbial biotransformation, ... The review highlights that plant-based foods function as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s41110-026-00464-5"/>
-    <published>2026-05-23T07:52:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#1</id>
-    <title>Prebiotic magnetite enables chirality-magnetic surface feedback</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JAPM Devienne, Z Liu, CZ Jiang, NJ Tosca, T Ginnis... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... plausible formation pathways of magnetite under the prebiotic conditions of early Earth and to ... (Figure 1), where selective prebiotic chemistry can generate chiral molecules with high yields... In this work, we study two plausible prebiotic magnetite ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.19387"/>
-    <published>2026-05-23T07:52:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0989621#0</id>
-    <title>A Unified Local-to-Global Microbiome Framework for Interpretable Health Assessment across Disease States and Prebiotic Interventions</title>
-    <updated>2026-05-23T07:52:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Zhou, Z Yang, W Lu, J Zhao, H Zhang, W Chen... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractMachine learning holds promise for health prediction and food nutrition evaluation via gut metagenomics, yet most models lack interpretability and causal insight. Herein, we present a unified analytical framework that integrates microbial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226008965"/>
-    <published>2026-05-23T07:52:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Zhao, D Zhao, X Bian, G Li -arXivpreprintarXiv:2605.18881, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. ... arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/abs/2605.18881"/>
+    <published>2026-05-23T16:26:32+00:00</published>
   </entry>
 </feed>
