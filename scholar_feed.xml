@@ -2,30 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-24T08:28:39.761403+00:00</updated>
+  <updated>2026-05-24T14:54:33.444203+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0cdde68#1</id>
-    <title>Emergence of Frontier Superposition: M\" obius attractor and Cascade Supervision</title>
-    <updated>2026-05-23T16:26:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c7138b32#0</id>
+    <title>Flight in the dark: different responses to darkness in flying insects</title>
+    <updated>2026-05-24T09:57:35+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Orit Peleg</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Gu, J Fu -arXivpreprintarXiv:2605.18820, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The thesis of the paper is the equality Möbius attractor + Cascade Supervision = emergence of superposition reasoning: the parameter-free decay law predicts final-step cosine 0.35 vs. 0.71 (end-to-end vs. cascade) at depth D=3; ... We prove emergence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.18820"/>
-    <published>2026-05-23T16:26:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Maya, N Lerner, B Karov, N Tsory, RC Terrile... - Journal of Experimental ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Vision-based stabilization is crucial for flying animals, and among these, flying insects provide a range of experimental systems for studying vision-related locomotion resilience and sensory integration; for example, under low-light ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Orit Peleg (author alert)</content>
+    <link href="https://journals.biologists.com/jeb/article/229/10/jeb251675/371763"/>
+    <published>2026-05-24T09:57:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c0cdde68#0</id>
-    <title>Emergence of a Flow-Assisted Casting Strategy for Olfactory Navigation via Memory-Augmented Reinforcement Learning</title>
-    <updated>2026-05-23T16:26:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c7138ab8#1</id>
+    <title>Maximizing Room-Temperature Red Phosphorescence in Contorted Hexabenzocoronene Derivatives</title>
+    <updated>2026-05-24T09:57:36+00:00</updated>
+    <author>
+      <name>Gregory Scholes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MR Ivancevic, MD Ogbaje, JA Wisch, DG Oblinsky... - Chemistry of Materials, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Organic molecules exhibiting second-scale room-temperature phosphorescence (RTP) in the red/near-infrared are particularly rare because low-energy excited states that are characteristic of these chromophores are susceptible to nonradiative ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6c00904"/>
+    <published>2026-05-24T09:57:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c7138ab8#0</id>
+    <title>Mechanism of wavefunction collapse in measurements of separated quantum subsystems</title>
+    <updated>2026-05-24T09:57:36+00:00</updated>
+    <author>
+      <name>Gregory Scholes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Scholes - arXiv preprint arXiv:2605.20111, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The specific advance of this work is to propose a mechanism by which superpositions collapse during measurement of the separated subsystems of entangled quantum states. It is shown how the phase that locks together entangled ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.20111"/>
+    <published>2026-05-24T09:57:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c7138a36#0</id>
+    <title>On the Conflation of Consciousness and Cognitive Complexity</title>
+    <updated>2026-05-24T09:57:37+00:00</updated>
+    <author>
+      <name>Michael Levin</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Schleisman, M Levin - Proceedings of the AAAI Symposium Series, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The goal of detecting, measuring, and engineering machine consciousness depends on making explicit key metaphysical assumptions about the nature of consciousness that may be lying dormant in the minds of AI researchers. In this position paper, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
+    <link href="https://ojs.aaai.org/index.php/AAAI-SS/article/download/42566/50126"/>
+    <published>2026-05-24T09:57:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c71389d9#1</id>
+    <title>Elemental Stoichiometry as an Ecological Biosignature with Applications to Life Detection</title>
+    <updated>2026-05-24T09:57:39+00:00</updated>
+    <author>
+      <name>Sara Imari Walker</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PC Vergeli, C Mathis, JF Malloy, LF Benites... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The vast chemical space of possible small molecules, estimated at 10^ 60 compounds for molecules composed of just C, N, O, and S, is only sparsely occupied by biology. We propose that where life selects molecules within this space ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sara Imari Walker (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.19252"/>
+    <published>2026-05-24T09:57:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c71389d9#0</id>
+    <title>Deep-time consistency in proteome elemental composition across cellular and viral life</title>
+    <updated>2026-05-24T09:57:39+00:00</updated>
+    <author>
+      <name>Sara Imari Walker</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LF Benites, L Slocombe, SI Walker - arXiv preprint arXiv:2605.19333, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Proteins are constructed from a limited alphabet of~ 20 amino acids, yet the origins and selection of this specific alphabet are unresolved. One largely overlooked aspect is whether elemental composition constrains the range of viable proteomes. Here ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sara Imari Walker (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.19333"/>
+    <published>2026-05-24T09:57:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c71389c4#0</id>
+    <title>Scalably learning one-dimensional quantum many-body Hamiltonians from dynamical data</title>
+    <updated>2026-05-24T09:57:39+00:00</updated>
+    <author>
+      <name>Jens Eisert</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Frederik, A Kshetrimayum, I Roth, D Hangleiter... - Quantum Science and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The physics of a closed quantum mechanical system is governed by its Hamiltonian. However, in most practical situations, this Hamiltonian is not precisely known, and ultimately all there is are data obtained from measurements on the system. In this ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.1088/2058-9565/ae6fe3/pdf"/>
+    <published>2026-05-24T09:57:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c724913d#2</id>
+    <title>A simple model of co- emergence of grid and place fields</title>
+    <updated>2026-05-24T13:54:08+00:00</updated>
     <author>
       <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Zhao, D Zhao, X Bian, G Li -arXivpreprintarXiv:2605.18881, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. ... arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/abs/2605.18881"/>
-    <published>2026-05-23T16:26:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Wang, G Morris, D Derdikman, P Chaudhari... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Current computational accounts either derive one type from the other or use network dynamics to model the emergence of one type in ... Our results suggest a circuit-level account of the co- emergence of grid and place cells, and experimentally ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.21356"/>
+    <published>2026-05-24T13:54:08+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c724913d#1</id>
+    <title>Tracing the ongoing emergence of human-like reasoning in Large Language Models</title>
+    <updated>2026-05-24T13:54:08+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Morosi, N Pantelidou, F Günther, E Pagliarini... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Humans effortlessly go beyond literal meanings: If you mow the lawn, I will give you fifty dollars, is typically understood as implying that the speaker will pay only if the lawn is mowed, whereas If you are hungry, there is pizza in the oven implies that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.21299"/>
+    <published>2026-05-24T13:54:08+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c724913d#0</id>
+    <title>Emergence of agriculture in an artificial society of reinforcement learning agents</title>
+    <updated>2026-05-24T13:54:08+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Hamon, M Sánchez-Fibla, C Moulin-Frier, R Solé -arXivpreprintarXiv:2605.22256, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of agriculture represents a major evolutionary transition and a paradigmatic example of how complex collective behaviors emerge from simple interactions. Here we introduce an artificial society of reinforcement learning agents ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.22256"/>
+    <published>2026-05-24T13:54:08+00:00</published>
   </entry>
 </feed>
