@@ -2,118 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-24T14:54:33.444203+00:00</updated>
+  <updated>2026-05-25T10:06:07.088615+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7138b32#0</id>
-    <title>Flight in the dark: different responses to darkness in flying insects</title>
-    <updated>2026-05-24T09:57:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a8c8#0</id>
+    <title>The Search for Technosignatures : a Review of Possibilities</title>
+    <updated>2026-05-24T21:53:31+00:00</updated>
     <author>
-      <name>Orit Peleg</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Maya, N Lerner, B Karov, N Tsory, RC Terrile... - Journal of Experimental ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Vision-based stabilization is crucial for flying animals, and among these, flying insects provide a range of experimental systems for studying vision-related locomotion resilience and sensory integration; for example, under low-light ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Orit Peleg (author alert)</content>
-    <link href="https://journals.biologists.com/jeb/article/229/10/jeb251675/371763"/>
-    <published>2026-05-24T09:57:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Vidal, BL Fields, DR Sowinski, M Elowitz, S Bartlett... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to find extraterrestrial life , so we have to design searches to also benefit other sciences at the same time. As Drake (1965) put it, "any project ... , such as transit photometry, radial velocity, and direct imaging have paved the way for the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.21093"/>
+    <published>2026-05-24T21:53:31+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7138ab8#1</id>
-    <title>Maximizing Room-Temperature Red Phosphorescence in Contorted Hexabenzocoronene Derivatives</title>
-    <updated>2026-05-24T09:57:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a81d#0</id>
+    <title>The Dark World</title>
+    <updated>2026-05-24T21:53:32+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>JL bean</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MR Ivancevic, MD Ogbaje, JA Wisch, DG Oblinsky... - Chemistry of Materials, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Organic molecules exhibiting second-scale room-temperature phosphorescence (RTP) in the red/near-infrared are particularly rare because low-energy excited states that are characteristic of these chromophores are susceptible to nonradiative ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6c00904"/>
-    <published>2026-05-24T09:57:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., KB Stevenson, NK Lewis, T Kataria,JL Bean...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Optical, reflected light eclipse observations provide a direct probe of the exoplanet scattering properties, such as from aerosols. We present here the photometric, reflected light observations of WASP-43b using the HST WFC3/UVIS instrument with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://pure.uva.nl/ws/files/68148095/2103.16676"/>
+    <published>2026-05-24T21:53:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7138ab8#0</id>
-    <title>Mechanism of wavefunction collapse in measurements of separated quantum subsystems</title>
-    <updated>2026-05-24T09:57:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a7b4#1</id>
+    <title>The Search for Technosignatures: a Review of Possibilities</title>
+    <updated>2026-05-24T21:53:33+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Scholes - arXiv preprint arXiv:2605.20111, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The specific advance of this work is to propose a mechanism by which superpositions collapse during measurement of the separated subsystems of entangled quantum states. It is shown how the phase that locks together entangled ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.20111"/>
-    <published>2026-05-24T09:57:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Vidal, BL Fields, DR Sowinski, M Elowitz, S Bartlett... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Historically, Percival Lowell thought he saw canals on Mars constructed by "Martians", or a spider web on Venus , another typical example ... exoplanet 's light from the glare of its host star. The JWST and two future space-based telescopes, HWO and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.21093"/>
+    <published>2026-05-24T21:53:33+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7138a36#0</id>
-    <title>On the Conflation of Consciousness and Cognitive Complexity</title>
-    <updated>2026-05-24T09:57:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a7b4#0</id>
+    <title>A Linked-Succession Model for Early Solar System History: Implications for the Development of Life Forms on Planets Venus and Earth</title>
+    <updated>2026-05-24T21:53:33+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Schleisman, M Levin - Proceedings of the AAAI Symposium Series, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The goal of detecting, measuring, and engineering machine consciousness depends on making explicit key metaphysical assumptions about the nature of consciousness that may be lying dormant in the minds of AI researchers. In this position paper, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://ojs.aaai.org/index.php/AAAI-SS/article/download/42566/50126"/>
-    <published>2026-05-24T09:57:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RJ Malcuit&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It may also lead to the solution of many other problems associated with Earth-Moon system evolution as well as the evolution of our sister planet, Venus , to its present condition as a terrestrial planet . This is the reason for including three additional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=PD7bEQAAQBAJ&amp;oi=fnd&amp;pg=PR5&amp;dq=(~biosignature%7Clife%7Calien%7Corganic)+(Mars%7CVenus%7CEuropa%7CEnceladus%7CTitan%7C%22icy+moon%22%7CJupiter%7CSaturn%7CNeptune%7CPluto%7CAsteroid%7CComet+~exoplanet%7C%22super+Earth%22%7C%22sub+Neptune%22%7C%22rocky+world%22%7C%22terrestrial+planet%22%7CTRAPPIST%7CK2-18b%7CProxima)&amp;ots=yddkMNOJSr&amp;sig=SK254Z4rDez408rpfPT9I8NkntA"/>
+    <published>2026-05-24T21:53:33+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c71389d9#1</id>
-    <title>Elemental Stoichiometry as an Ecological Biosignature with Applications to Life Detection</title>
-    <updated>2026-05-24T09:57:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#9</id>
+    <title>Diastereomeric Configuration Modulates Liquid–Liquid Phase Separation and Catalysis in Minimalist Dipeptide Coacervates</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
     <author>
-      <name>Sara Imari Walker</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PC Vergeli, C Mathis, JF Malloy, LF Benites... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The vast chemical space of possible small molecules, estimated at 10^ 60 compounds for molecules composed of just C, N, O, and S, is only sparsely occupied by biology. We propose that where life selects molecules within this space ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sara Imari Walker (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.19252"/>
-    <published>2026-05-24T09:57:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Peng, X Zhang, XL Shi, M Yu, S Cao, N Gao - Angewandte Chemie, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our aim is not to explain the origin of biomolecular chirality, but rather to show that, in a prebiotic context, the chirality of small molecules can direct the emergence of protocell -like compartments. In this regard, the present study establishes chirality-modulated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.9390195"/>
+    <published>2026-05-24T21:53:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c71389d9#0</id>
-    <title>Deep-time consistency in proteome elemental composition across cellular and viral life</title>
-    <updated>2026-05-24T09:57:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#8</id>
+    <title>Abstract 2137 Reconstructing flavodoxin with only early amino acids</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
     <author>
-      <name>Sara Imari Walker</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LF Benites, L Slocombe, SI Walker - arXiv preprint arXiv:2605.19333, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Proteins are constructed from a limited alphabet of~ 20 amino acids, yet the origins and selection of this specific alphabet are unresolved. One largely overlooked aspect is whether elemental composition constrains the range of viable proteomes. Here ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sara Imari Walker (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.19333"/>
-    <published>2026-05-24T09:57:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Khin, M Walker, A Able, A Shino, K Diaz, B Stockman - Journal of Biological ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to ProteinMPNN to design prebiotic sequences built exclusively from the ten early amino acids thought to be available on the prebiotic Earth. Each ... sequences, as well as to select a panel of very diverse prebiotic sequences, for experimental testing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.jbc.org/article/S0021-9258(26)00704-0/fulltext"/>
+    <published>2026-05-24T21:53:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c71389c4#0</id>
-    <title>Scalably learning one-dimensional quantum many-body Hamiltonians from dynamical data</title>
-    <updated>2026-05-24T09:57:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#7</id>
+    <title>Peptide-Metal Cation Coacervate Microdroplets as Membrane-free Protocells with Enhanced Light-Induced Catalysis</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Frederik, A Kshetrimayum, I Roth, D Hangleiter... - Quantum Science and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The physics of a closed quantum mechanical system is governed by its Hamiltonian. However, in most practical situations, this Hamiltonian is not precisely known, and ultimately all there is are data obtained from measurements on the system. In this ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.1088/2058-9565/ae6fe3/pdf"/>
-    <published>2026-05-24T09:57:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Wei, L Xiao, J Li, Y Huang, Z Zhang, Y Zhou, Y Li... - Small (Weinheim an der ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... as artificial life-like systems in protocell research, providing valuable insights into the origin of life . However, considering that inorganic ... ions played a significant role in prebiotic compartmentalization. In this study, we present a novel coacervate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42165167/"/>
+    <published>2026-05-24T21:53:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c724913d#2</id>
-    <title>A simple model of co- emergence of grid and place fields</title>
-    <updated>2026-05-24T13:54:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#6</id>
+    <title>Covering all the bases on Ryugu: Small bodies</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Wang, G Morris, D Derdikman, P Chaudhari... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Current computational accounts either derive one type from the other or use network dynamics to model the emergence of one type in ... Our results suggest a circuit-level account of the co- emergence of grid and place cells, and experimentally ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.21356"/>
-    <published>2026-05-24T13:54:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Mojarro - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Advances in origins - of - life research and prebiotic chemistry suggest that life as we know it may have emerged from an earlier ' RNA world ' 1 in which polymers of RNA acted as enzymes or proteins and stored genetic information as DNA does now ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41550-026-02861-2"/>
+    <published>2026-05-24T21:53:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c724913d#1</id>
-    <title>Tracing the ongoing emergence of human-like reasoning in Large Language Models</title>
-    <updated>2026-05-24T13:54:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#5</id>
+    <title>Protobiosignatures in the framework of early life detection</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Morosi, N Pantelidou, F Günther, E Pagliarini... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Humans effortlessly go beyond literal meanings: If you mow the lawn, I will give you fifty dollars, is typically understood as implying that the speaker will pay only if the lawn is mowed, whereas If you are hungry, there is pizza in the oven implies that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.21299"/>
-    <published>2026-05-24T13:54:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SF Jordan - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Given that several promising targets for life detection missions may host prebiotic structures but not actual biology, it is essential that we develop methods for protobiosignature detection to enable us to correctly identify and interpret ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41550-026-02867-w"/>
+    <published>2026-05-24T21:53:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c724913d#0</id>
-    <title>Emergence of agriculture in an artificial society of reinforcement learning agents</title>
-    <updated>2026-05-24T13:54:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#4</id>
+    <title>Abstract 2265 Searching for protein origins in the structural distribution of prebiotic amino acids in the Protein Data Bank</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Hamon, M Sánchez-Fibla, C Moulin-Frier, R Solé -arXivpreprintarXiv:2605.22256, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of agriculture represents a major evolutionary transition and a paradigmatic example of how complex collective behaviors emerge from simple interactions. Here we introduce an artificial society of reinforcement learning agents ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.22256"/>
-    <published>2026-05-24T13:54:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Peakes, B Stockman - Journal of Biological Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... ten prebiotic amino ... prebiotic protein origins might be embedded in the structural distribution of prebiotic amino acids in extant proteins. In order to explore this hypothesis, computational tools are being used to mine the Protein Data Bank to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.jbc.org/article/S0021-9258(26)00710-6/fulltext"/>
+    <published>2026-05-24T21:53:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#3</id>
+    <title>Abstract 2130 Designing ferredoxins composed of only prebiotic amino acids</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TTH Thi, K Boktor, M Rigor, S Greene, B Stockman - Journal of Biological Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Alkaline hydrothermal vents have long been proposed as a cradle for the origin of cellular life because they provide continuous chemical gradients and catalytic mineral surfaces capable of promoting redox reactions. These environments could ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.jbc.org/article/S0021-9258(26)00703-9/fulltext"/>
+    <published>2026-05-24T21:53:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#2</id>
+    <title>Pyrite interference in prebiotic chiral selection of amino acids</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Li, Q Deng, L Han, Y Duan, T Ouyang, M Wei, Y Fang - Chiral Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Here, we propose that minerals in the prebiotic environment might have hindered the absolute selection of L-amino acids to induce a ... evidence to assess the validity of prebiotic chiral selection scenarios for biomolecules, an important step in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciexplor.com/cc/articles/cc.2026.0021"/>
+    <published>2026-05-24T21:53:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#1</id>
+    <title>Effect of prebiotic intervention on glycemic control and gut microbiome profile in Indian children with type 1 diabetes mellitus (T1DM): a pilot randomised control trial</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Tamahane, N Shah, N Kajale, A Khadilkar... - Endocrine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Sixty-one participants (32 prebiotic , 29 placebo) completed the study with a mean compliance of 80%. Baseline characteristics and HbA1c ... observed after intervention ( prebiotic 9.8±1.4% vs. placebo 10.6±2.5%; p&gt; 0.05). However, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s12020-026-04657-w"/>
+    <published>2026-05-24T21:53:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c752a73a#0</id>
+    <title>A comparative evaluation of new prebiotic candidates. Part 1: Chemical and structural characterization, digestibility, and in vitro fermentation using faecal inoculum ...</title>
+    <updated>2026-05-24T21:53:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Martínez-Gómez, J Sousa, A Cordeiro, SG Barbosa... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractDespite growing interest in new oligosaccharides from agro-industrial wastes as sustainable alternatives to commercial prebiotics, comparative studies linking their structure to the fermentation behaviour and microbiota modulation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926011762"/>
+    <published>2026-05-24T21:53:35+00:00</published>
   </entry>
 </feed>
