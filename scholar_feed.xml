@@ -2,195 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-26T09:56:18.526305+00:00</updated>
+  <updated>2026-05-27T09:49:24.954791+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7dd5ccc#0</id>
-    <title>Fourier modal method for gratings with chiral, nonreciprocal and bianisotropic materials</title>
-    <updated>2026-05-25T17:20:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c6d21cbd#0</id>
+    <title>Closing the Loop Between BEECLUST and Honeybee Thermotaxis</title>
+    <updated>2026-05-27T07:19:23+00:00</updated>
     <author>
-      <name>Thomas Weiss</name>
+      <name>Thomas Schmickl</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Smagin, T Weiss, S Dyakov&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We report an advanced formulation of the Fourier modal method developed for two- dimensionally periodic multilayered structures containing materials with non-zero macroscopic magneto-electric coefficients (also known as coefficients of chirality and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Thomas Weiss (author alert)</content>
-    <link href="https://link.aps.org/doi/10.1103/vk22-qhrk"/>
-    <published>2026-05-25T17:20:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Reichenpfader, J Diebold, DN Hofstadler... - Swarm Intelligence: 15th ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Swarm intelligence describes collective problem-solving that emerges from adaptive group behavior and decentralized control. This concept has led to a variety of bio- inspired optimization algorithms, many of which require further systematic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Thomas Schmickl (author alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=eXrbEQAAQBAJ&amp;oi=fnd&amp;pg=PA69&amp;ots=EUcV_aWf0F&amp;sig=oNI5dnjWDCTA1IcdtyfpDjRQA_0"/>
+    <published>2026-05-27T07:19:23+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7d5f4fb#0</id>
-    <title>Evidence of Radius Inflation Based on 50 Transiting Brown Dwarfs and Low-mass Stellar Companions</title>
-    <updated>2026-05-25T18:25:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c6d6c2ab#0</id>
+    <title>The Search for Technosignatures: a Review of Possibilities</title>
+    <updated>2026-05-27T07:44:47+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>Stuart Bartlett</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Mehrotra, CC Hsu, JJ Wang, CA Theissen... - Research Notes of the AAS, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Statistical assessment of stellar parameters enables validation and improvements in theoretical models. We compiled a sample of 85 transiting stellar and substellar companions, with masses ranging from∼ 13 to 100 M Jup. We focus on analyzing 50 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/2515-5172/ae7043"/>
-    <published>2026-05-25T18:25:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Vidal, BL Fields, DR Sowinski, M Elowitz, S Bartlett... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper aims to review the diverse range of technosignatures that have been proposed in the literature. We organize the review by scales, starting carefully from Earth, then zooming out to Earth's orbit, the solar system, including the Moon, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stuart Bartlett (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.21093"/>
+    <published>2026-05-27T07:44:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7d5f478#0</id>
-    <title>Measuring reading and language skill in generation Scotland: Scottish Family Health Study</title>
-    <updated>2026-05-25T18:25:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c6d6c1d1#0</id>
+    <title>PURE makes PURE: reconstitution of the PURE cell-free system from self-synthesized proteins</title>
+    <updated>2026-05-27T07:44:49+00:00</updated>
     <author>
-      <name>Michelle Luciano</name>
+      <name>Sebastian J. Maerkl</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HS Mountford, A Campbell, R Marioni, TC Bates... - BMJ Public Health, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction Successful acquisition of language and literacy skills is essential to child development and is associated with positive socioeconomic and well-being outcomes later in life. Research into communication skills has primarily focused on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michelle Luciano (author alert)</content>
-    <link href="https://bmjpublichealth.bmj.com/content/4/2/e004427"/>
-    <published>2026-05-25T18:25:35+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7d5f44e#0</id>
-    <title>Measuring reading and language skill in generation Scotland: Scottish Family Health Study</title>
-    <updated>2026-05-25T18:25:36+00:00</updated>
-    <author>
-      <name>Timothy C. Bates</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HS Mountford, A Campbell, R Marioni, TC Bates... - BMJ Public Health, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction Successful acquisition of language and literacy skills is essential to child development and is associated with positive socioeconomic and well-being outcomes later in life. Research into communication skills has primarily focused on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy C. Bates (author alert)</content>
-    <link href="https://bmjpublichealth.bmj.com/content/4/2/e004427"/>
-    <published>2026-05-25T18:25:36+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7d5f39c#0</id>
-    <title>Leonardo Barzon 1✉ Phone+ 39 049 827 7640 Email leonardo. barzon. 1@ phd. unipd. it Lucia Maccioni 1 Michelle Carranza Mellana 2 Julia J. Schubert 3</title>
-    <updated>2026-05-25T18:25:37+00:00</updated>
-    <author>
-      <name>Federico Turkheimer</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Brusaferri, O Cousins, I Rosenzweig, Y Mizuno...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neuroinflammation is a hallmark of numerous neurodegenerative, psychiatric, and chronic pain disorders and can be assessed in vivo with 18 kDa translocator protein (TSPO) positron emission tomography (PET). However, conventional quantification ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
-    <link href="https://assets-eu.researchsquare.com/files/rs-7887022/v1/b08ef98c7b472dee15b82920.html"/>
-    <published>2026-05-25T18:25:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7d5f37e#0</id>
-    <title>Emergence of agriculture in an artificial society of reinforcement learning agents</title>
-    <updated>2026-05-25T18:25:38+00:00</updated>
-    <author>
-      <name>Ricard Solé</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Hamon, M Sánchez-Fibla, C Moulin-Frier, R Solé - arXiv preprint arXiv:2605.22256, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of agriculture represents a major evolutionary transition and a paradigmatic example of how complex collective behaviors emerge from simple interactions. Here we introduce an artificial society of reinforcement learning agents ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Ricard Solé (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.22256"/>
-    <published>2026-05-25T18:25:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c7d5f36f#0</id>
-    <title>Ultraviolet-Driven Self-Repair in Chimeric d (GAUU) Outcompetes Damage Formation</title>
-    <updated>2026-05-25T18:25:38+00:00</updated>
-    <author>
-      <name>Jack W. Szostak</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Crucilla, J Zeng, D Ding, Y Xing, DD Sasselov... - Chemical Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The stability of nucleic acids under intense ultraviolet (UV) irradiation was key to the persistence of life on Earth. Among the canonical nucleobases, pyrimidines are most susceptible to UV photodamage, yielding cyclobutane pyrimidine dimers (CPDs) that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jack W. Szostak (author alert)</content>
-    <link href="https://pubs.rsc.org/en/content/articlelanding/2026/cc/d6cc01508e"/>
-    <published>2026-05-25T18:25:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#9</id>
-    <title>Control of RNA Metabolism by Nitric Oxide</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JC Schindler&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In Chapters 2 and 3, I review literature and key topics in the fields of RNA and NO biology with a focus on the interplay between the two dating back to prebiotic chemical evolution. Chapter 4 presents data demonstrating the widespread ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://rave.ohiolink.edu/etdc/view?acc_num=case1774871666247839"/>
-    <published>2026-05-26T01:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#8</id>
-    <title>Pediococcus species in plant-based beverage fermentation: A review</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Frediansyah - Trends in Food Science &amp; Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiotic fortification and cell immobilization maintain viability at greater than 6 Log CFU/mL for eight weeks. However, the absence of randomized controlled trials is a major obstacle to the commercial translation of Pediococcus-fermented ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0924224426003055"/>
-    <published>2026-05-26T01:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#7</id>
-    <title>Are Gradients Sufficient for Life?</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Rojas&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper argues that gradients constitute the primordial ontological condition for the emergence of life , providing the first structure capable of sustaining interiority, agency, and temporal identity. While biology universally acknowledges gradients as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philpapers.org/rec/ROJAGS"/>
-    <published>2026-05-26T01:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#6</id>
-    <title>Evaluation of lactulose synthesis using immobilized β-galactosidase in different reactor configurations</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CC de Sousa, AC da Rocha, EJ Ribeiro, LN Soares... - Bioprocess and Biosystems ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In the human body, it functions as a prebiotic , promoting the growth of beneficial bacteria, such as bifidobacteria and lactobacilli, in the ... of the enzymatic process for lactulose synthesis and provide valuable insights for future studies on the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00449-026-03349-z"/>
-    <published>2026-05-26T01:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#5</id>
-    <title>Gradients as the First Symbol: Biological Time and the Origin of Meaning</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Rojas&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... From origin - of - life science, it draws particularly on the alkaline hydrothermal vent hypothesis developed by Michael J. Russell and Allan ... The argument of this paper has been developed primarily at the level of prebiotic chemistry and early cellular ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philpapers.org/archive/ROJGAT.pdf"/>
-    <published>2026-05-26T01:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#4</id>
-    <title>Defense and Immune Systems Evolving from Co-opted Selfish Genetic Elements-From the Origin of Life to the Present</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Broecker - Integrative Theory of Evolution-Aspects and Insights, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in prebiotic protocells gave rise to complex innate and adaptive immune systems through co-option of viral and transposon machineries. I trace this trajectory from the ancient RNA world ... The schematic traces immune evolution from RNA - world ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=OXrbEQAAQBAJ&amp;oi=fnd&amp;pg=PA223&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=fRl1p4psrV&amp;sig=D8tmViEPjLarscZABVCGn-36eyA"/>
-    <published>2026-05-26T01:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#3</id>
-    <title>Investigations of Cofactor Structure and Function at the Origins of Life</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AWM Cummins&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... could conceivably have existed in a " prebiotic " scenario and contributed to the development ... Various cofactors' prebiotic syntheses have been proposed but their reactivity in a prebiotic ... Additionally, work towards a prebiotic synthesis of vitamin ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://discovery.ucl.ac.uk/id/eprint/10223910/"/>
-    <published>2026-05-26T01:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#2</id>
-    <title>The Efficacy of Probiotic, Prebiotic and Synbiotic Interventions on Assisted Reproductive Technology (ART) Outcomes: A Systematic Review</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Arjmand, A Janzadeh, JS Mirsanei, Z Abroodi... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Assisted Reproductive Technologies (ART) have revolutionized reproductive medicine, yet success rates remain variable and are often limited by factors such as embryo quality, endometrial receptivity, and systemic metabolic–immune ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.ijfs.ir/article_735202.html"/>
-    <published>2026-05-26T01:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#1</id>
-    <title>Novel Valorization of Fully Ripe Mangoes: A Dual Approach to Produce Prebiotic Short‐Chain Fructooligosaccharide–Enriched Products Through Enzymatic ...</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Changin, W Buasum, S Chaijamrus... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Short‐chain fructooligosaccharides (sc‐FOS) are prebiotics with significant health benefits and potential as low‐calorie sweeteners. This study employed a dual strategy to valorize unmarketable, fully ripe "Nam Dok Mai" mangoes—commonly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13195294/"/>
-    <published>2026-05-26T01:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c60f1992#0</id>
-    <title>Development of a Synbiotic Potential Score (SPS) as a Quantitative Approach for Selecting Putative Synergistic Strain- Prebiotic Candidates</title>
-    <updated>2026-05-26T01:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LA Wasiewska, L Kareem, AG Linares, E Gunnigle... - Journal of Applied ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In 519 this study, we developed and applied the Synergistic Prebiotic Score (SPS) as a 520 quantitative approach to assess strain-specific prebiotic utilisation. Unlike the 521 traditional Prebiotic Activity Score (PAS), SPS incorporates full growth-curve ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://academic.oup.com/jambio/advance-article-pdf/doi/10.1093/jambio/lxag124/68368960/lxag124.pdf"/>
-    <published>2026-05-26T01:57:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SS Mottaghi, SJ Maerkl - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Building a universal biochemical constructor, an autonomously self-replicating biochemical system, remains a challenge in synthetic biology. The PURE cell-free system is a suitable starting point for exploring self-regeneration, and its 36 non ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sebastian J. Maerkl (author alert)</content>
+    <link href="https://www.nature.com/articles/s41467-026-73337-0_reference.pdf"/>
+    <published>2026-05-27T07:44:49+00:00</published>
   </entry>
 </feed>
