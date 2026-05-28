@@ -2,41 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-27T09:49:24.954791+00:00</updated>
+  <updated>2026-05-28T17:30:06.419251+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c6d21cbd#0</id>
-    <title>Closing the Loop Between BEECLUST and Honeybee Thermotaxis</title>
-    <updated>2026-05-27T07:19:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c5cabbba#7</id>
+    <title>Frankenstein, Racial Science</title>
+    <updated>2026-05-28T13:04:33+00:00</updated>
     <author>
-      <name>Thomas Schmickl</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Reichenpfader, J Diebold, DN Hofstadler... - Swarm Intelligence: 15th ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Swarm intelligence describes collective problem-solving that emerges from adaptive group behavior and decentralized control. This concept has led to a variety of bio- inspired optimization algorithms, many of which require further systematic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Thomas Schmickl (author alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=eXrbEQAAQBAJ&amp;oi=fnd&amp;pg=PA69&amp;ots=EUcV_aWf0F&amp;sig=oNI5dnjWDCTA1IcdtyfpDjRQA_0"/>
-    <published>2026-05-27T07:19:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK MELLOR&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... n that most famous of fictional nights, that "dreary night of November" when Victor Frankenstein beheld the accomplishment of his scientific efforts to create a human being, to bestow animation upon lifeless matter and thus reveal the origin of life itself ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://openurl.ebsco.com/fulltext/gcd:5459235?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:5459235&amp;crl=f&amp;jrnl=08905495"/>
+    <published>2026-05-28T13:04:33+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c6d6c2ab#0</id>
-    <title>The Search for Technosignatures: a Review of Possibilities</title>
-    <updated>2026-05-27T07:44:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c5cabbba#6</id>
+    <title>Production of functional crackers enriched with barley and oat flours, featuring high β-glucan content and low glycemic index.</title>
+    <updated>2026-05-28T13:04:33+00:00</updated>
     <author>
-      <name>Stuart Bartlett</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Vidal, BL Fields, DR Sowinski, M Elowitz, S Bartlett... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper aims to review the diverse range of technosignatures that have been proposed in the literature. We organize the review by scales, starting carefully from Earth, then zooming out to Earth's orbit, the solar system, including the Moon, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stuart Bartlett (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.21093"/>
-    <published>2026-05-27T07:44:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Özkan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Barley and oats are rich sources of β-glucan, phenolic compounds, and dietary fiber, making them valuable ingredients in the development of functional foods. This study aimed to produce healthier snack alternatives by evaluating the effects of whole ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/pdf/10.5555/20260239855"/>
+    <published>2026-05-28T13:04:33+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c6d6c1d1#0</id>
-    <title>PURE makes PURE: reconstitution of the PURE cell-free system from self-synthesized proteins</title>
-    <updated>2026-05-27T07:44:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c5cabbba#5</id>
+    <title>Research progress on nutritional components, bioactive properties, and application of Chlorella vulgaris in food</title>
+    <updated>2026-05-28T13:04:33+00:00</updated>
     <author>
-      <name>Sebastian J. Maerkl</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SS Mottaghi, SJ Maerkl - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Building a universal biochemical constructor, an autonomously self-replicating biochemical system, remains a challenge in synthetic biology. The PURE cell-free system is a suitable starting point for exploring self-regeneration, and its 36 non ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sebastian J. Maerkl (author alert)</content>
-    <link href="https://www.nature.com/articles/s41467-026-73337-0_reference.pdf"/>
-    <published>2026-05-27T07:44:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B XU, Z XU, J ZHANG - Food &amp; Machinery, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Chlorella vulgaris, a green microalga, is widely recognized in the food industry for its outstanding nutritional value. This review systematically summarizes the diverse nutritional components enriched in this microalga, including proteins, lipids ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.ifoodmm.cn/cgi/viewcontent.cgi?article=6323&amp;context=journal"/>
+    <published>2026-05-28T13:04:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c5cabbba#4</id>
+    <title>Survival of Microencapsulated Limosilactobacillus fermentum strain 4-17 in Alginate–Inulin Matrix during Yogurt Storage</title>
+    <updated>2026-05-28T13:04:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Ebrahimi, AM Hosseini, F Falah, E Dertli... - Applied Food Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractProbiotics play an important role in functional foods, but their viability is often reduced by environmental stresses and storage conditions. This study evaluated the effect of microencapsulation of Limosilactobacillus fermentum 4-17 in an alginate–inulin ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2772502226005329"/>
+    <published>2026-05-28T13:04:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c5cabbba#3</id>
+    <title>Udita Bandyopadhyay 1 Souradeep Das 1 Sahil Sunil Mulewar 1 R Tejashwini 1 Sudha Rajamani 1✉ Email srajamani@ iiserpune. ac. in</title>
+    <updated>2026-05-28T13:04:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; U Bandyopadhyay, S Das&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... milieu, we set out to understand how amino acid monomers could have potentially also acted as a prebiotic bulk medium for fatty acid-based systems. Fatty acid vesicles are known to result only in a very stringent pH regime that is close to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://assets-eu.researchsquare.com/files/rs-7866707/v1/cdfd08c70afcf1c6be7c0367.html"/>
+    <published>2026-05-28T13:04:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c5cabbba#2</id>
+    <title>Yingying Duan 2 Tianwei Ouyang 1 Mengyi Wei 1 Che 1, 2 1 State Key Laboratory of Synergistic Chem-Bio Synthesis, School of Chemistry and Chemical Engineering ...</title>
+    <updated>2026-05-28T13:04:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Fang, Q Deng, L Han&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in-depth study of prebiotic chiral selection of amino acids. Here, we propose that minerals in the prebiotic environment might hindered the absolute ... Our findings provide evidence to assess the validity of prebiotic chiral selection scenarios for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://assets-eu.researchsquare.com/files/rs-6587698/v1/5e7342b6dbb4fae8c09f7899.html"/>
+    <published>2026-05-28T13:04:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c5cabbba#1</id>
+    <title>Dietary Application of Medicinal Plant-derived Prebiotics from Althaea officinalis and Hylocereus undatus on Growth Performance, Immunity, and Disease Resistance ...</title>
+    <updated>2026-05-28T13:04:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; VK Moholkar, DA Nalle - Asian Journal of Fisheries and Aquatic Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... possess potential prebiotic and antioxidant properties. Five experimental diets consisting of one control diet and four prebiotic -supplemented ... activity, respiratory burst activity, and overall immune responses in fish fed prebiotic -enriched diets ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://hal.science/hal-05631157/"/>
+    <published>2026-05-28T13:04:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c5cabbba#0</id>
+    <title>Cupuaçu (Theobroma grandiflorum) butter nanoparticles associated with oligosaccharides as cosmetic carriers for prebiotic effect: development, physicochemical ...</title>
+    <updated>2026-05-28T13:04:33+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BVF Riccioa, BW Debiasi, IJ da Silva, L Tonani... - European Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AbstractThe skin microbiota is essential for cutaneous homeostasis, and prebiotics may support it. Nanostructured systems, such as cupuaçu-derived nanoparticles, enhance the delivery and stability of cosmetic active substances, but their role in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0939641126001402"/>
+    <published>2026-05-28T13:04:33+00:00</published>
   </entry>
 </feed>
