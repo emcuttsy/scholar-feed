@@ -2,52 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-30T08:27:45.355540+00:00</updated>
+  <updated>2026-05-30T14:57:04.977418+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4cbc6d7#3</id>
-    <title>Feature Lottery? A Bifurcation Theory of Concept Emergence</title>
-    <updated>2026-05-29T22:34:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c4f3bd3d#0</id>
+    <title>Closing the Loop Between BEECLUST and Honeybee Thermotaxis</title>
+    <updated>2026-05-30T10:19:09+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Thomas Schmickl</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Yang -arXivpreprintarXiv:2605.24057, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neural networks acquire structured representations at specific moments during training, yet identifying these transitions typically relies on retrospective, label-dependent metrics. We introduce a bifurcation theory of representation dynamics to detect these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.24057"/>
-    <published>2026-05-29T22:34:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Stefanec, A Herlitz, D Reisinger, J Diebold... - International Conference on ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Swarm intelligence describes collective problem-solving that emerges from adaptive group behavior and decentralized control. This concept has led to a variety of bio- inspired optimization algorithms, many of which require further systematic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Thomas Schmickl (author alert)</content>
+    <link href="https://link.springer.com/chapter/10.1007/978-3-032-26123-6_6"/>
+    <published>2026-05-30T10:19:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4cbc6d7#2</id>
-    <title>Physical Coherence and Time's Emergence</title>
-    <updated>2026-05-29T22:34:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c4f3bcd2#0</id>
+    <title>Investigation of the Two-Dimensional Velocity Field of the Large-Scale Coronal Wave from September 6, 2011 using the SOLERwave Tool</title>
+    <updated>2026-05-30T10:19:10+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Astrid Veronig</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Chua -arXivpreprintarXiv:2605.24970, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... situate it in context by applying it to two programs for time's emergence , drawing from recent works by Chua and Callender (2021) and ... of time's emergence , which rule out all claims of time's emergence 'from on high' once we've fixed a definition of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.24970"/>
-    <published>2026-05-29T22:34:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Baumgartner-Steinleitner, AM Veronig, K Dissauer... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate the two-dimensional velocity field of the fast and complex large-scale coronal wave observed on September 6, 2011. We use both a classical perturbation profile approach and the newly developed multi-sector method of the SOLERwave ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://arxiv.org/pdf/2605.23599"/>
+    <published>2026-05-30T10:19:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4cbc6d7#1</id>
-    <title>Emergence of conformal properties in Finite Grand Unified Theories via reduction of couplings</title>
-    <updated>2026-05-29T22:34:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c4f090d6#0</id>
+    <title>Three-Dimensional Topography Mapping Using a Camera Payload for Legged Robotic Explorers</title>
+    <updated>2026-05-30T10:52:53+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Douglas Jerolmack</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LE Reyes Rodríguez, M Mondragón -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Based on this observation, we provide new evidence for a connection between the reduction of parameters in the dimensionful SSB sector and the emergence of an anomaly-mediated (AMSB-like) pattern, under the assumption that the finite Grand ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260504378R/abstract"/>
-    <published>2026-05-29T22:34:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ED Sigg, RC Ewing, DJ Jerolmack, P Ilhardt... - 57th Lunar and Planetary ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; LASSIE aims to develop a quadrupedal robotic explorer, capable of navigating difficult terrain and enabling geotechnical measurement with every step. We assess how stereo imaging derived footprint topography can augment leg-derived force ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Douglas Jerolmack (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026LPICo3160.1338S/abstract"/>
+    <published>2026-05-30T10:52:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4cbc6d7#0</id>
-    <title>Emergence of Triplet Superconductivity from Cavity Vacuum Fluctuations</title>
-    <updated>2026-05-29T22:34:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c4f09039#0</id>
+    <title>Life Near Zero: Arctic Sediments as Analogs for Ocean Worlds</title>
+    <updated>2026-05-30T10:52:55+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Steven A. Benner</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; XX Yang, S Zhang, K Ding, X Li -arXivpreprintarXiv:2605.24439, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Engineering quantum materials with cavity fields has emerged as a powerful route to manipulate phases of quantum matter in solids. Here we demonstrate that cavity vacuum fluctuations alone can drive the emergence of triplet superconductivity in an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.24439"/>
-    <published>2026-05-29T22:34:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CA Abraham, CL Goethel, EM Ingvadottir, L Manfio...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Life Near Zero: Arctic Sediments as Analogs for Ocean Worlds Abstract Data Workflow Discussion Methods Overview Mapped Results B Page 1 Life Near Zero: Arctic Sediments as Analogs for Ocean Worlds Abstract Clay A. Abraham1, Christina ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Steven A. Benner (author alert)</content>
+    <link href="https://www.researchgate.net/profile/Clay-Abraham/publication/405169412_Life_Near_Zero_Arctic_Sediments_as_Analogs_for_Ocean_Worlds_Abstract_Data_Workflow_Discussion_Methods_Overview/links/6a10f6c0719db12f6b12efe5/Life-Near-Zero-Arctic-Sediments-as-Analogs-for-Ocean-Worlds-Abstract-Data-Workflow-Discussion-Methods-Overview.pdf"/>
+    <published>2026-05-30T10:52:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c4f08fb4#0</id>
+    <title>DiscEvolution: Model the evolution of dust and gas in protoplanetary discs</title>
+    <updated>2026-05-30T10:52:56+00:00</updated>
+    <author>
+      <name>Nikku Madhusudhan</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Booth, CJ Clarke, N Madhusudhan, JD Ilee - Astrophysics Source Code Library, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; DiscEvolution contains a set of modules to simulate the viscous evolution of protoplanetary discs over Myr time scales. The package includes modules to compute viscous evolution, grain growth, radial drift, thermal structure, transport of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ascl.soft04010B/abstract"/>
+    <published>2026-05-30T10:52:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c4f08f9e#0</id>
+    <title>Comparative analysis of the cellular landscape in mammalian striatum</title>
+    <updated>2026-05-30T10:52:57+00:00</updated>
+    <author>
+      <name>Sonja Vernes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Buyukkahraman, E Caglayan, SG Hörpel, Y Zhang... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The dorsal striatum is important for highly specialized functions including movement, learning, and habit formation. However, it is not known if species-specialized behaviors are associated with cellular specializations in the striatum. Here, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
+    <link href="https://www.nature.com/articles/s41467-026-73305-8_reference.pdf"/>
+    <published>2026-05-30T10:52:57+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76c4f08ed9#0</id>
+    <title>Context Matters: The Illusive Simplicity of Macaque V1 Receptive Fields Robert Haslinger 1, 2</title>
+    <updated>2026-05-30T10:52:58+00:00</updated>
+    <author>
+      <name>Wolf Singer</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Pipa, B Lima, W Singer, EN Brown...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Context Matters: The Illusive Simplicity of Macaque V1 Receptive Fields Robert Haslinger 1,2 * . , Gordon Pipa 3,4,5. , Bruss Lima 4 , Wolf Singer 4 , Emery N. Brown 2,6 , Sergio Neuenschwander 4,7 1Martinos Center for Biomedical Imaging, Massachusetts ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Wolf Singer (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/00bc2d34-a2fa-4489-8ac0-846a66f0402e/content"/>
+    <published>2026-05-30T10:52:58+00:00</published>
   </entry>
 </feed>
