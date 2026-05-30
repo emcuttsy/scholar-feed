@@ -2,184 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-29T09:53:54.440834+00:00</updated>
+  <updated>2026-05-30T08:27:45.355540+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c410ff55#0</id>
-    <title>The evolutionary and organizational bases of active affordance</title>
-    <updated>2026-05-29T00:44:11+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c4cbc6d7#3</id>
+    <title>Feature Lottery? A Bifurcation Theory of Concept Emergence</title>
+    <updated>2026-05-29T22:34:28+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KJ Friston - Cerebral Cortex&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The evolutionary and organizational bases of... : Cerebral Cortex Ovid Logo Search Ovid Cerebral Cortex Navbar Menu Current Issue Previous Issues Latest Articles More menu items Search Journal Button group. Outline PDF Share Cite Permissions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://www.ovid.com/journals/cecor/abstract/10.1093/cercor/bhag057~the-evolutionary-and-organizational-bases-of-active"/>
-    <published>2026-05-29T00:44:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Yang -arXivpreprintarXiv:2605.24057, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neural networks acquire structured representations at specific moments during training, yet identifying these transitions typically relies on retrospective, label-dependent metrics. We introduce a bifurcation theory of representation dynamics to detect these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.24057"/>
+    <published>2026-05-29T22:34:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c410ff14#0</id>
-    <title>bioRxiv preprint doi: https://doi. org/10.1101/713057; this version posted July 24, 2019. The copyright holder for this preprint (which was not certified by peer review) is ...</title>
-    <updated>2026-05-29T00:44:12+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c4cbc6d7#2</id>
+    <title>Physical Coherence and Time's Emergence</title>
+    <updated>2026-05-29T22:34:28+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Jouravlev, Z Mineroff, IA Blank, E Fedorenko&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; bioRxiv preprint doi: https://doi.org/10.1101/713057; this version posted July 24, 2019. The copyright holder for this preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission. Language ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/8ce4c609-620a-4675-80e4-6176aa40b3a7/content"/>
-    <published>2026-05-29T00:44:12+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Chua -arXivpreprintarXiv:2605.24970, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... situate it in context by applying it to two programs for time's emergence , drawing from recent works by Chua and Callender (2021) and ... of time's emergence , which rule out all claims of time's emergence 'from on high' once we've fixed a definition of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.24970"/>
+    <published>2026-05-29T22:34:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c410fe69#0</id>
-    <title>Floris Huider 1, 2, 3✉ Phone+ 31 6 37443791 Email f. huider@ vu. nl Yuri Milaneschi 2, 4, 5 René Pool 1, 2 Bernardo de</title>
-    <updated>2026-05-29T00:44:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c4cbc6d7#1</id>
+    <title>Emergence of conformal properties in Finite Grand Unified Theories via reduction of couplings</title>
+    <updated>2026-05-29T22:34:28+00:00</updated>
     <author>
-      <name>Nick Martin</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; APC Maciel, SD Gordon, ML Rietman, AAL Kok...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Harmonized phenotyping and diverse population-specific studies are crucial for advancing gene discovery in psychiatric genetics. We conducted a genome-wide association study (GWAS) of DSM-defined lifetime Major Depressive Disorder (MDD) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://assets-eu.researchsquare.com/files/rs-6238738/v1/ee842c6e3def1e2661d0efef.html"/>
-    <published>2026-05-29T00:44:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LE Reyes Rodríguez, M Mondragón -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Based on this observation, we provide new evidence for a connection between the reduction of parameters in the dimensionful SSB sector and the emergence of an anomaly-mediated (AMSB-like) pattern, under the assumption that the finite Grand ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260504378R/abstract"/>
+    <published>2026-05-29T22:34:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c43742c9#0</id>
-    <title>The chemical fingerprint of the Gaia BH3 system. Evidence for early cluster enrichment from the analysis of 51 elements</title>
-    <updated>2026-05-29T06:29:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76c4cbc6d7#0</id>
+    <title>Emergence of Triplet Superconductivity from Cavity Vacuum Fluctuations</title>
+    <updated>2026-05-29T22:34:28+00:00</updated>
     <author>
-      <name>Alain Goriely</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., T Merle, N Tan Mai, S Van Eck, SGoriely... - arXiv e-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Gaia BH3 system hosts the most massive known stellar-origin black hole and a low-mass metal-poor companion whose chemical composition may constrain early explosive nucleosynthesis processes. We investigate the chemical abundances of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Alain Goriely (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260502353V/abstract"/>
-    <published>2026-05-29T06:29:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c44488d1#0</id>
-    <title>INVESTIGATING LIFE BEYOND EARTH: SCIENTIFIC EVIDENCE AND RESEARCH METHODS</title>
-    <updated>2026-05-29T08:53:01+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Farangiz - O'zbekiston davlat jahon tillari universiteti ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... empirical approaches such as exoplanet observation, analysis of extremophiles, and data ... where liquid water could exist, which is considered essential for life as we know it. ... discovered evidence of past water activity, while missions to moons ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://conference.uzswlu.uz/conf/article/download/3154/3581"/>
-    <published>2026-05-29T08:53:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c44487cb#0</id>
-    <title>Biological Senomic Thermodynamics in the Evolution of Life on Earth</title>
-    <updated>2026-05-29T08:53:03+00:00</updated>
-    <author>
-      <name>stuart kauffman</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Baluška, WB Miller Jr, AS Reber, P Slijepčević - Integrative Theory of Evolution ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... According to Stuart Kauffman , cells and multicellular organisms act beyond previously identified physical laws. Cells have closed loops of causation based on biological codes, among which the redox code is the most important. They assemble ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; stuart kauffman (keyword alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-3-032-24295-2_28"/>
-    <published>2026-05-29T08:53:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#9</id>
-    <title>Courier‑Bodies and the Delivery of Life's First Ingredients: An Echo‑Rift XL Sovereign Diagnostic on Cosmological Panspermia</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Sewell - HAL preprints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The framework integrates SH‑1 substrate cosmology with empirical astrobiology, situating panspermia within a structured multiversal interaction system. The document traces the cosmic supply chain of life—from the First Rift Event through Rift‑Forges ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://hal.science/hal-05631516/"/>
-    <published>2026-05-29T08:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#8</id>
-    <title>Origin of Life in Zinc-and Potassium-Rich Environments as a Positive Fallout from the Moon-Forming Impact?</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AY Mulkidjanian, DV Dibrova, AY Bychkov - 57th Lunar and Planetary Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Origin of Life in Zinc- and Potassium-Rich Environments as a Positive Fallout from the Moon-Forming Impact? - ADS ... Origin of Life in Zinc- and Potassium-Rich Environments as a Positive Fallout from the Moon-Forming Impact? ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026LPICo3160.1512M/abstract"/>
-    <published>2026-05-29T08:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#7</id>
-    <title>Molecular models of early Earth paleoenvironments in the context of emergence of life</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Blašković - Story of a unique planet&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the most promising environments for the emergence of life , evidenced by fossilized carbonaceous ... presented by the extended timescales of prebiotic reaction networks, we will integrate ... the reactivity, selectivity, and diversity of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.croris.hr/crosbi/publikacija/prilog-skup/944387"/>
-    <published>2026-05-29T08:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#6</id>
-    <title>Hypervelocity Impact Ionization of Amino-Acid-Laden Dust: First Direct Measurements and Implications for Instrument Capabilities and Prebiotic Chemistry</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Ulibarri, LH Yeo, HL McLain, AC Doner... - 57th Lunar and Planetary ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hypervelocity Impact Ionization of Amino-Acid-Laden Dust: First Direct Measurements and Implications for Instrument Capabilities and Prebiotic Chemistry - ADS ... Hypervelocity Impact Ionization of Amino-Acid-Laden Dust: First Direct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026LPICo3160.1891U/abstract"/>
-    <published>2026-05-29T08:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#5</id>
-    <title>A Hypercycle for Ribozymes or Viroids as Origin of Life</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Moelling - Integrative Theory of Evolution-Aspects and Insights, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Viruses can cause diseases, but their more important role is as drivers of evolution. They may have contributed to the origin of life as noncoding RNA, which we know today from viroids and ribozymes. Viroids/ribozymes are the most ancient entities ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-3-032-24295-2_23"/>
-    <published>2026-05-29T08:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#4</id>
-    <title>Quantum Gravity Non-simultaneous EP Irrotational Entropy Preservation Origin of Life</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Lai&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The second law of thermodynamics asserts that the entropy of an isolated system always increases. An isolated system exchanges neither matter nor energy with its surroundings, implying its constant total energy. This paradox implies that entropy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Yi_Yu_Lai2/publication/399684987_Quantum_Gravity_Non-Simultaneous_EP_Irrotational_Entropy_Preservation_Origin_of_Life/links/6a09b471e93d461915964b58/Quantum-Gravity-Non-Simultaneous-EP-Irrotational-Entropy-Preservation-Origin-of-Life.pdf"/>
-    <published>2026-05-29T08:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#3</id>
-    <title>Molecular profile of polysaccharides from upcycled products: Digestive, physiological, biological, and prebiotic properties</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JE Salazar Bermeo&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Upcycling fruit by-products demands careful monitoring of processing technologies to yield physiologically active molecules, such as (poly)phenols and dietary fibre (DF) prebiotics , with proved bioactive potential. Upcycling by-products must ensure ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="http://dspace.umh.es/bitstream/11000/39960/4/Salazar%20Bermeo%2C%20Julio%20Esteban_SUBIDO%20A%20REPOSITORIO_compressed.pdf"/>
-    <published>2026-05-29T08:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#2</id>
-    <title>The Many Shades of Compartmentalization in Prebiotic Evolution</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LMP Ter-Ovanessian, T Matreux, A Verma, T Fraccia... - Integrative Theory of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The emergence of life hinges on a mutual evolution between compartments and their encapsulated content, addressing the paradox where each one seems to require the other to function. This chapter frames compartmentalization as a gradual ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-3-032-24295-2_25"/>
-    <published>2026-05-29T08:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#1</id>
-    <title>Digging into the Massive Protostar S255IR NIRS3: A Study of Nitrogen-bearing Molecules and Their Prebiotic Chemistry</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Manna, S Pal, T Baug, A Hoque, S Dutta, S Sinha... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The study of complex nitrogen-bearing molecules is essential for probing the physical and chemical evolution of star-forming regions. In this paper we present the identification of rotational emission lines from several complex N-bearing species ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae64f2"/>
-    <published>2026-05-29T08:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4448778#0</id>
-    <title>Valorizing renewable biomass into potential prebiotic oligosaccharides: Enzymatic, microbial, and synthetic biology strategies</title>
-    <updated>2026-05-29T08:53:04+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YR Yun, S Kim, DY Lee, S Yu, KH Kim, EJ Yun - Bioresource Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biomass valorization has become a central strategy in the transition toward a circular bioeconomy, enabling the conversion of underutilized terrestrial and marine resources into value-added functional ingredients. The production of prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0960852426010564"/>
-    <published>2026-05-29T08:53:04+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; XX Yang, S Zhang, K Ding, X Li -arXivpreprintarXiv:2605.24439, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Engineering quantum materials with cavity fields has emerged as a powerful route to manipulate phases of quantum matter in solids. Here we demonstrate that cavity vacuum fluctuations alone can drive the emergence of triplet superconductivity in an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.24439"/>
+    <published>2026-05-29T22:34:28+00:00</published>
   </entry>
 </feed>
