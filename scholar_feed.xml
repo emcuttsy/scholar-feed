@@ -2,85 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-05-30T14:57:04.977418+00:00</updated>
+  <updated>2026-05-31T08:44:42.741869+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4f3bd3d#0</id>
-    <title>Closing the Loop Between BEECLUST and Honeybee Thermotaxis</title>
-    <updated>2026-05-30T10:19:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763b113c61#1</id>
+    <title>ACHUSETTS INSTITUTEOF TECHNOLOGY SEP 19 2016 LIBRARIES ARGHIVEs Doctor of Philosophy in Planetary Science</title>
+    <updated>2026-05-30T16:09:44+00:00</updated>
     <author>
-      <name>Thomas Schmickl</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Stefanec, A Herlitz, D Reisinger, J Diebold... - International Conference on ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Swarm intelligence describes collective problem-solving that emerges from adaptive group behavior and decentralized control. This concept has led to a variety of bio- inspired optimization algorithms, many of which require further systematic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Thomas Schmickl (author alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-3-032-26123-6_6"/>
-    <published>2026-05-30T10:19:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NK Inamdar&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In fact, we now know that hot Jupiters comprise a relatively small per- centage of the exoplanet population (on the order of a few percent). In ... In this thesis, we will use the term " super - Earth " to refer to those ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/5415a223-86e1-42dd-b5d1-691bfc457473/content"/>
+    <published>2026-05-30T16:09:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4f3bcd2#0</id>
-    <title>Investigation of the Two-Dimensional Velocity Field of the Large-Scale Coronal Wave from September 6, 2011 using the SOLERwave Tool</title>
-    <updated>2026-05-30T10:19:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763b113c61#0</id>
+    <title>Lithological Controls on Aqueous Phosphorus on Ocean-Covered Planets</title>
+    <updated>2026-05-30T16:09:44+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Baumgartner-Steinleitner, AM Veronig, K Dissauer... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate the two-dimensional velocity field of the fast and complex large-scale coronal wave observed on September 6, 2011. We use both a classical perturbation profile approach and the newly developed multi-sector method of the SOLERwave ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.23599"/>
-    <published>2026-05-30T10:19:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Stone&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... stars—and the inferred resulting exoplanet compositions—could strongly modulate the ... an approach similar to previous modeling of P availability on Enceladus (Hao et al. 2022). Using ... The implications of this study are also ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://etda.libraries.psu.edu/files/final_submissions/34399"/>
+    <published>2026-05-30T16:09:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4f090d6#0</id>
-    <title>Three-Dimensional Topography Mapping Using a Camera Payload for Legged Robotic Explorers</title>
-    <updated>2026-05-30T10:52:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763b113bd0#0</id>
+    <title>Explaining the universality of biological thermal responses</title>
+    <updated>2026-05-30T16:09:45+00:00</updated>
     <author>
-      <name>Douglas Jerolmack</name>
+      <name>Chris Kempes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ED Sigg, RC Ewing, DJ Jerolmack, P Ilhardt... - 57th Lunar and Planetary ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; LASSIE aims to develop a quadrupedal robotic explorer, capable of navigating difficult terrain and enabling geotechnical measurement with every step. We assess how stereo imaging derived footprint topography can augment leg-derived force ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Douglas Jerolmack (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026LPICo3160.1338S/abstract"/>
-    <published>2026-05-30T10:52:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JI Arroyo, CKempes, G West, PA Marquet - Proceedings of the National Academy of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Arnoldi et al.(1) developed an approximated phenomenological mathematical method to collapse data of thermal performance curves (TPCs) into a left-skewed dimensionless universal curve, and applied it successfully to two different ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2610187123"/>
+    <published>2026-05-30T16:09:45+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4f09039#0</id>
-    <title>Life Near Zero: Arctic Sediments as Analogs for Ocean Worlds</title>
-    <updated>2026-05-30T10:52:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#9</id>
+    <title>Active Emulsions: Investigating Droplet Oscillation, Deformation, and Motion</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
     <author>
-      <name>Steven A. Benner</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CA Abraham, CL Goethel, EM Ingvadottir, L Manfio...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Life Near Zero: Arctic Sediments as Analogs for Ocean Worlds Abstract Data Workflow Discussion Methods Overview Mapped Results B Page 1 Life Near Zero: Arctic Sediments as Analogs for Ocean Worlds Abstract Clay A. Abraham1, Christina ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Steven A. Benner (author alert)</content>
-    <link href="https://www.researchgate.net/profile/Clay-Abraham/publication/405169412_Life_Near_Zero_Arctic_Sediments_as_Analogs_for_Ocean_Worlds_Abstract_Data_Workflow_Discussion_Methods_Overview/links/6a10f6c0719db12f6b12efe5/Life-Near-Zero-Arctic-Sediments-as-Analogs-for-Ocean-Worlds-Abstract-Data-Workflow-Discussion-Methods-Overview.pdf"/>
-    <published>2026-05-30T10:52:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Krishna Mani&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Understanding and controlling droplet active behaviors holds promise for gaining insights into the origin of life , modeling non-equilibrium natural systems, and reproducing biomimetic behavior in artificial systems, with potential applications ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://etda.libraries.psu.edu/catalog/21143svk6277"/>
+    <published>2026-05-30T16:09:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4f08fb4#0</id>
-    <title>DiscEvolution: Model the evolution of dust and gas in protoplanetary discs</title>
-    <updated>2026-05-30T10:52:56+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#8</id>
+    <title>Health benefits of oat dietary fibre in inflammatory bowel disease: a systematic review</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
     <author>
-      <name>Nikku Madhusudhan</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Booth, CJ Clarke, N Madhusudhan, JD Ilee - Astrophysics Source Code Library, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; DiscEvolution contains a set of modules to simulate the viscous evolution of protoplanetary discs over Myr time scales. The package includes modules to compute viscous evolution, grain growth, radial drift, thermal structure, transport of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ascl.soft04010B/abstract"/>
-    <published>2026-05-30T10:52:56+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Sargautiene - Gastroenterology Review/Przegląd ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction: Oats are well-known for their health benefits in managing chronic diseases, mainly due to their fibre content, especially β-glucan, which has prebiotic properties. Aim: This review aimed to examine clinical and preclinical studies ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.termedia.pl/Journal/-41/pdf-58059-10?filename=Health%20benefits.pdf"/>
+    <published>2026-05-30T16:09:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4f08f9e#0</id>
-    <title>Comparative analysis of the cellular landscape in mammalian striatum</title>
-    <updated>2026-05-30T10:52:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#7</id>
+    <title>Potential Of Jicama as A Synbiotic Product For Stunted Children: A Narrative Literature Review</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
     <author>
-      <name>Sonja Vernes</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Buyukkahraman, E Caglayan, SG Hörpel, Y Zhang... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The dorsal striatum is important for highly specialized functions including movement, learning, and habit formation. However, it is not known if species-specialized behaviors are associated with cellular specializations in the striatum. Here, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
-    <link href="https://www.nature.com/articles/s41467-026-73305-8_reference.pdf"/>
-    <published>2026-05-30T10:52:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AAZA Malik, R Harianti - Journal of Global Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study aimed to examine the potential of jicama as a prebiotic source in the development of synbiotic beverages for stunted children. This study employed a narrative literature review method. A total of 120 articles were identified from PubMed/NCBI ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://jurnal.isagi.or.id/index.php/jgn/article/download/214/152"/>
+    <published>2026-05-30T16:09:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76c4f08ed9#0</id>
-    <title>Context Matters: The Illusive Simplicity of Macaque V1 Receptive Fields Robert Haslinger 1, 2</title>
-    <updated>2026-05-30T10:52:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#6</id>
+    <title>Eco-recovery of edible swiftlet's nest (ESN) by-product in the form of bioactive sialylated-mucin (SiaMuc) glycopeptide: a prebiotic assessment using in vitro human ...</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
     <author>
-      <name>Wolf Singer</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Pipa, B Lima, W Singer, EN Brown...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Context Matters: The Illusive Simplicity of Macaque V1 Receptive Fields Robert Haslinger 1,2 * . , Gordon Pipa 3,4,5. , Bruss Lima 4 , Wolf Singer 4 , Emery N. Brown 2,6 , Sergio Neuenschwander 4,7 1Martinos Center for Biomedical Imaging, Massachusetts ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Wolf Singer (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/00bc2d34-a2fa-4489-8ac0-846a66f0402e/content"/>
-    <published>2026-05-30T10:52:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ST HuiYan, SR Sarbini, LS Chang, LS Joe, AS Babji - Journal of Food Science and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This work is the first to primarily evaluate the prebiotic effects of SiaMuc glycopeptide hydrolysates from ESN by-products, with cleaned-ESN ... These findings suggest that SiaMuc glycopeptides from ESN by-products offer prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s13197-026-06670-3"/>
+    <published>2026-05-30T16:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#5</id>
+    <title>Author's Version: Original published in Origins of Life and Evolution of Biospheres, DOI: 10.1007/s11084-011-9261-2 The final publication is available at springerlink ...</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GP Fournier, CP Andam, EJ Alm, JP Gogarten...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... inherited from the time of the Last Universal Common Ancestor (LUCA). However, unlike the ... reflect a stage of the RNA world where simple polypeptides or aminoacylated RNAs were ... the demise of the RNA world , and the nature of life at ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/19485ec6-2cd4-4674-9c85-7dde5e820fd3/content"/>
+    <published>2026-05-30T16:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#4</id>
+    <title>Prebiotic Influence on Probiotic Bacteria: Growth and Acidification Dynamics</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H CHOUDHARY, D CHAKRABORTY, A SHARMA...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Membrane filters with a particle size of 0.45 µm (Millipore) were used to filter sterilizing stock solutions containing 10% prebiotic ... To get final prebiotic concentrations of 0.5, 1 or 2% , sterile prebiotic solutions were added to the basic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/pdf/10.5555/20260042790"/>
+    <published>2026-05-30T16:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#3</id>
+    <title>Breaking the membrane heredity paradox through de novo protocell formation</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Khanal, A Fracassi, A Harjung, MD Burkart... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Lipid membranes define cell boundaries, acting as gatekeepers for transport and signaling. A central paradigm in biology is that all cellular membranes descend from a common ancestral membrane, as they cannot be generated in the absence of pre-existing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41467-026-73667-z"/>
+    <published>2026-05-30T16:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#2</id>
+    <title>Bridging Liquid and Gas Phase Catalysis for Abiotic CO2 Conversion to Prebiotic Organics Over Mesoporous Silica‐Supported Ni–Co Catalysts</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhao, NF Dummer, KJ Aggett, GJ Hutchings... - Advanced Synthesis &amp; ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Reduced carbon species such as formate and methane are widely observed in serpentinizing hydrothermal systems, suggesting that abiotic CO 2 hydrogenation can proceed on native metal surfaces or mineral‐supported catalysts. Here, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adsc.70531"/>
+    <published>2026-05-30T16:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#1</id>
+    <title>Active Pruning Controls Boundary Persistence in Protocell -like Systems: Saddle-Node Attractor Loss, Stochastic Early Warnings, Multiscale Simulations, and Wet-Lab ...</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Wu - submitted manuscript, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Finite protocell -like systems under sustained flux must maintain boundary integrity, transport throughput, and internal functional availability while accumulating nonfunctional residue. Here we develop an analytical and computational framework ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.distinctiontheory.org/papers/fds-l1.pdf"/>
+    <published>2026-05-30T16:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b4f#0</id>
+    <title>Steam explosion-assisted method is a green and efficient extraction method for prebiotic pectins</title>
+    <updated>2026-05-30T16:09:46+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Zheng, C Zhao, Y Du, Y Yuan, H Feng, C Zhao, J Cui... - Food Hydrocolloids, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sustainable pectin extraction demands energy-efficient methods to valorize agro-industrial by-products (eg, citrus peels). In this study, the potential of green and efficient extraction of pectin with assistance of steam explosion (SE) in neutral water was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0268005X26005072"/>
+    <published>2026-05-30T16:09:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763b113b26#0</id>
+    <title>The Neptunian ridge planet WASP-156 b does not have a polar orbit</title>
+    <updated>2026-05-30T16:09:47+00:00</updated>
+    <author>
+      <name>JL bean</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., S Gill, E Ahrer, D Anderson, DJ Armstrong,JL Bean... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The population of short-period exo-Neptunes is thought to be shaped by an interplay between different dynamical mechanisms, such as orbital migration and tidal effects, and photoevaporation. We can gain insight into these processes by studying ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.27291"/>
+    <published>2026-05-30T16:09:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763b38b468#0</id>
+    <title>Emergence of an antiferromagnetic topological Anderson insulator in the interacting Haldane model</title>
+    <updated>2026-05-30T21:02:47+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AJ Uría-Álvarez, R Valentí -arXivpreprintarXiv:2605.27524, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We examine the emergence of topological Anderson insulating phases in the spinful Haldane model with Hubbard and next-neighbor density-density interactions, subject to Anderson disorder. Using finite-size exact diagonalization, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.27524"/>
+    <published>2026-05-30T21:02:47+00:00</published>
   </entry>
 </feed>
