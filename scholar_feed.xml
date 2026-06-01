@@ -2,118 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-01T11:33:42.622432+00:00</updated>
+  <updated>2026-06-01T19:14:39.433922+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb92dd3#0</id>
-    <title>Starshade rendezvous: exoplanet sensitivity and observing strategy Andrew Romero-Wolf, a,* Geoffrey Bryden, a Sara Seager, b N. Jeremy Kasdin, c Jeff Booth, a ...</title>
-    <updated>2026-05-31T22:45:20+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc321#1</id>
+    <title>MASSACHUSETTS INSTITUTE OF TECHNOLOGY JUN 13 2016 LIBRARIES ARCHIVES</title>
+    <updated>2026-06-01T18:17:25+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Webb, J Ziemer, A Gray, M Hughes, J Gregory...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Starshade rendezvous: exoplanet sensitivity and observing strategy Andrew Romero-Wolf,a,* Geoffrey Bryden ,a Sara Seager ,b N. Jeremy Kasdin,c Jeff Booth,a Matt Greenhouse ,d Doug Lisman,a Bruce Macintosh,e Stuart Shaklan ,a Melissa Vess,d Steve Warwick,f ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/90ba71c7-f5e7-4afb-8418-f8dc2992cfd9/content"/>
-    <published>2026-05-31T22:45:20+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Messenger&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In the second study, I focus specifically on the super Earth GJ 1214b, the most studied super Earth to date. GJ 1214b is particularly interesting due to the difficulty ... of life on an exoplanet , is much harder and beyond our current technological reach. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/d2da9d56-d217-49df-9a2f-d70613043471/content"/>
+    <published>2026-06-01T18:17:25+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb92d66#0</id>
-    <title>02139, USA 20NASA Goddard Space Flight Center, 8800 Greenbelt Rd, Greenbelt, MD 20771, USA 21Department of Aeronautics and Astronautics, MIT, 77 ...</title>
-    <updated>2026-05-31T22:45:22+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc321#0</id>
+    <title>Preprint typeset using LATEX style emulateapj v. 5/2/11 A BIOMASS-BASED MODEL TO ESTIMATE THE PLAUSIBILITY OF EXOPLANET BIOSIGNATURE GASES</title>
+    <updated>2026-06-01T18:17:25+00:00</updated>
     <author>
-      <name>Björn Benneke</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SHC Cabot, A Bello-Arufe, JM Mendonça...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Draft version August 27, 2021 Typeset using LATEX twocolumn style in AASTeX62 TOI-1518b: A Misaligned Ultra-hot Jupiter with Iron in its Atmosphere Samuel HC Cabot,1 Aaron Bello-Arufe,2 João M. Mendonça,2 René Tronsgaard,2 Ian Wong,3, ∗ George ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/0003ecb2-a34c-40ea-bc7c-d92754357e09/content"/>
-    <published>2026-05-31T22:45:22+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Seager, W Bains, R Hu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Biosignature gas detection is one of the ultimate future goals for exoplanet atmosphere studies. We have created a framework for linking biosignature gas detectability to biomass estimates, including ... for exoplanet atmospheres is that Fsource can not be di- ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/6790cc6f-5040-4d1a-ac72-0f9313ba33f1/content"/>
+    <published>2026-06-01T18:17:25+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb92d1d#0</id>
-    <title>MEB:"From Development to Cognitive Glue: My Journey in Bioelectricity"</title>
-    <updated>2026-05-31T22:45:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#9</id>
+    <title>Impact of inulin on immunotherapy efficacy in extensive-stage small cell lung cancer and on promotion of CD8+ T-cell tumor infiltration and functional activity.</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Levin - Bioelectricity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; From about the age of 5–10, I had asthma (this was the early 1970s). We lived in a place where medication was not available, and what my dad would do is unscrew the back of the ancient TV set to distract me when attacks came on and the airway ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://journals.sagepub.com/doi/abs/10.1177/25763113261454327"/>
-    <published>2026-05-31T22:45:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Sun, D Zang, J Chen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Inulin, a dietary prebiotic , can reshape gut microbial composition, but its role in ES-SCLC immunotherapy has not been fully elucidated. This study investigated whether Inulin enhances immunotherapy efficacy in ES-SCLC through modulation of the gut ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ascopubs.org/doi/abs/10.1200/JCO.2026.44.16_suppl.e20145"/>
+    <published>2026-06-01T18:17:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb92c22#0</id>
-    <title>A multidisciplinary program for meningioma treatment, research, and support services</title>
-    <updated>2026-05-31T22:45:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#8</id>
+    <title>Synergistic Interactions Between Inulin-Type Fructans and Plant Polyphenols: Implications for Antioxidant Activity, Bioavailability and Functional Food Development</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
     <author>
-      <name>Edward F Chang</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Arum, RA Morshed, BC Braman, K Mirchia... - Neuro-Oncology Practice, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Standard treatments for meningioma include surgery and radiotherapy, but the timing and technical details of these treatments are debated, particularly as advances in understanding of meningioma biology are expanding options for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://academic.oup.com/nop/advance-article/doi/10.1093/nop/npag051/8694816"/>
-    <published>2026-05-31T22:45:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AD Raiciu, MC Eremia, A Stefaniu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Inulin-type fructans are widely recognized as functional polysaccharides with prebiotic properties, while plant polyphenols represent one of the most important classes of natural antioxidants. Increasing evidence demonstrates that interactions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/f0f084d309d1354041f2a07d0eed3818/download_pub"/>
+    <published>2026-06-01T18:17:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb92c0e#1</id>
-    <title>MA 02114, USA</title>
-    <updated>2026-05-31T22:45:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#7</id>
+    <title>Microbiota awareness and fermented food consumption among university students: evidence of a knowledge-behavior gap</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Tuckute, A Paunov, H Kean, H Small, Z Mineroff...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; bioRxiv preprint doi: https://doi.org/10.1101/2021.05.28.446230; this version posted August 15, 2021. The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/96ef9b02-9b51-490d-b084-d74580925a0c/content"/>
-    <published>2026-05-31T22:45:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AN Kahve, H Yazıcıoğlu Çalışan - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Fermented foods are traditional functional foods that may beneficially influence gut microbiota composition and contribute to overall health. However, it remains unclear whether microbiota-related awareness is associated with regular consumption of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41598-026-55444-6_reference.pdf"/>
+    <published>2026-06-01T18:17:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb92c0e#0</id>
-    <title>www. nature. com/scientificdata OPEN Probabilistic atlas for the language DATA DESCRIPTOR network based on precision fMRI data from&gt; 800 individuals</title>
-    <updated>2026-05-31T22:45:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#6</id>
+    <title>Kluar togel hk mlm ini: What are your best two starting words?: r/wordle-Reddit</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Lipkin, G Tuckute, J Affourtit, H Small, Z Mineroff...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; www.nature.com/scientificdata OPEN Probabilistic atlas for the language DATA DESCRIPTOR network based on precision fMRI data from &gt;800 individuals Benjamin Lipkin1,2 ✉, Greta Tuckute1,2, Josef Affourtit1,2, Hannah Small3, Zachary Mineroff 4 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/843bc230-92f8-4ed8-927d-4ad9b16ac7aa/content"/>
-    <published>2026-05-31T22:45:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Belanja&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Benefiber Prebiotic Fiber+ Probiotics Gummies are designed to strengthen and nourish the good bacteria, helping support your digestive health (1). A good source of daily fiber, these prebiotic and probiotic gummies for adults contain the plant ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://lighthousehypnotherapy.ca/articles/aa/full_html/2026/01-vev-vovoso/?s={search_term_string}?s={search_term_string}"/>
+    <published>2026-06-01T18:17:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb92ba3#0</id>
-    <title>Bridging Liquid and Gas Phase Catalysis for Abiotic CO2 Conversion to Prebiotic Organics Over Mesoporous Silica‐Supported Ni–Co Catalysts</title>
-    <updated>2026-05-31T22:45:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#5</id>
+    <title>A prebiotic -based biostimulant enhances growth parameters, photosynthetic efficiency, and grain yield in rice (Oryza sativa ssp. japonica)</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
     <author>
-      <name>William Martin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhao, NF Dummer, KJ Aggett, GJ Hutchings... - Advanced Synthesis &amp; ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Reduced carbon species such as formate and methane are widely observed in serpentinizing hydrothermal systems, suggesting that abiotic CO2 hydrogenation can proceed on native metal surfaces or mineral‐supported catalysts. Here, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; William Martin (author alert)</content>
-    <link href="https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adsc.70531"/>
-    <published>2026-05-31T22:45:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Medina-Jimenez, B Hale, C Cerquera-Hernandez... - Frontiers in Plant Science&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biostimulants constitute an emerging class of biological inputs with potential to boost crop yield in a sustainable manner. However, such products must be tested rigorously to unravel complex and oftentimes discrete modes of action, which is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1832147/full"/>
+    <published>2026-06-01T18:17:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb92a98#0</id>
-    <title>Human–AI interactions reshape the self and our social networks</title>
-    <updated>2026-05-31T22:45:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#4</id>
+    <title>Web-based platform for prebiotic protein design and data sharing</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
     <author>
-      <name>Andreia Sofia Teixeira</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AS Teixeira, SS Shergill, G Laban - Nature Machine Intelligence, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Large language models (LLMs) have rapidly entered everyday life as companions, advisors and sources of knowledge. Unlike earlier forms of digital media, they do not merely transmit information: they adapt to prompts, simulate empathy and provide ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Andreia Sofia Teixeira (author alert)</content>
-    <link href="https://www.nature.com/articles/s42256-026-01248-2"/>
-    <published>2026-05-31T22:45:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CF Millan, KL Pepper, BJ Stockman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study investigates that question by designing plausible prebiotic sequences for three ancient proteins: ferredoxin, Rossmann-like folds, and flavodoxin. Candidate sequences containing only the 10 early amino acids (A, D, E, G, I, L, P, S ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://par.nsf.gov/servlets/purl/10686148"/>
+    <published>2026-06-01T18:17:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb92a0b#0</id>
-    <title>Introspection and Scientific Data</title>
-    <updated>2026-05-31T22:45:33+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#3</id>
+    <title>Recovering prebiotic Rossmann-like folds using AI-guided sequence design</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
     <author>
-      <name>Matthias Michel</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Michel - The Routledge Handbook of Introspection, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; I discuss the role of introspection in the production of scientific data for consciousness research. I address the following question: does introspection provide a special kind of data—subjective data—that are indispensable for studying ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Matthias Michel (author alert)</content>
-    <link href="https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&amp;identifierValue=10.4324/9781003393269-22&amp;type=chapterpdf"/>
-    <published>2026-05-31T22:45:33+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Tsigelman, J Kaur, F Khan, K Persaud, BJ Stockman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study aims to use AI deep learning algorithms in combination with experimental validation to reconstruct functional, prebiotic Rossmann-like folds that might have existed at the origin of cellular life. Protein MPNN was used to generate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://par.nsf.gov/servlets/purl/10686150"/>
+    <published>2026-06-01T18:17:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763bb8f108#0</id>
-    <title>Revealing the Resonant Physics of Open Photonic Time Crystals</title>
-    <updated>2026-05-31T22:49:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#2</id>
+    <title>Designing flavodoxins composed of only prebiotic amino acids</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
     <author>
-      <name>Thomas Weiss</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Canós Valero, S Gladyshev, D Globosits, S Rotter... - Laser &amp; Photonics Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Photonic time crystals (PTCs) are media whose permittivity is modulated periodically in time, enabling momentum bandgaps and parametric amplification of light. Their realization at the nanoscale can revolutionize the study of light‐matter interactions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Thomas Weiss (author alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/lpor.71318"/>
-    <published>2026-05-31T22:49:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MB Walker, M Khin, A Able, AC Shino, K Diaz...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To explore the hypothesis that prebiotic amino acids could give rise to functional proteins, the AI deep learning algorithm ProteinMPNN was used to redesign extant flavodoxins composed of only the 10 prebiotic amino acids. Sequences were then ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://par.nsf.gov/servlets/purl/10686149"/>
+    <published>2026-06-01T18:17:27+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#1</id>
+    <title>Prebiotic Activity of Resistant Starches</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BM Ferreira, EPR Pereira - Basic Protocols in Starch Characterization, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Resistant starch (RS) is defined as that fraction of carbohydrate that is not digested by digestive enzymes. However, RS can serve as a substrate in fermentation processes of bacteria present in the gastrointestinal tract, especially probiotics. The ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=TqTdEQAAQBAJ&amp;oi=fnd&amp;pg=PA193&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=GiRjHi2CXF&amp;sig=i9Xf78p9UwTjyVFLiBTb9MK84HE"/>
+    <published>2026-06-01T18:17:27+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc1bc#0</id>
+    <title>THE RNA WORLD HYPOTHESIS: A CRITICAL REASSESSMENT OF PREBIOTIC PLAUSIBILITY</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RJ Truman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The RNA world hypothesis (RWH) remains the leading evolutionary framework for life's origin (1). Some claim that it has been established beyond reasonable doubt (2). Others opine that extant cells provide little if any evidence for this view (3) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Royal-Truman/publication/405336423_The_RNA_World_Hypothesis_A_Critical_Reassessment_of_Prebiotic_Plausibility/links/6a181730ec1b02035512e1ba/The-RNA-World-Hypothesis-A-Critical-Reassessment-of-Prebiotic-Plausibility.pdf"/>
+    <published>2026-06-01T18:17:27+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc196#1</id>
+    <title>and Soumya Pandit</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Chakraborty, S Ray - Model Organisms in Biological Research&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... origins, evolution, distribution, and future of life . At the core of astrobiology is the search for extraterrestrial life , and the consideration of the ... Ultimately, the study of tardigrades contributes to our understanding of habitable environments on other ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://link.springer.com/content/pdf/10.1007/978-981-92-0038-2.pdf#page=372"/>
+    <published>2026-06-01T18:17:27+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763a4cc196#0</id>
+    <title>Tardigrades as an Emerging Model Animal for Astrobiology Research: A Case Study</title>
+    <updated>2026-06-01T18:17:27+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Chakraborty, S Ray, S Pandit - Model Organisms in Biological Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... origins, evolution, distribution, and future of life . At the core of astrobiology is the search for extraterrestrial life , and the consideration of the ... Ultimately, the study of tardigrades contributes to our understanding of habitable environments on other ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=vCTdEQAAQBAJ&amp;oi=fnd&amp;pg=PA371&amp;dq=(habitable%7Chabitability+planet%7Cplanetary%7Cworld%7Cexoplanet)%7C%22habitale+zone%22%7Cbiosignature%7Castrobiology%7Ctechnosignature%7C(%22search+for%22+~alien%7Cextraterrestrial+life)%7CSETI%7C%22biosignature+detection%22&amp;ots=xl9ipx0rqb&amp;sig=3Pd-PkikWy8Xz4RnmF_embL1myI"/>
+    <published>2026-06-01T18:17:27+00:00</published>
   </entry>
 </feed>
