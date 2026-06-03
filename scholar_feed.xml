@@ -2,107 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-02T10:23:24.976956+00:00</updated>
+  <updated>2026-06-03T10:58:49.767867+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763a69cfb7#0</id>
-    <title>Scientific Articles Lucerne stems as a fibre-rich component in the feeding of lactating Simmental cows</title>
-    <updated>2026-06-01T22:05:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76391d7ef1#0</id>
+    <title>The Shape of Tiles</title>
+    <updated>2026-06-02T21:01:45+00:00</updated>
     <author>
-      <name>Stefan Thurner</name>
+      <name>Alain Goriely</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R RöSSNER, P WEINDL, S THURNER, G BELLOF&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As a regional forage plant, lucerne (Medicago sativa L.) has the potential to be very productive and make an important contribution to the supply of energy, protein and structural fibre in ruminant nutrition. To be able to differentiate between these quality ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
-    <link href="https://openurl.ebsco.com/fulltext/gcd:193729507?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:193729507&amp;crl=f&amp;jrnl=00445401"/>
-    <published>2026-06-01T22:05:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AGoriely&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mosaic patterns and tilings are ubiquitous in nature, appearing in systems ranging from biological tissues to geological formations. Traditionally, these structures have been modelled using polyhedral tilings composed of flat faces, straight edges, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Alain Goriely (keyword alert)</content>
+    <link href="https://www.gresham.ac.uk/sites/default/files/transcript/R_2026_04_15_1018_Goriely_T%202.pdf"/>
+    <published>2026-06-02T21:01:45+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763a69cfb0#2</id>
-    <title>Enhanced inter-lesional heterogeneity on FDG PET correlates with the emergence of novel ctDNA pathogenic mutations and therapeutic resistance in progressing ...</title>
-    <updated>2026-06-01T22:05:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763937ab83#8</id>
+    <title>Physico-chemical, antioxidant and sensory evaluation of Spirulina-enriched dry-fermented sausages with protective microbial cultures addition.</title>
+    <updated>2026-06-03T03:38:16+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Shariftabrizi, S Chaganti, T Heckel, Y Menda, S Jain...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We posited that this increase would correlate with the emergence of new pathogenic mutations and could forecast therapeutic responses in individuals with progressing metastatic ... arXiv preprint arXiv :1802.03426 (2018).[2] Bakdash ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://jnm.snmjournals.org/content/67/supplement_1/261662.abstract"/>
-    <published>2026-06-01T22:05:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Slováček, A Kocandová, Š Nedomová, A Roztočilová...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It was initially assumed that the pH would decrease due to the prebiotic effect of spirulina, which was expected to promote the growth of lactic acid bacteria and thus enhance lactic acid production. However, this hypothesis was not confirmed (p ≥0.05) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/pdf/10.5555/20260188299"/>
+    <published>2026-06-03T03:38:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763a69cfb0#1</id>
-    <title>Emergence of Dynamical Anisotropy induced by Demixing in a Binary System with Differential Diffusivity under an External Potential</title>
-    <updated>2026-06-01T22:05:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763937ab83#7</id>
+    <title>Applying Deep Learning-based Sonar Image Analysis to Exploration of Hydrothermal Activities</title>
+    <updated>2026-06-03T03:38:16+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Trivedi, S Paul, S Kundu, S Kumari -arXivpreprintarXiv:2605.29552, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Spontaneous demixing in active matter is a ubiquitous phenomenon that is crucial for numerous living processes ranging from bacterial swarming to sorting of cells in dense tissues. Here, we systematically investigate the effect of spatially varying ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.29552"/>
-    <published>2026-06-01T22:05:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Mimura, J Kaneko, T Nozaki, T Kasaya, Y Sugimoto... - IEEE Journal of Selected ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Seafloor hydrothermal activity provides significant mineral resources for various metals and serves as an important medium for elucidating the origin of life and material cycling between the ocean and solid Earth. Previous studies have ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ieeexplore.ieee.org/iel8/4609443/4609444/11539982.pdf"/>
+    <published>2026-06-03T03:38:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763a69cfb0#0</id>
-    <title>Eigen-Spike Emergence and Quadratic Equivalents for Conjugate Kernels on Nonlinearly Separable Data</title>
-    <updated>2026-06-01T22:05:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763937ab83#6</id>
+    <title>Upcycling vegetable by-products through lactic acid fermentation into oligosaccharide-rich fractions [Dataset]</title>
+    <updated>2026-06-03T03:38:16+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Cranston, Z Wang, T Kemp, MW Mahoney -arXivpreprintarXiv:2605.29669, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We are particularly interested in this emergence as a function of the following four "knobs" that are widely-used by ML practitioners. ... In each of these cases, we predict the emergence of outlier eigenvalues and whether their associated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2605.29669"/>
-    <published>2026-06-01T22:05:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Calvete-Torre, P López-Revenga, X Vázquez...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Herein, we combined culture-independent and culture-dependent approaches to link microbial community carbohydrate-active potential with polysaccharide restructuring during lactic acid bacteria (LAB)-guided vegetable fermentations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://digital.csic.es/handle/10261/433608"/>
+    <published>2026-06-03T03:38:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763a9d4469#0</id>
-    <title>Case alignment shapes speech production: Evidence from simultaneous Basque-Spanish bilinguals</title>
-    <updated>2026-06-02T06:44:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763937ab83#5</id>
+    <title>Enhanced production, activity and deregulation of β-galactosidase in a new mutant strain Bifidobacterium longum BIM B-813 D: Characterization and industrial ...</title>
+    <updated>2026-06-03T03:38:16+00:00</updated>
     <author>
-      <name>Manuel Carreiras</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Heinzova, M Carreiras, S Mancini&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Verbs with a greater number of arguments (transitives vs. intransitives) or non- canonical argument mapping (unaccusatives vs. unergatives) incur greater processing costs (Thompson &amp; Meltzer-Asscher, 2014). Basque—an ergative ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
-    <link href="https://osf.io/download/8tgdz/"/>
-    <published>2026-06-02T06:44:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Моrozova, N Golovneva, V Kurchenko, I Evdokimov... - International journal of biological ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study aimed to engineer a Bifidobacterium longum strain with enhanced production of the industrially relevant enzyme β-galactosidase. Initial screening of 12 bifidobacterial strains identified B. longum Cf as a high-activity candidate (340 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42214519/"/>
+    <published>2026-06-03T03:38:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763a9d43d0#0</id>
-    <title>УЧЕНЫЕ, ВОЕННЫЕ И СПЕЦСЛУЖБЫ РОССИИ ЖДУТ СПАСИТЕЛЬНОГО ВОССОЗДАНИЯ МГБ РОССИИ...</title>
-    <updated>2026-06-02T06:44:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763937ab83#4</id>
+    <title>◉ The Buffer Zone Effect: Peripheral Controversy, Identity Maintenance, and the Avoidance of Core Theological Risk</title>
+    <updated>2026-06-03T03:38:16+00:00</updated>
     <author>
-      <name>Charles Cockell</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Haqq-Misra, S Som, B Mullan, R Loureiro...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; К сожалению, даже в ФСБ России и вообще в Кремле/АП есть странная недооценка процессов катастрофического глобального потепления Земли и разрушения всей ее биосферы слишком размножившимся человечеством 8 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
-    <link href="https://cont.ws/@biopol/3028063"/>
-    <published>2026-06-02T06:44:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Stilwell&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper analyzes a recurrent pattern in contemporary apologetic culture: energy is displaced from the most vulnerable theological claims to peripheral controversies that feel urgent, identity-forming, and intellectually respectable. Debates about ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/rec/STITBD"/>
+    <published>2026-06-03T03:38:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763a9d42db#0</id>
-    <title>JWST/NIRSpec Spectral Standards for M, L, and T Dwarfs and Subdwarfs</title>
-    <updated>2026-06-02T06:44:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763937ab83#3</id>
+    <title>Paper 132: Origin of Life --The Coherence Bootstrap</title>
+    <updated>2026-06-03T03:38:16+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Pritchard, M Loritsch, J Haynes, S Morrissey... - Research Notes of the AAS, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present low-resolution infrared spectral standards in the 0.76–5.0 μ m range based on JWST NIRspec Prism data from deep sky surveys. Our standards encompass spectral types M, L, and T, and dwarf and subdwarf metallicity classes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/2515-5172/ae736f"/>
-    <published>2026-06-02T06:44:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RD Wike&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Seven persistent anomalies in origin - of - life research are examined through the coherence decay function C= ... abiogenesis problem, the RNA world fragility problem, chirality selection, the warm-pond-versus-deep-vent debate, protocell ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://aiit-threshold.com/papers/PAPER_132_ORIGIN_OF_LIFE_COHERENCE_BOOTSTRAP.pdf"/>
+    <published>2026-06-03T03:38:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763a9d4252#0</id>
-    <title>Training Ecosystems: A Computational Approach to Uncovering Learning Behavior in Unconventional Contexts</title>
-    <updated>2026-06-02T06:44:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763937ab83#2</id>
+    <title>Effect of white radish dietary fiber prebiotic on probiotic characteristics of lactic acid bacteria.</title>
+    <updated>2026-06-03T03:38:16+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Samanta, H Hazan, M Levin - arXiv preprint arXiv:2605.30109, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent progress in diverse intelligence has shown simple learning capacities below the organism level-single cells and even molecular networks. However, there are still many knowledge gaps around learning capacity above the organism level, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://arxiv.org/pdf/2605.30109"/>
-    <published>2026-06-02T06:44:48+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Yuan, A Ren, S Liu, X Lu, J Li, X Tan, F Cui, Z Yu...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prebiotics serve as an ideal dietary supplement due to their ability to promote the growth and metabolism of probiotics. In this study, the white radish dietary fiber was extracted using enzymatic hydrolysis and its physicalchemical properties were ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260187798"/>
+    <published>2026-06-03T03:38:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763a9d4185#0</id>
-    <title>The Seasons of a Career in Physical Chemistry: Rajarshi Chakrabarti</title>
-    <updated>2026-06-02T06:44:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763937ab83#1</id>
+    <title>Appeton lysine: Appeton Multivitamin Lysine With Prebiotic 60'S-HTM Pharmacy</title>
+    <updated>2026-06-03T03:38:16+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Chakrabarti, GD Scholes, GC Solomon, JE Shea - The Journal of Physical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Physical Chemistry Letters. The series celebrates the people behind the physical chemistry, giving researchers at all career stages the opportunity to tell their own stories: how they came to be where they are today, the joys and challenges they ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.6c02788"/>
-    <published>2026-06-02T06:44:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Belanja&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Trẻ em trên 4 tuổi và người lớn: 5ml mỗi ngày. Appeton Multivitamin Lysine Syrup có thể nhỏ trực tiếp vào lưỡi hoặc pha với sữa, nước trái cây hoặc thức ăn.* Dạng Viên Trẻ từ 1-8 tuổi: 1 viên/ngày. Trẻ từ 9 tuổi trở lên: 1–2 viên/ngày. Sử dụng bằng cách ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://shifapharm.fr/articles/aa/full_html/2026/01-nileki-maicr/?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}"/>
+    <published>2026-06-03T03:38:16+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763937ab83#0</id>
+    <title>Amino Acids as Molecular Linchpins in the Fundamental Prebiotic Processes of RNA Copying and Vesicle Formation</title>
+    <updated>2026-06-03T03:38:16+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S DAS, S RAJAMANI, R TEJASHWINI, SS MULEWAR...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in the primordial soup with nucleotides/RNA, amphiphiles and other co-solutes, highlighting the importance of characterizing how they would have influenced relevant prebiotic ... In this work, we characterize the role of amino acids as crucial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="http://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/10911"/>
+    <published>2026-06-03T03:38:16+00:00</published>
   </entry>
 </feed>
