@@ -2,118 +2,195 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-03T10:58:49.767867+00:00</updated>
+  <updated>2026-06-04T09:55:21.106914+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76391d7ef1#0</id>
-    <title>The Shape of Tiles</title>
-    <updated>2026-06-02T21:01:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639c822e9#0</id>
+    <title>Does subjective intensity of stimulus-evoked emotional experience reflect emotional numbing in a non-clinical cohort with depersonalisation experiences?</title>
+    <updated>2026-06-03T19:35:53+00:00</updated>
     <author>
-      <name>Alain Goriely</name>
+      <name>Naotsugu Tsuchiya</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AGoriely&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mosaic patterns and tilings are ubiquitous in nature, appearing in systems ranging from biological tissues to geological formations. Traditionally, these structures have been modelled using polyhedral tilings composed of flat faces, straight edges, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Alain Goriely (keyword alert)</content>
-    <link href="https://www.gresham.ac.uk/sites/default/files/transcript/R_2026_04_15_1018_Goriely_T%202.pdf"/>
-    <published>2026-06-02T21:01:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Kusztor, N Mulay, N Tsuchiya&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Depersonalisation (DP) is often marked by damped emotional experiences. While some research investigated the physiological and neural correlates of emotional numbing in patients with DP disorder, the subjective experiential qualities of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Naotsugu Tsuchiya (author alert)</content>
+    <link href="https://osf.io/download/mkgw2/"/>
+    <published>2026-06-03T19:35:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763937ab83#8</id>
-    <title>Physico-chemical, antioxidant and sensory evaluation of Spirulina-enriched dry-fermented sausages with protective microbial cultures addition.</title>
-    <updated>2026-06-03T03:38:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639c8224c#0</id>
+    <title>Social complexity promotes cooperation and functional integration in large-scale societies.</title>
+    <updated>2026-06-03T19:35:54+00:00</updated>
+    <author>
+      <name>Peter Turchin</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DS Sandeford, P Turchin, MJHJ Lobo&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How do large-scale human societies maintain functional integration? Over the last 12,000 years, polities grew over six orders of magnitude in population, far exceeding the scale at which the interpersonal mechanisms that promote cooperation in small ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Peter Turchin (author alert)</content>
+    <link href="https://osf.io/download/tvrkp/"/>
+    <published>2026-06-03T19:35:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7639c820e6#0</id>
+    <title>A Compositional Calculus for Semantic Synergy in Language Model Embeddings</title>
+    <updated>2026-06-03T19:35:56+00:00</updated>
+    <author>
+      <name>Abel Jansma</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Jansma - 2nd Workshop on Compositional Learning: Safety ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We introduce semantic synergy: a training-free measure of non-compositional representation in language models, obtained by taking the discrete derivative of a phrase embedding over its sub-span structure. Formally, semantic synergy is the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Abel Jansma (author alert)</content>
+    <link href="https://openreview.net/forum?id=sMUVXkAksS"/>
+    <published>2026-06-03T19:35:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0279c#1</id>
+    <title>On the Early History of the Solar System: From Time-Zero to 3.95 Ga</title>
+    <updated>2026-06-03T23:14:06+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RJ Malcuit - ... for the Development ofLifeForms on PlanetsVenus..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Venus , and Mars , the orbital periods range from 1.5 Earth days to 18.8 Earth days. This is by far the most studied and best documented of any exostar- exoplanet ... When we add a moon-mass body in a prograde orbit around such an Earth-mass ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://link.springer.com/chapter/10.1007/978-3-032-15962-5_2"/>
+    <published>2026-06-03T23:14:06+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0279c#0</id>
+    <title>History of Planet Venus as a Sister Planet of Earth</title>
+    <updated>2026-06-03T23:14:06+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RJ Malcuit - ... for the Development ofLifeForms on PlanetsVenus..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... My approach to the Venus problem is that the long-term history of a terrestrial planet (ie, over 4.5 Ga) is very important for deciphering its ... If a planet with a large satellite has some water on the surface, then the tidal regime can be very important ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://link.springer.com/chapter/10.1007/978-3-032-15962-5_5"/>
+    <published>2026-06-03T23:14:06+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#9</id>
+    <title>Nature Mimicry Through Molecular and Supramolecular Interactions in Bioapplication</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Slováček, A Kocandová, Š Nedomová, A Roztočilová...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It was initially assumed that the pH would decrease due to the prebiotic effect of spirulina, which was expected to promote the growth of lactic acid bacteria and thus enhance lactic acid production. However, this hypothesis was not confirmed (p ≥0.05) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cabidigitallibrary.org/doi/pdf/10.5555/20260188299"/>
-    <published>2026-06-03T03:38:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BI Maatouk&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The emergence of life is governed by dynamic supramolecular systems where non-covalent interactions drive essential processes of replication, metabolism, and compartmentalization. Translating these biological principles into synthetic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://repository.kaust.edu.sa/items/63b8deb2-a16a-46d1-a4b0-78a8eee2e436"/>
+    <published>2026-06-03T23:14:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763937ab83#7</id>
-    <title>Applying Deep Learning-based Sonar Image Analysis to Exploration of Hydrothermal Activities</title>
-    <updated>2026-06-03T03:38:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#8</id>
+    <title>How AG1 supports gut health and microbiome balance: Key ingredients and the science behind the formula</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Mimura, J Kaneko, T Nozaki, T Kasaya, Y Sugimoto... - IEEE Journal of Selected ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Seafloor hydrothermal activity provides significant mineral resources for various metals and serves as an important medium for elucidating the origin of life and material cycling between the ocean and solid Earth. Previous studies have ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ieeexplore.ieee.org/iel8/4609443/4609444/11539982.pdf"/>
-    <published>2026-06-03T03:38:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AG Omega&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Supporting the bacteria, fungi, and other microorganisms that make up our guts' microbial community largely comes down to what we eat. A whole foods, plant-based diet includes probiotics that introduce beneficial bacteria and prebiotic plant fibers ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://drinkag1.com/health-guides/articles/key-ingredients-ag1-supports-microbiome-balance"/>
+    <published>2026-06-03T23:14:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763937ab83#6</id>
-    <title>Upcycling vegetable by-products through lactic acid fermentation into oligosaccharide-rich fractions [Dataset]</title>
-    <updated>2026-06-03T03:38:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#7</id>
+    <title>SlimTide 2026 Warning: Red Flags Exposed in the Counterfeit Supplement Market, Consumer Alert for Buyers</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Calvete-Torre, P López-Revenga, X Vázquez...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Herein, we combined culture-independent and culture-dependent approaches to link microbial community carbohydrate-active potential with polysaccharide restructuring during lactic acid bacteria (LAB)-guided vegetable fermentations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://digital.csic.es/handle/10261/433608"/>
-    <published>2026-06-03T03:38:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AOL Finance&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Marketed as a formula to support appetite control and satiety, the supplement has attracted significant attention from consumers seeking natural metabolic support, particularly adults who are researching prebiotic and probiotic supplements for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.lite.aol.com/pf/story/0022/20260522/9725585.htm"/>
+    <published>2026-06-03T23:14:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763937ab83#5</id>
-    <title>Enhanced production, activity and deregulation of β-galactosidase in a new mutant strain Bifidobacterium longum BIM B-813 D: Characterization and industrial ...</title>
-    <updated>2026-06-03T03:38:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#6</id>
+    <title>Gut Modulators Alter BDNF/Cortisol Axis in Severe Obesity: Additional Secondary Outcomes from a Triple-Blind Randomized Trial</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Моrozova, N Golovneva, V Kurchenko, I Evdokimov... - International journal of biological ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study aimed to engineer a Bifidobacterium longum strain with enhanced production of the industrially relevant enzyme β-galactosidase. Initial screening of 12 bifidobacterial strains identified B. longum Cf as a high-activity candidate (340 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42214519/"/>
-    <published>2026-06-03T03:38:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DS Borges, R Fernandes, BBP Martins, SI Kraus... - Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Serum BDNF concentrations decreased significantly after 30 days of prebiotic supplementation (p = 0.017). Serum cortisol concentrations ... Serum TNF-α concentrations increased significantly after 30 days of prebiotic supplementation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2075-1729/16/6/924"/>
+    <published>2026-06-03T23:14:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763937ab83#4</id>
-    <title>◉ The Buffer Zone Effect: Peripheral Controversy, Identity Maintenance, and the Avoidance of Core Theological Risk</title>
-    <updated>2026-06-03T03:38:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#5</id>
+    <title>Oligomerization of Non‐Activated Nucleotides Under Hot Acidic Wet–Dry Cycling Without Catalytic Agents</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Stilwell&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper analyzes a recurrent pattern in contemporary apologetic culture: energy is displaced from the most vulnerable theological claims to peripheral controversies that feel urgent, identity-forming, and intellectually respectable. Debates about ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/rec/STITBD"/>
-    <published>2026-06-03T03:38:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SHJ Eiby, MJ Bjerrum, B Hajdu, L Da Silva... - ChemSystemsChem, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These observations support the RNA world hypothesis, in which RNA served both as genetic and functional polymer in an early life form [7... on the prebiotic Earth [16-18]. Sparse evidence for prebiotic conditions and feedstocks complicates assessment of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/syst.70043"/>
+    <published>2026-06-03T23:14:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763937ab83#3</id>
-    <title>Paper 132: Origin of Life --The Coherence Bootstrap</title>
-    <updated>2026-06-03T03:38:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#4</id>
+    <title>1Scientific RepoRts| 7: 533| DOI: 10.1038/s41598-017-00558-1 www. nature. com/scientificreports Catalyzed Synthesis of Zinc Clays by Prebiotic Central Metabolites</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RD Wike&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Seven persistent anomalies in origin - of - life research are examined through the coherence decay function C= ... abiogenesis problem, the RNA world fragility problem, chirality selection, the warm-pond-versus-deep-vent debate, protocell ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://aiit-threshold.com/papers/PAPER_132_ORIGIN_OF_LIFE_COHERENCE_BOOTSTRAP.pdf"/>
-    <published>2026-06-03T03:38:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Zhou, K Basu, H Hartman, CJ Matocha, SK Sears...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... catalysts coevolved remains a mystery in the puzzle to understand the origin of life . While ... One of the major scientific questions that remains unresolved is how the origin of life occurred1. Within the preb- ... Within the origin of life framework, a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/6f29b242-ebae-4a3b-8b45-2783abd52163/content"/>
+    <published>2026-06-03T23:14:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763937ab83#2</id>
-    <title>Effect of white radish dietary fiber prebiotic on probiotic characteristics of lactic acid bacteria.</title>
-    <updated>2026-06-03T03:38:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#3</id>
+    <title>Controlled biosynthesis of curdlan oligosaccharides with tunable degree of polymerization and their prebiotic effects on gut microbiota</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Yuan, A Ren, S Liu, X Lu, J Li, X Tan, F Cui, Z Yu...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prebiotics serve as an ideal dietary supplement due to their ability to promote the growth and metabolism of probiotics. In this study, the white radish dietary fiber was extracted using enzymatic hydrolysis and its physicalchemical properties were ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260187798"/>
-    <published>2026-06-03T03:38:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Pan, Y Wang, Z Liu, T Liang, Z Chang, Q Wang... - Bioresource technology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Curdlan oligosaccharides (GOS) possess unique physiological and biochemical activities. In this study, an enzyme-assisted coupled fermentation system was developed to efficiently produce GOS with a controllable degree of polymerization (DP) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42217800/"/>
+    <published>2026-06-03T23:14:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763937ab83#1</id>
-    <title>Appeton lysine: Appeton Multivitamin Lysine With Prebiotic 60'S-HTM Pharmacy</title>
-    <updated>2026-06-03T03:38:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#2</id>
+    <title>Effect of dietary supplementation of prebiotic based on inulin and yeast cell wall on performance, microbial population, and intestinal morphology of broiler chickens</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Belanja&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Trẻ em trên 4 tuổi và người lớn: 5ml mỗi ngày. Appeton Multivitamin Lysine Syrup có thể nhỏ trực tiếp vào lưỡi hoặc pha với sữa, nước trái cây hoặc thức ăn.* Dạng Viên Trẻ từ 1-8 tuổi: 1 viên/ngày. Trẻ từ 9 tuổi trở lên: 1–2 viên/ngày. Sử dụng bằng cách ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://shifapharm.fr/articles/aa/full_html/2026/01-nileki-maicr/?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}"/>
-    <published>2026-06-03T03:38:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AH Alizadeh-Ghamsari, H Hajati, SA Moftakharzadeh... - Research On Animal Production&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Therefore, this study was designed and conducted with the aim of evaluating the effects of combined prebiotic on productive traits, ... prebiotic groups was observed in birds receiving 750 g of prebiotic per ton of feed (P&lt;0.05). Supplementation with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://rap.sanru.ac.ir/browse.php?a_id=1570&amp;sid=1&amp;slc_lang=en&amp;ftxt=0"/>
+    <published>2026-06-03T23:14:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763937ab83#0</id>
-    <title>Amino Acids as Molecular Linchpins in the Fundamental Prebiotic Processes of RNA Copying and Vesicle Formation</title>
-    <updated>2026-06-03T03:38:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#1</id>
+    <title>The Inulin Functionality as a Prebiotic Used in Heat Stress Conditions in Broilers' Diet on Growth Performance, Intestinal Microbiota, Blood Parameters and Intestinal ...</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S DAS, S RAJAMANI, R TEJASHWINI, SS MULEWAR...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in the primordial soup with nucleotides/RNA, amphiphiles and other co-solutes, highlighting the importance of characterizing how they would have influenced relevant prebiotic ... In this work, we characterize the role of amino acids as crucial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="http://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/10911"/>
-    <published>2026-06-03T03:38:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CG Tudorică, L Tudor, GM Cornescu, A Cișmileanu... - ... PAPERS ANIMAL SCIENCE ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; O posibilă sursă alternativă la antibiotice ar putea fi utilizarea unor probiotice și prebiotice specifice, cum ar fi inulina. În acest studiu, am efectuat un studiu experimental de 42 de zile pe 75 de pui de carne ROSS 308 în vârstă de o zi ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.spasb.ro/index.php/public_html/article/download/2457/2330"/>
+    <published>2026-06-03T23:14:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7639d0272a#0</id>
+    <title>A designed prebiotic mixture alleviates atopic dermatitis and restores intestinal dysbiosis in mice.</title>
+    <updated>2026-06-03T23:14:07+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Yu, Y Wang, L Li, X Chen, N Wang, H Wang&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Atopic dermatitis (AD) is a type of allergic skin disorder with high occurrence frequency.In this study, multiple prebiotics with immunomodulatory properties, including fructooligosaccharides (FOS), galactooligosaccharides (GOS) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260152641"/>
+    <published>2026-06-03T23:14:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7639f80d1e#0</id>
+    <title>Emergence of spin entanglement with the pseudogap onset in the Fermi-Hubbard model</title>
+    <updated>2026-06-04T03:25:13+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Bippus, T Chalopin, G Bellomia, G Roósz, T Franz... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Despite decades of intense theoretical and experimental investigation, the two-dimensional Fermi-Hubbard model still resists a complete microscopic understanding. Conventional approaches typically probe global observables and locally resolved ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2605.31240"/>
+    <published>2026-06-04T03:25:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7639f80cfc#0</id>
+    <title>Lucerne stems as a fibre-rich component in the feeding of lactating Simmental cows.</title>
+    <updated>2026-06-04T03:25:13+00:00</updated>
+    <author>
+      <name>Stefan Thurner</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Rössner, P Weindl, S Thurner, G Bellof&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As a regional forage plant, lucerne (Medicago sativa L.) has the potential to be very productive and make an important contribution to the supply of energy, protein and structural fibre in ruminant nutrition. To be able to differentiate between these quality ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260123271"/>
+    <published>2026-06-04T03:25:13+00:00</published>
   </entry>
 </feed>
