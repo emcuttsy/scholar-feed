@@ -2,19 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-05T16:23:34.284391+00:00</updated>
+  <updated>2026-06-06T08:33:32.436194+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7638d03eb6#0</id>
-    <title>When Do Attention Circuits Form? Developmental Trajectories of Capability and Attention-Sink Emergence Across Three 1B-ClassArchitectures</title>
-    <updated>2026-06-05T10:02:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763f6162f4#0</id>
+    <title>Adhesion-driven rigidity transition decoupled from density-driven jamming triggers epithelial organization in embryonic tissues</title>
+    <updated>2026-06-06T06:49:08+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Bernat Corominas-Murtra</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Xu -arXivpreprintarXiv:2606.02378, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We position this paper as the activation-space half of an emergence story whose parameter-... by 10–20× in tokens and have different emergence shapes (gradual ramp vs sharp jump). The ... This paper is the activation-space half of a broader ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.02378"/>
-    <published>2026-06-05T10:02:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Rustarazo-Calvo, C Pallares-Cartes... - Nature Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The active regulation of tissue material properties via phase transitions is central in morphogenesis. Transitions occur abruptly at critical points in different control parameters, such as cell density, shape or adhesion. Whether these parameters are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Bernat Corominas-Murtra (author alert)</content>
+    <link href="https://www.nature.com/articles/s41567-026-03276-6"/>
+    <published>2026-06-06T06:49:08+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f64b9ab#0</id>
+    <title>Magnetic field strengths of hot giant exoplanets consistent with Solar System values</title>
+    <updated>2026-06-06T07:42:12+00:00</updated>
+    <author>
+      <name>Björn Benneke</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JV Seidel, V Parmentier, B Prinoth, T Hood, N Mehta... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Magnetic fields are a key factor in the evolution of planets and their atmospheres, but they are still poorly constrained for exoplanets owing to limited direct observations. Ultra-hot Jupiters provide a new avenue to probe magnetic effects, as the circulation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://www.nature.com/articles/s41550-026-02870-1"/>
+    <published>2026-06-06T07:42:12+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f64b932#1</id>
+    <title>A biologically informed framework for instrument selection in dietary Mendelian randomization using chemosensory genetics</title>
+    <updated>2026-06-06T07:42:13+00:00</updated>
+    <author>
+      <name>Nick Martin</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LD Hwang, C Lin, DM Evans, NG Martin, DR Reed... - BMC Medicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Mendelian randomization (MR) is increasingly used to strengthen causal inference in nutritional epidemiology. However, dietary MR studies often rely on instruments selected from genome-wide association studies of self-reported ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s12916-026-04966-x"/>
+    <published>2026-06-06T07:42:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f64b932#0</id>
+    <title>Cardiac FGF21 acts as an endocrine suppressor of female fertility in mitochondrial cardiomyopathy</title>
+    <updated>2026-06-06T07:42:13+00:00</updated>
+    <author>
+      <name>Nick Martin</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Verdin, O Bielska, W Jara, P Kumaar...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cardiomyopathy is clinically associated with female infertility, yet whether the failing heart directly suppresses reproduction has remained unknown. Here we identify a heart–brain endocrine axis in which pathological cardiac stress induces systemic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://www.researchsquare.com/article/rs-9548570/latest.pdf"/>
+    <published>2026-06-06T07:42:13+00:00</published>
   </entry>
 </feed>
