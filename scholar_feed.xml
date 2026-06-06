@@ -2,52 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-06T08:33:32.436194+00:00</updated>
+  <updated>2026-06-06T15:03:33.036337+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763f6162f4#0</id>
-    <title>Adhesion-driven rigidity transition decoupled from density-driven jamming triggers epithelial organization in embryonic tissues</title>
-    <updated>2026-06-06T06:49:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763f844503#0</id>
+    <title>THE POSSIBILITY OF EXTRATERRESTRIAL LIFE : AN ANALYSIS OF SCIENTIFIC EVIDENCE AND MODERN RESEARCH METHODOLOGIES</title>
+    <updated>2026-06-06T13:20:14+00:00</updated>
     <author>
-      <name>Bernat Corominas-Murtra</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Rustarazo-Calvo, C Pallares-Cartes... - Nature Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The active regulation of tissue material properties via phase transitions is central in morphogenesis. Transitions occur abruptly at critical points in different control parameters, such as cell density, shape or adhesion. Whether these parameters are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Bernat Corominas-Murtra (author alert)</content>
-    <link href="https://www.nature.com/articles/s41567-026-03276-6"/>
-    <published>2026-06-06T06:49:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; U Rukhshona - O'zbekiston davlat jahon tillari universiteti ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This article provides information about the existence of life on other planets , ... biosignatures and perhaps habitable planets , artificial intelligence has emerged as a useful ... appropriate temperatures, planets in habitable zones are thought to be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="http://conference.uzswlu.uz/conf/article/download/3267/3693"/>
+    <published>2026-06-06T13:20:14+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763f64b9ab#0</id>
-    <title>Magnetic field strengths of hot giant exoplanets consistent with Solar System values</title>
-    <updated>2026-06-06T07:42:12+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763f844481#2</id>
+    <title>requirements for the degree of Doctor of Philosophy University of Washington 2023 Reading Committee</title>
+    <updated>2026-06-06T13:20:15+00:00</updated>
     <author>
-      <name>Björn Benneke</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JV Seidel, V Parmentier, B Prinoth, T Hood, N Mehta... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Magnetic fields are a key factor in the evolution of planets and their atmospheres, but they are still poorly constrained for exoplanets owing to limited direct observations. Ultra-hot Jupiters provide a new avenue to probe magnetic effects, as the circulation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://www.nature.com/articles/s41550-026-02870-1"/>
-    <published>2026-06-06T07:42:12+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Catling, KJ Zahnle, R Buick, R Barnes&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... H2 and CO2 or CO and water vapor is an anti- biosignature if observed on an exoplanet ... produced in the Hadean atmosphere in the wake of large asteroid impacts. Both HCN ... To aid our understanding for how life might impact an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/0da5a940-b2cc-449f-9346-99c4d24adb47/content"/>
+    <published>2026-06-06T13:20:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763f64b932#1</id>
-    <title>A biologically informed framework for instrument selection in dietary Mendelian randomization using chemosensory genetics</title>
-    <updated>2026-06-06T07:42:13+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763f844481#1</id>
+    <title>Late infall of molecular cloud material reshaped the outer Solar System</title>
+    <updated>2026-06-06T13:20:15+00:00</updated>
     <author>
-      <name>Nick Martin</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LD Hwang, C Lin, DM Evans, NG Martin, DR Reed... - BMC Medicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Mendelian randomization (MR) is increasingly used to strengthen causal inference in nutritional epidemiology. However, dietary MR studies often rely on instruments selected from genome-wide association studies of self-reported ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s12916-026-04966-x"/>
-    <published>2026-06-06T07:42:13+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E van Kooten, SS Lodal, I Onyett, LR Pohlmann... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... organic compounds— to the inner, initially hot and volatile-poor terrestrial planet -forming region. These materials are essential for establishing potentially habitable environments and directly influence the emergence of life ... that CI chondrites ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.04529"/>
+    <published>2026-06-06T13:20:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763f64b932#0</id>
-    <title>Cardiac FGF21 acts as an endocrine suppressor of female fertility in mitochondrial cardiomyopathy</title>
-    <updated>2026-06-06T07:42:13+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763f844481#0</id>
+    <title>Predictive Rankings of the Probability for Temperate Terrestrial Worlds for the HWO ExEP Mission Star List</title>
+    <updated>2026-06-06T13:20:15+00:00</updated>
     <author>
-      <name>Nick Martin</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Verdin, O Bielska, W Jara, P Kumaar...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cardiomyopathy is clinically associated with female infertility, yet whether the failing heart directly suppresses reproduction has remained unknown. Here we identify a heart–brain endocrine axis in which pathological cardiac stress induces systemic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-9548570/latest.pdf"/>
-    <published>2026-06-06T07:42:13+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Dietrich, K Ruppert, A Ware, PA Young - arXiv preprint arXiv:2606.04105, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... direct spectroscopy of exoplanet reflected light to investigate their atmospheres for biosignatures . ... of 50% likely to host a temperate terrestrial planet . We also consider the possibility of a giant ... In our own Solar System, there are multiple opinions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.04105"/>
+    <published>2026-06-06T13:20:15+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#9</id>
+    <title>Human Milk Oligosaccharides: Shaping the Anti-Infective Status in Infancy</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OR Temneanu, O Novac, A Mihai, F Trofin... - Microorganisms, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... While the prebiotic and immune-modulatory functions of HMOs have received substantial attention, a body of evidence has emerged over ... and antibiofilm activity against clinically relevant pathogens; selective prebiotic modulation of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2076-2607/14/6/1261"/>
+    <published>2026-06-06T13:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#8</id>
+    <title>Gum Arabic as a functional feed additive in poultry and rabbits: a comprehensive review of growth, physiology, and stress resilience</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A El-Aziz, H Ayman, AM Elbaz, D Mota-Rojas... - Tropical Animal Health and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It seems that the bioactivity of GA relates to prebiotic fermentation, SCFA production, epithelial barrier enhancement, and anti-inflammatory activity. These results place GA as a potential natural candidate for enhancing animal welfare ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s11250-026-05127-1"/>
+    <published>2026-06-06T13:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#7</id>
+    <title>The importance of dandelion (Taraxacum officinale) in the bakery industry and in the development of hypoglycemic functional foods.</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Argyelan, K Vrandecic, E Alexa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This research investigates the feasibility of incorporating dandelion (Taraxacum officinale) as a functional ingredient in bakery applications, with a particular focus on the production of reduced-carbohydrate foods. The plant exhibits a diverse ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260261095"/>
+    <published>2026-06-06T13:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#6</id>
+    <title>Synbiotic Effects of Millet–Yogurt (Gado-Gado) on Protein Status and Immune Function in a Rural Sudanese Population</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HM Amin, AM Fadlalla, MEM Mustafa, WE Mustafa - مجلة جامعة أم درمان الإسلامية للعلوم ..., 2026‎&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Synbiotic foods, which combine probiotics and prebiotics, are increasingly recognized for their ability to modulate gut microbiota, enhance nutrient absorption, and strengthen immune function. In Sudan, Gado-Gado—a traditional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journal.oiu.edu.sd/index.php/oiujas/article/download/3657/2940"/>
+    <published>2026-06-06T13:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#5</id>
+    <title>Detection of a four-carbon sugar in interstellar space</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Jimenez-Serra, JG de la Concepcion, HM Cuppen... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... A central question in origin - of - life research is how monosaccharides formed on the primitive Earth, as laboratory experiments under prebiotic conditions yield insufficient concentrations. The detection of ribose, glucose and other ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.03313"/>
+    <published>2026-06-06T13:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#4</id>
+    <title>Isoflavonoids from Iris albicans as a carbon source to enhance the anti-aging potential of lactic acid bacteria-derived postbiotics</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Elbermawi, MS Darwish, NA Abou-Zeid, AA Zaki... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study evaluated the antioxidant, antiglycation, and prebiotic potential of postbiotics produced by lactic acid bacteria using Iris albicans ... albicans extract exhibited notably high prebiotic activity toward probiotic strains. Overall, I. albicans ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41598-026-52823-x"/>
+    <published>2026-06-06T13:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#3</id>
+    <title>In this together</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Hooper - New Scientist, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... are mimicking the possible conditions at the origin of life and starting to make their own protocells... This is more like what Woese imagined had happened at the origin of life . He, too, suggested that ... the origin of life in the lab. And even if, one ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0262407926008560"/>
+    <published>2026-06-06T13:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#2</id>
+    <title>AHAM BIJA-PRADAH PITA</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CR Shankara - JSKP, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... First proposed in the 1920s independently by Alexander Oparin and John Haldane, the Primordial Soup Theory is probably the main scientific explanation for the origin of life . The theory suggests that basic organic compounds were formed in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.jskpjournal.com/index.php/jskp/article/download/8/8"/>
+    <published>2026-06-06T13:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#1</id>
+    <title>Membranes as the earliest entropy resisting structures in the origin of life</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Laouris - Discover Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Traditional hypotheses, such as the RNA World and Metabolism - First models, emphasize ... Other prebiotic organizing structures, such as mineral surfaces and coacervate-like droplets... By systematically comparing existing origin - of - life theories ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s11084-026-09730-y"/>
+    <published>2026-06-06T13:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763f8443e6#0</id>
+    <title>Production and analysis of exopolysaccharides from Bifidobacterium bifidum and Bifidobacterium animalis subsp. lactis: Genomic basis, structure, and prebiotic ...</title>
+    <updated>2026-06-06T13:20:17+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Tang, T Lin, C Xu, X Fan, K Ma, C Zhang, S Geng... - Process Biochemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigates the production and prebiotic properties of exopolysaccharides (EPS) from Bifidobacterium bifidum 3469 (BBF-EPS) and B. animalis subsp. lactis 9749 (BAL-EPS). To eliminate interference from exogenous ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1359511326001352"/>
+    <published>2026-06-06T13:20:17+00:00</published>
   </entry>
 </feed>
