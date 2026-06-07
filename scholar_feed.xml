@@ -2,52 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-07T08:55:41.606397+00:00</updated>
+  <updated>2026-06-07T15:16:13.774915+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763fc12794#3</id>
-    <title>Study via Approximate Symmetries of the Emergence of Secondary Flux in the Bevilacqua-Gale\~ ao Model</title>
-    <updated>2026-06-07T01:32:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763e1a63a7#0</id>
+    <title>The Cosmological Hart-Tipler Conjecture</title>
+    <updated>2026-06-07T15:16:11+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>David Kipping</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Bozhkov, S Dimas, AJS Neto -arXivpreprintarXiv:2606.04230, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We investigate the "analytic emergence " of this secondary flux by treating the model as a (singular) perturbation of the heat equation, which describes the classical diffusion. Rather than applying traditional perturbation methods, or a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.04230"/>
-    <published>2026-06-07T01:32:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Kipping - arXiv preprint arXiv:2606.04044, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Self-reproducing automata, so-called von Neumann machines, have been repeatedly estimated to be capable of traversing the Galaxy many times given its age. Our mere existence thus seems to exclude an aggressive variant of such a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.04044"/>
+    <published>2026-06-07T15:16:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763fc12794#2</id>
-    <title>Emergence of Macroscopic Quantum Order via Translational Zero Modes</title>
-    <updated>2026-06-07T01:32:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763e1a6317#0</id>
+    <title>RESEA RCH ART ICLE Preliminary evidence for selective cortical responses tomusic in one-month-old infants Heather L. Kosakowski1, 2, 3 Samuel Norman ...</title>
+    <updated>2026-06-07T15:16:13+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Nancy Kanwisher</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Gundogdu -arXivpreprintarXiv:2606.04187, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Macroscopic quantum coherence in solids, such as in superfluids, superconductors, and condensates, is generally limited to low temperatures because order forms within a fixed excitation spectrum whose competing states become thermally ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.04187"/>
-    <published>2026-06-07T01:32:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Takahashi, R Saxe, N Kanwisher&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; aParameter estimates from a linear mixed-effects model for the intercept and three control condition regressors. In the music&gt; speech fROI analysis, the intercept indicates the effect size of the music responserelative to scanner noise, themmMusic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nancy Kanwisher (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/498166b4-5a0b-43b8-898a-e42b4db25f0e/content"/>
+    <published>2026-06-07T15:16:13+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763fc12794#1</id>
-    <title>Real Part Emergence in Purely Imaginary Quasinormal Modes in Perturbed de Sitter Braneworlds</title>
-    <updated>2026-06-07T01:32:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763e1a6307#1</id>
+    <title>J0404+ 1112: A 3-Hour Eclipsing White Dwarf-Brown Dwarf Probing Multiple Atmospheric Regimes</title>
+    <updated>2026-06-07T15:16:13+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HL Jia, WD Guo, YT Gu, YX Liu -arXivpreprintarXiv:2606.04424, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For braneworlds with infinite extra dimensions, an analysis of the stability of the characteristic spectrum is essential for understanding their dynamical properties. In this study, we investigate the stability of the gravitational perturbation spectrum in a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.04424"/>
-    <published>2026-06-07T01:32:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J de Wit, R Alonso, BV Rackham, SM Lederer... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; White dwarf-brown dwarf (WD+ BD) binaries are rare laboratories for probing both substellar survival through post-main-sequence evolution and the physics of strongly irradiated atmospheres. We present time-resolved eclipse photometry and radial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.03737"/>
+    <published>2026-06-07T15:16:13+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763fc12794#0</id>
-    <title>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</title>
-    <updated>2026-06-07T01:32:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763e1a6307#0</id>
+    <title>A Previously Underexplored Regime in TESS: Minute-Scale Eclipses Reveal Ten White Dwarf-Cool M-Dwarf Binaries</title>
+    <updated>2026-06-07T15:16:13+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Tang, J Li, Y Hou, Z Mei, C Zhang, X Wan, Z Liang... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... evaluate non-linear emergence . This principled two-tier decomposition, individual cognition versus collective emergence , forms the central diagnostic ... Rather than viewing this as an abstract emergence , we focus on two concrete tasks: outcome ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.04184"/>
-    <published>2026-06-07T01:32:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Cavalier, J de Wit, M Timmermans, BV Rackham... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Short-period white-dwarf (WD) binaries are post-common-envelope systems that constrain orbital shrinkage, envelope evolution, and the survival of low-mass companions. We report the discovery and confirmation of ten fully eclipsing short ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.03850"/>
+    <published>2026-06-07T15:16:13+00:00</published>
   </entry>
 </feed>
