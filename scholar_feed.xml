@@ -2,63 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-08T10:54:39.949833+00:00</updated>
+  <updated>2026-06-08T16:59:38.703456+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763e1a627d#0</id>
-    <title>The language network responds robustly to sentences across tasks</title>
-    <updated>2026-06-07T15:16:14+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763e859d5d#2</id>
+    <title>Majorana-like fermion physics: Emergence of topologically protected vortical states in graphene interacting with an electromagnetic field</title>
+    <updated>2026-06-08T11:15:25+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Gao, C Cheung, M Siegelman, ALA Pongos... - Imaging Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A network of left frontal and temporal brain areas supports language comprehension and production, implementing computations related to word retrieval and combinatorial linguistic processing. Here, we ask: to what extent are responses to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.1283/2604250/imag.a.1283.pdf"/>
-    <published>2026-06-07T15:16:14+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HV Grushevskaya, G Krylov -arXivpreprintarXiv:2606.05746, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Within the framework of a quasi-relativistic model of graphene that admits topologically nontrivial Majorana-like quasiparticle excitations, appearance of such vortex states in the frequency dependencies of the complex dielectric permittivity of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.05746"/>
+    <published>2026-06-08T11:15:25+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763e1a61ec#0</id>
-    <title>Digital MULTIMAP: a standardization of objects and actions naming task in a french population</title>
-    <updated>2026-06-07T15:16:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763e859d5d#1</id>
+    <title>Superconductivity beyond band geometry: emergence of pair quantum geometry</title>
+    <updated>2026-06-08T11:15:25+00:00</updated>
     <author>
-      <name>Manuel Carreiras</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Barberis, A Malewski, F Tarpin-Bernard, I Quiñones... - Acta Neurochirurgica, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose Picture naming is a widely used task for perioperative language assessment and brain mapping in awake surgery for brain tumors. Although there is a consensus on this task between centers performing this type of surgery, the tests ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00701-026-06927-y"/>
-    <published>2026-06-07T15:16:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MA Keskiner, M Işkın -arXivpreprintarXiv:2606.06017, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum geometry shapes the effective mass of Bloch particles through the geometric properties of single-particle states. Here we show that this principle extends to paired states. Starting from a generic multiband Hubbard model, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.06017"/>
+    <published>2026-06-08T11:15:25+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763e1a6181#0</id>
-    <title>Collision Resistance of Single-Layer Neural Nets</title>
-    <updated>2026-06-07T15:16:17+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763e859d5d#0</id>
+    <title>On Leadership Emergence in Opinion Dynamics on Social Networks</title>
+    <updated>2026-06-08T11:15:25+00:00</updated>
     <author>
-      <name>Marc Mezard</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Benedetti, A Bogdanov, EM Malatesta, M Mézard... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We initiate the study of the algorithmic complexity of finding collisions in single-layer binary neural networks. Given a random matrix $\mathbf {A}\in\mathbb {R}^{m\times n} $, an input $\mathbf {x}\in\{-1, 1\}^ n $ is mapped to a binary output vector $\varphi ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Marc Mezard (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.03807"/>
-    <published>2026-06-07T15:16:17+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Alutto, L Zino, KH Johansson, A Fontan -arXivpreprintarXiv:2606.05825, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... emergence in opinion dynamics on social networks. Specifically, grounded in the social psychology literature on leadership emergence [14... After formalizing the coupled model of leadership emergence and opinion formation, we establish ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.05825"/>
+    <published>2026-06-08T11:15:25+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763e1a6014#1</id>
-    <title>J0404+ 1112: A 3-Hour Eclipsing White Dwarf-Brown Dwarf Probing Multiple Atmospheric Regimes</title>
-    <updated>2026-06-07T15:16:21+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#9</id>
+    <title>Polysaccharides in Fruits and Their Bioactivities</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
     <author>
-      <name>Elsa Ducrot</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J de Wit, R Alonso, BV Rackham, SM Lederer... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; White dwarf-brown dwarf (WD+ BD) binaries are rare laboratories for probing both substellar survival through post-main-sequence evolution and the physics of strongly irradiated atmospheres. We present time-resolved eclipse photometry and radial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.03737"/>
-    <published>2026-06-07T15:16:21+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FMM Pereira, IC Oliveira, SS Ribeiro, BP Moreira...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Thus, various studies aim to understand and optimize these processes by comprehending prebiotic activity, which refers to the ability of ... obtained by enzymatic hydrolysis showed a positive prebiotic value, being higher than that of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&amp;identifierValue=10.1201/9781003668169-8&amp;type=chapterpdf"/>
+    <published>2026-06-08T13:48:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763e1a6014#0</id>
-    <title>A Previously Underexplored Regime in TESS: Minute-Scale Eclipses Reveal Ten White Dwarf-Cool M-Dwarf Binaries</title>
-    <updated>2026-06-07T15:16:21+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#8</id>
+    <title>Toward a Unified Ontology of Structure and Meaning: Cosmological Gradients, Symbolic Communication, and Biological Mass Formation</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
     <author>
-      <name>Elsa Ducrot</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Cavalier, J de Wit, M Timmermans, BV Rackham... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Short-period white-dwarf (WD) binaries are post-common-envelope systems that constrain orbital shrinkage, envelope evolution, and the survival of low-mass companions. We report the discovery and confirmation of ten fully eclipsing short ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.03850"/>
-    <published>2026-06-07T15:16:21+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Rojas&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This article develops a unified ontological framework in which gradients—cosmological, biological, and semiotic—constitute the fundamental operators of structure and meaning. I argue that the universe's first differentiating event establishes a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philpapers.org/archive/ROJTAU.pdf"/>
+    <published>2026-06-08T13:48:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#7</id>
+    <title>Best Probiotic Supplement: What Actually Matters The probiotic market is flooded with options. Most of them won't survive your stomach acid, let alone improve your ...</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CFU Count&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Vital Flora Advanced Biome packs 100 billion CFU across 100 diverse strains with 10 organic prebiotic fibers. It's designed for those who want maximum microbiome support, whether recovering from a health challenge or pursuing the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.vitalplanet.com/blogs/vital-knowledge/best-probiotic-supplement-buying-guide"/>
+    <published>2026-06-08T13:48:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#6</id>
+    <title>A Critical UV Legacy: A Hubble Roadmap for HWO Science Readiness</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Peacock, AS Zelakewicz, L Kaltenegger, BA Binder... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Far-ultraviolet (FUV) and near-ultraviolet (NUV) photons regulate key photochemical pathways, influence ozone stability, and drive the formation of prebiotic molecules. However, the majority of high-priority HWO target stars lack high-quality ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.05364"/>
+    <published>2026-06-08T13:48:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#5</id>
+    <title>Extraterrestrial amino acids evolve differently in asteroid Bennu and Ryugu: Possible mechanisms and future perspectives</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Li, N Kitadai, J Yu, P Zhang - Fundamental Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life on early Earth remains unsolved. One of the fundamental questions is the sources of life's building blocks. Amino acids, ... amino acids), it has long been proposed that extraterrestrial amino acids could have contributed to the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2667325826004255"/>
+    <published>2026-06-08T13:48:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#4</id>
+    <title>Synergistic Enhancement of Fecal GABA Content by Bifidobacterium adolescentis 4-2 and Mannooligosaccharides in a Human Intestinal Flora Model</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Altaib, T Suzuki, T Morioka, M Abe, Y Badr - Frontiers in Bioscience-Elite, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our study provides experimental evidence that prebiotic -probiotic combinations can be optimized to enhance microbial GABA production, thereby highlighting their potential as psychobiotics for both animal and human trials. It is important to note ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.imrpress.com/journal/FBE/18/2/10.31083/FBE44158"/>
+    <published>2026-06-08T13:48:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#3</id>
+    <title>Periodic Temperature Fluctuations as an Energy Source for RNA Evolution</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Mayer - Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The basic idea of RNA being the key polymer in the origin of life was initially proposed in the 1960s [1,2,3]. It was driven by the discovery ... RNA world [6]. Since its inception in 1986, this model has dominated a broader discussion on prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2075-1729/16/6/958"/>
+    <published>2026-06-08T13:48:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#2</id>
+    <title>Synthesis of acetylated raffinose and its mechanism of action in regulating gut microbiota to alleviate cyclophosphamide-induced immunosuppression in mice</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Liu, W Zhao, X Bao, Y Fan, Y Chen - Bioorganic chemistry&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Raffinose (Raf) exhibits antioxidant, hepatoprotective, and immune-enhancing activities; however, its inferior bioactivity and poor prebiotic ... Collectively, acetylation modification markedly enhances the prebiotic activity of Raf, providing a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42242014/"/>
+    <published>2026-06-08T13:48:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#1</id>
+    <title>The Prebiotic 2′-Fucosyllactose Ameliorates Colitis via an Akkermansia muciniphila-Mediated Prebiotic -Microbiota-Metabolite Axis</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Xia, J Ge, Y Shuai - Journal of Agricultural and Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent studies indicate that 2′-fucosyllactose (2′-FL), a human milk oligosaccharide, alleviates inflammatory bowel disease (IBD) by modulating the gut microbiota, yet the underlying mechanisms and key functional bacteria involved ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/doi/abs/10.1021/acs.jafc.5c15443"/>
+    <published>2026-06-08T13:48:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763eae0d4a#0</id>
+    <title>Potential of Agave spp. in Thailand as an alternative prebiotic sweetener: optimization of prebiotic extraction and functional evaluation of agave syrup</title>
+    <updated>2026-06-08T13:48:07+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Ninchan, C Noidee, S Songbang, B Wanikorn... - Journal of Agriculture and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Agave is a drought-resistant plant commonly used as an ornamental in Thailand. Despite its potential, the applications of agave remain limited. This research optimized extraction of fructo-oligosaccharides (FOSs) from the agave tuber, by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2666154326004242"/>
+    <published>2026-06-08T13:48:07+00:00</published>
   </entry>
 </feed>
