@@ -2,118 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-10T09:59:43.336443+00:00</updated>
+  <updated>2026-06-11T10:24:08.999933+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dd7c#0</id>
-    <title>Venus as a baseline in the search for life</title>
-    <updated>2026-06-10T02:25:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c60548d#0</id>
+    <title>Version of Record: https://www. sciencedirect. com/science/article/pii/S0010945219304071 Manuscript_6a607fe62dab70738bfcfc5f5370ae78 Response Patterns in ...</title>
+    <updated>2026-06-10T23:43:34+00:00</updated>
+    <author>
+      <name>Nancy Kanwisher</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Richardson, H Gweon, D Dodell-Feder, C Malloy...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Version of Record: https://www.sciencedirect.com/science/article/pii/S0010945219304071 Manuscript_6a607fe62dab70738bfcfc5f5370ae78 Response Patterns in the Developing Social Brain are Organized by Social and Emotion Features and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nancy Kanwisher (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/0deaf7b9-8f10-4df3-8722-3c8d720cc8b7/content"/>
+    <published>2026-06-10T23:43:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763c605346#1</id>
+    <title>Investigating the Interplay of Macroscopic Wave Propagation and Microscopic Nonperturbative Nonlinearities in Bulk Solids</title>
+    <updated>2026-06-10T23:43:37+00:00</updated>
+    <author>
+      <name>Gregory Scholes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AN Hejazi, N Karpowicz, GD Scholes, JM Mikhailova - 57th Annual Meeting of the APS ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Intense, few-cycle laser pulses propagating through a medium may couple with the microscopic polarization to induce strong nonlinear interactions. Under sufficiently high fields, these interactions are no longer fully captured by the conventional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://meetings-archive.aps.org/damop/2026/d00/82/"/>
+    <published>2026-06-10T23:43:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763c605346#0</id>
+    <title>Propagation Simulation Frameworks for Nonperturbative Nonlinear Optics in Bulk Solids</title>
+    <updated>2026-06-10T23:43:37+00:00</updated>
+    <author>
+      <name>Gregory Scholes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AN Hejazi, I Tigges-Green, N Karpowicz, GD Scholes... - APS Global Physics Summit 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Intense, few-cycle light pulses propagating through a medium will couple with the microscopic polarization of that medium and induce strong nonlinear interactions which alter the characteristics of the light. The complex nature of the many competing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://meetings-archive.aps.org/smt/2026/mar-t00-06/2/"/>
+    <published>2026-06-10T23:43:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763c6052ee#1</id>
+    <title>Unraveling the Complexity of Multilingual Comprehension: Neuroimaging and Linguistic Profiling in 700+ Adults</title>
+    <updated>2026-06-10T23:43:38+00:00</updated>
+    <author>
+      <name>Manuel Carreiras</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Quiñones, A Carrión-Castillo, I Diez-Zabala... - Scientific Data, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The neural mechanisms underlying language processing involve a well-defined brain network, including mainly left perisylvian areas. Yet, the extent of individual variability remains largely unexplored, particularly in bilingual and multilingual ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
+    <link href="https://www.nature.com/articles/s41597-026-07423-9_reference.pdf"/>
+    <published>2026-06-10T23:43:38+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763c6052ee#0</id>
+    <title>Cognitive predictors of reading in Spanish: a large-scale study spanning primary and secondary education</title>
+    <updated>2026-06-10T23:43:38+00:00</updated>
+    <author>
+      <name>Manuel Carreiras</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Carrión-Castillo, M Lallier, M Carreiras&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Purpose: Reading in transparent orthographies relies on phonological phonological processes, rapid automatized naming (RAN), and orthographic processing, yet their relative contributions across development remain unclear. We investigated (i) how ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
+    <link href="https://osf.io/download/7s8n6/"/>
+    <published>2026-06-10T23:43:38+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763c6052c5#0</id>
+    <title>High-Dimensional Theory of LoRA Fine-Tuning in a Solvable Attention Model</title>
+    <updated>2026-06-10T23:43:38+00:00</updated>
+    <author>
+      <name>Lenka Zdeborová</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Duranthon, F Boncoraglio, L Zdeborová - arXiv preprint arXiv:2606.05899, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We develop a high-dimensional statistical theory of low-rank adaptation (LoRA) in attention models, capturing the interplay between pre-training and fine-tuning. We introduce a solvable framework in which a single-head attention layer is first pre ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenka Zdeborová (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.05899"/>
+    <published>2026-06-10T23:43:38+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763c8987c0#0</id>
+    <title>The Roasting Marshmallows Program with IGRINS on Gemini South V: Atmosphere of MASCARA-1b is Enriched in Refractory Elements</title>
+    <updated>2026-06-11T03:48:44+00:00</updated>
+    <author>
+      <name>JL bean</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., Y Choi, S Ramkumar, AB Savel, L Welbanks,JL Bean... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ultra-hot Jupiters (UHJs; $T_{\rm eq} \gtrsim 2000$ K) enable simultaneous detection of volatile (ice-forming) and refractory (rock-forming) species in planetary atmospheres, providing a powerful diagnostic of planet formation and atmospheric ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.07497"/>
+    <published>2026-06-11T03:48:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763c898709#1</id>
+    <title>DOCTOR OF PHILOSOPHY IN PLANETARY SCIENCE at the MASSACHUSETTS INSTITUTE OF TECHNOLOGY May 2025© 2025 Zifan Lin. All rights reserved.</title>
+    <updated>2026-06-11T03:48:45+00:00</updated>
     <author>
       <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Constantinou&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Venus . Nearly identical to Earth in size, composition, and solar insolation, Venus is our nearest planetary twin — yet is presently inhospitable to life ... findings and presenting future directions as we enter a new era of Venus exploration and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.repository.cam.ac.uk/bitstreams/e8adc218-32ce-4a76-9ab1-4479656b35ad/download"/>
-    <published>2026-06-10T02:25:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Lin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... measure of how far the exoplanet 's transit chord is from the center of the star. Hence, orbital ... Knowing both the mass and the radius of an exoplanet , we may compute its bulk density ... ratios, potentially explaining exoplanet populations on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/5d0a4690-f046-4b36-a762-6ced61b0c852/content"/>
+    <published>2026-06-11T03:48:45+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dce1#8</id>
-    <title>UV‐A Light‐Enhanced Antibacterial Activity of Lactobionic Acid Against Staphylococcus aureus and Escherichia coli Strains</title>
-    <updated>2026-06-10T02:25:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c898709#0</id>
+    <title>Reflections of Life : Distinguishing Living from Nonliving Worlds with Complexity Metrics</title>
+    <updated>2026-06-11T03:48:45+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Bartlett, X San, S Fan, G Segal, DR Sowinski... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We integrate the spatially resolved images over the Martian disk to simulate observations of an exoplanet detected as a point source. At ... Hence we suggest that new phyla of exoplanet and life detection missions also examine time series ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae6b7b/meta"/>
+    <published>2026-06-11T03:48:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#9</id>
+    <title>Polygonatum polysaccharide microspheres encapsulated living Clostridium butyricum for mucosal barrier repair and immune regulation</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Oussaid, I Marcet, M Rendueles, M Diaz - Journal of Food Processing and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Lactobionic acid (LBA) is increasingly used for its multiple properties, including preservative and prebiotic effects. With the aim of enhancing its antimicrobial efficacy, this study explores its interaction with sublethal levels of ultraviolet‐A (UV‐A) light to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/ee803c1f98a5a9ae8b23e9094d8e1b1a/1?pq-origsite=gscholar&amp;cbl=7257544"/>
-    <published>2026-06-10T02:25:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Hu, X Xu, J Feng, J Hu, C Wei, J Cheng, Y Chen... - Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In addition, PP functions as a promising microenvironmental modulator, exhibiting broad-spectrum antioxidant, anti-inflammatory, and prebiotic properties. The microgel system provides a versatile platform for probiotic oral delivery, contributing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s12951-026-04613-w"/>
+    <published>2026-06-11T03:48:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dce1#7</id>
-    <title>Unraveling the gut microbiota-brain axis: Mechanisms, pathophysiology, and therapeutic opportunities</title>
-    <updated>2026-06-10T02:25:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#8</id>
+    <title>Dataset exploring the effect of alginate and laminarin based synbiotics on the human gut microbiota in vitro</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Jiang, WM Nageeb, S Batool, A Hashish... - iScience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In addition, we discuss emerging therapeutic strategies targeting the gut microbiota-brain axis, including psychobiotics and fecal microbiota transplantation, while acknowledging dietary approaches, such as prebiotic supplementation, fiber-rich ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cell.com/iscience/fulltext/S2589-0042(26)01599-3"/>
-    <published>2026-06-10T02:25:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Sedgwick&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The study aimed to evaluate the potential prebiotic and synbiotic effects of alginate and laminarin on gut microbial composition and metabolite production in vitro. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://researchdata.reading.ac.uk/id/eprint/1531"/>
+    <published>2026-06-11T03:48:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dce1#6</id>
-    <title>2 Department of Chemistry, College of Arts and Sciences, University of the Philippines Visayas, Miagao 5023, Philippines 3 Department of Earth Atmospheric and ...</title>
-    <updated>2026-06-10T02:25:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#7</id>
+    <title>Fragmentation Dynamics and IR Spectroscopy of Acetonitrile–Formic Acid Clusters in Helium Nanodroplets</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JTT Kloprogge, H Hartman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... chondrites have necessitated a review of the role that clays played in the origin of life on Earth. The data ... that these clays may have played in the origin of life on Mars. This has put clays front and center in the studies on the origin of life not only ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/3652052a-ea00-43bc-a2ef-fd2aae5a92f8/content"/>
-    <published>2026-06-10T02:25:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Mani - 16th Conference on Quantum Fluid Clusters 2026 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Both acetonitrile and formic acid are of interest in interstellar chemistry [1–5]. Together, these molecules contain all four biogenically essential elements (C, H, N, and O). Therefore, their intermolecular complexes may represent intermediates in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.uibk.ac.at/media/filer_public/c5/73/c573cc53-3d3e-4033-a08b-d05aab3c54fe/qfc2026_book_of_abstract_finale.pdf#page=28"/>
+    <published>2026-06-11T03:48:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dce1#5</id>
-    <title>Oligosaccharide prebiotics in functional foods and therapeutics: innovations and challenges</title>
-    <updated>2026-06-10T02:25:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#6</id>
+    <title>A Predictive Multiparameter Screening Model Identifies Prebiotics That Enhance the Plant-Growth-Promoting Performance of Synthetic Microbial Communities</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KS Sandra, MP Vithalkar, V Beere, HB Bharath... - 3 Biotech, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... and prebiotic efficacy. Several factors, including molecular size, composition, and degree of polymerisation, influence the prebiotic ... These structural characteristics can significantly affect their interactions with the gut microbiota, thereby impacting ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s13205-026-04776-1"/>
-    <published>2026-06-10T02:25:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J He, H Ruan, H Zhang, T Wu, Z Gao, T Ming, Y Zhang... - Journal of Agricultural and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Targeted prebiotic supplementation could enhance SynCom performance, yet a predictive framework for selecting effective prebiotics is ... This work establishes a robust and transferable prebiotic screening framework linking in vitro microbial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/doi/full/10.1021/acs.jafc.6c03094"/>
+    <published>2026-06-11T03:48:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dce1#4</id>
-    <title>Exploring the impact of skin microbiota on dermatological conditions: A novel approach</title>
-    <updated>2026-06-10T02:25:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#5</id>
+    <title>Chromatic Discrimination in Protocells Toward Proto Vision and Intelligence</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Ferreira - International Journal of Dermatology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Patients with severely depleted microbial diversity at baseline may benefit from adjunctive probiotic or prebiotic interventions alongside ... Our data support the rationale for adjunctive probiotic or prebiotic interventions in patients with low ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.dermatologyjournal.net/archives/2026/vol8issue1/PartA/8-1-11-421.pdf"/>
-    <published>2026-06-10T02:25:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Mougkogiannis, A Adamatzky - Frontiers in Biophysics&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Proteinoids—thermally synthesized amino acid copolymers—have long served as prebiotic chemistry models for protocell formation, yet their lack of dynamic responsiveness limits applications in smart biomaterials. We describe the synthesis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/biophysics/articles/10.3389/frbis.2026.1839006/full"/>
+    <published>2026-06-11T03:48:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dce1#3</id>
-    <title>Sulfated galactan from Gracilaria fisheri exhibits selective microbial utilization and gut-modulating bioactivity</title>
-    <updated>2026-06-10T02:25:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#4</id>
+    <title>Polyphenols as next-generation prebiotics targeting intestinal mucosal tolerance</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Promthale, K Khongrin, L Tabtimmai... - Algal Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sulfated polysaccharides from marine macroalgae are increasingly recognized as high-value bioproducts with diverse biofunctional properties. This study investigated sulfated galactan (SG) extracted from the red alga Gracilaria fisheri ( G. fisheri ) as a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2211926426002547"/>
-    <published>2026-06-10T02:25:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Ferreira, P Vieira, A Figueirinha, L Salgueiro... - Biomedicine &amp; ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , repositioning polyphenols as functionally relevant prebiotic phytochemicals with significant ... mucosal tolerance as interconnected dimensions of prebiotic functionality. Emphasis is placed ... The review further explores polyphenol-based ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0753332226006281"/>
+    <published>2026-06-11T03:48:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dce1#2</id>
-    <title>Atractylodes lancea Polysaccharides Protect against Staphylococcus aureus-Induced Lung Injury by Remodeling Gut Microbiota and Restoring Tryptophan ...</title>
-    <updated>2026-06-10T02:25:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#3</id>
+    <title>Pattern-Informed Energetics: Inferring energy allocation and the emergence of life ‑history strategies</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhang, M Pang, A Xie, Z Liu, C Lv, S Man, X Li... - Journal of Agricultural and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... With the growing interest in functional foods, natural polysaccharides have attracted increasing attention because of their prebiotic ... lancea, including fructans and fructooligosaccharides with prebiotic potential, as well as other fractions that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/abs/10.1021/acs.jafc.6c03529"/>
-    <published>2026-06-10T02:25:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CA Gallagher, V Radchuk, M Dammhahn, F Jeltsch...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Energy allocation among survival, growth, and reproduction is central to population dynamics, yet remains difficult to quantify directly. Traditional models often rely on fixed rules or optimization assumptions that may not capture real-world variability ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ecoevorxiv.org/repository/object/8720/download/23084/"/>
+    <published>2026-06-11T03:48:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dce1#1</id>
-    <title>Research Article| 28 Feb 2026 Augmenting turmeric, galingale, gotu kola extracts, and black sesame as prebiotics by probiotics</title>
-    <updated>2026-06-10T02:25:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#2</id>
+    <title>Best Prebiotic Supplements: Top Picks, Key Strains &amp; What to Look For</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Ranmeechai, T Chumphon, K Pangjit, S Promsai&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic black sesame extract, to improve probiotic viability and biofunctional activities, including enzyme inhibition and antioxidant effects. ... Black sesame extract (1% w/v) was added as a prebiotic . Antimicrobial activity was assessed via ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://veterinaryworld.org/Vol.19/February-2026/28.php"/>
-    <published>2026-06-10T02:25:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Maish&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The best prebiotic depends on your gut microbiome and digestive tolerance—inulin is most extensively studied and may support Bifidobacterium growth at 5–10 g/day, but GOS is better tolerated in IBS and PHGG suits those sensitive to fermentation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://superpower.com/guides/best-prebiotic-supplement"/>
+    <published>2026-06-11T03:48:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763db4dce1#0</id>
-    <title>Innovation Substitution of Sucrose with Stevia and Chicory Root in Eclairs</title>
-    <updated>2026-06-10T02:25:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#1</id>
+    <title>Agricultural by-products-derived oligosaccharides as prebiotic feed additives in poultry</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FW Baig, H Waheed, F Sultana, A Noman, K Jamil&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... natural source of inulin, a soluble dietary fiber with prebiotic potential, the ability to bind water, and ... While chicory root enhanced sweetness balance, texture, and prebiotic content, stevia replaced ... role of natural sweeteners and prebiotic fibers ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.juw.edu.pk/conference/ibras-2026/ibras26-100-101.pdf"/>
-    <published>2026-06-10T02:25:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Prusty, M Dubey, MK Gendley, V Bhagat, S Bisen... - World's Poultry Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of oligosaccharides from agricultural byproducts, their prebiotic effects in the gut, and their ... XOS extracted from sugarcane bagasse showed high prebiotic index and prebiotic activity ... for prebiotic production (S. Ricke et al. Citation2013; SC ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.tandfonline.com/doi/abs/10.1080/00439339.2026.2669767"/>
+    <published>2026-06-11T03:48:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e763c89868b#0</id>
+    <title>The bioactive potential of red seaweed oligosaccharides obtained using autohydrolysis: Correlation between extract composition and prebiotic activity</title>
+    <updated>2026-06-11T03:48:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JS Gomes-Dias, A Gonzalez, CI Teixeira-Guedes... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study evaluated, for the first time, the prebiotic -like potential of glucooligosaccharides and galactooligosaccharides derived from five red seaweeds, produced using autohydrolysis. The non-purified oligosaccharide-rich extracts were ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0141813026028321"/>
+    <published>2026-06-11T03:48:47+00:00</published>
   </entry>
 </feed>
