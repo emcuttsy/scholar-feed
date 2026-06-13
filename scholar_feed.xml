@@ -2,118 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-12T16:36:04.579132+00:00</updated>
+  <updated>2026-06-13T08:57:54.713176+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7633602881#0</id>
-    <title>GJ 3929 b as the First Complete Rocky Worlds DDT Data Set</title>
-    <updated>2026-06-12T10:24:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7633f2025e#5</id>
+    <title>The emergence of a new sound research methodology in the field of health: designo-therapy?</title>
+    <updated>2026-06-13T07:53:55+00:00</updated>
     <author>
-      <name>Christopher Monaghan</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NJ Connors, C Monaghan, B Benneke, L Dang... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Despite their large abundance, it is still unknown whether and under what conditions rocky planets around M dwarf stars can host atmospheres. This open question motivated the on-going Rocky Worlds DDT survey focused on searching for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Christopher Monaghan (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.07511"/>
-    <published>2026-06-12T10:24:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Perera, P Jouvelot -arXivpreprintarXiv:2606.10560, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Design fits in different fields, and it is given a plurality of titles: thinking, social, ecological, and graphic, space, etc. This discipline crosses the fields of research and engineering, which emancipate themselves from their historic fields and target other ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.10560"/>
+    <published>2026-06-13T07:53:55+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76336027b8#0</id>
-    <title>GJ 3929 b as the First Complete Rocky Worlds DDT Data Set</title>
-    <updated>2026-06-12T10:24:25+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7633f2025e#4</id>
+    <title>Topological Melting of Magnetic Stripes and the Emergence of Macroscopic d-wave Superconductivity in the 2D Hubbard Model</title>
+    <updated>2026-06-13T07:53:55+00:00</updated>
     <author>
-      <name>Lisa Dang</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NJ Connors, C Monaghan, B Benneke, L Dang... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Despite their large abundance, it is still unknown whether and under what conditions rocky planets around M dwarf stars can host atmospheres. This open question motivated the on-going Rocky Worlds DDT survey focused on searching for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.07511"/>
-    <published>2026-06-12T10:24:25+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JH Cho -arXivpreprintarXiv:2606.07634, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To rigorously substantiate the dimensional crossover and the intrinsic emergence of topological superconductivity discussed in the main text, we provide an extended analysis of the spatial correlation functions across varying transverse geometries ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.07634"/>
+    <published>2026-06-13T07:53:55+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763360270b#0</id>
-    <title>Creative Achievement: Behavioral Genetic Evidence for Overlap with General Cognitive Ability and for Independent Latent Traits</title>
-    <updated>2026-06-12T10:24:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7633f2025e#3</id>
+    <title>Emergence World: A Platform for Evaluating Long-Horizon Multi-Agent Autonomy</title>
+    <updated>2026-06-13T07:53:55+00:00</updated>
     <author>
-      <name>Timothy C. Bates</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Bates - Intelligence &amp; Cognitive Abilities, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The relationship between creativity and general cognitive ability (_g_) has long been debated. This study investigates the genetic basis of creative achievement and its overlap with intelligence, expanding the traditional scope of creativity beyond art and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy C. Bates (author alert)</content>
-    <link href="https://icajournal.scholasticahq.com/article/162501-creative-achievement-behavioral-genetic-evidence-for-overlap-with-general-cognitive-ability-and-for-independent-latent-traits"/>
-    <published>2026-06-12T10:24:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Akkil, R Kokku, K Vikram, T Abuelsaad, A Vempaty... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Most evaluations of LLM agents look like exams: a discrete task, a clean environment, a score in minutes or hours. We argue that this approach is mismatched with the deployment conditions of autonomous systems, where the relevant timescale can be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.08367"/>
+    <published>2026-06-13T07:53:55+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7633602591#0</id>
-    <title>Preprint typeset using LATEX style emulateapj v. 11/12/01 INFRARED TRANSMISSION SPECTROSCOPY OF THE EXOPLANETS HD209458B AND XO-1B USING ...</title>
-    <updated>2026-06-12T10:24:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7633f2025e#2</id>
+    <title>Finite Certificates for In-Context Determinacy and a Threshold Theory of Emergence in Language Models</title>
+    <updated>2026-06-13T07:53:55+00:00</updated>
     <author>
-      <name>Nikku Madhusudhan</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Deming, A Wilkins, P McCullough, A Burrows...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ar X iv :1 30 2. 11 41 v2 [ as tro -p hE P] 1 2 J ul 20 13 Accepted for the Astrophysical Journal, July 10, 2013 Preprint typeset using LATEX style emulateapj v. 11/12/01 INFRARED TRANSMISSION SPECTROSCOPY OF THE EXOPLANETS HD209458B ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/a77f1bc5-02ee-4b8c-8045-ae404ade3fe6/content"/>
-    <published>2026-06-12T10:24:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Alpay, H Alakkad -arXivpreprintarXiv:2606.07623, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper develops a model-theoretic framework for verifying context-conditioned language-model behavior by replacing benchmark labels with finite semantic certificates. The first problem is finite determinacy: when do examples in a context ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.07623"/>
+    <published>2026-06-13T07:53:55+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763360250e#0</id>
-    <title>Global Futures of Environmental Psychology and Human Well-Being</title>
-    <updated>2026-06-12T10:24:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7633f2025e#1</id>
+    <title>The Changing Global Division of Labor in Software: Emergence and Diffusion of New Programming Skills across IT Hubs</title>
+    <updated>2026-06-13T07:53:55+00:00</updated>
     <author>
-      <name>Timothy Lenton</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Steffen, J Rockström, K Richardson, TM Lenton... - ... Psychology and Well-Being, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sustainability is often framed in terms of technology, economics, and governance: renewable energy grids, carbon pricing, international treaties. Yet beneath these structural mechanisms lie psychological drivers that determine whether societies ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=LxDjEQAAQBAJ&amp;oi=fnd&amp;pg=PT146&amp;ots=PW5_5-JJ_Z&amp;sig=BNC-1n8WfZnSPFPlSlxQnzHnPxM"/>
-    <published>2026-06-12T10:24:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Wachs, X Feng, S Daniotti, F Neffke -arXivpreprintarXiv:2606.09463, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Similarly, we hypothesize that the emergence of new skills follows the predictions by Jacobs (1969) and Duranton and Puga (2001) that novelty thrives in large cities where a large number of diverse ideas can easily come together. Acknowledging ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.09463"/>
+    <published>2026-06-13T07:53:55+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76336023fe#0</id>
-    <title>The Entangled Loop: Emotion, quantum-like interference and hierarchy in the architecture of consciousness</title>
-    <updated>2026-06-12T10:24:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7633f2025e#0</id>
+    <title>Emergence of Context Characteristics Sensitivity in Large Language Models</title>
+    <updated>2026-06-13T07:53:55+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Kringelbach, FE Rosas, R Laukkonen, S Chandaria...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We propose three entangled characteristics that explain the functional properties of consciousness: Emotion, quantum-like interference and hierarchy. The argument proceeds from thermodynamic first principles. Biological systems must stay far from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://osf.io/download/besw9/"/>
-    <published>2026-06-12T10:24:31+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763360234c#1</id>
-    <title>VizieR Online Data Catalog: Hot super-Neptune TOI-672 NIRPS and HARP obs.(Osborn+, 2026)</title>
-    <updated>2026-06-12T10:24:32+00:00</updated>
-    <author>
-      <name>Björn Benneke</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Osborn, R Cloutier, V Bourrier, B Skinner, N Gromek... - VizieR Online Data Catalog, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We obtained simultaneous radial velocity measurements of TOI-672 with the NIRPS and HARPS spectrographs. Both instruments are mounted on the ESO 3.6-m telescope at the La Silla Observatory in Chile and can be operated simultaneously ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026yCat..37090023O/abstract"/>
-    <published>2026-06-12T10:24:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763360234c#0</id>
-    <title>GJ 3929 b as the First Complete Rocky Worlds DDT Data Set</title>
-    <updated>2026-06-12T10:24:32+00:00</updated>
-    <author>
-      <name>Björn Benneke</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NJ Connors, C Monaghan, B Benneke, L Dang... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Despite their large abundance, it is still unknown whether and under what conditions rocky planets around M dwarf stars can host atmospheres. This open question motivated the on-going Rocky Worlds DDT survey focused on searching for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.07511"/>
-    <published>2026-06-12T10:24:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76337a615d#0</id>
-    <title>Deep current variability from a carbonate contourite system in the Agulhas Region from late Miocene to early Pliocene (IODP Site U1475)</title>
-    <updated>2026-06-12T11:02:08+00:00</updated>
-    <author>
-      <name>Gerald Auer</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AQ Azevedo, FJ Jiménez-Espejo, L Martín-García... - Evolving Earth, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent studies have demonstrated that contourites from the Agulhas Plateau (AP) are unique archives for reconstructing the global thermohaline circulation. Nonetheless, the strength of the current regime influencing the AP and a significant ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2950117226000452"/>
-    <published>2026-06-12T11:02:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76337a5f37#0</id>
-    <title>Research briefing</title>
-    <updated>2026-06-12T11:02:11+00:00</updated>
-    <author>
-      <name>Bernat Corominas-Murtra</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NI Petridou, B Corominas-Murtra&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Phase transitions in cellular collectives are triggered by multiple control parameters. Independently tuning cell density and adhesion, both in silico and in vivo, reveals that adhesion dictates the tissue material state. Adhesion-driven solidification in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Bernat Corominas-Murtra (author alert)</content>
-    <link href="https://www.nature.com/articles/s41567-026-03282-8"/>
-    <published>2026-06-12T11:02:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NY Wangsajaya, H Yu, I Augenstein -arXivpreprintarXiv:2606.09525, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; During instruction fine-tuning (IFT), large language models (LLMs) learn to follow instructions by using the provided context to answer a query. While prior work has studied how context characteristics correlate with context usage by the LLM, this ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.09525"/>
+    <published>2026-06-13T07:53:55+00:00</published>
   </entry>
 </feed>
