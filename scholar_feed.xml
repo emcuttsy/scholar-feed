@@ -2,162 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-13T15:23:40.911838+00:00</updated>
+  <updated>2026-06-14T09:34:32.067515+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091d93#0</id>
-    <title>Exploring Exoplanets with Interferometry</title>
-    <updated>2026-06-13T09:30:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76323eeb46#0</id>
+    <title>Reflections of Life: Distinguishing Living from Nonliving Worlds with Complexity Metrics</title>
+    <updated>2026-06-13T18:00:32+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Stuart Bartlett</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SP Quanz, B Mennesson, C Beichman, JT Hansen... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... from the European Space Agency (ESA; Tinetti et al., 2018), a dedicated exoplanet characterization ... our understanding of exoplanet atmospheres. Given its relatively small aperture size2... ambitious future exoplanet space mission, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.10108"/>
-    <published>2026-06-13T09:30:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Bartlett, X San, S Fan, G Segal, DR Sowinski... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Detecting life beyond Earth is the primary goal of astrobiology. In this study, we showcase the effectiveness of information and complexity-based metrics for detecting signs of life on exoplanets. These metrics are applied to time series of disk ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stuart Bartlett (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae6b7b/meta"/>
+    <published>2026-06-13T18:00:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091d1e#0</id>
-    <title>Experience Complexity Index (ECI) Evolutionary Logic of Mass Extinctions, Civilizational Great Filter and a New Paradigm for Extraterrestrial Life Detection (Updated)</title>
-    <updated>2026-06-13T09:30:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76323ee906#0</id>
+    <title>The Qualia Structure Paradigm</title>
+    <updated>2026-06-13T18:00:39+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Naotsugu Tsuchiya</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Zhang&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... SETI extraterrestrial life searches only rely on physical and chemical habitability indicators such as hydrology and atmosphere, ignoring the constraints of environmental experiential conditions on the birth of intelligent life ... to 2.6.2 and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://philpapers.org/archive/ZHAECI-3.pdf"/>
-    <published>2026-06-13T09:30:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Tsuchiya&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this chapter, I address one of the central challenges in consciousness science: how to formalize objective scientific approaches on the relationship between qualia and their physical substrates. I argue that progress has been limited because qualia ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Naotsugu Tsuchiya (author alert)</content>
+    <link href="https://www.horizon-minds.com/s/Ch_54_Tsuchiya.pdf"/>
+    <published>2026-06-13T18:00:39+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c8d#0</id>
-    <title>A Theoretical Computer Science Lens on Consciousness</title>
-    <updated>2026-06-13T09:30:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76323ee791#1</id>
+    <title>NEXUS: Abundance, Environments, and Spectral Diversity of Little Red Dots from the NIRSpec MSA Sample</title>
+    <updated>2026-06-13T18:00:42+00:00</updated>
     <author>
-      <name>Lenore Blum</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Blum, M Blum&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We look at consciousness through the lens of Theoretical Computer Science (TCS), a branch of mathematics that studies computation under resource limitations, distinguishing functions that are efficiently computable from those that are not. From ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenore Blum (keyword alert)</content>
-    <link href="https://www.horizon-minds.com/s/Ch_52_Blum_Blum.pdf"/>
-    <published>2026-06-13T09:30:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Pan, MY Zhuang, Y Shen, F Wang, JE Greene... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a comprehensive study of Little Red Dots (LRDs) at 2.3&lt; z&lt; 7.4 using NIRCam photometry and NIRSpec MSA/PRISM spectra from the ongoing NEXUS program. Photometric selection combining several commonly adopted methods ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.09721"/>
+    <published>2026-06-13T18:00:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#9</id>
-    <title>In ovo galactooligosaccharides and sodium butyrate induce segment-specific changes in gut microbiota of broiler chickens</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76323ee791#0</id>
+    <title>Blue L Dwarf</title>
+    <updated>2026-06-13T18:00:42+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Knaga, MZ Akram, A Bełdowska-Krężel, E Pietrzak... - Poultry Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study evaluated whether a single in ovo administration of a prebiotic (galactooligosaccharides) or a short-chain fatty acid donor (sodium ... in the ileum and cecum, highlighting the distinct effects of prebiotic and postbiotic in ovo interventions on gut microbiota ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0032579126009077"/>
-    <published>2026-06-13T09:30:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AJ Burgasser, D Looper, JT Rayner&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ar X iv :1 00 2. 06 45 v1 [ as tro -p hS R] 3 Fe b 2 01 0 Submitted to ApJ 2 Feb 2010 ULAS J141623.94+134836.3: a Blue T Dwarf Companion to a Blue L Dwarf Adam J. Burgasser1,2, Dagny Looper3,4 and John T. Rayner3,4 ABSTRACT We confirm the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/a2e56657-3470-4b1e-9389-7b52b0625d3a/content"/>
+    <published>2026-06-13T18:00:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#8</id>
-    <title>A long-lived impact-generated hydrothermal system at the Chicxulub impact structure</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76323eda66#0</id>
+    <title>Now You (Still) See Me: Detecting Evasive Steganographic Payloads in LLMs</title>
+    <updated>2026-06-13T18:01:16+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Fernando E. Rosas</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AE Pickersgill, E Christou, MM Tremblay, DN Barfod... - Communications Earth &amp; ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We therefore approach the question of whether ancient impacts on Earth could have contributed to the origin of life by examining the ... Longer periods of hydrothermal activity and therefore post-impact habitability will generate extended ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s43247-026-03618-5"/>
-    <published>2026-06-13T09:30:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Westphal, T Douglas, K Navaie, T Pimentel... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Large language models can be fine-tuned to encode prompt-borne secrets into fluent, seemingly benign outputs. This creates a steganographic exfiltration risk that is difficult to detect with output-level steganalysis. Recent work proposes mechanistic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.09411"/>
+    <published>2026-06-13T18:01:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#7</id>
-    <title>Fusion Arrest and Triggered Release of Contents in Coacervates via Oxidation‐Assisted Interfacial Coating</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76323ebffe#0</id>
+    <title>Cerebrovascular vulnerability and fibrosis in human brain aneurysms</title>
+    <updated>2026-06-13T18:02:26+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Edward F Chang</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Jo, M Pak, HG Jeon, S Kwon, K Kang - ChemBioChem, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Beyond offering a convenient handle to program coacervate lifetimes and permeability, our findings highlight interfacial polymer formation as a versatile design principle for protocell models, adaptive soft materials, and LLPS-inspired delivery platforms. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.70410"/>
-    <published>2026-06-13T09:30:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JC Wang, CN Kim, S Bhalla, L Scherschinski... - Nature Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brain aneurysms are a cerebrovascular disease that results in a severe type of stroke. The cell-specific molecular pathology underlying their formation and rupture is unknown. Here we profile 227,663 neurovascular cells, including 52,946 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
+    <link href="https://www.nature.com/articles/s41593-026-02326-9"/>
+    <published>2026-06-13T18:02:26+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#6</id>
-    <title>Effects of different processing methods on the nutritional components and in vitro digestion and fermentation characteristics of foxtail millet (Setaria italica)</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632329bf8#0</id>
+    <title>Systematic Review Brain Markers of Resilience to Psychosis in High-Risk Individuals: A Systematic Review and Label-Based Meta-Analysis of Multimodal MRI ...</title>
+    <updated>2026-06-13T18:49:34+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Zhenghan QI</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Li, Y Yang, Z Jiao, W Zhao, Y Zhu, S Wang, X Wang - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... and butyrate) during fecal fermentation, indicating enhanced prebiotic potential. PAL activity transiently increased with extrusion puffing; ... Collectively, sprouting (84 h) is the optimal processing method for improving both the nutritional quality and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926013098"/>
-    <published>2026-06-13T09:30:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Collin, JE Goldenberg, X Chang, Z Qi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Systematic Review Brain Markers of Resilience to Psychosis in High-Risk Individuals: A Systematic Review and Label-Based Meta-Analysis of Multimodal MRI Studies Guusje Collin 1,2,3,* , Joshua E. Goldenberg 4, Xiao Chang 5,6, Zhenghan Qi 3,7,8 , Susan ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Zhenghan QI (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/9fb46ff9-af41-4d25-9749-35640d4efbbc/content"/>
+    <published>2026-06-13T18:49:34+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#5</id>
-    <title>Spontaneous hydrogen gas evolution from in-situ iron-nickel sulfides (FexNi (1− x) S) under ambient alkaline conditions</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632329bc2#0</id>
+    <title>Chromospheric magnetic field extrapolations reveal the flux-rope configuration of a solar filament</title>
+    <updated>2026-06-13T18:49:36+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Astrid Veronig</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Park, JH Park, HY Jeong, YS Han - Journal of Analytical Science and Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The Iron-Sulfur World Hypothesis, a hypothesis for the origin of life on early Earth, posits that hydrogen generation from sulfide minerals such as iron sulfide was the first step in the origin of life . This study investigated whether hydrogen evolution from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s40543-026-00553-0"/>
-    <published>2026-06-13T09:30:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Jarolim, JM Santos, M Rempel, MB Korsós, R Erdélyi... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Solar eruptions are powered by the release of magnetic energy stored in the lower solar atmosphere, but the pre-eruptive magnetic configuration of filament channels remains difficult to determine. A central question is whether this energy is stored in a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.10411"/>
+    <published>2026-06-13T18:49:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#4</id>
-    <title>Conditions Enabling the Persistence of Cooperating Synthetase, Ligase, and Mutation-Inhibitor Catalytic Polymers</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632584f3a#0</id>
+    <title>Adaptive self-organization of global swidden forests</title>
+    <updated>2026-06-14T00:57:29+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Stefan Thurner</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Peng, AM Plum, R Kartha, EM Jacobson, DA Baum - Journal of molecular evolution&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In origins - of - life research, a key challenge is to explain the emergence of polymers of sufficient length to confer the complex functions needed for genetic inheritance. Previous studies have demonstrated that prebiotic environments ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42262555/"/>
-    <published>2026-06-13T09:30:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SS Downey, D Tverskoi, SA Scaggs, X Wu, Z Syed... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Does swidden agriculture, a prototypical coupled human and natural system, exhibit a process of adaptive self-organization in which cultural practices balance environmental constraints through adaptive feedback? Here, we investigate whether ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2606552123"/>
+    <published>2026-06-14T00:57:29+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#3</id>
-    <title>Varieties of Bias or Life's Emergence and the Rationality of Origins of Life Research</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632584f29#0</id>
+    <title>Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence</title>
+    <updated>2026-06-14T00:57:30+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FV Simmons - Faith and Philosophy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Although origins of life research is a flourishing interdisciplinary natural scientific field, Roger White has argued that there is epistemological reason to think it is misguided. 1 I contest White's argument in several steps. First, I show that the categorical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.pdcnet.org/collection/fshow?id=faithphil_2026_0042_0002_0238_0253&amp;pdfname=faithphil_2026_0042_0002_0238_0253.pdf&amp;file_type=pdf"/>
-    <published>2026-06-13T09:30:30+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#2</id>
-    <title>An acidophilic GH12 xyloglucanase from Trichoderma asperellum produces prebiotic oligosaccharides that promote probiotic growth</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Zheng, R Zhang, S Rong, H Zhuang, JQ Wang... - Frontiers in Nutrition&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Enzymatic transformation of lignocellulosic biomass offers an eco-friendly pathway to produce value-added β-oligoglucosides. In this study, an acidophilic GH12 xyloglucanase (TaXEG12) from Trichoderma asperellum ND-1 was over-expressed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1850050/full"/>
-    <published>2026-06-13T09:30:30+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#1</id>
-    <title>Foxtail millet dahi: A gluten-free prebiotic</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Chandra, S Kundu, N Shaw&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this work, Dahi (Indian Curd) was produced by combining foxtail millet with whole milk. Physico-chemical and sensory properties in foxtail millet-enriched Dahi were found to have close similarities with those of marketed Dahi without enrichment. The ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.emergentresearch.org/uploads/38/16268_pdf.pdf"/>
-    <published>2026-06-13T09:30:30+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091c3a#0</id>
-    <title>Electron scattering from prebiotic ethylene glycol: An R-matrix study</title>
-    <updated>2026-06-13T09:30:30+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Chakraborty, B Antony - Journal of Applied Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ethylene glycol is a prebiotically relevant complex organic molecule detected in interstellar and cometary environments, yet quantitative low-energy electron–ethylene glycol scattering data remain limited for astrochemical modeling. This work presents ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.aip.org/aip/jap/article/139/22/224901/3394292"/>
-    <published>2026-06-13T09:30:30+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7632091ba2#0</id>
-    <title>Artificial Intelligence: unpredictable or unprestatable?</title>
-    <updated>2026-06-13T09:30:32+00:00</updated>
-    <author>
-      <name>stuart kauffman</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Roli, S Succi, SA Kauffman - Frontiers in Physics&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Current AI technologies have demonstrated impressive results, mainly driven by large language models (LLMs). The most diffused applications of LLMs are in the so-called generative AI, which consists in techniques that produce texts, music, pictures or ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; stuart kauffman (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2026.1768372/full"/>
-    <published>2026-06-13T09:30:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Lavie, K Fischer, A Lekov, F Van Maele, Z Ringel... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our work provides a first-principles theoretical account of the abrupt emergence of the copy subcircuit, reminiscent of the one observed in ... 2 A Minimal Model for the Emergence of Copy Heads Motivated by the emergence of induction heads in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.12058"/>
+    <published>2026-06-14T00:57:30+00:00</published>
   </entry>
 </feed>
