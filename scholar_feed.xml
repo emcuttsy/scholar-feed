@@ -2,151 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-14T15:40:42.373793+00:00</updated>
+  <updated>2026-06-15T12:13:27.526522+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b6478#0</id>
-    <title>$^{13} $ CO and potential variability in $\beta $ Pictoris b with GRAVITY+</title>
-    <updated>2026-06-14T13:09:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632c7fc9c#0</id>
+    <title>Neural Signatures of Conscious Experience During Sleep: A Serial Awakening Study Using Highdensity EEG (P3-14.005)</title>
+    <updated>2026-06-15T00:07:36+00:00</updated>
     <author>
-      <name>Laura Kreidberg</name>
+      <name>Giulio Tononi</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A von Stauffenberg, J Sauter, P Mollière, M Ravet... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The $^{12}$CO/$^{13}$CO ratio was introduced as an indicator for where in the disk a planet has formed. Previously a lower value compared to the host star's was suggested to show that a planet accreted CO ice beyond the disk's CO ice line. In ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.11972"/>
-    <published>2026-06-14T13:09:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Selte, S Haworth, T Vanasse, K Gjini, B Sevak... - Neurology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objective To identify neural correlates distinguishing conscious from unconscious states during sleep using high-density EEG and machine learning. Background Sleep represents a key condition to study the neural correlates of consciousness ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
+    <link href="https://www.neurology.org/doi/abs/10.1212/WNL.0000000000216389"/>
+    <published>2026-06-15T00:07:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b63f4#1</id>
-    <title>The Nature and Characterization of M Dwarf Terrestrial Planetary Atmospheres: A Theoretical Case Study of the TRAPPIST-1 Planetary System Andrew Peter ...</title>
-    <updated>2026-06-14T13:09:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632c7fc3b#0</id>
+    <title>Neural Signatures of Conscious Experience During Sleep: A Serial Awakening Study Using Highdensity EEG (P3-14.005)</title>
+    <updated>2026-06-15T00:07:38+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Melanie Boly</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Meadows, D Crisp, T Robinson&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the first place to search for habitability and life outside the Solar System. Several small planets ... have been used to infer the history of ocean loss and atmospheric escape (eg Venus , ... abundant atmospheric gases, comprising the bulk of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/5cfba79f-0e0c-4c68-aae6-b5fb046055d8/content"/>
-    <published>2026-06-14T13:09:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Selte, S Haworth, T Vanasse, K Gjini, B Sevak... - Neurology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objective To identify neural correlates distinguishing conscious from unconscious states during sleep using high-density EEG and machine learning. Background Sleep represents a key condition to study the neural correlates of consciousness ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Boly (author alert)</content>
+    <link href="https://www.neurology.org/doi/abs/10.1212/WNL.0000000000216389"/>
+    <published>2026-06-15T00:07:38+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b63f4#0</id>
-    <title>A new metric for identifying potentially habitable exoplanetary systems</title>
-    <updated>2026-06-14T13:09:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632c7fbc8#0</id>
+    <title>De Domenico et al. EPJ Data Science (2015) 4</title>
+    <updated>2026-06-15T00:07:39+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Manlio De Domenico</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Hanlon, CJ Ballard, A Deepak, E Grahill-Bland... - Monthly Notices of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... a terrestrial planet to theoretically retain suitable atmospheric and surface conditions. (iii) Planetary characteristics - massive planets such as Jupiter and Saturn ... habitable environment; however, any life in this region would require a life ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stag1094/68506935/stag1094.pdf"/>
-    <published>2026-06-14T13:09:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M De Domenico, A Lima, MC González, A Arenas&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; De Domenico et al. EPJ Data Science (2015) 4:1 DOI 10.1140/epjds/s13688-015-0038-0 REGULAR ART ICLE Open Access Personalized routing for multitudes in smart cities Manlio De Domenico1*, Antonio Lima2, Marta C González3 and Alex Arenas1 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/7ff1b5d1-289e-44b6-ba48-e8de96375419/content"/>
+    <published>2026-06-15T00:07:39+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#9</id>
-    <title>Infantile Eczema Cream: How to Choose the Right One</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632c7fb5f#0</id>
+    <title>Percolation and clustering in ecological communities: A dynamical theory</title>
+    <updated>2026-06-15T00:07:40+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Lenka Zdeborová</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Jensen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... SmartLotion pairs a low dose of hydrocortisone with prebiotic sulfur (a food source that helps friendly skin bacteria thrive). The sulfur is intended to support a balanced microbiome, and the formulation is designed by its developer for repeated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://harlanmd.com/blogs/smartlotion-blog/infantile-eczema-cream"/>
-    <published>2026-06-14T13:09:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Sergo, C Koller, V Erba, L Zdeborová - arXiv preprint arXiv:2606.09494, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ecological communities with structured interactions exhibit collective phenomena such as percolation and clustering of occupied sites. While these effects have been documented in experiments and simulations, systematic analytical understanding ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenka Zdeborová (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.09494"/>
+    <published>2026-06-15T00:07:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#8</id>
-    <title>Carotenoids modulate fermentation of inulin ex vivo in IBS and overweight adult gut microbiota</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632c7c532#0</id>
+    <title>The Neural Dynamics of Political Socio-Pragmatic Violations. An ERP Study</title>
+    <updated>2026-06-15T00:10:15+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Silvia Kober</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RE Steinert, P Van den Abbeele, C Schaefer, J Poppe... - BMC Microbiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... for 24 h under anaerobic conditions, with carotenoids administered alone or in combination with prebiotic inulin (IN, tested at 2.5 g/day). ... Carotenoids alone had only minor effects but in combination with prebiotic inulin significantly altered ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s12866-026-05271-6"/>
-    <published>2026-06-14T13:09:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Hons, E Onea, I Schiller, SE Kober - Frontiers in Human Neuroscience&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Pragmatic violations are known to elicit reliable N400 modulations in event-related potentials of electroencephalographic recordings. While this effect has been extensively documented in linguistic contexts, evidence from political discourse ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Silvia Kober (author alert)</content>
+    <link href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1820376/full"/>
+    <published>2026-06-15T00:10:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#7</id>
-    <title>From Chemical Communities to Genetic Systems: The Synechite Framework for the Emergence of Biological Information</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632c7c512#0</id>
+    <title>The Neural Dynamics of Political Socio-Pragmatic Violations. An ERP Study</title>
+    <updated>2026-06-15T00:10:15+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Edgar Onea</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Moussa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... How prebiotic chemistry transitioned into systems capable of stable heredity remains a central question in origin - of - life research. Here, we propose a theoretical framework involving Synechites, self-organizing prebiotic assemblies that undergo ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/archive/MOUFCC"/>
-    <published>2026-06-14T13:09:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Hons, E Onea, I Schiller, SE Kober - Frontiers in Human Neuroscience&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Pragmatic violations are known to elicit reliable N400 modulations in event-related potentials of electroencephalographic recordings. While this effect has been extensively documented in linguistic contexts, evidence from political discourse ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edgar Onea (author alert)</content>
+    <link href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1820376/full"/>
+    <published>2026-06-15T00:10:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#6</id>
-    <title>Tidal rock grinding as a source of H2 on Enceladus</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7632c7c3a7#0</id>
+    <title>Insights on physical-mechanical properties and salt weathering response of Comiso calcarenite in the Sicilian Baroque Heritage</title>
+    <updated>2026-06-15T00:10:18+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Török, Ákos</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KI Öberg, C Magnabosco, NJ Tosca - Earth and Planetary Science Letters, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... could serve as both an energy source for life and a driver of prebiotic organic chemistry. In this study, we explore whether tidally induced rock ... up to millions of years—potentially sufficient to initiate new prebiotic pathways. This transient ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0012821X2600350X"/>
-    <published>2026-06-14T13:09:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Cirone, CM Belfiore, A Figoli, MF La Russa, Á Török... - npj Heritage Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Comiso Stone as other Sicilian carbonate lithotypes is extensively used in the Val di Noto Baroque architecture as both construction and decorative material. This study provides a petrographic and physical-mechanical characterization to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Török, Ákos (author alert)</content>
+    <link href="https://www.nature.com/articles/s40494-026-02611-7_reference.pdf"/>
+    <published>2026-06-15T00:10:18+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#5</id>
-    <title>The Fermi Paradox: Implications for the Origin and Distribution of Intelligent Life</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e763109e5db#0</id>
+    <title>The Emergence of Autonomous Penetration Capabilities in Large Language Model-Powered AI Systems</title>
+    <updated>2026-06-15T08:55:08+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IA Aly -Origin of LifeReview Series, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... origin - of - life research, asking which steps in the emergence of intelligent life are most likely to represent the Great Filter — the improbable barrier(s) that suppress the emergence of detectable civilizations. We survey proposed filter candidates ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.academia.edu/download/132940207/Paper6_Fermi_Paradox.pdf"/>
-    <published>2026-06-14T13:09:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#4</id>
-    <title>Inorganic Quantum Abiogenesis : The Emergence of Self-Correcting Entanglement Networks as Non-Biological Life</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Youvan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper explores a theoretical framework for inorganic quantum abiogenesis . We hypothesize the emergence of non-biological, information-based lifeforms within ultra-cold, naturally superconducting crystalline lattices on rogue planets. In this ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Douglas-Youvan/publication/406444620_Inorganic_Quantum_Abiogenesis_The_Emergence_of_Self-Correcting_Entanglement_Networks_as_Non-Biological_Life/links/6a2758ffd551e312d71f7a4a/Inorganic-Quantum-Abiogenesis-The-Emergence-of-Self-Correcting-Entanglement-Networks-as-Non-Biological-Life.pdf"/>
-    <published>2026-06-14T13:09:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#3</id>
-    <title>Xylooligosaccharides (XOS): How Your Microbes Handle This Prebiotic Fiber</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Maish&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The xylooligosaccharides test checks how your gut microbiome digests and responds to XOS prebiotics, so you can see whether XOS will selectively feed beneficial bacteria. Knowing this can help you choose targeted prebiotic support to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://superpower.com/guides/xylooligosaccharides-test"/>
-    <published>2026-06-14T13:09:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#2</id>
-    <title>Pilot Trial Investigating the Effects of a Prebiotic Fiber Bar on the Gut-Brain-Axis of People with Parkinson's Disease (PD)(P8-17.016)</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Smith, O Todd, I Edirisinghe, B Burton-Freeman - Neurology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiotic fibers selectively stimulate SCFA-producing microbes, yet their therapeutic potential in PD remains underexplored. We developed a prebiotic ... Nevertheless, these results underscore the therapeutic potential of prebiotic fibers in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.neurology.org/doi/abs/10.1212/WNL.0000000000212978"/>
-    <published>2026-06-14T13:09:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#1</id>
-    <title>Imidazolidine-4-thiones as prebiotic organocatalysts and substrates</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MSR Ebeling&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To access imidazolidine-4-thione catalysts 3a–3c in a more efficient and modular approach compared to the previously described prebiotic route,[19] we developed a straightforward synthesis, starting from the amino acid phenylalanine, to access ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://edoc.ub.uni-muenchen.de/37090/1/Ebeling_Marian_Simon_Rafael.pdf"/>
-    <published>2026-06-14T13:09:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76329b62dd#0</id>
-    <title>Structural profiles and prebiotic functions of bifidobacterial exopolysaccharides revealed by a polysaccharide-free medium</title>
-    <updated>2026-06-14T13:09:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Tang, Q Mo, C Xu, X Fan, K Ma, C Zhang, S Geng... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Bifidobacterium exopolysaccharides (EPS) are recognized as key effector molecules with potential benefits for gut health, yet the specific impact on the gut microbiota remains to be elucidated. In this study, EPS were extracted from six infant-derived ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0141813026028606"/>
-    <published>2026-06-14T13:09:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Luo, J Dai, Z Chen, J Xu, W Wang, Y Duan, B Tse... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Nowadays, the autonomous execution of cyberattacks capable of causing substantial real-world harm is widely regarded as one of the critical red lines that frontier AI systems must not cross. Within this broader red-line scenario, autonomous ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.13079"/>
+    <published>2026-06-15T08:55:08+00:00</published>
   </entry>
 </feed>
