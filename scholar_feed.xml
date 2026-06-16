@@ -2,195 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-15T18:19:20.080189+00:00</updated>
+  <updated>2026-06-16T11:10:02.381481+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631439450#0</id>
-    <title>VizieR Online Data Catalog: TOI-1685b transit spectra from JWST (Luque+, 2025)</title>
-    <updated>2026-06-15T16:26:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7631a7e394#0</id>
+    <title>bioRxiv preprint doi: https://doi. org/10.1101/2021.07. 28.454040; this version posted February 18, 2022. The copyright holder for this preprint (which was not certified ...</title>
+    <updated>2026-06-16T07:18:10+00:00</updated>
     <author>
-      <name>JL bean</name>
+      <name>Evelina (Ev) Fedorenko</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., EM Ahrer, Q Changeat, M Zhang, SE Moran,JL Bean... - VizieR Online Data Catalog, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We observed TOI-1685 b with the NIRSpec instrument on JWST on 2024 February 14-15 between 23: 37 and 18: 36 UTC as part of program GO-3263 (PI: Luque). The observations can be accessed via doi: 10.17909/jhgr-hc58. We used the Bright ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026yCat..51700049L/abstract"/>
-    <published>2026-06-15T16:26:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Malik-Moraleda, D Ayyash, J Gallée, J Affourtit...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; bioRxiv preprint doi: https://doi.org/10.1101/2021.07.28.454040; this version posted February 18, 2022. The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/8784926b-a3cf-43f9-b6de-68e09b909dd6/content"/>
+    <published>2026-06-16T07:18:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631439235#2</id>
-    <title>Life in Dark Subsurface Oceans: Thermodynamic Constraints and Mixing Regimes</title>
-    <updated>2026-06-15T16:26:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7631a7e27f#0</id>
+    <title>Predictions for and lack of maximal information transmission in the neuromuscular junction</title>
+    <updated>2026-06-16T07:18:13+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Sarah Marzen</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LY Li&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... For most of human history, discussions of extraterrestrial life assumed Earth-like planets bathed in starlight, ... habitability conditions for any form of life and does not attempt to constrain the higher-order Drake parameters (fi, fc). Modern exoplanet ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://nhsjs.com/wp-content/uploads/2026/05/Life-in-Dark-Subsurface-Oceans-Thermodynamic-Constraints-and-Mixing-Regimes.pdf"/>
-    <published>2026-06-15T16:26:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Goldfein, S Marzen - arXiv preprint arXiv:2606.12712, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A key question in theoretical biology is how effectively biological systems preserve information about their inputs while operating under physical and functional constraints. We examine that question at the neuromuscular junction (NMJ) by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sarah Marzen (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.12712"/>
+    <published>2026-06-16T07:18:13+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631439235#1</id>
-    <title>Impact of Eruptive Events from Young Suns on Atmospheric Chemistry and Climates of Rocky Exoplanets</title>
-    <updated>2026-06-15T16:26:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7631a7e168#0</id>
+    <title>Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life</title>
+    <updated>2026-06-16T07:18:14+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Varun Warrier</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Gopalswamy, O Malandraki, A Vidotto...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The search for habitable planets and signatures of extraterrestrial life is one of the most ambitious and consequential projects of ... habitable planet in the solar neighborhood? These discoveries have ignited a search for potentially habitable ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://openurl.ebsco.com/fulltext/gcd:194133242?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:194133242&amp;crl=f&amp;jrnl=17439213"/>
-    <published>2026-06-15T16:26:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FO Uquillas, E Sefik, J Seidlitz, ED Hertz... - Nature neuroscience&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The cerebellum contains most of the brain's neurons and supports many functions, yet how it changes with age remains unclear. Here we used three brain imaging studies spanning 47,000 adults and examined how different parts of the cerebellum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42271047/"/>
+    <published>2026-06-16T07:18:14+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631439235#0</id>
-    <title>Extraterrestrial Civilizations and the Great Silence: A Detectability–Concealment Framework for Understanding Alien Evolution, Technological Signatures, and the ...</title>
-    <updated>2026-06-15T16:26:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7631a7e084#0</id>
+    <title>Normative Robustness as a Frontier for Non-Verifiable Reasoning in LLMs</title>
+    <updated>2026-06-16T07:18:16+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Murray Shanahan</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Karkadakattil - ScienceOpen Preprints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the Search for Extraterrestrial Intelligence ( SETI ) have greatly expanded our understanding of potentially life -supporting environments, no confirmed evidence of extraterrestrial ... knowledge on extraterrestrial habitability , evolutionary pathways to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.scienceopen.com/document_file/2bbd1ccb-a5f9-459d-a184-a12e1ce4f528/ScienceOpenPreprint/Extraterrestrial%20Civilizations%20and%20the%20Great%20Silences.pdf"/>
-    <published>2026-06-15T16:26:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Tennant, B Henke, A Keshmirian, M Shanahan... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As LLMs increasingly serve in advisory and deliberative roles, users rely on them for non-verifiable reasoning in domains lacking objective ground truths. However, traditional evaluations of LLM reasoning focus almost exclusively on fact-based ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Murray Shanahan (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.12731"/>
+    <published>2026-06-16T07:18:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#9</id>
-    <title>Thermodynamic Ontogeny: From Hydrothermal Thioesters to a Protein World</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7631a7b4e8#0</id>
+    <title>Tiny Hopes─ Assessing Protein Preservation in Collagen-Depleted Bones</title>
+    <updated>2026-06-16T07:19:39+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Tom Higham</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AM Magro - BioSystems, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The transition from abiotic hydrothermal chemistry to a protein world lacks a governing principle capable of deriving protocell ... This identity derives protocell architecture as a sustainable non-equilibrium steady state, predicting an effective ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726001644"/>
-    <published>2026-06-15T16:26:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EI Végh, L Afjehi-Sadat, M Giannì, B Horejs, C Yazbeck... - Journal of Proteome ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding human evolution relies on biomolecular data from ancient skeletal tissues, yet warm climates often cause complete collagen loss, excluding many regions from the study. This research investigates the survival of non-collagenous ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tom Higham (author alert)</content>
+    <link href="https://pubs.acs.org/doi/full/10.1021/acs.jproteome.5c01274"/>
+    <published>2026-06-16T07:19:39+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#8</id>
-    <title>H00102--00A, Front mat Genesis</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7631a7a3cb#0</id>
+    <title>Approximability limits for bounded-degree max-LINSAT and implications for decoded quantum interferometry</title>
+    <updated>2026-06-16T07:20:10+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Baum - GENESIS&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... When asked if this model represents a metabolism - first or genetics-first origin, Szostak replied: "I don't think it's metabolism first , at least in the way that's normally thought of, but it's also more than the simplest genetics-... Origins of Life and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://bookreadfree.com/94828/2353788"/>
-    <published>2026-06-15T16:26:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MJ Kramer, C Schubert, J Eisert - arXiv preprint arXiv:2606.13570, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For general max-k-XORSAT with $ k\geq 3$, no polynomial-time algorithm can do substantially better than random guessing on worst-case instances unless $\mathsf {P}=\mathsf {NP} $: approximating beyond the random-assignment value of $1/2$ is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.13570"/>
+    <published>2026-06-16T07:20:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#7</id>
-    <title>Dendrobium officinale Kimura &amp; Migo polysaccharides as potential prebiotics: gut microbiota regulation, health effects, and application prospects</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7631a6a714#0</id>
+    <title>Az alagútépítés során felmerülő földtani kockázati tényezők és hatásaik</title>
+    <updated>2026-06-16T07:27:29+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Török, Ákos</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Xu, J Zheng, L Cheng, Y Zhang, Y Wang, B Duan - Journal of Food Measurement ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... More importantly, we comprehensively analyze the prebiotic properties, underlying mechanisms, ... insights for the rational development and application of DOP-based prebiotic products. ... These findings further underscore the rationale for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s11694-026-04544-y"/>
-    <published>2026-06-15T16:26:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Edina, T Ákos - Nemzetközi Építéstudományi Konferencia–ÉPKO, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Az infrastruktúra fejlődésével egyre gyakoribbá válik a kedvezőtlen földtani adottságú területek beépítése, ami az alagúttervezés és kivitelezés során kiemeli a kockázatelemzés szerepét. Jelen tanulmány a főbb földtani kockázati tényezők és ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Török, Ákos (author alert)</content>
+    <link href="https://ojs.emt.ro/EPKO/article/download/2347/2479"/>
+    <published>2026-06-16T07:27:29+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#6</id>
-    <title>Nxnn indonesia: Site Map- Abiogenesis Questions and Videos Socratic</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7631a6a646#0</id>
+    <title>Middle to Late Miocene paleoceanographic evolution of the south-eastern Indian Ocean (ODP Site 752) inferred from nannofossil assemblages</title>
+    <updated>2026-06-16T07:27:30+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Gerald Auer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Belanja&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This was the discovery of old Humphrey Davy in 1807 See this site. I think it was originally isolated by using a voltaic pile (a BATTERY) that was used to decompose very dry sodium hydroxide. The background and links are in the site. There are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://paysloirenature-projets.fr/articles/aa/full_html/2026/01-cajub-putwed/?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}?s={search_term_string}"/>
-    <published>2026-06-15T16:26:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#5</id>
-    <title>Abiogenesis as the origin of selection. An alternative</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Rivas-Santisteban&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prior to abiogenesis , this covariance should be effectively 20 zero. By removing the assumption that slow adaptive evolution must precede abiogenesis , this 21 model defines a null expectation in which imperfect heredity is absent in prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Juan-Rivas-Santisteban/publication/389107909_Abiogenesis_as_the_origin_of_selection_An_alternative_to_the_Oparin-Haldane_model/links/6a2c33d883a9957d732c6980/Abiogenesis-as-the-origin-of-selection-An-alternative-to-the-Oparin-Haldane-model.pdf"/>
-    <published>2026-06-15T16:26:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#4</id>
-    <title>Best Prebiotic Foods and Supplements for Gut Health</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Maish&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Gut microbiome testing before and after 8–12 weeks provides the only objective confirmation that a prebiotic intervention is producing the ... provide more prebiotic substrate. Leeks, shallots, and spring onions are in the same botanical family and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://superpower.com/guides/best-prebiotic"/>
-    <published>2026-06-15T16:26:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#3</id>
-    <title>Bee Honey as a Prebiotic Matrix and Probiotic Carrier</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Aleksandra, B Sionek, Ł Anna - Applied Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in the context of the functional properties resulting from the probiotic and prebiotic content. ... Honey's antimicrobial, prebiotic , and probiotic properties could indicate that honey is a synbiotic ... in the context of the functional properties resulting from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/83b29756208418093fc5867a4688ecb8/1?pq-origsite=gscholar&amp;cbl=2032433"/>
-    <published>2026-06-15T16:26:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#2</id>
-    <title>Elucidating the Adverse Interactions of L-Tryptophan and 5-Hydroxytryptophan Self-Assemblies with Prebiotic Membranes and Neuronal Cells: An Investigation Using ...</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Hazra, S Paul, PK Nandi, A Maity, S Layek... - Langmuir, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; L-tryptophan (l-Trp) and 5-Hydroxytryptophan (5-HTP) are essential precursors in serotonin biosynthesis and widely used as over-the-counter dietary supplements. We hypothesize that, due to prolonged uptake and accumulation in the human body ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6c01773"/>
-    <published>2026-06-15T16:26:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#1</id>
-    <title>In Vitro Simulated Digestion Unveils the Multifunctional Benefits of Freeze-Dried Cowpea Fiber: Prebiotic , Hypoglycemic, Antioxidant Activity, and Postbiotic-Mediated ...</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Sonklin, S Limsumphan, N Srisuwan, P Bunphueak... - ACS Omega, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cowpea (Vigna unguiculata) is an underutilized legume rich in dietary fiber (DF) and bioactive compounds. However, the functional potential of its insoluble DF (IDF), particularly that derived from immature or downgraded pods, has not been ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/doi/full/10.1021/acsomega.6c02373"/>
-    <published>2026-06-15T16:26:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e6d#0</id>
-    <title>Enzymatic conversion of guar gum to prebiotic mannooligosaccharide by efficient β-mannanase FsMan26 and unveiling its hydrolytic properties</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Zhong, Y Wang, K Yang, W Chang, X Gao, M Peng... - LWT, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mannan-rich polysaccharides such as guar gum represent important renewable substrates to produce functional mannooligosaccharides (MOS) with prebiotic potential. In this study, an efficient β-1,4-mannanase Fs Man26, from Fibrobacter ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0023643826006304"/>
-    <published>2026-06-15T16:26:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e1f#2</id>
-    <title>THE JUSTIKA VANGUARD: Multiversal Immunology, the Chrono-Lock Protocol, and the 2026 Temporal Fold</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SM Shariatpanahi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... planet whose differing geological core would eventually define it as Mars or Venus . From the surface of one world, the ... Exoplanet "—a wild, untamed alien world that mathematically mirrors Earth's distant past. By categorizing the dinosaurs ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://philarchive.org/archive/SHATJV-2"/>
-    <published>2026-06-15T16:26:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e1f#1</id>
-    <title>Impact of Eruptive Events from Young Suns on Atmospheric Chemistry and Climates of Rocky Exoplanets</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Gopalswamy, O Malandraki, A Vidotto...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... required to find a prebiotic exoplanet around a solar-like stars and its pre biosignatures . ... The same question can be raised for the impact on habitability of an early Venus , Earth and Mars ... To understand whether an exoplanet is habitable at its surface ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://openurl.ebsco.com/fulltext/gcd:194133242?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:194133242&amp;crl=f&amp;jrnl=17439213"/>
-    <published>2026-06-15T16:26:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7631438e1f#0</id>
-    <title>The Sub - Neptune to Rocky Planet Transition Mediated by Atmospheric Escape and Magma Ocean Evolution</title>
-    <updated>2026-06-15T16:26:53+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Cherubim&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... A great mystery in exoplanet science is the nature of planets between the sizes of Earth and Neptune : what are their compositions and how do they evolve? Though absent in our solar system, they are the most common type of planet in the galaxy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/b2455b7b07f327ef2e7eeb9e1e43282b/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
-    <published>2026-06-15T16:26:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Puentes-Jorge, AV Del Gaudio, WE Piller... - EGUsphere, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how the Earth's system behaves under climate forcing conditions is critical for predicting how future climate change scenarios may affect the planet. In this regard, the Miocene, with an atmospheric temperature~ 4° C higher than modern ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
+    <link href="https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3191/egusphere-2026-3191.pdf"/>
+    <published>2026-06-16T07:27:30+00:00</published>
   </entry>
 </feed>
