@@ -2,19 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-18T10:20:08.331908+00:00</updated>
+  <updated>2026-06-19T10:25:42.449989+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e763715b86d#0</id>
-    <title>The Language Network Is Recruited but Not Required for Nonverbal Event Semantics Anna A. Ivanova1, 2, Zachary Mineroff1, Vitor Zimmerer3, Nancy Kanwisher1, 2</title>
-    <updated>2026-06-18T06:35:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#9</id>
+    <title>TIMELESS QUESTIONS AND MODERN CHALLENGES: A JOURNEY FROM THE ORIGIN OF LIFE IN HYDROTHERMAL VENTS TO ELECTROCHEMICAL CO2 ...</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Varley, E Fedorenko&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; RESEARCH ARTICLE The Language Network Is Recruited but Not Required for Nonverbal Event Semantics Anna A. Ivanova1,2 , Zachary Mineroff1 , Vitor Zimmerer3 , Nancy Kanwisher1,2, Rosemary Varley3 , and Evelina Fedorenko1,2 1 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/f122c3f4-9036-493c-b4e1-a17efabe80a0/content"/>
-    <published>2026-06-18T06:35:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Panico&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The objective of the work presented here is to investigate the functioning of the alkaline hydrothermal vent from an electrochemical point of view in order to inspire new technologies for CO2 reduction. Oceanic hydrothermal vents (HTVs) are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://tesidottorato.depositolegale.it/handle/20.500.14242/371930"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#8</id>
+    <title>Fructooligosaccharides (FOS): How Your Microbes Handle a Prebiotic Fiber</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Maish&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... A fructooligosaccharides test is a gut microbiome assessment focused on how your intestinal microbes handle FOS, a naturally occurring prebiotic fiber found in foods like chicory root, garlic, onion, asparagus, and bananas. The test analyzes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://superpower.com/guides/fructooligosaccharides-test"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#7</id>
+    <title>Galactooligosaccharides (GOS): How Your Gut Handles a Prebiotic</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Maish&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Find out how your gut and microbiome respond to galactooligosaccharides (GOS) so you can use prebiotics safely and effectively. By detecting intolerance or a poor microbial response, the test helps you avoid bloating, excess gas and other diet-triggered ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://superpower.com/guides/galactooligosaccharides-test"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#6</id>
+    <title>Inulin Powder: Prebiotic Benefits, Gas Risk, and the Right Dose</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Maish&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Inulin is a chicory-root-derived fructan that resists digestion and selectively feeds Bifidobacterium in the colon. Moderate evidence supports bowel regularity and microbiome benefits at 5–15 g/day. Critically, inulin is a high-FODMAP fructan and a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://superpower.com/guides/inulin-powder-prebiotic-mechanism-fodmap-dosing"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#5</id>
+    <title>Prebiotic -Driven Dynamics of Lactobacillus Co-Cultures</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Devpura&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Probiotics, which include specific species of Lactobacillus, are microorganisms that support human health and utilize available nutrients in the gut to grow. Galacto-oligosaccharides (GOS), prebiotics composed of galactose units with a terminal glucose unit, serve as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://cdr.lib.unc.edu/concern/honors_theses/v118rw408"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#4</id>
+    <title>Does Prebiotic Soda Actually Reach Your Gut?</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Maish&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Defining the Prebiotic Soda Category Prebiotic soda is a carbonated drink with added prebiotic fiber, most commonly chicory inulin at 2-9 g ... Prebiotic soda is a category of carbonated beverages formulated with added prebiotic fibers, most ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://superpower.com/guides/prebiotic-soda-gut-health-evidence-review"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#3</id>
+    <title>Outonomy at the Origins of Life</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; XE Barandiaran, A Etxeberria&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The first living beings, prokaryotes, were endowed with an extremely complex and dynamic individual organization: a compartmentalized metabolism in which diverse molecular components and transformation processes got functionally coupled ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philpapers.org/rec/BAROAT-11"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#2</id>
+    <title>Technical Aspects of Commercial Prebiotic Manufacturing</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Saville, K Venema, BA Saville, H Baric, SM Derya&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... membrane separation processes to remove impurities and produce prebiotic oligosaccharides with the targeted composition and degree ... being investigated for their prebiotic properties. The unique attributes of each type of prebiotic and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/ba919c58a10af347e8ee7b71feca309a/download_pub"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#1</id>
+    <title>Assessment of prebiotic potential of green banana, jackfruit, sweet potato, and cassava flours on Bifidobacterium animalis subsp. lactis BB-12 in a skimmed milk ...</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Thakur, D Kumar, SK Mendiratta, A Dubey, S Patel... - Journal of Food Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study evaluated the prebiotic and synbiotic potential of green banana (GBF), jackfruit (JFF), sweet potato (SPF), and cassava (CSF) flours in skim milk fermented with Bifidobacterium animalis subsp. lactis BB-12. Proximate composition and starch ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s13197-026-06762-0"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637a6611f#0</id>
+    <title>The physicochemical properties, and post-fermentation prebiotic properties of the type 3 resistant starch from Canna edulis modified with salvianolic acid B</title>
+    <updated>2026-06-18T23:18:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Min, A Li, H Li, L Yang, N Zhang, J Wu, X Wang, L Li... - Journal of Agriculture and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Salvianolic acid B (SA) has significant regulatory effects on glucolipid metabolism. Combining SA with resistant starch endowed this type of starch with unique functional properties. This study represents the first direct complexation between SA ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2666154326004333"/>
+    <published>2026-06-18T23:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7637dceaa4#0</id>
+    <title>Correlation emergence and the Epps effect in two coupled limit order books</title>
+    <updated>2026-06-19T06:34:59+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Angstmann, T Gebbie -arXivpreprintarXiv:2606.14182, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We give a unified analytic account of correlation emergence and the Epps effect in two coupled limit order books. The model starts from a discrete random-walk description of order flow with creation, cancellation and diffusion. A pair-trader ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.14182"/>
+    <published>2026-06-19T06:34:59+00:00</published>
   </entry>
 </feed>
