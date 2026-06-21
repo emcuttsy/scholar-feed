@@ -2,151 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-20T15:27:20.366222+00:00</updated>
+  <updated>2026-06-21T09:49:42.586813+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d303e#0</id>
-    <title>The Role of Atmospheric Composition in Determining Planetary Habitability Beyond the Solar System</title>
-    <updated>2026-06-20T12:41:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7636b54d16#0</id>
+    <title>Supplementary Information for: How Network Structure Shapes Human Rights Risk Propagation and Due Diligence Efficiency</title>
+    <updated>2026-06-20T19:35:34+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Stefan Thurner</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EL Ayers - Academic Journal of Astrophysics andPlanets, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... planetary temperature stability, liquid water retention, radiation shielding, and biosignature potential. ... habitability assessment. The study concludes that atmospheric composition remains fundamental to evaluating exoplanetary ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://iasrjournal.com/index.php/AJAP/article/download/35/33"/>
-    <published>2026-06-20T12:41:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2f7e#0</id>
-    <title>Predicting Maximum Tree Heights and Other Traits from Allometric Scaling and Resource Limitations Christopher P. Kempes 1, 2</title>
-    <updated>2026-06-20T12:41:17+00:00</updated>
-    <author>
-      <name>Chris Kempes</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GB West, K Crowell, M Girvan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Citation: Kempes CP, West GB, Crowell K, Girvan M (2011) Predicting Maximum Tree Heights and Other Traits from Allometric Scaling and Resource ... Copyright: C223 2011 Kempes et al. This is an open-access article distributed under the terms ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/e29b01ae-c372-4d01-a41b-74cb056ab3cf/content"/>
-    <published>2026-06-20T12:41:17+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#9</id>
-    <title>The maintenance and emergence of diversity promotes open-ended evolution in a pre-cellular system</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Kalambokidis, NO Medina-Chávez, J Khey... - npj Complexity, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The evolution of novelty is central to understanding the emergence of life . We explored how selective contexts promote innovation, using an ... By employing an "eco-evolutionary" approach to the origins of life 24 , we demonstrate how innovation can evolve and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s44260-026-00072-4"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#8</id>
-    <title>Production and characterization of mechanically-enzymatically treated suspensions of the food by-product pea hull</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RE Schmidt, V Kurz, V Haitz, R Morales-Medina... - Frontiers in Nutrition&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic di-and oligosaccharides were also released. Overall, the treatments resulted in high-fiber ingredients with small particle sizes (D90 between 94 and 121 µm) that exhibited improved hydration and sedimentation properties, as well as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1852207/full"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#7</id>
-    <title>Microencapsulation of Saskatoon berry polyphenols in inulin/galactooligosaccharide matrices: Effects on bioaccessibility, transepithelial transport, and bioactivity</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Lachowicz-Wiśniewska, A Miller, M Świeca, N Żurek... - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic potential of the encapsulated polyphenolic extract was evaluated based on its effect on the growth of Faecalibacterium ... The prebiotic index (PI) and prebiotic activity score (PAS) were calculated based on changes in prebiotic and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626022272"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#6</id>
-    <title>Perspectives on structurally complex dietary fibers as alternatives to traditional prebiotics in the modulation of the gut microbiome</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Xavier-Santos, KY Abboud, R Bedani, P Berilli... - Journal of Functional Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Understanding how specific DFs, including arabinoxylans, pectins, and β-glucans, interact with commensal microorganisms remains key to identifying novel prebiotic candidates. This review integrates current evidence regarding the prebiotic potential ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1756464626002306"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#5</id>
-    <title>Quantification of Changes in Bifidobacteria and Lactobacilli Colony-forming Units During Rifaximin Treatment and Synbiotic Gel in Healthy Volunteers</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Cassís-Nosthas, FV Vorácková, FT Dzib...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Lactobacillus acidophilus interacts with intestinal cells and uses prebiotic compounds. ... lactis Bi07, and agave inulin as a prebiotic , during 1 week of rifaximin treatment and for 4 weeks ... The Synbiotic Gel group received 10.32 g of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42296114/"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#4</id>
-    <title>Kinetic Boundary between Autocatalysis and Diffusion in the Origin of Life</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SV Jeyaraj, H Komatsu, T Suda, R Nakamura, H Ooka&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These networks may be common, but we do not expect them to be relevant to the origin of life , because the chemical species generated ... reactions to occur uniformly in the protocell while diffusion occurs only at the surface. Therefore, for a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15004763"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#3</id>
-    <title>Cocoa as a functional food ingredient: targeting lactobacillus for potential prebiotic activity</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Vedor, I Soares, D Machado, JC Andrade...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ciencia.ucp.pt/en/publications/cocoa-as-a-functional-food-ingredient-targeting-lactobacillus-for/"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#2</id>
-    <title>THE SIALO-MICROBIAL-DENTAL COMPLEX AND NOVEL PREBIOTIC APPROACHES FOR THE FUTURE OF ORAL CARE</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GP Curatola - Frontiers in Oral Health&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The evolving science of the oral microbiome has revealed a sophisticated regulatory system — the sialo-microbial-dental complex — encompassing the dynamic interplay among saliva, resident microbiota, and tooth mineral structures. This ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/oral-health/articles/10.3389/froh.2026.1863143/full"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#1</id>
-    <title>Therapeutic Management of Probiotics and Prebiotic Products to Modulate Gut Microbiome by Healthcare Services</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Bajoudah, L Li, MA Hussain - Microorganisms, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2076-2607/14/6/1360"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eeb#0</id>
-    <title>A comparative evaluation of new prebiotic candidates. Part 2: In vitro assays using faecal inoculum from IBD patients</title>
-    <updated>2026-06-20T12:41:19+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Martínez-Gómez, J Sousa, A Cordeiro, SG Barbosa... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study evaluated the prebiotic potential of three novel carbohydrate mixtures (ie sugar beet pectooligosaccharides (SBPOS) enriched in arabinooligosaccharides; pine-derived galactoglucomannooligosaccharides (GGMOS); and lemon-derived ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926014377"/>
-    <published>2026-06-20T12:41:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76369d2eab#0</id>
-    <title>Annual Reviews of Astronomy and Astrophysics</title>
-    <updated>2026-06-20T12:41:20+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Deming&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... few believed that observations of exoplanet atmospheres would ever be possible. After ... field is now firmly established, with over two dozen exoplanet atmospheres observed ... Hot Jupiters are the type of exoplanet currently most amenable to study. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/cb178af0-3b3e-4f80-a7f0-ca3de2973e50/content"/>
-    <published>2026-06-20T12:41:20+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Hurt, K Ledebur, B Meyer, M Gerschberger, S Thurner...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We implement a statistical approach to reconstruct firm networks using Input-Output (IO) tables and trade data as mesoscale ground truths. Note that there are subtle but important differences between IO tables and production networks due to differences ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
+    <link href="https://assets-eu.researchsquare.com/files/rs-9876184/v1/fb5047f23646df4809ab0a43.pdf"/>
+    <published>2026-06-20T19:35:34+00:00</published>
   </entry>
 </feed>
