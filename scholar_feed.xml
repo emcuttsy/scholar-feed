@@ -2,19 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-21T09:49:42.586813+00:00</updated>
+  <updated>2026-06-21T15:43:28.181892+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7636b54d16#0</id>
-    <title>Supplementary Information for: How Network Structure Shapes Human Rights Risk Propagation and Due Diligence Efficiency</title>
-    <updated>2026-06-20T19:35:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7636f463c9#0</id>
+    <title>Unraveling the Mystery of the Peculiar and Young Hot Jupiter CoRoT-2b II: Phase Resolved Emission Spectroscopy with VLT/CRIRES+ and Gemini-S/IGRINS</title>
+    <updated>2026-06-21T10:15:20+00:00</updated>
     <author>
-      <name>Stefan Thurner</name>
+      <name>Lisa Dang</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Hurt, K Ledebur, B Meyer, M Gerschberger, S Thurner...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We implement a statistical approach to reconstruct firm networks using Input-Output (IO) tables and trade data as mesoscale ground truths. Note that there are subtle but important differences between IO tables and production networks due to differences ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
-    <link href="https://assets-eu.researchsquare.com/files/rs-9876184/v1/fb5047f23646df4809ab0a43.pdf"/>
-    <published>2026-06-20T19:35:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AY Kesseli, S Gandhi, L Dang, A Lavail... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hot Jupiters are expected to be tidally locked and synchronously rotating due to their short orbital periods. These conditions create large day-night temperature contrasts and are thought to drive eastward super-rotating jets. Indeed, the majority of hot ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.17304"/>
+    <published>2026-06-21T10:15:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7636f4638b#0</id>
+    <title>Timescapes of non-human experience</title>
+    <updated>2026-06-21T10:15:20+00:00</updated>
+    <author>
+      <name>Anil Seth</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Singhal, J Birch, AK Seth - Trends in Cognitive Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How can we investigate non-human experiences scientifically? Given substantial differences in sensory abilities and the private nature of consciousness, this remains an open question. In this review, we propose a way to gain empirical traction on one ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(26)00108-7"/>
+    <published>2026-06-21T10:15:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7636f4620f#0</id>
+    <title>Estimating the amount of computation done by a brain using population neural activity</title>
+    <updated>2026-06-21T10:15:23+00:00</updated>
+    <author>
+      <name>David H. Wolpert</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Li, Y Lin, AK Sharma, AM Leifer, DH Wolpert - ... of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David H. Wolpert (author alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2507932123"/>
+    <published>2026-06-21T10:15:23+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7636f461b7#0</id>
+    <title>JM ª Candón Romero, RJ Gallé Cejudo, M. Sánchez Ortiz de Landaluce, T. Silva Sánchez, P. Fernández Camacho &amp; SM ª Plaza Salguero (eds.)," IG Montes Cala ...</title>
+    <updated>2026-06-21T10:15:24+00:00</updated>
+    <author>
+      <name>Eva Miranda</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Peralta‐Salas, C Oms, E Miranda&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; En el marco de nuestro proyecto sobre Aristóteles en España, en fase de redacción y ahora complementado mediante el proyecto en curso" Conexiones europeos del aristotelismo español medieval y humanístico: Francia, Inglaterra, Italia y ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eva Miranda (author alert)</content>
+    <link href="https://www.academia.edu/download/119628497/I._G._Montes_Cala_Scripta_Minora_Hellenistica.pdf"/>
+    <published>2026-06-21T10:15:24+00:00</published>
   </entry>
 </feed>
