@@ -2,63 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-25T09:21:18.727906+00:00</updated>
+  <updated>2026-06-27T08:35:10.435670+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762b9e3e8d#0</id>
-    <title>Research data supporting" The genetic architecture of cortical similarity networks"</title>
-    <updated>2026-06-25T06:00:40+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70aa7#0</id>
+    <title>Predictive Rankings of the Probability of Hosting a Temperate Terrestrial World for the HWO ExEP Mission Star List</title>
+    <updated>2026-06-27T03:23:09+00:00</updated>
     <author>
-      <name>Varun Warrier</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Sebenius, V Warrier, R Bethlehem, R Dear...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Overview: This repository contains genome-wide association study (GWAS) summary statistics for Morphometric INverse Divergence (MIND) structural similarity and fMRI-derived functional connectivity (FC). These include summary statistics for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
-    <link href="https://www.repository.cam.ac.uk/items/dbdc5804-fc5b-4fa1-a8b2-586229838ff1"/>
-    <published>2026-06-25T06:00:40+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Dietrich, K Ruppert, A Ware, PA Young - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... spectroscopy of exoplanet reflected light to investigate their atmospheres for biosignatures . ... upward of 50% likely to host a temperate terrestrial planet . We also consider the possibility of a ... In our own solar system, there are multiple opinions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae76d3/pdf"/>
+    <published>2026-06-27T03:23:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762b9e3d0a#0</id>
-    <title>Water-modulated conformational heterogeneity underlies multiple timescales of primary charge separation in photosystem II</title>
-    <updated>2026-06-25T06:00:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#9</id>
+    <title>Asymmetric division in liquid-crystalline protocells: From molecular onions to primitive inheritance</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Capone, A Benny, G Dell'Orletta, GD Scholes... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The kinetics of charge separation in Photosystem II, initiated within the reaction center, remain debated due to spectral congestion and overlapping timescales with energy transfer. Here, by means of atomistic molecular dynamics and quantum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://www.nature.com/articles/s41467-026-73961-w"/>
-    <published>2026-06-25T06:00:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Das&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... towards the development of experimental models based on protocell -like synthetic systems. These self-... The conceptual foundation of protocell research was laid almost a century back through ... molecular systems, the field of protocell ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s12039-026-02560-5"/>
+    <published>2026-06-27T03:23:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762b9e3aea#0</id>
-    <title>Megan Quimby 2 and Bradford C. Dickerson 2,* 1 Program in Speech and Hearing Bioscience and Technology, Harvard University, Cambridge, MA 02138, USA; ...</title>
-    <updated>2026-06-25T06:00:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#8</id>
+    <title>Protective effects of Pitanga Leaf extract on oxidative stress and hepatic-testicular alterations in a rat model of metabolic syndrome</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Gallée, C Cordella, E Fedorenko, D Hochberg...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; brain sciences Article Breakdowns in Informativeness of Naturalistic Speech Production in Primary Progressive Aphasia Jeanne Gallée 1,* , Claire Cordella 2, Evelina Fedorenko 1,3, Daisy Hochberg 2, Alexandra Touroutoglou 2, Megan Quimby 2 and Bradford C ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/482bcfa3-3dfb-41c7-8143-ffb6127a465c/content"/>
-    <published>2026-06-25T06:00:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Sulistyoningrum, A Hendrawati, MF Karima - AcTion: Aceh Nutrition Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ejournal.poltekkesaceh.ac.id/index.php/an/article/view/2781"/>
+    <published>2026-06-27T03:23:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762b9e3ac1#0</id>
-    <title>Preprint typeset using LATEX style emulateapj v. 8/13/10 INFERENCE OF INHOMOGENEOUS CLOUDS IN AN EXOPLANET ATMOSPHERE</title>
-    <updated>2026-06-25T06:00:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#7</id>
+    <title>Inevitable Life: The 100% Deterministic Emergence of Life Governed by Infinite Non-Cyclic Cosmic Order</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
     <author>
-      <name>Nikku Madhusudhan</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BO Demory, J de Wit, N Lewis, J Fortney, A Zsom...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ar X iv :1 30 9. 78 94 v1 [ as tro -p hE P] 3 0 S ep 20 13 In press. Accepted to ApJL on 2013 August 20. Preprint typeset using LATEX style emulateapj v. 8/13/10 INFERENCE OF INHOMOGENEOUS CLOUDS IN AN EXOPLANET ATMOSPHERE Brice-Olivier ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/7d2ef0c8-2287-4684-aa50-8ff978160d6e/content"/>
-    <published>2026-06-25T06:00:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Li&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For over a century, origin - of - life research has been haunted by the combinatorial probability paradox: the spontaneous assembly of primitive replicators from inorganic matter is deemed an astronomically rare stochastic coincidence. This work ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/LIILTL"/>
+    <published>2026-06-27T03:23:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762b9e3893#0</id>
-    <title>SpikeCanvas: An IoT-Based Control Plane for Event-Triggered Workflow Orchestration of High-Density Neurophysiology Data</title>
-    <updated>2026-06-25T06:00:51+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#6</id>
+    <title>Effects of Banana (Musa accumulata) Peel Flour as a Dietary Prebiotic Supplement on Growth Performance and Nutrient Utilization of the African Catfish,(Clarias ...</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
     <author>
-      <name>Edward F Chang</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Geng, K Voitiuk, DF Parks, A Robbins, A Spaeth... - Array, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Electrophysiology instruments generate continuous, high-volume data streams during experiments. Processing of these data efficiently requires coordination across distributed computing resources. Longitudinal recordings from high-density ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S259000562600336X"/>
-    <published>2026-06-25T06:00:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y KT, H MZ, A AI, K UM&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study evaluated the efficacy of diet supplemented with Banana (Musa accumulate) peel flour at different inclusion levels on the growth performance and nutrient utilization of African catfish (Clarias gariepinus). A total of 150 fingerlings of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://agris.fao.org/search/en/providers/125717/records/6a32c2f0b9a0a56f302a70af"/>
+    <published>2026-06-27T03:23:11+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#5</id>
+    <title>Radiation and Surface-Driven Evolution of Prebiotic Astrophysical Ices</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Aslam&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , and ultimatelyincorporated into environments relevant for prebiotic chemistry. The first part of ... complex organicspecies, including key prebiotic intermediates such as formaldehyde and formic ... Phosphorus is widely recognizedas one of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://iris.unipa.it/handle/10447/709683"/>
+    <published>2026-06-27T03:23:11+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#4</id>
+    <title>Nutritive and Prebiotic Potentials of Chlorella and Scenedesmus Microalgae</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GI Yernazarova, SK Kabdrakhmanova, SK Turasheva... - ES Food and Agroforestry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We investigated the prebiotic properties of Chlorella sp. and Scenedesmus sp. microalgae based on the analysis of their extracts. ... with a possible prebiotic effect. The results of the analysis indicate the presence of biologically active substances ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.espublisher.com/journals/articledetails/2300"/>
+    <published>2026-06-27T03:23:11+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#3</id>
+    <title>Microwave-Assisted Extraction of Fructooligosaccharides From Plantain Peel: Optimization Through Response Surface Methodology and Its Prebiotic Activity</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Singh, M Grover, A Kundu, A Singh, S Saha - Journal of Food Process Engineering, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jfpe.70651"/>
+    <published>2026-06-27T03:23:11+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#2</id>
+    <title>Gut Microbiota Modulation by a Prebiotic -and Probiotic-Enriched Diet in a High-Performance Weightlifter: A Case Report</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Astorga-Eló, N Durán, J Bustamante... - Current Nutrition &amp; Food ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.benthamdirect.com/content/journals/cnf/10.2174/0115734013458887260518042720"/>
+    <published>2026-06-27T03:23:11+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#1</id>
+    <title>The prebiotic potential of xylooligosaccharides: status, challenges, and future prospects</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Hu, FA Khan, T Tabler, N Labbé, J Lin - Food, Nutrition and Health, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Xylooligosaccharides (XOS), short-chain xylose oligomers derived from hemicellulose, have emerged as a promising prebiotic fiber with significant potential for modulating human and animal health. Recently, generation of XOS prebiotics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s44403-026-00064-1"/>
+    <published>2026-06-27T03:23:11+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762ae70a1c#0</id>
+    <title>Self-Catalytic Mechanism of Prebiotic Reactions: From Formamide to Pyrimidines</title>
+    <updated>2026-06-27T03:23:11+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Enchev, S Slavova - The Journal of Physical Chemistry B, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5c08322"/>
+    <published>2026-06-27T03:23:11+00:00</published>
   </entry>
 </feed>
