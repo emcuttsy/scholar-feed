@@ -2,19 +2,327 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-27T15:06:16.004079+00:00</updated>
+  <updated>2026-06-29T10:59:09.874052+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76291c496d#0</id>
-    <title>Stability of digital and analog quantum simulations under noise</title>
-    <updated>2026-06-27T11:22:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbf2b#0</id>
+    <title>by Hitchhiking Among Passing Star Systems</title>
+    <updated>2026-06-28T20:44:30+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Eisert, J Rao, T Guaita&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum simulation is a central application of near-term quantum devices, pursued in both analog and digital architectures. A key challenge for both paradigms is the effect of imperfections and noise on predictive power. In this work, we present a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-9991311/latest"/>
-    <published>2026-06-27T11:22:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ISFG Real - ... from the 2025WorldScience Fiction Convention, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... travel from the habitable zone of one star system to the habitable zone of another ... to alien life , if we find any, is even more complex. CS Lewis presumed human space travelers would always seek planets , most planets would have life , and humans ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=pX_tEQAAQBAJ&amp;oi=fnd&amp;pg=PA237&amp;dq=(habitable%7Chabitability+planet%7Cplanetary%7Cworld%7Cexoplanet)%7C%22habitale+zone%22%7Cbiosignature%7Castrobiology%7Ctechnosignature%7C(%22search+for%22+~alien%7Cextraterrestrial+life)%7CSETI%7C%22biosignature+detection%22&amp;ots=kI7Vorv4tD&amp;sig=BNcuG4ORYZ3r1zjpvkqfzmKp40w"/>
+    <published>2026-06-28T20:44:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbeeb#0</id>
+    <title>The panchromatic JWST dayside spectrum of WASP-121 b reveals a refractory-rich formation</title>
+    <updated>2026-06-28T20:44:31+00:00</updated>
+    <author>
+      <name>Laura Kreidberg</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KA Kahle, P Mollière, L Kreidberg, B Bitsch, M Attia... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; One path to understand how planets form is to link their present-day atmospheric composition to predictions from planet formation models. For the hottest planets, the abundances of refractory species can provide a useful formation tracer ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.21855"/>
+    <published>2026-06-28T20:44:31+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbe92#1</id>
+    <title>C, N, O, S, and photochemistry in a temperate giant planet orbiting a late M dwarf</title>
+    <updated>2026-06-28T20:44:33+00:00</updated>
+    <author>
+      <name>JL bean</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., J Yang, V Nagpal, MR Line, G Fu, MC Nixon,JL Bean... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We report the JWST NIRSpec/PRISM transit spectrum of TOI-6894b, an exceptional 420 K sub-Saturn that is the only known giant planet transiting a late M dwarf. Remarkably, both the light curve and the transit spectrum exhibit almost no stellar ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.23774"/>
+    <published>2026-06-28T20:44:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbe92#0</id>
+    <title>Photochemical Production of CS2 in Temperate-to-Warm Gas Giant Exoplanet Atmospheres</title>
+    <updated>2026-06-28T20:44:33+00:00</updated>
+    <author>
+      <name>JL bean</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., V Nagpal, M Zhang, Q Xue, EMR Kempton,JL Bean... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sulfur chemistry has emerged as an important probe of exoplanet atmospheres in the JWST era, although observational constraints have thus far been largely limited to SO2 and H2S in warm and hot exoplanets. Recent JWST observations have ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.23820"/>
+    <published>2026-06-28T20:44:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbe24#4</id>
+    <title>The Scientific Revolution of Interstellar Objects</title>
+    <updated>2026-06-28T20:44:34+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Eldadi, G Tenenbaum, A Loeb&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.linknovate.com/news/the-scientific-revolution-of-interstellar-objects-21855310/"/>
+    <published>2026-06-28T20:44:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbe24#3</id>
+    <title>Atmospheric characterisation with CRIRES+ M-band as a pathfinder for rocky worlds with METIS</title>
+    <updated>2026-06-28T20:44:34+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Parker - Planetary formation and Exoplanets in the ELT era ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026exoe.confE..36P/abstract"/>
+    <published>2026-06-28T20:44:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbe24#2</id>
+    <title>Pareto Optimality: Another Way to Find Life ?</title>
+    <updated>2026-06-28T20:44:34+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CH Lineweaver - Astrobiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://journals.sagepub.com/doi/abs/10.1177/15311074261464020"/>
+    <published>2026-06-28T20:44:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbe24#1</id>
+    <title>Exoplanet magnetospheres detected for first time, opening new window on planets</title>
+    <updated>2026-06-28T20:44:34+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Thompson&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.valleyvanguardonline.com/exoplanet-magnetospheres-detected-for-first-time-opening-new-window-on-planets/"/>
+    <published>2026-06-28T20:44:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbe24#0</id>
+    <title>Machine Learning and Deep Learning for Exoplanet Detection and Atmospheric Characterization with JWST and the Upcoming Ariel Mission</title>
+    <updated>2026-06-28T20:44:34+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Yakubu, VO Jude - arXiv preprint arXiv:2606.23766, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... regression, CNN+MLP regression, GAN regression, Deep-Belief Networks for broad molecular-source classification, and unsupervised techniques such as Local Outlier Factor and One-Class SVM applied to hot Jupiter spectra for outlier ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.23766"/>
+    <published>2026-06-28T20:44:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#9</id>
+    <title>Gut microbiota and metabolic profiles alteration during in vitro fecal fermentation of an immunostimulatory polysaccharide from Astragalus membranaceus</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Xu, K Li, TF Shum, Q Lin, KSY Cai, FKC Leung, C Li... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In summary, AMP40 harbors high potential to be a novel prebiotic strategy for enhancing host immunity via modulation of gut microbiota ... with microbiota and metabolomic analyses has emerged as an efficient strategy for screening ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926015449"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#8</id>
+    <title>Replicating lipid micelles: a feasible precursor to the origin of life and the earliest appearance of genomes</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DW Nebert, Z Liu, V Vasiliou - Human Genomics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The most commonly accepted scenario of early Earth includes: creation of the universe around 13.8 Ga (Giga-annus; or 10 9 years ago); establishment of our solar system ~ 4.60 Ga; and formation of Earth ~ 4.54 Ga. The earliest life forms on our ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s40246-026-01005-x"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#7</id>
+    <title>Feeding the Gut-Immune Axis: Dietary, Prebiotic , and Probiotic Strategies to Target Persistent Inflammation in ART-Treated HIV: A Narrative Review</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AA Fletcher, Z Koberssy, J Daher, N Moussallem... - Frontiers in Immunology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; People living with HIV (PWH) experience ongoing systemic inflammation driven by gut dysbiosis, epithelial barrier disruption, and microbial translocation, despite antiretroviral therapy (ART). This review examines evidence from randomized ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1877822/full"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#6</id>
+    <title>Shared Pathways to Peptides in Biochemistry and Prebiotic Chemistry through Ester Amide Exchange Chemistry</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Ezerzer, DG Hiregange, A Bashan, A Yonath... - BioCosmos, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026BCos....6...19E/abstract"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#5</id>
+    <title>Exonuclease Ribozyme Encoded in a Circular Genome: On the Initiation of the RNA World</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Liang, C Yu, H Jiang, W Ma&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... on the initiation of the RNA world , thereby enriching both theoretical and empirical frameworks for understanding the origin of life . ... origin of life , especially given our highly limited knowledge of prebiotic environments and chemistry [98]. In ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/manuscript/202606.1612"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#4</id>
+    <title>Functional Characteristics of Arrowroot Flour Cereal Flakes Substituted with Sorghum Flour as a Low-Gluten Prebiotic Functional Food.</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Khotimah, RP Melati, NL Romadhoni - Amerta Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Cereal flakes are ready-to-eat breakfast products commonly made from wheat flour, which may be unsuitable for individuals with gluten intolerance. The use of local non-wheat flours, such as arrowroot and sorghum flour, offers an alternative ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://openurl.ebsco.com/contentitem/gcd:194671584?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:194671584&amp;crl=c&amp;jrnl=25801163"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#3</id>
+    <title>Intricate Relationship Between Chemical and Biological Evolution with Gravity in the Context of the Origin of Life</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Roth, A Kirschning, C Zeilinger - Physics of Life Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of life signifies one of science's most profound mysteries, demanding integrative comprehension from chemistry, biology, and physics. In this review we examine the coupled roles of chemical evolution, biological evolution, gravity and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1571064526000515"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#2</id>
+    <title>Introduction to the Special Collection: Early Earth Environments and the Origins of Life</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TW Lyons, R Krishnamurthy, KL Rogers, LD Williams - Astrobiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journals.sagepub.com/doi/abs/10.1177/15311074261464021"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#1</id>
+    <title>Various inorganic phosphorus species in prebiotic Earth and extraterrestrial settings</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Gull, HA Cruz - Discover Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... "phosphate problem" in prebiotic chemistry. In this brief review, we give an overview of various prebiotic P sources from geochemical ... emergence of life in diverse habitable settings. Keywords Mars, Ammonia solution, Reduced P chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s44371-026-00835-x"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7629cfbd77#0</id>
+    <title>Prebiotic -driven metabolic diversity of Lactobacillus strains with functional insights for synbiotic applications</title>
+    <updated>2026-06-28T20:44:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Chauhan, B Kushwaha, A Singh, RK Sharma - Journal of Food Science and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The metabolic products of Lactobacillus strains in response to various prebiotic substrates, such as ... FOS demonstrated the highest prebiotic activity index (2.8 times greater than glucose control) ... enhanced probiotic functionality and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s13197-026-06776-8"/>
+    <published>2026-06-28T20:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#9</id>
+    <title>Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Xu -arXivpreprintarXiv:2606.22127, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We formulate an operator-algebraic mechanism by which exact Boolean records can arise from local completely positive quantum operations without being imposed as microscopic structure. The kinematic input is an algebraic process functional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.22127"/>
+    <published>2026-06-29T10:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#8</id>
+    <title>A periodic flow with high emergence</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Costa -arXivpreprintarXiv:2606.23844, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In Section 2, we recall the definition of emergence for self-maps, extend it to flows, and give some examples of systems with low emergence . Moreover, we recall the relation of emergence and quantization of measures, and study how emergence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.23844"/>
+    <published>2026-06-29T10:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#7</id>
+    <title>Emergence of Quasi-two-dimensional Superconductivity in W-doped Bulk Noncentrosymmetric 3$ R $-TaSe $ _2$</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Manna, RP Singh -arXivpreprintarXiv:2606.25416, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Noncentrosymmetric transition-metal dichalcogenides offer a rich environment for the study of unconventional superconducting phenomena. Here, we present a comprehensive analysis of single-crystalline W-doped 3$R$-TaSe$_2$, revealing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.25416"/>
+    <published>2026-06-29T10:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#6</id>
+    <title>Emergence of Chaos in the Tropical Atmosphere: Study of the Weak Temperature Gradient System</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Vannitsem, J Demaeyer -arXivpreprintarXiv:2606.22348, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This question is taken up in the present paper by exploring the emergence of chaos in simplified equations describing the large scale ... But to the knowledge of the authors, there is no specific analysis of the emergence of chaos in the large-scale ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.22348"/>
+    <published>2026-06-29T10:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#5</id>
+    <title>Emergence of Cluster Formation in Light Nuclei</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Nicolás Orce, MJ Jaftha -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260517277N/abstract"/>
+    <published>2026-06-29T10:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#4</id>
+    <title>Double Descent and Ensemble Emergence in Model Averaging Prediction</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Chen, D Jiang, X Zhang -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260513203C/abstract"/>
+    <published>2026-06-29T10:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#3</id>
+    <title>Emergence of Gaussian entanglement and non-Gaussianity in high-harmonic generation driven by bright squeezed light</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Rivera-Dean, M Even-Tzur, MF Ciappina... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; High harmonic generation (HHG) is a highly nonlinear optical process in which radiation from a strong driving field is up-converted into its high-order harmonics. In atomic systems, this nonlinearity manifests itself through the intensity scaling of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.22714"/>
+    <published>2026-06-29T10:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#2</id>
+    <title>Emergence of Common Noise: Quantitative Conditional Propagation of Chaos</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Bally, E Löcherbach -arXivpreprintarXiv:2606.23433, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study a dynamical invariance principle for interacting particle systems with mean-field interactions and common noise emerging through a collective stochastic perturbation. The particle dynamics combine autonomous evolution with a weakly scaled random ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.23433"/>
+    <published>2026-06-29T10:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#1</id>
+    <title>Exact Leg-Cut Influence Functional and Emergence of Gaussian Entanglement Theory in a Statistical-Dressing Ladder Model</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BM Ayeni -arXivpreprintarXiv:2606.25669, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The emergence of Gaussian effective field theories in low-dimensional quantum systems is traditionally understood through top-down frameworks such as bosonization and Luttinger-liquid theory. However, these approaches typically focus ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.25669"/>
+    <published>2026-06-29T10:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76281b4d82#0</id>
+    <title>Analyzing Students' Statistics Writing Before and After the Emergence of Large Language Models</title>
+    <updated>2026-06-29T10:02:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Colando, E Franke, G Weinberg, A Reinhart -arXivpreprintarXiv:2606.22735, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We illustrate how the writing style in student reports has changed since the emergence of LLMs in Figure 3. Overall, student reports have tended towards a mixture of LLM and expert writing styles since the emergence of LLMs; very few since-LLM ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.22735"/>
+    <published>2026-06-29T10:02:14+00:00</published>
   </entry>
 </feed>
