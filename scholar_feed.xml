@@ -2,272 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-06-30T09:35:11.545862+00:00</updated>
+  <updated>2026-07-01T09:45:54.995707+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76285302fb#0</id>
-    <title>Prospects of detecting technosignature gases on nearby rocky planets with the ELT</title>
-    <updated>2026-06-29T17:48:15+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762f21af2d#1</id>
+    <title>Emergence of Gamma-Type Upward-Phase Statistics in the Collatz Map: An Effective Poisson Process Mechanism</title>
+    <updated>2026-06-30T21:25:37+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Fu, X Liu, Y Wang -arXivpreprintarXiv:2606.26811, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In summary, we have provided a mechanistic explanation for the emergence of Gamma-type statistics in the directionphase structure of Collatz orbits. By decomposing the Collatz dynamics into upward and downward phases and using ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.26811"/>
+    <published>2026-06-30T21:25:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762f21af2d#0</id>
+    <title>The Role of Input Dimensionality in the Emergence and Targeted Control of Adversarial Examples</title>
+    <updated>2026-06-30T21:25:37+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NM Goradel, N Pancino, YG Atani, B Tondi, G Bellettini... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this work, we present a systematic study of the role of input dimensionality in both the emergence and the targeted control of adversarial ... While, taken together, our findings establish high input dimensionality as a fundamental factor underlying ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.26207"/>
+    <published>2026-06-30T21:25:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762f6925a0#1</id>
+    <title>Genetic and Environmental Effects on BMI Fluctuation Across the Adult Life Course and Its Associations With Baseline BMI and BMI Change: An Individual-Based ...</title>
+    <updated>2026-07-01T06:38:36+00:00</updated>
+    <author>
+      <name>Nick Martin</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AO Fernandez, A Eriksson, G Drouard, A Jelenkovic... - Diabetes, obesity &amp; metabolism&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction Body mass index (BMI) fluctuation has adverse health consequences, yet its determinants remain poorly understood. We examined genetic and environmental influences on BMI fluctuation and its associations with BMI ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42351399/"/>
+    <published>2026-07-01T06:38:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762f6925a0#0</id>
+    <title>Genetic and Environmental Effects on BMI Fluctuation Across the Adult Life Course and Its Associations With Baseline BMI and BMI Change: An Individual‐Based ...</title>
+    <updated>2026-07-01T06:38:36+00:00</updated>
+    <author>
+      <name>Nick Martin</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Obeso Fernandez, A Eriksson, G Drouard... - Diabetes, Obesity and Metabolism&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction Body mass index (BMI) fluctuation has adverse health consequences, yet its determinants remain poorly understood. We examined genetic and environmental influences on BMI fluctuation and its associations with BMI ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://dom-pubs.onlinelibrary.wiley.com/doi/pdf/10.1111/dom.71040"/>
+    <published>2026-07-01T06:38:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762f692561#0</id>
+    <title>Nautilus Space Observatory: The Evolution of Planets and their Atmospheres</title>
+    <updated>2026-07-01T06:38:37+00:00</updated>
     <author>
       <name>Raymond Pierrehumbert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Yzer, J Birkby, R Pierrehumbert - Planetary formation and Exoplanets in the ELT ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Raymond Pierrehumbert (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026exoe.confE..69Y/abstract"/>
-    <published>2026-06-29T17:48:15+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Pascucci, N Tuchow, Y Zhou, D Apai, C Langbert... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We are just beginning to explore the billion-year evolution from nascent planets in disks to mature planetary systems. Recent discoveries hint at demographic and atmospheric differences between young planets and their Gyr-old counterparts, but ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Raymond Pierrehumbert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.26214"/>
+    <published>2026-07-01T06:38:37+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762853024a#0</id>
-    <title>Measuring the Diversity of Qualia: Category-Theoretic Indices for Psychophysical Experimental Data</title>
-    <updated>2026-06-29T17:48:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762f692493#0</id>
+    <title>Pivotal physical states: The somatic equivalent to pivotal mental states</title>
+    <updated>2026-07-01T06:38:38+00:00</updated>
     <author>
-      <name>Naotsugu Tsuchiya</name>
+      <name>Fernando E. Rosas</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Kusano, H Saigo, N Tsuchiya - F1000Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Naotsugu Tsuchiya (author alert)</content>
-    <link href="https://f1000research.com/articles/15-1008"/>
-    <published>2026-06-29T17:48:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MV Uthaug, JG Allocca, M Havenith, A Szabo, F Rosas... - Journal of Psychedelic ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Background The Pivotal Mental States (PiMS) construct posits that psychedelics and other stress-inducing practices, such as fasting and hypoxia, can evoke transformative mental states through increased serotonin receptor activation in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
+    <link href="https://www.akjournals.com/view/journals/2054/aop/article-10.1556-2054.2026.00482/article-10.1556-2054.2026.00482.xml"/>
+    <published>2026-07-01T06:38:38+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76285301bf#0</id>
-    <title>TOI-4616 b: a benchmark Earth-sized planet transiting a nearby M4 dwarf</title>
-    <updated>2026-06-29T17:48:18+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Zong Lang, BO Demory, Y Gómez Maqueo Chew... - Monthly Notices of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Rocky exoplanets are particularly abundant around M-type stars. Their small radii and low luminosities provide favourable conditions for detecting transiting terrestrial planets and probing their atmospheric properties. We report the discovery and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://boris-portal.unibe.ch/bitstreams/49739904-244d-4ee5-8924-1f28e1485129/download"/>
-    <published>2026-06-29T17:48:18+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628530181#0</id>
-    <title>Coupled atmospHere Interior modeL Intercomparison (CHILI). I. Evolutionary Modelling--Primordial Magma Oceans of Earth and Venus</title>
-    <updated>2026-06-29T17:48:18+00:00</updated>
-    <author>
-      <name>Joshua Krissansen-Totton</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Nicholls, J Krissansen-Totton, T Lichtenberg... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Earth and Venus represent two evolutionary outcomes arising from initially molten'magma ocean'periods, followed by lifetimes of chemical and geophysical divergence. Their physics is common to all rocky planets and is accessible to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joshua Krissansen-Totton (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.24757"/>
-    <published>2026-06-29T17:48:18+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628530099#0</id>
-    <title>Human intracranial signal stability tracks anatomical accuracy after electrode reimplantation</title>
-    <updated>2026-06-29T17:48:19+00:00</updated>
-    <author>
-      <name>Edward F Chang</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RB Leriche, TA Wozny, J Saal, JC Motzkin, KK Sellers... - Journal of Neural ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objective Deep brain stimulation (DBS) for neuropsychiatric disorders increasingly relies on patient personalized approaches. One strategy to identify viable targets for personalized stimulation and biomarker detection uses a temporary, inpatient ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.1088/1741-2552/ae805e/pdf"/>
-    <published>2026-06-29T17:48:19+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762852ff8c#0</id>
-    <title>Preprint typeset using LATEX style emulateapj v. 04/17/13 HOW TO DISTINGUISH BETWEEN CLOUDY MINI-NEPTUNES AND WATER/VOLATILE-DOMINATED ...</title>
-    <updated>2026-06-29T17:48:21+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762f6923c8#0</id>
+    <title>Preprint typeset using LATEX style emulateapj v. 11/12/01 SPITZER TRANSITS OF THE SUPER-EARTH GJ1214B AND IMPLICATIONS FOR ITS ATMOSPHERE ...</title>
+    <updated>2026-07-01T06:38:40+00:00</updated>
     <author>
       <name>Björn Benneke</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Benneke, S Seager&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Preprint typeset using LATEX style emulateapj v. 04/17/13 HOW TO DISTINGUISH BETWEEN CLOUDY MINI-NEPTUNES AND WATER/VOLATILE-DOMINATED SUPER-EARTHS Bjorn Benneke and Sara Seager Department of Earth, Atmospheric ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/e6828db2-5fe9-4688-928c-53a0e4c6dfb8/content"/>
-    <published>2026-06-29T17:48:21+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BO Demory, B Benneke, S Seager, NK Lewis...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ar X iv :1 30 1. 67 63 v1 [ as tro -p hE P] 2 8 J an 20 13 Accepted by the Astrophysical Journal, Jan 24, 2013 Preprint typeset using LATEX style emulateapj v. 11/12/01 SPITZER TRANSITS OF THE SUPER-EARTH GJ1214B AND IMPLICATIONS FOR ITS ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/c9b120cc-5604-40cd-a446-3c681a7b9dab/content"/>
+    <published>2026-07-01T06:38:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762852ff08#0</id>
-    <title>TOI-4616 b: a benchmark Earth-sized planet transiting a nearby M4 dwarf</title>
-    <updated>2026-06-29T17:48:22+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762f6922bf#0</id>
+    <title>Witness expansion: A unified framework for analytical and measurable mixed-state resource detection</title>
+    <updated>2026-07-01T06:38:42+00:00</updated>
     <author>
-      <name>Elsa Ducrot</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Zong Lang, BO Demory, Y Gómez Maqueo Chew... - Monthly Notices of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Rocky exoplanets are particularly abundant around M-type stars. Their small radii and low luminosities provide favourable conditions for detecting transiting terrestrial planets and probing their atmospheric properties. We report the discovery and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
-    <link href="https://boris-portal.unibe.ch/bitstreams/49739904-244d-4ee5-8924-1f28e1485129/download"/>
-    <published>2026-06-29T17:48:22+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Tang, C Zhu, Y Zhang, J Eisert, ZW Liu, I Roth... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum information science aims to harness different kinds of quantum resources to accomplish specific information-processing tasks. These resources also play an increasingly important role in addressing fundamental questions concerning ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.27105"/>
+    <published>2026-07-01T06:38:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762852fddd#3</id>
-    <title>Human hippocampal ripples tune cortical responses based on predicted uncertainty</title>
-    <updated>2026-06-29T17:48:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762f6921ac#0</id>
+    <title>Quantifying the probability of committed AMOC collapse</title>
+    <updated>2026-07-01T06:38:44+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>Timothy Lenton</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Frank, S Moratti, R Hellerstedt, J Sarnthein, N Li... - Nature Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; To encode information efficiently, our perceptual system should detect when situations are unpredictable (that is, informative) and modulate brain dynamics to prepare for encoding. Under uncertainty, there is an increased need to generate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://www.nature.com/articles/s41593-026-02345-6"/>
-    <published>2026-06-29T17:48:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PB Holden, J Abrams, M Bieger, TM Lenton...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The collapse of the Atlantic Meridional Overturning Circulation AMOC would have catastrophic consequences for societies. We quantify the risk of committed AMOC collapse using large ensembles of Earth system model simulations. Under ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://eartharxiv.org/repository/object/13698/download/24058/"/>
+    <published>2026-07-01T06:38:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762852fddd#2</id>
-    <title>Predictive Processing: From Sensorimotor Skills to Higher Cognition</title>
-    <updated>2026-06-29T17:48:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762f692121#0</id>
+    <title>Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate</title>
+    <updated>2026-07-01T06:38:45+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>Melanie Mitchell</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Pezzulo, T Parr, K Friston&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A fundamental challenge in neuroscience, psy chol ogy, and philosophy is understanding how the advanced cognitive abilities—and the brain architectures supporting these abilities—emerged during evolution. This chapter explores the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://direct.mit.edu/books/oa-edited-volume/6163/chapter-abstract/6172023"/>
-    <published>2026-06-29T17:48:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ha, M Mitchell - Forty-third International Conference on Machine ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Multi-agent debate (MAD) systems are often evaluated using binary correctness or peer agreement, yet such evaluations obscure how individual agents revise their answers during social interaction. We study the microscopic dynamics of answer ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Mitchell (author alert)</content>
+    <link href="https://openreview.net/pdf?id=o4v0sr8Mpy"/>
+    <published>2026-07-01T06:38:45+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762852fddd#1</id>
-    <title>The adaptive nature of confirmation bias</title>
-    <updated>2026-06-29T17:48:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762f6920c7#0</id>
+    <title>A Spitzer Space Telescope Exploration Science Program to Search for Y Dwarf Variability</title>
+    <updated>2026-07-01T06:38:46+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Brody, KJ Friston, BK Meister, EM Pothos - arXiv preprint arXiv:2606.23325, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper, the phenomenon generally classified as confirmation bias is formulated on the space of square-root probabilities (or equivalently, using the structures of quantum probability). In this framework, observations are modelled by matrices ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.23325"/>
-    <published>2026-06-29T17:48:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MC Cushing, JL Trucks, KK Hardegree-Ullman... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present the results of a Spitzer Space Telescope Exploration Science Program to search for and characterize variability in Y dwarfs. We observed 14 Y dwarfs over a 24 hr period at [3.6] and [4.5] and then repeated the observations a few months later ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/pdf/2606.26411"/>
+    <published>2026-07-01T06:38:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762852fddd#0</id>
-    <title>Active Inference as the Test-Time Scaling Law for Physical AI Agents</title>
-    <updated>2026-06-29T17:48:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762f691f2b#0</id>
+    <title>This work was supported by the Center for Brains, Minds and Machines (CBMM), funded by NSF STC award CCF-1231216. CBMM Memo No. 059 November 28 ...</title>
+    <updated>2026-07-01T06:38:49+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>Nancy Kanwisher</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Hashash, CK Thomas, W Saad, M Debbah, K Friston... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper, a novel test-time scaling law for physical artificial intelligence (AI) agents is introduced. This scaling law enables physical AI agents to reason with their world models to generalize in unforeseen scenarios at test time. The derived scaling ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.22813"/>
-    <published>2026-06-29T17:48:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762852fd57#0</id>
-    <title>Autistic Traits in the UK Biobank</title>
-    <updated>2026-06-29T17:48:25+00:00</updated>
-    <author>
-      <name>Varun Warrier</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Fysh, K Matlock, A Tsompanidis, C Allison, E Weir...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study describes the profile of more than 139,000 participants who completed the Autism-Spectrum Quotient (AQ) in the UK Biobank, and tests whether the AQ's key findings replicate in the largest sample to date of people who have completed the full ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-10021244/latest.pdf"/>
-    <published>2026-06-29T17:48:25+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa2b60#0</id>
-    <title>Unveiling Complex Chemistry in Planet-forming Disks with the SKAO</title>
-    <updated>2026-06-30T05:39:02+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Podio, L Giani, C Walsh, A Coutens, I Jiménez-Serra... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We discuss the observability of complex organic molecules in protostellar disks (Sect. 3), as well as that of complex carbon-bearing ... contributions to our understanding of planet formation and exoplanet characterization through the disk-chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.27289"/>
-    <published>2026-06-30T05:39:02+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa2ab7#0</id>
-    <title>Using VLTI/GRAVITY+ to determine the identity of a third planet candidate in the PDS 70 system</title>
-    <updated>2026-06-30T05:39:03+00:00</updated>
-    <author>
-      <name>Laura Kreidberg</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Trevascus, W Brandner, O Balsalobre-Ruza... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Detections of protoplanets are rare and protoplanetary disk features mischaracterized as planets are common. PDS 70 is one of only two stars known to host multiple confirmed protoplanets, PDS 70 b and c, and repeat detections of a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.26249"/>
-    <published>2026-06-30T05:39:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#9</id>
-    <title>Nutritional Management of Uremic Toxin Accumulation in Cats with Chronic Kidney Disease</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Jugan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... However, fiber content varies; some diets have higher fiber content, often due to the inclusion of prebiotic fiber sources. Therefore, ... support the inclusion of dietary prebiotic fiber to manage gut-derived toxin accumulation. Prebiotic fibers decrease ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2026/06/TVP-2026-0708_Nutrition-for-Uremic-Toxins.pdf"/>
-    <published>2026-06-30T05:39:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#8</id>
-    <title>Feasibility and Activity of Peptides Preceding Templated Synthesis</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Pokorný&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... At the same time, evidence pointing to their prebiotic plausibility has been accumulating gradually since the 1940s. Regardless of what ... Even though there is a plethora of evidence for the prebiotic formation of peptides, we have only ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://dspace.cuni.cz/bitstream/handle/20.500.11956/209576/130463044.pdf?sequence=1"/>
-    <published>2026-06-30T05:39:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#7</id>
-    <title>Meteoritic and hydrothermal sources of reduced phosphorus in the early Archean</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Kalita, AS Baidya, N Drabon, EE Stüeken - Geology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://research-portal.st-andrews.ac.uk/en/publications/meteoritic-and-hydrothermal-sources-of-reduced-phosphorus-in-the-/"/>
-    <published>2026-06-30T05:39:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#6</id>
-    <title>Physicochemical, Biochemical, Microbiological, and Sensory Characterization of a Fermented Lima Bean (Phaseolus lunatus) Probiotic Beverage During Refrigerated ...</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Bilek, AL Oliveira, M Amorim, AR Madureira, F Zaid... - The North African Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in this context, due to its high protein content, the presence of prebiotic α-galactosides, and its notable endogenous antioxidant compounds. Aims: ... High-performance liquid chromatography (HPLC) analysis revealed significant reduction in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://najfnr.com/home/article/view/753"/>
-    <published>2026-06-30T05:39:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#5</id>
-    <title>Chemical Complexity in the Early Stages of Star Formation in the SKAO Era</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Bianchi, M Bouvier, C Codella, L Colzi, A Coutens... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The fundamental question of the origin of life is a key driver of research and lies at the very foundation of astrochemistry. This highly interdisciplinary field investigates how simple atoms in the Universe evolve as building blocks to form prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.27184"/>
-    <published>2026-06-30T05:39:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#4</id>
-    <title>Proliferation with Variation and Motility: a First Principle in Biology</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Sonnenschein, A Paldi, A Soto - Organisms. Journal of Biological Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... What properties have been bestowed by the Last Universal Common Ancestor (LUCA) on its descendants? We concluded that LUCA was a ... Thus, we conclude that i) the physico-chemical processes happening in the prebiotic soup at the time of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://rosa.uniroma1.it/rosa04/organisms/article/download/19307/17429"/>
-    <published>2026-06-30T05:39:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#3</id>
-    <title>IDDF2026-ABS-0277 From gut to blood: prebiotics improve hematological and immune indices in broilers</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Munawar, I Jawad, K Umar, W Akram, N Qureshi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Results Prebiotic ... in prebiotic -fed groups. Red blood cell counts rose by 10% (levan) and 9% (dextran), while mean corpuscular hemoglobin concentration and mean corpuscular hemoglobin showed modest gains. These findings indicate the potential ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://gut.bmj.com/content/75/Suppl_2/A175.1.abstract"/>
-    <published>2026-06-30T05:39:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#2</id>
-    <title>... recovery from rapeseed meal via conventional and enzyme-assisted extraction techniques: Toward emerging prebiotic pectic oligosaccharide development</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Banjanac, M Veljković, M Simović, A Tomić...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://digital.csic.es/handle/10261/437280"/>
-    <published>2026-06-30T05:39:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#1</id>
-    <title>PROBLEMS OF EVALUATING THE POTENTIAL PREBIOTIC ACTIVITY OF FOOD AND FEED PRODUCTS</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Iegorov, A Iegorova, A Makarynska, M Kashkano...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://journals.ontu.edu.ua/index.php/foodtech/article/view/3520"/>
-    <published>2026-06-30T05:39:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7628aa295a#0</id>
-    <title>Programmable Spatial Demixing in Prebiotic Coacervates</title>
-    <updated>2026-06-30T05:39:06+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Xiong, J Wang, Z Liu, Y Fan, Y Wang - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... yet remains challenging achieve under prebiotic resource scarcity. Physical encounters among protocell populations are essential for ... These findings suggest a physicochemical mechanism by which subtle molecular variations can encode ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41467-026-74511-0_reference.pdf"/>
-    <published>2026-06-30T05:39:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Harari, T Gao, N Kanwisher, J Tenenbaum, S Ullman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This work was supported by the Center for Brains, Minds and Machines (CBMM), funded by NSF STC award CCF-1231216. CBMM Memo No. 059 November 28, 2016 Measuring and modeling the perception of natural and unconstrained gaze in humans ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nancy Kanwisher (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/1f8152e5-5407-4b51-aa3c-52c9c56f0765/content"/>
+    <published>2026-07-01T06:38:49+00:00</published>
   </entry>
 </feed>
