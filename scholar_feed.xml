@@ -2,140 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-01T09:45:54.995707+00:00</updated>
+  <updated>2026-07-02T08:55:24.359412+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f21af2d#1</id>
-    <title>Emergence of Gamma-Type Upward-Phase Statistics in the Collatz Map: An Effective Poisson Process Mechanism</title>
-    <updated>2026-06-30T21:25:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762fd6e143#2</id>
+    <title>Functional Mushrooms: The Complete Guide</title>
+    <updated>2026-07-01T20:21:16+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Fu, X Liu, Y Wang -arXivpreprintarXiv:2606.26811, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In summary, we have provided a mechanistic explanation for the emergence of Gamma-type statistics in the directionphase structure of Collatz orbits. By decomposing the Collatz dynamics into upward and downward phases and using ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.26811"/>
-    <published>2026-06-30T21:25:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Oncer&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This is the mechanism behind the immune-support angle for turkey tail, reishi, and chaga, and it's also why beta-glucans double as prebiotic fiber that feeds the bacteria in your gut. Extraction matters here: beta-glucans are locked inside tough ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://shroombiosis.com/guides/functional-mushrooms/"/>
+    <published>2026-07-01T20:21:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f21af2d#0</id>
-    <title>The Role of Input Dimensionality in the Emergence and Targeted Control of Adversarial Examples</title>
-    <updated>2026-06-30T21:25:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762fd6e143#1</id>
+    <title>Hydrocarbon Basis of Emerging Chemoautotrophic Metabolism (Thermodynamic Justification)</title>
+    <updated>2026-07-01T20:21:16+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NM Goradel, N Pancino, YG Atani, B Tondi, G Bellettini... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this work, we present a systematic study of the role of input dimensionality in both the emergence and the targeted control of adversarial ... While, taken together, our findings establish high input dimensionality as a fundamental factor underlying ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2606.26207"/>
-    <published>2026-06-30T21:25:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Marakusheva, OV Belonogova - Geochemistry International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://istina.fnkcrr.ru/publications/article/821132161/"/>
+    <published>2026-07-01T20:21:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f6925a0#1</id>
-    <title>Genetic and Environmental Effects on BMI Fluctuation Across the Adult Life Course and Its Associations With Baseline BMI and BMI Change: An Individual-Based ...</title>
-    <updated>2026-07-01T06:38:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762fd6e143#0</id>
+    <title>X-ray crystallographic studies of amino acid-carboxylic acid complexes</title>
+    <updated>2026-07-01T20:21:16+00:00</updated>
     <author>
-      <name>Nick Martin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AO Fernandez, A Eriksson, G Drouard, A Jelenkovic... - Diabetes, obesity &amp; metabolism&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction Body mass index (BMI) fluctuation has adverse health consequences, yet its determinants remain poorly understood. We examined genetic and environmental influences on BMI fluctuation and its associations with BMI ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42351399/"/>
-    <published>2026-07-01T06:38:36+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f6925a0#0</id>
-    <title>Genetic and Environmental Effects on BMI Fluctuation Across the Adult Life Course and Its Associations With Baseline BMI and BMI Change: An Individual‐Based ...</title>
-    <updated>2026-07-01T06:38:36+00:00</updated>
-    <author>
-      <name>Nick Martin</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Obeso Fernandez, A Eriksson, G Drouard... - Diabetes, Obesity and Metabolism&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction Body mass index (BMI) fluctuation has adverse health consequences, yet its determinants remain poorly understood. We examined genetic and environmental influences on BMI fluctuation and its associations with BMI ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://dom-pubs.onlinelibrary.wiley.com/doi/pdf/10.1111/dom.71040"/>
-    <published>2026-07-01T06:38:36+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f692561#0</id>
-    <title>Nautilus Space Observatory: The Evolution of Planets and their Atmospheres</title>
-    <updated>2026-07-01T06:38:37+00:00</updated>
-    <author>
-      <name>Raymond Pierrehumbert</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Pascucci, N Tuchow, Y Zhou, D Apai, C Langbert... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We are just beginning to explore the billion-year evolution from nascent planets in disks to mature planetary systems. Recent discoveries hint at demographic and atmospheric differences between young planets and their Gyr-old counterparts, but ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Raymond Pierrehumbert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.26214"/>
-    <published>2026-07-01T06:38:37+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f692493#0</id>
-    <title>Pivotal physical states: The somatic equivalent to pivotal mental states</title>
-    <updated>2026-07-01T06:38:38+00:00</updated>
-    <author>
-      <name>Fernando E. Rosas</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MV Uthaug, JG Allocca, M Havenith, A Szabo, F Rosas... - Journal of Psychedelic ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Background The Pivotal Mental States (PiMS) construct posits that psychedelics and other stress-inducing practices, such as fasting and hypoxia, can evoke transformative mental states through increased serotonin receptor activation in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://www.akjournals.com/view/journals/2054/aop/article-10.1556-2054.2026.00482/article-10.1556-2054.2026.00482.xml"/>
-    <published>2026-07-01T06:38:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f6923c8#0</id>
-    <title>Preprint typeset using LATEX style emulateapj v. 11/12/01 SPITZER TRANSITS OF THE SUPER-EARTH GJ1214B AND IMPLICATIONS FOR ITS ATMOSPHERE ...</title>
-    <updated>2026-07-01T06:38:40+00:00</updated>
-    <author>
-      <name>Björn Benneke</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BO Demory, B Benneke, S Seager, NK Lewis...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ar X iv :1 30 1. 67 63 v1 [ as tro -p hE P] 2 8 J an 20 13 Accepted by the Astrophysical Journal, Jan 24, 2013 Preprint typeset using LATEX style emulateapj v. 11/12/01 SPITZER TRANSITS OF THE SUPER-EARTH GJ1214B AND IMPLICATIONS FOR ITS ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/c9b120cc-5604-40cd-a446-3c681a7b9dab/content"/>
-    <published>2026-07-01T06:38:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f6922bf#0</id>
-    <title>Witness expansion: A unified framework for analytical and measurable mixed-state resource detection</title>
-    <updated>2026-07-01T06:38:42+00:00</updated>
-    <author>
-      <name>Jens Eisert</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Tang, C Zhu, Y Zhang, J Eisert, ZW Liu, I Roth... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Quantum information science aims to harness different kinds of quantum resources to accomplish specific information-processing tasks. These resources also play an increasingly important role in addressing fundamental questions concerning ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.27105"/>
-    <published>2026-07-01T06:38:42+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f6921ac#0</id>
-    <title>Quantifying the probability of committed AMOC collapse</title>
-    <updated>2026-07-01T06:38:44+00:00</updated>
-    <author>
-      <name>Timothy Lenton</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PB Holden, J Abrams, M Bieger, TM Lenton...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The collapse of the Atlantic Meridional Overturning Circulation AMOC would have catastrophic consequences for societies. We quantify the risk of committed AMOC collapse using large ensembles of Earth system model simulations. Under ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://eartharxiv.org/repository/object/13698/download/24058/"/>
-    <published>2026-07-01T06:38:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f692121#0</id>
-    <title>Beyond Correctness: Distance-Based Social Dynamics of Multi-Agent Debate</title>
-    <updated>2026-07-01T06:38:45+00:00</updated>
-    <author>
-      <name>Melanie Mitchell</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ha, M Mitchell - Forty-third International Conference on Machine ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Multi-agent debate (MAD) systems are often evaluated using binary correctness or peer agreement, yet such evaluations obscure how individual agents revise their answers during social interaction. We study the microscopic dynamics of answer ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Mitchell (author alert)</content>
-    <link href="https://openreview.net/pdf?id=o4v0sr8Mpy"/>
-    <published>2026-07-01T06:38:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f6920c7#0</id>
-    <title>A Spitzer Space Telescope Exploration Science Program to Search for Y Dwarf Variability</title>
-    <updated>2026-07-01T06:38:46+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MC Cushing, JL Trucks, KK Hardegree-Ullman... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present the results of a Spitzer Space Telescope Exploration Science Program to search for and characterize variability in Y dwarfs. We observed 14 Y dwarfs over a 24 hr period at [3.6] and [4.5] and then repeated the observations a few months later ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.26411"/>
-    <published>2026-07-01T06:38:46+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762f691f2b#0</id>
-    <title>This work was supported by the Center for Brains, Minds and Machines (CBMM), funded by NSF STC award CCF-1231216. CBMM Memo No. 059 November 28 ...</title>
-    <updated>2026-07-01T06:38:49+00:00</updated>
-    <author>
-      <name>Nancy Kanwisher</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Harari, T Gao, N Kanwisher, J Tenenbaum, S Ullman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This work was supported by the Center for Brains, Minds and Machines (CBMM), funded by NSF STC award CCF-1231216. CBMM Memo No. 059 November 28, 2016 Measuring and modeling the perception of natural and unconstrained gaze in humans ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nancy Kanwisher (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/1f8152e5-5407-4b51-aa3c-52c9c56f0765/content"/>
-    <published>2026-07-01T06:38:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Stephen Suresh&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... interactions and aggregation in chemical evolution, with special reference to prebiotic polymerisation, chiral effects, and self-assembly, ... and other simple molecules that are believed to have existed in the prebiotic milieu. In this context ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://etd.iisc.ac.in/handle/2005/11954"/>
+    <published>2026-07-01T20:21:16+00:00</published>
   </entry>
 </feed>
