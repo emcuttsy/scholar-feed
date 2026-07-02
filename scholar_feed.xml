@@ -2,41 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-02T08:55:24.359412+00:00</updated>
+  <updated>2026-07-02T15:57:42.146208+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762fd6e143#2</id>
-    <title>Functional Mushrooms: The Complete Guide</title>
-    <updated>2026-07-01T20:21:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762e61de6a#0</id>
+    <title>Predictive brains in hyperreal worlds: how XR exploits the indifference to being</title>
+    <updated>2026-07-02T15:51:50+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Silvia Kober</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Oncer&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This is the mechanism behind the immune-support angle for turkey tail, reishi, and chaga, and it's also why beta-glucans double as prebiotic fiber that feeds the bacteria in your gut. Extraction matters here: beta-glucans are locked inside tough ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://shroombiosis.com/guides/functional-mushrooms/"/>
-    <published>2026-07-01T20:21:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762fd6e143#1</id>
-    <title>Hydrocarbon Basis of Emerging Chemoautotrophic Metabolism (Thermodynamic Justification)</title>
-    <updated>2026-07-01T20:21:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Marakusheva, OV Belonogova - Geochemistry International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://istina.fnkcrr.ru/publications/article/821132161/"/>
-    <published>2026-07-01T20:21:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762fd6e143#0</id>
-    <title>X-ray crystallographic studies of amino acid-carboxylic acid complexes</title>
-    <updated>2026-07-01T20:21:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Stephen Suresh&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... interactions and aggregation in chemical evolution, with special reference to prebiotic polymerisation, chiral effects, and self-assembly, ... and other simple molecules that are believed to have existed in the prebiotic milieu. In this context ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://etd.iisc.ac.in/handle/2005/11954"/>
-    <published>2026-07-01T20:21:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Wood, SE Kober - AI &amp; SOCIETY, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This opinion paper proposes a novel framework for understanding the neurological susceptibility to extended reality (XR) as a tool of manipulation. We argue that Meinong's ontological claim that objects retain their properties regardless of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Silvia Kober (author alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s00146-026-03197-1"/>
+    <published>2026-07-02T15:51:50+00:00</published>
   </entry>
 </feed>
