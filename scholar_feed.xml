@@ -2,19 +2,228 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-02T15:57:42.146208+00:00</updated>
+  <updated>2026-07-03T09:17:25.465004+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762e61de6a#0</id>
-    <title>Predictive brains in hyperreal worlds: how XR exploits the indifference to being</title>
-    <updated>2026-07-02T15:51:50+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762e982759#0</id>
+    <title>Metabolic scaling, von Bertalanffy growth and an exponent equation</title>
+    <updated>2026-07-02T21:01:56+00:00</updated>
     <author>
-      <name>Silvia Kober</name>
+      <name>Rudolf Hanel</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Wood, SE Kober - AI &amp; SOCIETY, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This opinion paper proposes a novel framework for understanding the neurological susceptibility to extended reality (XR) as a tool of manipulation. We argue that Meinong's ontological claim that objects retain their properties regardless of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Silvia Kober (author alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00146-026-03197-1"/>
-    <published>2026-07-02T15:51:50+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Krakovská, K Stiefel, R Hanel - arXiv preprint arXiv:2606.28418, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this work, we interpret developmental growth as a metabolic energy allocation problem and link the von Bertalanffy growth model to metabolic energy investments into the growth channel. Using a framework that specifies how metabolic energy is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Rudolf Hanel (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.28418"/>
+    <published>2026-07-02T21:01:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#9</id>
+    <title>Plant-based prebiotics to modulate skin microbiota: a novel approach for next-generation cosmeceuticals</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KA Gourh, V Kelkar Mane - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This investigation explores the prebiotic potential of eight botanicals traditionally recognized for dermatological applications. Through systematic in vitro and molecular analyses, identified three plants A.cepa (onion), T.cordifolia (guduchi) leaf ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41598-026-58189-4_reference.pdf"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#8</id>
+    <title>In vitro simulated digestion and fermentation of synbiotic ice-cream supplemented with passion fruit peel–extracted pectin and probiotic strains: effects on probiotic ...</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Pimisa, S Arboleya, A Rey-Mariño, N Hwanhlem... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Thus, this study aimed to evaluate the effects of probiotic, prebiotic (PFPEP), and synbiotic (PFPEP combined with probiotics) ice-cream on ... The findings of this study are expected to provide mechanistic insights into probiotic– prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926015693"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#7</id>
+    <title>Which Mushrooms Are Best for Gut Health?</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Oncer&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Knowing mushrooms are prebiotic shaped how we formulated the blend. Rather than lean on beta-glucans alone, we pair the gut mushrooms with all three ... They work best together and alongside dedicated prebiotic fiber and beneficial bacteria ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://shroombiosis.com/blog/best-mushrooms-for-gut-health/"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#6</id>
+    <title>Replication as a Thermodynamic Necessity? Autocatalytic Emergence, Entropy Production, and the Origin of Genetic Systems</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Bradshaw, S Finkelsteyn&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life is often framed as a sequence of contingent chemical events. Here, we advance an ... We reconstruct plausible prebiotic pathways leading to RNA and DNA [8–14,34], ... From this premise, we derive a continuous pathway ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Roland-Bradshaw/publication/408155454_Replication_as_a_Thermodynamic_Necessity_Autocatalytic_Emergence_Entropy_Production_and_the_Origin_of_Genetic_Systems/links/6a3fa63eab275459110bb9c6/Replication-as-a-Thermodynamic-Necessity-Autocatalytic-Emergence-Entropy-Production-and-the-Origin-of-Genetic-Systems.pdf"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#5</id>
+    <title>Bioactive Polysaccharides from Phyllostachys nigra as Prebiotic Agents: Effects on Short-Chain Fatty Acid Production and Host Metabolism</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Bennett, R Graves, M Garrett, WJ Salonen - International Journal of Clinical and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper examines the prebiotic potential of bioactive polysaccharides derived from the black bamboo species Phyllostachys nigra. ... -producing networks, and the fairness implications of prebiotic deployment strategies. Production scalability ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.ijctmed.org/index.php/home/article/download/168/198"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#4</id>
+    <title>Prebiotic Supplementation in Celiac Disease: A Systematic Review of Clinical Efficacy, Safety, and Nutritional Outcomes</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Shahzil, MZ Irfan, SK Kazmi, A Muhammad, K Clarke - Journal of gastrointestinal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background and aims Despite a strict gluten-free diet (GFD), many patients with celiac disease (CD) continue to experience symptoms and nutrient deficiencies. Prebiotics, non-digestible substrates that foster beneficial bacteria and short-chain ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42365652/"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#3</id>
+    <title>Low-Molecular-Weight Polyols as Key Factors in Sulfur-and Borate-Mediated Protomembrane Formation Before the RNA World</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; VM Dembitsky&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Despite significant advances in origin - of - life research, the pathways leading from simple prebiotic amphiphiles to stable membrane... protocell formation commonly emphasize the spontaneous self-assembly of faty acids and related amphiphilic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/fdfb0d6a8967d74cfbcaf86e9999c2a3/download_pub"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#2</id>
+    <title>Nipa Fruit Flour (Nypa fruticans) Potential as a Prebiotic on Lactobacillus plantarum sp</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Mustangin - Journal of Innovative Food Technology and Agricultural ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Nipa fruit flour contains high carbohydrates, it could be potential as a prebiotic source. This research aims to determine the proximate characteristics and prebiotic activity of nipa flour in Lactic Acid Bacteria in vitro. Prebiotic activity of nipa fruit flour ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journal.upy.ac.id/index.php/jitap/article/view/10098/5381"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#1</id>
+    <title>Bioconversion of Orange Peel into Prebiotic Pectic Oligosaccharides via Integrated Immobilized Polygalacturonase Hydrolysis and Probiotic Fermentation</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NE Bentouhami, G Chataigne, S Moumnassi... - Food Chemistry Advances, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To sum up, R2 and R4 are potential new prebiotic substances that can successfully promote L. ... prebiotic activity score to evaluate potential prebiotic candidates. This index reflects the ability of each substrate to support the growth of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2772753X26001383"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982642#0</id>
+    <title>Mushroom-Derived Phenolic Compounds as Emerging Prebiotic -like Modulators of Gut Microbiota, Intestinal Health, and Metabolism</title>
+    <updated>2026-07-02T21:01:58+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Garcia, E Olo-Fontinha, J Silva, R Dias-Costa... - Pharmaceuticals, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/1424-8247/19/7/1014"/>
+    <published>2026-07-02T21:01:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762e982379#0</id>
+    <title>The chemistry of habitable oceans in the Solar system</title>
+    <updated>2026-07-02T21:02:03+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Hao, Y Zhu, AH Knoll, NJ Tosca, C He, MCYL Vetter... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... planet Ceres, Jupiter's moon Europa and Saturn's moons Enceladus and Titan. We conclude by outlining priority questions for future planetary habitability ... and icy moons, represent prime targets in the search for habitable environments and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41467-026-74955-4"/>
+    <published>2026-07-02T21:02:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762eaf4fc2#0</id>
+    <title>Reply to Górski et al.: Polarization requires opinions, not just negative ties</title>
+    <updated>2026-07-02T23:53:54+00:00</updated>
+    <author>
+      <name>Stefan Thurner</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Thurner, M Hofer, J Korbel - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2615768123"/>
+    <published>2026-07-02T23:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762eaf4fa1#6</id>
+    <title>Emergence of half-semiconductor behavior and tunable magnetism via carrier doping in Janus VXSe (X= Cl, Br, I) monolayers</title>
+    <updated>2026-07-02T23:53:54+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Wang, A Wang, Z Ye, Y Qu, Q Zheng, Y Liu, Q Fan... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Two-dimensional ferromagnetic semiconductors with high Curie temperature, large magnetic anisotropy, and electrically tunable properties are highly sought for nanoscale spintronics. Here, using first-principles calculations, we predict a new ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.28713"/>
+    <published>2026-07-02T23:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762eaf4fa1#5</id>
+    <title>Emergence of Thermodynamics from Equilibration in Isolated Quantum Systems</title>
+    <updated>2026-07-02T23:53:54+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AD Varizi, D Jonathan, TR de Oliveira -arXivpreprintarXiv:2606.28660, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how macroscopic thermodynamic behavior emerges from microscopic quantum dynamics remains an open problem. While equilibration of quantum observables is well established, thermodynamics also relies on variables ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.28660"/>
+    <published>2026-07-02T23:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762eaf4fa1#4</id>
+    <title>Emergence of millimeter-wave resonances in self-assembled ferroelectric metamaterials</title>
+    <updated>2026-07-02T23:53:54+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Bergmann, P Meisenheimer, A Ross, M Schewe... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Resonators are a key component in modern communications and computing. As demand and technological advances push component requirements into the terahertz regime, there is significant research devoted to the search for resonances ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.27616"/>
+    <published>2026-07-02T23:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762eaf4fa1#3</id>
+    <title>Tracking Entanglement Transfer: Emergence of Thermodynamics from Quantum Information</title>
+    <updated>2026-07-02T23:53:54+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Debata, A Mukherjee, S Lal -arXivpreprintarXiv:2606.28961, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study entanglement transfer in a minimal model of two qubits that are coupled with one another through an antiferromagnetic Heisenberg exchange ($\tilde{J}$), and where one of them is additionally coupled to a fermionic environment through ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.28961"/>
+    <published>2026-07-02T23:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762eaf4fa1#2</id>
+    <title>Emergence of beating in a magnetic flagellum consisting of active bots</title>
+    <updated>2026-07-02T23:53:54+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Guzmán-Lastra, D Hernández, N Quintriqueo... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We investigate the emergence of flagellar beating in chains of magnetic self-propelled particles (MSPPs) built from centimeter-scale vibrating robots (Hexbugs) with embedded neodymium dipoles. When one end of the chain is anchored and self-propulsion ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.29499"/>
+    <published>2026-07-02T23:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762eaf4fa1#1</id>
+    <title>Emergence of a Shared Canonical Object Frame from In-the-Wild Videos</title>
+    <updated>2026-07-02T23:53:54+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Fischer, M Sundermeyer, A Kortylewski, E Ilg -arXivpreprintarXiv:2606.30058, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Comparing object orientations and positions across different instances requires their poses to be expressed in a shared canonical frame. Establishing such frames has traditionally required manual annotation, creating a scaling bottleneck that limits ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.30058"/>
+    <published>2026-07-02T23:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762eaf4fa1#0</id>
+    <title>Anti-Collapse Dynamics and the Emergence of Multi-Time-Scale Learning in Recurrent Neural Networks</title>
+    <updated>2026-07-02T23:53:54+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Livi -arXivpreprintarXiv:2606.29519, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Long-range learning is hard for recurrent networks trained with stochastic gradient descent, because the influence of a past input fades with the lag $\ell$, and if it fades too fast the dependence cannot be learned from finite data. This fade is captured by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.29519"/>
+    <published>2026-07-02T23:53:54+00:00</published>
   </entry>
 </feed>
