@@ -2,107 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-04T08:36:11.716479+00:00</updated>
+  <updated>2026-07-04T14:56:15.067668+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762d426b02#0</id>
-    <title>Complex Diseases</title>
-    <updated>2026-07-04T00:37:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#9</id>
+    <title>Leuconostoc pseudomesenteroides YT830: A promising lactic acid bacterial starter culture for synbiotic fermented yak milk products as revealed by metabolic and ...</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
     <author>
-      <name>Ricard Solé</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Solé, J Romero-Hernández, G Aguadé-Gorgorió...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Complex diseases challenge one of the oldest assumptions in medicine: that illness can be reduced to a single cause. Instead, increasing evidence suggests that many pathologies emerge from the collective dynamics of components interacting across ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Ricard Solé (author alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/7aae56ef0f2d149d304ad841f10176e0/download_pub"/>
-    <published>2026-07-04T00:37:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhu, G Gong, J Yang, Y Liu, L Huang, Y Wang, R Li... - Journal of Applied ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... However, the capabilities of indigenous LAB from NFYM to utilize diverse prebiotic 86 oligosaccharides remain insufficiently explored. ... from the western Sichuan Plateau of China on a range of prebiotic oligosaccharides. 89 Furthermore ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://academic.oup.com/jambio/advance-article/doi/10.1093/jambio/lxag156/8722926"/>
+    <published>2026-07-04T09:34:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762d426a8e#0</id>
-    <title>Pulses, waves, and cascades in collective migration dynamics</title>
-    <updated>2026-07-04T00:37:07+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#8</id>
+    <title>Vesicle size and membrane composition control monomer transfer pathways in multicomponent lipid vesicles</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
     <author>
-      <name>Edward D Lee</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Kushwaha, WS Oh, ED Lee - arXiv preprint arXiv:2606.30604, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Decisions to migrate depend on others' decisions. Dependence can produce nontrivial dynamics. We propose a minimal migration model that accounts for social influence alongside individual heterogeneity in mobility as migrants move from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward D Lee (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.30604"/>
-    <published>2026-07-04T00:37:07+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Grosfils, P Losada-Pérez - The Journal of Chemical Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.aip.org/aip/jcp/article/165/1/015101/3397058"/>
+    <published>2026-07-04T09:34:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762d426a4f#0</id>
-    <title>The extended language network: Language-responsive brain areas whose contributions to language remain to be discovered</title>
-    <updated>2026-07-04T00:37:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#7</id>
+    <title>FROM EARLY EARTH BIOGEODYNAMICS TO EXOPLANET GEOASTRONOMY</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Wolna, A Wright, C Casto, S Hutchinson, B Lipkin... - ... : the official journal of the Society ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Although language neuroscience has largely focused on'core'left frontal and temporal brain areas and their right-hemisphere homotopes, numerous other areas- cortical and subcortical-have been implicated in linguistic processing. However ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42373548/"/>
-    <published>2026-07-04T00:37:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Mojzsis - Geochemical Perspectives, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.geoscienceworld.org/eag/perspectives/article-abstract/15/1/1/732129"/>
+    <published>2026-07-04T09:34:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762d426a44#0</id>
-    <title>Complex Diseases</title>
-    <updated>2026-07-04T00:37:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#6</id>
+    <title>Prospects for Panspermia via Interstellar Objects like 3I/ATLAS</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
     <author>
-      <name>Manlio De Domenico</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Solé, J Romero-Hernández, G Aguadé-Gorgorió...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Complex diseases challenge one of the oldest assumptions in medicine: that illness can be reduced to a single cause. Instead, increasing evidence suggests that many pathologies emerge from the collective dynamics of components interacting across ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/7aae56ef0f2d149d304ad841f10176e0/download_pub"/>
-    <published>2026-07-04T00:37:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kakharov, A Loeb - arXiv preprint arXiv:2607.00202, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We study the feasibility of natural and directed panspermia via interstellar objects (ISOs) like 3I/ATLAS. The paper is organized around two ... treated as test cases for panspermia diagnostics rather than as evidence for life. Natural panspermia ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.00202"/>
+    <published>2026-07-04T09:34:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762d4269b9#0</id>
-    <title>Photonic Violation of Wigner's Inequality</title>
-    <updated>2026-07-04T00:37:11+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#5</id>
+    <title>Lactoferrin–A Balanced Prebiotic in the Treatment of Dysbiosis</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
     <author>
-      <name>Anton Zeilinger</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Rottensteiner, D Schiffer, T Pausch, A Mair... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Teaching quantum mechanics is challenging, not least because the theory often conflicts with our classical worldview. Quantum correlations in particular are notoriously counter-intuitive. Their non-classical behavior is typically revealed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anton Zeilinger (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.30255"/>
-    <published>2026-07-04T00:37:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Listing&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Obviously probiotics promote health in countless ways. It all starts in the digestive system, where probiotics are meant to thrive in abundant numbers in lieu of other competitive and pathogenic organisms. When we fail to achieve this balance ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ndnr.com/lactoferrin-a-balanced-prebiotic-in-the-treatment-of-dysbiosis/"/>
+    <published>2026-07-04T09:34:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762d426950#0</id>
-    <title>WORD COUNT: 13,541</title>
-    <updated>2026-07-04T00:37:12+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#4</id>
+    <title>The Role of Probiotic and Prebiotic Supplementation on Semen Parameters in Idiopathic Male Infertility: A Narrative Review</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
     <author>
-      <name>Anil Seth</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Lush, Z Dienes, AK Seth, RB Scott&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Across four studies (total n= 2,042, two preregistered, one partly preregistered), we investigated the degree to which experiences in psychological experiments may arise from participants controlling their experience to satisfy their goals, ie ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
-    <link href="https://www.researchgate.net/profile/Peter-Lush/publication/399594088_How_participants_create_illusory_experiences_to_help_experimenters/links/6a1025e059b55e2c2f7c390f/How-participants-create-illusory-experiences-to-help-experimenters.pdf"/>
-    <published>2026-07-04T00:37:12+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MSAP Firdausy - Unram Medical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Male factors are the most prevalent cause for infertility in the world. The "gut-testis axis" theory posits that oxidative stress, systemic inflammation, and dysbiosis of the gut and seminal microbiomes are the primary etiological factors. This review focused ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journal.unram.ac.id/index.php/jku/article/download/8961/5474"/>
+    <published>2026-07-04T09:34:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762d412a7e#0</id>
-    <title>An open-source high-precision hive for long-term honeybee observation and research</title>
-    <updated>2026-07-04T00:54:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#3</id>
+    <title>Ulvan from Ulva lactuca as A Potential Marine-derived Prebiotic for Functional Foods: A Review</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
     <author>
-      <name>Thomas Schmickl</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Ulrich, M Stefanec, T Rouček, LA Fedotoff, H Pascher... - Biology Open, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Thomas Schmickl (author alert)</content>
-    <link href="https://journals.biologists.com/bio/article/15/6/bio062523/372098"/>
-    <published>2026-07-04T00:54:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Permana, M Rifai, AR Pratiwi, D Wulandari - Journal of Food, Culinary, and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... from Ulva lactuca as a marine-based prebiotic by analyzing studies published between 2016 and ... prebiotic , but it has not yet become an established prebiotic component for clinical use. Therefore, ulvan derived from Ulva lactuca represents a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journal.unika.ac.id/index.php/JFCN/article/view/15049"/>
+    <published>2026-07-04T09:34:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762d412a2f#0</id>
-    <title>Quantitative analysis of Upper Miocene Mediterranean reef carbonates: A tool for reconstructing palaeoenvironmental gradients</title>
-    <updated>2026-07-04T00:54:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#2</id>
+    <title>Efficacy of synbiotic, probiotic, and prebiotic treatments for irritable bowel syndrome in children: A systematic review and meta-analysis</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
     <author>
-      <name>Gerald Auer</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Coletti, A Vimercati, FR Bosellini, L Mariani, A Guido... - Palaeogeography ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; During latest Miocene times the Mediterranean Sea was linked exclusively to the Atlantic Ocean, just as it is today. This configuration could have likely resulted in a pronounced longitudinal environmental gradient, with warm and highly oligotrophic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0031018226004864"/>
-    <published>2026-07-04T00:54:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FH Alshihabi, KM Alzubaidi, SA Alzubaidi... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Irritable bowel syndrome (IBS) is a common functional gastrointestinal disorder in children, characterized by recurrent abdominal pain and altered bowel habits. It is associated with impaired quality of life and school performance. Increasing evidence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journals.lww.com/ijpam/fulltext/2026/06000/efficacy_of_synbiotic,_probiotic,_and_prebiotic.2.aspx"/>
+    <published>2026-07-04T09:34:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762d412a0a#0</id>
-    <title>Predictive brains in hyperreal worlds: how XR exploits the indifference to being</title>
-    <updated>2026-07-04T00:54:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#1</id>
+    <title>Prebiotic Chemistry Assemblies of L-Cysteine on Defect-Free Pyrite Terraces</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
     <author>
-      <name>Guilherme M. de O. Wood</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Wood, SE Kober - AI &amp; SOCIETY, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This opinion paper proposes a novel framework for understanding the neurological susceptibility to extended reality (XR) as a tool of manipulation. We argue that Meinong's ontological claim that objects retain their properties regardless of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00146-026-03197-1"/>
-    <published>2026-07-04T00:54:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AE Candia, SJ Rodríguez, VG Franco, MCG Passeggi... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; W\"achtersh\"auser's theory proposes iron-sulfur minerals as key platforms for molecular synthesis and supramolecular organization in prebiotic environments. However, defects have been traditionally considered at the center of such ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2606.30929"/>
+    <published>2026-07-04T09:34:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762d7999da#0</id>
+    <title>Study on the prebiotic effects of 2′-Fucosyllactose in infants based on an in vitro spatiotemporal dynamic digestion model</title>
+    <updated>2026-07-04T09:34:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Li, Y Wang, J Wang, X Lv, Y Yin, W Yan, Z Chang... - Journal of Future Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 2′-Fucosyllactose(2′-FL) is a key component of human milk oligosaccharides (HMOs). This study employed an in vitro spatiotemporal dynamic digestion model (BGR-7) to systematically investigate the structural changes, gut microbiota modulation, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2772566926002168"/>
+    <published>2026-07-04T09:34:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762d79995e#2</id>
+    <title>3. THE INFERNAL AND THE BUCOLIC (1997-2021)</title>
+    <updated>2026-07-04T09:34:44+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Mojzsis - Geochemical Perspectives, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://pubs.geoscienceworld.org/eag/perspectives/article-abstract/15/1/58/732136"/>
+    <published>2026-07-04T09:34:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762d79995e#1</id>
+    <title>4. A BRAVE NEW SYNTHESIS (2021–2026 AND BEYOND)</title>
+    <updated>2026-07-04T09:34:44+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Mojzsis - Geochemical Perspectives, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://pubs.geoscienceworld.org/eag/perspectives/article-abstract/15/1/139/732133"/>
+    <published>2026-07-04T09:34:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762d79995e#0</id>
+    <title>FROM EARLY EARTH BIOGEODYNAMICS TO EXOPLANET GEOASTRONOMY</title>
+    <updated>2026-07-04T09:34:44+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Mojzsis - Geochemical Perspectives, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://pubs.geoscienceworld.org/eag/perspectives/article-abstract/15/1/1/732129"/>
+    <published>2026-07-04T09:34:44+00:00</published>
   </entry>
 </feed>
