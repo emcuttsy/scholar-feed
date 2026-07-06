@@ -2,118 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-06T10:20:44.398993+00:00</updated>
+  <updated>2026-07-06T16:46:02.999699+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#9</id>
-    <title>Gut Microbiome Modulation through Probiotics and Prebiotics for Metabolic Health: A Narrative Review</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c8d597a#2</id>
+    <title>What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates</title>
+    <updated>2026-07-06T12:43:05+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WA Hasibuan, M Jannah, P Kinasih, AP Zetta - Journal of Nutrition Research in ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... linking gut microbiota to metabolic health and evaluates the clinical efficacy of probiotic and prebiotic interventions in obesity and T2DM. ... Conclusion: Probiotic and prebiotic interventions offer a biologically plausible, low-risk adjunct for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://journal.uib.ac.id/index.php/nurish/article/view/12447/5229"/>
-    <published>2026-07-05T21:33:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Ghaffarizadeh, D Mohaddes, A Izadkhah... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit objective in the prompt, changes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.02507"/>
+    <published>2026-07-06T12:43:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#8</id>
-    <title>The formose reaction does not form ribose</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c8d597a#1</id>
+    <title>On the emergence of quantum many-body chaos for tunably-broken integrability</title>
+    <updated>2026-07-06T12:43:05+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Truman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... as a prebiotic source of ribose on early Earth needs serious reconsideration ... ."They also offered detailed reasons that special conditions would be unlikely to correct this. Continual availability of high concentration ribose is necessary to form RNA, so the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Royal-Truman/publication/408275460_The_formose_reaction_does_not_form_ribose/links/6a44d641a066b6236f26d66d/The-formose-reaction-does-not-form-ribose.pdf"/>
-    <published>2026-07-05T21:33:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Biswas, S Roy, R Moessner -arXivpreprintarXiv:2607.02506, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Introduction: The emergence of chaos in quantum many-body dynamics is a cornerstone of ... Here we present such a model, for which we study the emergence of chaos through the lens ... Outlook: In this work, we have quantitatively studied the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.02506"/>
+    <published>2026-07-06T12:43:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#7</id>
-    <title>Creation or evolution: which is real science?</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c8d597a#0</id>
+    <title>The Role of Input Dimensionality in the Emergence and Targeted Control of Adversarial Examples</title>
+    <updated>2026-07-06T12:43:05+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Truman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Despite the widespread claim that life arose via an RNA World , another renowned origin - of - life researcher stated bluntly: "The direct formation of RNA by prebiotic processes is controversial. As will be outlined subsequently, there are no ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Royal-Truman/publication/408306094_Creation_or_evolution_which_is_real_science/links/6a44e349a1fbd1634705c3fb/Creation-or-evolution-which-is-real-science.pdf"/>
-    <published>2026-07-05T21:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#6</id>
-    <title>Prospects for Panspermia in 3I/ATLAS-like Interstellar Objects</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kakharov, A Loeb&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We study the feasibility of natural and directed panspermia in interstellar objects (ISOs) like 3I/ATLAS. The paper is organized around two ... In summary, natural panspermia requires preservation and a credible liquid-water or nearsurface ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://lweb.cfa.harvard.edu/~loeb/shl.pdf"/>
-    <published>2026-07-05T21:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#5</id>
-    <title>Prebiotic Potential of Edible Leafy Plant Extracts: In vitro Assessment for Gut Microbiota Modulation</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Thilagar&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... indicators of fermentable substrates relevant to prebiotic functionality. Antioxidant activity was evaluated ... with potential prebiotic activity and could naturally promoting gut microbial balance. ... In this present study,we aims to investigate the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Veeramurugan-Veerasamy/publication/408304997_Prebiotic_Potential_of_Edible_Leafy_Plant_Extracts_In_vitro_Assessment_for_Gut_Microbiota_Modulation/links/6a44d02237be4e7a63c1f5cd/Prebiotic-Potential-of-Edible-Leafy-Plant-Extracts-In-vitro-Assessment-for-Gut-Microbiota-Modulation.pdf"/>
-    <published>2026-07-05T21:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#4</id>
-    <title>The RNA World hypothesis: a critical reassessment—part</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Truman, C Basel&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... hypothesis (RWH) posits that self-replicating RNA molecules preceded DNA-based life, yet its prebiotic plausibility ... prebiotic conditions. Four compounding chemical obstacles are identified: the instability and implausible abiotic synthesis of ribose ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Royal-Truman/publication/408305672_The_RNA_World_hypothesis_a_critical_reassessment-part_1/links/6a44d72dd4da0457569bce16/The-RNA-World-hypothesis-a-critical-reassessment-part-1.pdf"/>
-    <published>2026-07-05T21:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#3</id>
-    <title>Prebiotic xylo-oligosaccharides cause modest taxonomic shifts in the gut microbiota but do not increase insulin sensitivity in insulin resistant individuals</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Driuchina, J Hekkala, J Hintikka, P Permi, E Hellsten... - Nutrition &amp; Metabolism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We aimed at exploring the effects of prebiotic xylo-oligosaccharides (XOS) on the structure and metabolites of gut microbiota, IR, body composition and inflammatory ... More and larger studies are needed to show that prebiotic XOS can consistently ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s12986-026-01168-3"/>
-    <published>2026-07-05T21:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#2</id>
-    <title>Digestive stability and prebiotic potential of radish green polysaccharide via mucin-associated intestinal barrier modulation: M. Park et al.</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Park, W Yoon, HJ Kim, YR Lee, J Hur, D Jeong... - Food Science and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , lowered culture pH, and exhibited prebiotic effects comparable to or greater than those of ... fermentation allows controlled evaluation of prebiotic selectivity independent of host confounds; ... Specifically, we compared intact RGP and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s10068-026-02228-3"/>
-    <published>2026-07-05T21:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#1</id>
-    <title>Structural evolution and prebiotic -like potential of insoluble dietary fiber-polyphenol complexes from Rosa roxburghii Tratt during in vitro digestion and colonic ...</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Zhou, Y Chen, S Zhang, SQ Zhang, T Liu, N Liu... - Food Chemistry: X, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Rosa roxburghi Tratt. (RRT) pomace is rich in insoluble dietary fiber (IDF) and polyphenols, but free polyphenols are susceptible to premature loss during digestion. This study constructed an IDF–polyphenol complex (IDF-PP) from RRT pomace via ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2590157526006796"/>
-    <published>2026-07-05T21:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#0</id>
-    <title>From Prebiotic Catalysts to Modern Applications: How Early Catalysts Inspire Today's Innovations</title>
-    <updated>2026-07-05T21:33:01+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Agazani, M Reches - Israel Journal of Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this review, prebiotic catalytic systems are examined as a source of general molecular features rather than as isolated reactions specific ... examine prebiotic catalytic systems through their underlying molecular features. We discuss ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/ijch.70038"/>
-    <published>2026-07-05T21:33:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Malekzadeh Goradel, N Pancino, Y Gholizade Atani... -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260626207M/abstract"/>
+    <published>2026-07-06T12:43:05+00:00</published>
   </entry>
 </feed>
