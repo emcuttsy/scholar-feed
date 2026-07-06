@@ -2,195 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-05T08:52:02.929377+00:00</updated>
+  <updated>2026-07-06T10:20:44.398993+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762da9c73a#1</id>
-    <title>Emergence of Preferential Attachment and Glass-Ceiling Effects in Autonomous Networks of LLMs</title>
-    <updated>2026-07-04T17:55:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#9</id>
+    <title>Gut Microbiome Modulation through Probiotics and Prebiotics for Metabolic Health: A Narrative Review</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhang, V Krishnamurthy -arXivpreprintarXiv:2607.01148, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We investigate the emergence of structural disparities in networks of collaborating large language model (LLM) agents. Each LLM agent refers to a prompted LLM of a specified type determined by its base model, model size, and system prompt. When ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.01148"/>
-    <published>2026-07-04T17:55:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WA Hasibuan, M Jannah, P Kinasih, AP Zetta - Journal of Nutrition Research in ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... linking gut microbiota to metabolic health and evaluates the clinical efficacy of probiotic and prebiotic interventions in obesity and T2DM. ... Conclusion: Probiotic and prebiotic interventions offer a biologically plausible, low-risk adjunct for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journal.uib.ac.id/index.php/nurish/article/view/12447/5229"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762da9c73a#0</id>
-    <title>From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents</title>
-    <updated>2026-07-04T17:55:23+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#8</id>
+    <title>The formose reaction does not form ribose</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Talebirad, E Redman, A Parsaee, OR Zaiane -arXivpreprintarXiv:2607.00233, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How do two agents invent a shared language from scratch? In a Lewis signaling game, a sender and receiver must coordinate on a code using only their interaction history. We study five memory architectures across varying channel configurations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.00233"/>
-    <published>2026-07-04T17:55:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Truman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... as a prebiotic source of ribose on early Earth needs serious reconsideration ... ."They also offered detailed reasons that special conditions would be unlikely to correct this. Continual availability of high concentration ribose is necessary to form RNA, so the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Royal-Truman/publication/408275460_The_formose_reaction_does_not_form_ribose/links/6a44d641a066b6236f26d66d/The-formose-reaction-does-not-form-ribose.pdf"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd6a1f5#1</id>
-    <title>Transmission Spectrum of the Benchmark Temperate Exo-Neptune TOI-1231 b</title>
-    <updated>2026-07-05T07:55:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#7</id>
+    <title>Creation or evolution: which is real science?</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>Nikku Madhusudhan</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Sarkar, N Madhusudhan, L Pica-Ciamarra... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The JWST is revolutionizing our understanding of the temperate sub-Neptune population through atmospheric spectroscopy. The nature of these planets remains debated, as their bulk properties are compatible with a range of interior scenarios ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.00973"/>
-    <published>2026-07-05T07:55:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Truman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Despite the widespread claim that life arose via an RNA World , another renowned origin - of - life researcher stated bluntly: "The direct formation of RNA by prebiotic processes is controversial. As will be outlined subsequently, there are no ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Royal-Truman/publication/408306094_Creation_or_evolution_which_is_real_science/links/6a44e349a1fbd1634705c3fb/Creation-or-evolution-which-is-real-science.pdf"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd6a1f5#0</id>
-    <title>The Mid-Infrared Transmission Spectrum of the Temperate Sub-Neptune TOI-270 d</title>
-    <updated>2026-07-05T07:55:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#6</id>
+    <title>Prospects for Panspermia in 3I/ATLAS-like Interstellar Objects</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>Nikku Madhusudhan</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Holmberg, N Madhusudhan, M Binet, S Sarkar... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Observations of temperate sub-Neptunes with JWST have ushered in a new era for atmospheric characterization of small exoplanets. In particular, the MIRI instrument provides a unique opportunity to search for molecules that are not easily accessible ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.00950"/>
-    <published>2026-07-05T07:55:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kakharov, A Loeb&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We study the feasibility of natural and directed panspermia in interstellar objects (ISOs) like 3I/ATLAS. The paper is organized around two ... In summary, natural panspermia requires preservation and a credible liquid-water or nearsurface ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://lweb.cfa.harvard.edu/~loeb/shl.pdf"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd6a1a5#0</id>
-    <title>Formation and evolution pathways of planets. I. Comparison between theory and observations</title>
-    <updated>2026-07-05T07:55:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#5</id>
+    <title>Prebiotic Potential of Edible Leafy Plant Extracts: In vitro Assessment for Gut Microbiota Modulation</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Hasegawa, R Hu, A Bouzerzour - arXiv preprint arXiv:2606.31017, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Discoveries of numerous exoplanets by various methods enable detailed characterization including bulk density. Formation and evolution pathways of planets can thus be probed in the mass-radius and mass-density diagrams. We develop a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://arxiv.org/pdf/2606.31017"/>
-    <published>2026-07-05T07:55:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Thilagar&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... indicators of fermentable substrates relevant to prebiotic functionality. Antioxidant activity was evaluated ... with potential prebiotic activity and could naturally promoting gut microbial balance. ... In this present study,we aims to investigate the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Veeramurugan-Veerasamy/publication/408304997_Prebiotic_Potential_of_Edible_Leafy_Plant_Extracts_In_vitro_Assessment_for_Gut_Microbiota_Modulation/links/6a44d02237be4e7a63c1f5cd/Prebiotic-Potential-of-Edible-Leafy-Plant-Extracts-In-vitro-Assessment-for-Gut-Microbiota-Modulation.pdf"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd6a112#0</id>
-    <title>Composition is the Core Driver of the Language-selective Network Francis Mollica1*, Matthew Siegelman2*, Evgeniia Diachek3, Steven T. Piantadosi4</title>
-    <updated>2026-07-05T07:55:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#4</id>
+    <title>The RNA World hypothesis: a critical reassessment—part</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Mineroff, R Futrell, H Kean, P Qian, E Fedorenko&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; RESEARCH ARTICLE Composition is the Core Driver of the Language-selective Network Francis Mollica1*, Matthew Siegelman2*, Evgeniia Diachek3, Steven T. Piantadosi4, Zachary Mineroff5, Richard Futrell6, Hope Kean7, Peng Qian7, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/b07803c4-8e9b-4341-ada3-09e3bef699cd/content"/>
-    <published>2026-07-05T07:55:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Truman, C Basel&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... hypothesis (RWH) posits that self-replicating RNA molecules preceded DNA-based life, yet its prebiotic plausibility ... prebiotic conditions. Four compounding chemical obstacles are identified: the instability and implausible abiotic synthesis of ribose ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Royal-Truman/publication/408305672_The_RNA_World_hypothesis_a_critical_reassessment-part_1/links/6a44d72dd4da0457569bce16/The-RNA-World-hypothesis-a-critical-reassessment-part-1.pdf"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd6a0f3#0</id>
-    <title>A Novel Polyphosphate‐Degrading Enzyme Confers Growth on Exogenous Polyphosphate in the Archaeon Haloferax volcanii</title>
-    <updated>2026-07-05T07:55:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#3</id>
+    <title>Prebiotic xylo-oligosaccharides cause modest taxonomic shifts in the gut microbiota but do not increase insulin sensitivity in insulin resistant individuals</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>Timothy Lenton</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JWF Nicholls, V O'Flaherty, TM Lenton, JW McGrath... - Environmental Microbiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Polyphosphate (polyP) is an inorganic biopolymer of orthophosphate (Pi) that plays roles in many central biochemical processes in microorganisms, including acting as a cellular reservoir of phosphorus. The microbial metabolism of polyP is considered ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://enviromicro-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.70340"/>
-    <published>2026-07-05T07:55:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Driuchina, J Hekkala, J Hintikka, P Permi, E Hellsten... - Nutrition &amp; Metabolism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We aimed at exploring the effects of prebiotic xylo-oligosaccharides (XOS) on the structure and metabolites of gut microbiota, IR, body composition and inflammatory ... More and larger studies are needed to show that prebiotic XOS can consistently ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s12986-026-01168-3"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd6a03a#0</id>
-    <title>World models of environment, agent and joint agent-environment systems</title>
-    <updated>2026-07-05T07:55:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#2</id>
+    <title>Digestive stability and prebiotic potential of radish green polysaccharide via mucin-associated intestinal barrier modulation: M. Park et al.</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Baltieri, F Torresan, Y Zhang, A Boyd, FE Rosas&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variables they predict, such as observations, rewards, states, latent or information states. We argue that there is a prior distinction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://manuelbaltieri.com/assets/pdf/WorldModels.pdf"/>
-    <published>2026-07-05T07:55:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Park, W Yoon, HJ Kim, YR Lee, J Hur, D Jeong... - Food Science and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , lowered culture pH, and exhibited prebiotic effects comparable to or greater than those of ... fermentation allows controlled evaluation of prebiotic selectivity independent of host confounds; ... Specifically, we compared intact RGP and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s10068-026-02228-3"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd69fc8#0</id>
-    <title>Enhancement of sleep slow wave activity using transcranial electrical stimulation with temporal interference: an interim analysis of the STRENGTHEN study</title>
-    <updated>2026-07-05T07:55:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#1</id>
+    <title>Structural evolution and prebiotic -like potential of insoluble dietary fiber-polyphenol complexes from Rosa roxburghii Tratt during in vitro digestion and colonic ...</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>Larissa Albantakis</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EL Schaeffer, I Haber, Z Fan, S Bruno, B Mat... - Communications Medicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Slow waves are oscillations that reflect rhythmic alternation of neuronal activity and mediate key restorative functions of non-rapid eye movement (NREM) sleep. Left ventromedial prefrontal cortex regions are a "hot spot" for slow wave ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Larissa Albantakis (author alert)</content>
-    <link href="https://www.nature.com/articles/s43856-026-01744-x"/>
-    <published>2026-07-05T07:55:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Zhou, Y Chen, S Zhang, SQ Zhang, T Liu, N Liu... - Food Chemistry: X, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Rosa roxburghi Tratt. (RRT) pomace is rich in insoluble dietary fiber (IDF) and polyphenols, but free polyphenols are susceptible to premature loss during digestion. This study constructed an IDF–polyphenol complex (IDF-PP) from RRT pomace via ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2590157526006796"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd69fb3#0</id>
-    <title>Genome-wide association studies of infant and toddler temperament in European and multi-ancestry populations</title>
-    <updated>2026-07-05T07:55:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762c2c984b#0</id>
+    <title>From Prebiotic Catalysts to Modern Applications: How Early Catalysts Inspire Today's Innovations</title>
+    <updated>2026-07-05T21:33:01+00:00</updated>
     <author>
-      <name>Varun Warrier</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Hollowell, A Gui, E Wigdor, MJ Morgan, LJ Hannigan... - Nature Human Behaviour, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Early temperament, such as socio-emotional development and activity level, varies widely, yet its underlying biological associations are not understood. We identified genetic variation associated with infant and toddler temperament using genome ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
-    <link href="https://www.nature.com/articles/s41562-026-02486-5"/>
-    <published>2026-07-05T07:55:47+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd69f04#0</id>
-    <title>Enhancement of sleep slow wave activity using transcranial electrical stimulation with temporal interference: an interim analysis of the STRENGTHEN study</title>
-    <updated>2026-07-05T07:55:49+00:00</updated>
-    <author>
-      <name>Melanie Boly</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EL Schaeffer, I Haber, Z Fan, S Bruno, B Mat... - Communications Medicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Slow waves are oscillations that reflect rhythmic alternation of neuronal activity and mediate key restorative functions of non-rapid eye movement (NREM) sleep. Left ventromedial prefrontal cortex regions are a "hot spot" for slow wave ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Boly (author alert)</content>
-    <link href="https://www.nature.com/articles/s43856-026-01744-x"/>
-    <published>2026-07-05T07:55:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd69e8c#0</id>
-    <title>Nautilus Space Observatory: Unveiling the Diversity and Origin of Sub-Neptunes with the Nautilus Space Observatory</title>
-    <updated>2026-07-05T07:55:51+00:00</updated>
-    <author>
-      <name>Raymond Pierrehumbert</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Welbanks, KE Hall, J de Wit, A Glidden, N Tuchow... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sub-Neptunes are the most common class of planets in the Galaxy, yet they have no Solar System analog and remain poorly understood as a population. JWST observations have revealed atmospheres spanning a wide range of metallicities ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Raymond Pierrehumbert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.00268"/>
-    <published>2026-07-05T07:55:51+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd69e14#0</id>
-    <title>Age, gender, and score distributions of moral foundations</title>
-    <updated>2026-07-05T07:55:52+00:00</updated>
-    <author>
-      <name>Timothy C. Bates</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Zakharin, TC Bates - PloS one, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Claims of generational differences in moral values have important implications for understanding societal change. Using the recently developed Moral Foundations Questionnaire (MFQ-2), we examined age and gender effects on moral foundations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy C. Bates (author alert)</content>
-    <link href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352584"/>
-    <published>2026-07-05T07:55:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd69df9#0</id>
-    <title>Rapid evolution of lncRNAs introduces novel regulatory inputs into ancestral cancer pathways</title>
-    <updated>2026-07-05T07:55:52+00:00</updated>
-    <author>
-      <name>Michael Lynch</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Sun, C Dong, D Hong, MZ Du, S Xia, H Fan, M Lynch... - Science Advances, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A substantial fraction of human long noncoding RNAs (lncRNAs) are lineage specific and increasingly implicated in cancer, yet the evolutionary origins of their oncogenic relevance remain unclear. It is unknown whether such roles arise through adaptive ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Lynch (author alert)</content>
-    <link href="https://www.science.org/doi/pdf/10.1126/sciadv.aeb5510"/>
-    <published>2026-07-05T07:55:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd6834e#0</id>
-    <title>Enhancement of sleep slow wave activity using transcranial electrical stimulation with temporal interference: an interim analysis of the STRENGTHEN study</title>
-    <updated>2026-07-05T07:57:15+00:00</updated>
-    <author>
-      <name>Chiara Cirelli</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EL Schaeffer, I Haber, Z Fan, S Bruno, B Mat... - Communications Medicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Slow waves are oscillations that reflect rhythmic alternation of neuronal activity and mediate key restorative functions of non-rapid eye movement (NREM) sleep. Left ventromedial prefrontal cortex regions are a "hot spot" for slow wave ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chiara Cirelli (author alert)</content>
-    <link href="https://www.nature.com/articles/s43856-026-01744-x"/>
-    <published>2026-07-05T07:57:15+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd67b7d#0</id>
-    <title>Enhancement of sleep slow wave activity using transcranial electrical stimulation with temporal interference: an interim analysis of the STRENGTHEN study</title>
-    <updated>2026-07-05T07:57:38+00:00</updated>
-    <author>
-      <name>Giulio Tononi</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EL Schaeffer, I Haber, Z Fan, S Bruno, B Mat... - Communications Medicine, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Slow waves are oscillations that reflect rhythmic alternation of neuronal activity and mediate key restorative functions of non-rapid eye movement (NREM) sleep. Left ventromedial prefrontal cortex regions are a "hot spot" for slow wave ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
-    <link href="https://www.nature.com/articles/s43856-026-01744-x"/>
-    <published>2026-07-05T07:57:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762dd55bb2#0</id>
-    <title>Stellar Forcing of (exo) Planetary Environments</title>
-    <updated>2026-07-05T08:10:51+00:00</updated>
-    <author>
-      <name>Astrid Veronig</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JD Alvarado-Gómez, E Palmeiro, M Güdel... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The environments of exoplanets are fundamentally shaped by the magnetic activity of their host stars through a combination of radiative, plasma, and particle-driven processes. This article presents a comprehensive overview of the four principal forms ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.01168"/>
-    <published>2026-07-05T08:10:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Agazani, M Reches - Israel Journal of Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this review, prebiotic catalytic systems are examined as a source of general molecular features rather than as isolated reactions specific ... examine prebiotic catalytic systems through their underlying molecular features. We discuss ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/ijch.70038"/>
+    <published>2026-07-05T21:33:01+00:00</published>
   </entry>
 </feed>
