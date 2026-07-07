@@ -2,41 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-06T16:46:02.999699+00:00</updated>
+  <updated>2026-07-07T09:40:05.694669+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c8d597a#2</id>
-    <title>What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates</title>
-    <updated>2026-07-06T12:43:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762cb2b102#0</id>
+    <title>Reply to Boudry: The threat of evolvable AI is too grave to be left to intuition</title>
+    <updated>2026-07-06T18:16:15+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Eörs Szathmáry</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Ghaffarizadeh, D Mohaddes, A Izadkhah... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit objective in the prompt, changes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.02507"/>
-    <published>2026-07-06T12:43:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Müller, L Steels, ESzathmáry- Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2618094123"/>
+    <published>2026-07-06T18:16:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c8d597a#1</id>
-    <title>On the emergence of quantum many-body chaos for tunably-broken integrability</title>
-    <updated>2026-07-06T12:43:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762cb2b048#0</id>
+    <title>Reply to Boudry: The threat of evolvable AI is too grave to be left to intuition</title>
+    <updated>2026-07-06T18:16:16+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Eörs Szathmáry</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Biswas, S Roy, R Moessner -arXivpreprintarXiv:2607.02506, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Introduction: The emergence of chaos in quantum many-body dynamics is a cornerstone of ... Here we present such a model, for which we study the emergence of chaos through the lens ... Outlook: In this work, we have quantitatively studied the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.02506"/>
-    <published>2026-07-06T12:43:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Müller, L Steels, E Szathmáry - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2618094123"/>
+    <published>2026-07-06T18:16:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762c8d597a#0</id>
-    <title>The Role of Input Dimensionality in the Emergence and Targeted Control of Adversarial Examples</title>
-    <updated>2026-07-06T12:43:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762cc652d9#0</id>
+    <title>02139, USA b Program in Speech and Hearing Bioscience and Technology, Division of Medical Sciences, Harvard University, Cambridge, MA 02138, USA c ...</title>
+    <updated>2026-07-06T21:16:43+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Zhenghan QI</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Malekzadeh Goradel, N Pancino, Y Gholizade Atani... -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260626207M/abstract"/>
-    <published>2026-07-06T12:43:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Qi, SD Beach, AS Finna, J Minasa, C Goetza...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1 Native-language N400 and P600 predict dissociable language-learning abilities in adults Zhenghan Qi*a, Sara D. Beach*b, Amy S. Finna,1 Jennifer Minasa, Calvin Goetza, Brian Chana, and John DE Gabrielia,ca McGovern Institute for Brain Research ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Zhenghan QI (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/e149d575-7eba-46b1-9bcd-e35d01aded1d/content"/>
+    <published>2026-07-06T21:16:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762cda2edd#0</id>
+    <title>Optimal stellar rank approximation of squeezed cat states with photon catalysis</title>
+    <updated>2026-07-06T21:56:29+00:00</updated>
+    <author>
+      <name>Jens Eisert</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JK Nauth, N Walk, AM Datta, K Busch, J Eisert... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Non-Gaussian quantum states and operations constitute essential resources for achieving quantum computational advantage and enabling quantum error correction in bosonic platforms. However, their generation in optical settings remains a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2607.02427"/>
+    <published>2026-07-06T21:56:29+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e762cda2e7d#0</id>
+    <title>MA 02138, USA 5Haskins Laboratories, 300 George Street, New Haven, CT 06511, USA 6St. George's Medical School, St. George's University, Grenada, West Indies ...</title>
+    <updated>2026-07-06T21:56:31+00:00</updated>
+    <author>
+      <name>Evelina (Ev) Fedorenko</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Hu, H Small, H Kean, A Takahashi, L Zekelman...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; bioRxiv preprint doi: https://doi.org/10.1101/2021.09.10.459596; this version posted August 1, 2022. The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/ac83dcfb-9a4a-48ac-8d2d-3308c1361ad4/content"/>
+    <published>2026-07-06T21:56:31+00:00</published>
   </entry>
 </feed>
