@@ -2,140 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-07T16:14:38.688790+00:00</updated>
+  <updated>2026-07-08T08:27:16.073474+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335396#0</id>
-    <title>A Century of Cosmic Discoveries: Heliophysics and Space Physics, Astrophysics and Cosmology</title>
-    <updated>2026-07-07T13:02:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7623b8abda#0</id>
+    <title>Alignment Is to a Virtual Governor: A Theory of Coordination in Diverse Intelligence</title>
+    <updated>2026-07-08T06:10:00+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Michael Levin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Tsinganos&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... How low is the atmospheric pressure in the planet Mars and why do we call Mars , apart from being a ... life in the oceans beneath the icy surfaces of the moons of Jupiter 's Europa , Saturn 's ... • the observation of the first exoplanet around a star ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=5dTwEQAAQBAJ&amp;oi=fnd&amp;pg=PR7&amp;dq=(~biosignature%7Clife%7Calien%7Corganic)+(Mars%7CVenus%7CEuropa%7CEnceladus%7CTitan%7C%22icy+moon%22%7CJupiter%7CSaturn%7CNeptune%7CPluto%7CAsteroid%7CComet+~exoplanet%7C%22super+Earth%22%7C%22sub+Neptune%22%7C%22rocky+world%22%7C%22terrestrial+planet%22%7CTRAPPIST%7CK2-18b%7CProxima)&amp;ots=uhpF-ds_iT&amp;sig=pARpUGIjgM3tkQF_bqc0Tc9fTeg"/>
-    <published>2026-07-07T13:02:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Lyons, L Pio-Lopez, M Levin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Alignment is a central problem in systems composed of diverse, interacting components, from biological development to social and engineered systems. One crucial aspect of this problem is determining an answer to the question of to whom or ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/8872b2d0b3c60e38ce00fae7831ec6a8/download_pub"/>
+    <published>2026-07-08T06:10:00+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762333536a#0</id>
-    <title>The role of minerals in prebiotic evolution: Implications for identifying worlds with the potential for life's origin</title>
-    <updated>2026-07-07T13:02:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7623b8ab5f#0</id>
+    <title>Genome-Wide Association Study of Nevus Count Reveals Opposing Effects of Genetic Loci Near IRF4 and MC1R on Flat Versus Raised Nevus Count in the Brisbane ...</title>
+    <updated>2026-07-08T06:10:01+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Lu, Y Li, D Liang - Fundamental Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The direct detection of extraterrestrial life is limited by the scarcity of accessible samples from Mars or other planetary bodies. ... aims to complement and enhance existing frameworks for detecting habitable worlds and to strengthen broader efforts ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2667325826006163"/>
-    <published>2026-07-07T13:02:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Ingold, G Zhu, DL Duffy, A Mothershaw, NG Martin... - Pigment cell &amp; melanoma ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Germline genetic variation can influence the number of nevi on the skin. However, nevi can be classified in many ways (eg, by shape, size or evolution); little is known of how genetics influences the density of different nevus morphologies on the body ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42400230/"/>
+    <published>2026-07-08T06:10:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#9</id>
-    <title>Potential Role of Fructans in Male Cancers</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7623b58b0b#0</id>
+    <title>A systematic review and meta-analysis of the mental health correlates of swiping-based dating app use</title>
+    <updated>2026-07-08T07:40:34+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Guilherme M. de O. Wood</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Arabpour - Plant‐Based Phytochemicals, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Fructans, found in many food crops, have gained attention for their potential in cancer treatment due to their prebiotic , anti-inflammatory, and ... The prebiotic effects of fructans, particularly inulin, have shown promise in modulating the gut ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394416905.ch44"/>
-    <published>2026-07-07T13:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#8</id>
-    <title>Next Generation Probiotics Challenges: A Road to use as Live Bio-Therapeutics</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Rashid and, A Zaidi, H Rashid - Current Microbiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Specifically, this review spotlights advancements in culturomics, prebiotic and dietary modulation procedures, encapsulation technologies and viability enhancement propositions for extremely anaerobic strains and evolving regulatory ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00284-026-05044-4"/>
-    <published>2026-07-07T13:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#7</id>
-    <title>Digestion and fermentation characteristics of the polysaccharides from Polygalae Radix processed by Glycyrrhizae Radix et Rhizoma and its effects on gut microbiota ...</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Hu, QL Deng, ZK Wang, LT Yue, J Wang, X Peng... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Collectively, our findings confirm that PGPR exerted prebiotic bioactivity by modulating gut microbiota and metabolite composition. These results provided a new perspective on the functional basis of GPR and support PGPR as a candidate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0141813026032344"/>
-    <published>2026-07-07T13:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#6</id>
-    <title>Prebiotics vs. Probiotics vs. Postbiotics: What's the Difference and Do You Need All Three?</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Nguyen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Editorial note: The simplest practical advice for prebiotic intake is to eat more vegetables across more variety. A diverse diet containing different fiber types feeds a more diverse microbiome. The goal isn't optimizing one fiber type — it's covering ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://optuvit.com/prebiotics-vs-probiotics/"/>
-    <published>2026-07-07T13:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#5</id>
-    <title>Boron and chirality</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Prieur - ORIGINS 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://hal.science/hal-05673392/"/>
-    <published>2026-07-07T13:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#4</id>
-    <title>Abiogenesis as the origin of adaptive evolution. An</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Rivas-Santisteban&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Here I argue how the fields of prebiotic chemistry and synthetic biology, together with the 64 prevailing paradigm ( RNA - world [23]), remain ... sought as a marker of abiogenesis , because adaptive evolution is assumed to 84 precede abiogenesis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Juan-Rivas-Santisteban/publication/389107909_Abiogenesis_as_the_origin_of_adaptive_evolution_An_alternative_to_the_Oparin-Haldane_model/links/6a47bc775ec65810298eb9ee/Abiogenesis-as-the-origin-of-adaptive-evolution-An-alternative-to-the-Oparin-Haldane-model.pdf"/>
-    <published>2026-07-07T13:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#3</id>
-    <title>A water-insoluble polysaccharide from Pleurotus citrinopileatus has a (1→ 3)-α-d-glucan structure and can serve as a source of oligosaccharides with a prebiotic ...</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Komaniecka, A Choma, A Waśko, P Adamczyk... - Carbohydrate Polymers, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... ), that can serve as a novel and very efficient prebiotic preparation. The prebiotic potential of GOS obtained via partial acid hydrolysis of the α-... The obtained GOS fermentability results were compared with those for reference prebiotic preparations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0144861726007411"/>
-    <published>2026-07-07T13:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#2</id>
-    <title>... evidence actually shows about probiotics, diversity, and what genuinely moves the needle, plus a downloadable probiotic and prebiotic evidence summary card.</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WYMA Is&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The global probiotic market is worth over $60 billion. Capsules, drinks, powders, gummies, and fortified foods line pharmacy shelves with claims about gut health, immunity, mood, weight, and energy. Most of these claims are backed by evidence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.zenithwithin.com/p/probiotics-evidence-gut-health"/>
-    <published>2026-07-07T13:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#1</id>
-    <title>A short-chain galacto-oligosaccharides and long-chain fructo-oligosaccharides prebiotic blend can improve gut-immunity outcomes for formula-fed children</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Blumfield, E Duve, E Beckett, F Fayet-Moore... - Proceedings of the Nutrition ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... RCTs that reported on gut or immune outcomes and included an intervention where a prebiotic ... scGOS/lcFOS prebiotic blend reduced incidence of respiratory and gastrointestinal infections, ... Formula with scGOS/lcFOS prebiotic blend ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/shortchain-galactooligosaccharides-and-longchain-fructooligosaccharides-prebiotic-blend-can-improve-gutimmunity-outcomes-for-formulafed-children/01B82D5E8A63468486ABD08CCF16CFA2"/>
-    <published>2026-07-07T13:02:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7623335122#0</id>
-    <title>The role of minerals in prebiotic evolution: Implications for identifying worlds with the potential for life's origin</title>
-    <updated>2026-07-07T13:02:41+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Lu, Y Li, D Liang - Fundamental Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... environment because different prebiotic reactions imposed distinct physicochemical demands. Instead, prebiotic evolution probably proceeded ... Building on this view, we identify specific minerals capable of facilitating key ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2667325826006163"/>
-    <published>2026-07-07T13:02:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Cela, G Wood - Communications Psychology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Swiping-based dating apps have become a pervasive feature of contemporary social life, reshaping how individuals seek intimacy, curate self-presentation, and encounter psychological feedback. This systematic review and meta-analysis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
+    <link href="https://www.nature.com/articles/s44271-026-00488-7_reference.pdf"/>
+    <published>2026-07-08T07:40:34+00:00</published>
   </entry>
 </feed>
