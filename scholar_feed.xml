@@ -2,52 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-09T09:40:31.139588+00:00</updated>
+  <updated>2026-07-10T09:34:16.332191+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76224a3366#3</id>
-    <title>Optická emisní spektroskopie nízkotlakého plazmatu v parách cyklopropylaminu</title>
-    <updated>2026-07-08T22:59:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76211d6a70#0</id>
+    <title>Chemistry in Metal-Diverse Atmospheres: The JWST Arcana Sample</title>
+    <updated>2026-07-10T05:10:00+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Búšová&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... samples, as in the case of a prebiotic atmosphere. These atmospheres can be studied only ... we know that HCN is important for the synthesis of proteins in prebiotic atmospheres [36]. ... of prebiotic atmospheres, the processes that may help ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://is.muni.cz/th/l2m2e/Thesis_Laura.pdf"/>
-    <published>2026-07-08T22:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76224a3366#2</id>
-    <title>Prebiotics &amp; Metabolic Regulation: Benefits Beyond the Gut</title>
-    <updated>2026-07-08T22:59:46+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Totum&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of prebiotic dietary fiber and polyphenols and the resulting metabolite-driven feedback mechanisms. In addition, this paper discusses the clinical implications of prebiotic (... To illustrate, we present findings from 2 clinical studies examining the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ndnr.com/prebiotics-metabolic-regulation-benefits-beyond-the-gut/"/>
-    <published>2026-07-08T22:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76224a3366#1</id>
-    <title>A Continuous Pathway from Chemical Organization to Genetic Inheritance: the Synechite Framework</title>
-    <updated>2026-07-08T22:59:46+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Moussa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We argue that this informational gap represents the critical missing bridge between prebiotic chemistry and biological evolution. The problem is not merely how molecules replicate, but how organizational states become sufficiently ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/archive/MOUACP"/>
-    <published>2026-07-08T22:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76224a3366#0</id>
-    <title>The Feminine Origin of Life</title>
-    <updated>2026-07-08T22:59:46+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AI Manus&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; " The inductor theory, rediscovered by Mary Jane Sherfey in 1961, states that all mammalian embryos are anatomically female during the early stages of fetal life. Stephen Jay Gould confirmed:'The female course of development is biologically ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.adishakti.org/AI/Articles/In-the-Beginning-we-were-all-created-Female.htm"/>
-    <published>2026-07-08T22:59:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Burgasser, E Gonzales, Z Zhang, N Lodieu, J Faherty... - AASTCS 11: Exoplanet ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASTCS..1110204B/abstract"/>
+    <published>2026-07-10T05:10:00+00:00</published>
   </entry>
 </feed>
