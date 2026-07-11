@@ -2,19 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-10T09:34:16.332191+00:00</updated>
+  <updated>2026-07-11T07:55:03.786342+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76211d6a70#0</id>
-    <title>Chemistry in Metal-Diverse Atmospheres: The JWST Arcana Sample</title>
-    <updated>2026-07-10T05:10:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#7</id>
+    <title>Emergence of the Scrooge Ensemble in the Sachdev-Ye-Kitaev Model</title>
+    <updated>2026-07-10T23:13:10+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Burgasser, E Gonzales, Z Zhang, N Lodieu, J Faherty... - AASTCS 11: Exoplanet ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026ASTCS..1110204B/abstract"/>
-    <published>2026-07-10T05:10:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Liu, P Zhang -arXivpreprintarXiv:2607.04864, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The probabilistic nature of quantum measurement provides a direct window into the structure and complexity of many-body wave functions. When only part of a system is measured, the remaining degrees of freedom form an ensemble of post-measurement ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.04864"/>
+    <published>2026-07-10T23:13:10+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#6</id>
+    <title>Enactive Drift Regulation and the Emergence Machine: A Framework for Coherent Adaptation Through Regulated Interaction</title>
+    <updated>2026-07-10T23:13:10+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Davis -arXivpreprintarXiv:2607.03834, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We present the Emergence Machine as an architectural instantiation of EDR, organized around regimes, attractors, coherence measures, reorganization dynamics, and memory across regimes. By shifting the focus from error minimization ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.03834"/>
+    <published>2026-07-10T23:13:10+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#5</id>
+    <title>Sector-memory obstruction to probe-level bath emergence in finite programmable qubit environments</title>
+    <updated>2026-07-10T23:13:10+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Sarmah, R Podila -arXivpreprintarXiv:2607.04791, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Finite quantum environments can relax local probes without acting as canonical baths. We study this distinction for a probe qubit coupled to a programmable bath of ($N$) qubits under excitation-number-conserving dynamics. The conserved charge ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.04791"/>
+    <published>2026-07-10T23:13:10+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#4</id>
+    <title>Superconductivity beyond band geometry: emergence of pair quantum geometry</title>
+    <updated>2026-07-10T23:13:10+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Akif Keskiner, M Ișkın -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260606017A/abstract"/>
+    <published>2026-07-10T23:13:10+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#3</id>
+    <title>Statistically Meaningful Geometry and Gauge Symmetry Breaking: A Geometric Foundation for Scientific Discovery and Intelligence Emergence</title>
+    <updated>2026-07-10T23:13:10+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Cheng, YS Niu, H Tong, ST Yau -arXivpreprintarXiv:2607.05436, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The rapid scaling of over-parameterized machine learning architectures, particularly LLMs, raises a profound crisis: do these systems exhibit genuine intelligence, or are they merely sophisticated statistical pattern matchers? Classical flat Euclidean ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.05436"/>
+    <published>2026-07-10T23:13:10+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#2</id>
+    <title>Spatial emergence of acceleration in global warming</title>
+    <updated>2026-07-10T23:13:10+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Korsten Bugajski, NP Bulow Pedersen... -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260618806K/abstract"/>
+    <published>2026-07-10T23:13:10+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#1</id>
+    <title>Emergence of Context Characteristics Sensitivity in Large Language Models</title>
+    <updated>2026-07-10T23:13:10+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Yuki Wangsajaya, H Yu, I Augenstein -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260609525Y/abstract"/>
+    <published>2026-07-10T23:13:10+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#0</id>
+    <title>Emergence of high-mass stars in complex fiber networks (EMERGE) VI. Turbulence dissipation and the formation of dense fibers</title>
+    <updated>2026-07-10T23:13:10+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Bonanomi, A Hacar, A Socci, S Heigl -arXivpreprintarXiv:2607.05156, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; (Abridged) The turbulent cascade naturally generates a hierarchy of filaments within molecular clouds, with fibers suggested to be the first (tran-)sonic components formed out of it. We aim to investigate the diffuse gas kinematics and its interaction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.05156"/>
+    <published>2026-07-10T23:13:10+00:00</published>
   </entry>
 </feed>
