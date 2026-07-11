@@ -2,96 +2,349 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-11T07:55:03.786342+00:00</updated>
+  <updated>2026-07-11T14:42:46.264330+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#7</id>
-    <title>Emergence of the Scrooge Ensemble in the Sachdev-Ye-Kitaev Model</title>
-    <updated>2026-07-10T23:13:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9298#1</id>
+    <title>A Third Option to Characterize the Atmospheres of Temperate Rocky Exoplanets</title>
+    <updated>2026-07-11T10:30:34+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Laura Kreidberg</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Liu, P Zhang -arXivpreprintarXiv:2607.04864, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The probabilistic nature of quantum measurement provides a direct window into the structure and complexity of many-body wave functions. When only part of a system is measured, the remaining degrees of freedom form an ensemble of post-measurement ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.04864"/>
-    <published>2026-07-10T23:13:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Deming, A Lincowski, L Kreidberg, M Currie... - AASTCS 11: Exoplanet ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASTCS..1160034D/abstract"/>
+    <published>2026-07-11T10:30:34+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#6</id>
-    <title>Enactive Drift Regulation and the Emergence Machine: A Framework for Coherent Adaptation Through Regulated Interaction</title>
-    <updated>2026-07-10T23:13:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9298#0</id>
+    <title>Sulfur: A New Tracer in Exoplanet Atmospheres</title>
+    <updated>2026-07-11T10:30:34+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Laura Kreidberg</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Davis -arXivpreprintarXiv:2607.03834, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We present the Emergence Machine as an architectural instantiation of EDR, organized around regimes, attractors, coherence measures, reorganization dynamics, and memory across regimes. By shifting the focus from error minimization ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.03834"/>
-    <published>2026-07-10T23:13:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Crossfield, EM Ahrer, J Brande, L Kreidberg... - AASTCS 11: Exoplanet ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASTCS..1140005C/abstract"/>
+    <published>2026-07-11T10:30:34+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#5</id>
-    <title>Sector-memory obstruction to probe-level bath emergence in finite programmable qubit environments</title>
-    <updated>2026-07-10T23:13:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#9</id>
+    <title>Planetary-Mass Exosatellite Detected Around the Substellar Companion of a Star</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Sarmah, R Podila -arXivpreprintarXiv:2607.04791, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Finite quantum environments can relax local probes without acting as canonical baths. We study this distinction for a probe qubit coupled to a programmable bath of ($N$) qubits under excitation-number-conserving dynamics. The conserved charge ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.04791"/>
-    <published>2026-07-10T23:13:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Hoy, A Zurlo, J Köhler, S Desidera, R Gratton... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , the same technique used to discover the first exoplanet around a Solar-type star6, on ... candidate with a minimum mass of 0.743 Jupiter masses and an orbital period of 169 days. ... it, satellites are also fascinating targets in the search for life , as they ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.05193"/>
+    <published>2026-07-11T10:30:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#4</id>
-    <title>Superconductivity beyond band geometry: emergence of pair quantum geometry</title>
-    <updated>2026-07-10T23:13:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#8</id>
+    <title>Characterizing Exoplanetary Systems through Ground-Based Transit Photometry</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Akif Keskiner, M Ișkın -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260606017A/abstract"/>
-    <published>2026-07-10T23:13:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Young, H Krause, M Reinhardt - AASTCS 11:ExoplanetAtmospheres 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASTCS..1100118Y/abstract"/>
+    <published>2026-07-11T10:30:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#3</id>
-    <title>Statistically Meaningful Geometry and Gauge Symmetry Breaking: A Geometric Foundation for Scientific Discovery and Intelligence Emergence</title>
-    <updated>2026-07-10T23:13:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#7</id>
+    <title>Public perceptions and communications of searching for biosignatures and detection claims: A systematic analysis of YouTube narratives and reactions</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Cheng, YS Niu, H Tong, ST Yau -arXivpreprintarXiv:2607.05436, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The rapid scaling of over-parameterized machine learning architectures, particularly LLMs, raises a profound crisis: do these systems exhibit genuine intelligence, or are they merely sophisticated statistical pattern matchers? Classical flat Euclidean ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.05436"/>
-    <published>2026-07-10T23:13:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Schwarz, A Berea, A Almalki - The Astrobiology Science Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf50505S/abstract"/>
+    <published>2026-07-11T10:30:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#2</id>
-    <title>Spatial emergence of acceleration in global warming</title>
-    <updated>2026-07-10T23:13:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#6</id>
+    <title>Deuterium: A Key to Unlocking the Origin, Evolution, and Habitability of Sub-Neptunes</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Korsten Bugajski, NP Bulow Pedersen... -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260618806K/abstract"/>
-    <published>2026-07-10T23:13:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Glein - AASTCS 11:ExoplanetAtmospheres 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASTCS..1160050G/abstract"/>
+    <published>2026-07-11T10:30:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#1</id>
-    <title>Emergence of Context Characteristics Sensitivity in Large Language Models</title>
-    <updated>2026-07-10T23:13:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#5</id>
+    <title>The evolution of planetary systems revealed by exoplanets</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Yuki Wangsajaya, H Yu, I Augenstein -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260609525Y/abstract"/>
-    <published>2026-07-10T23:13:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Martioli - Boletim da Sociedade Astronômica Brasileira, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , ultimately, for life on other planets, drives future efforts and investments in instrumentation. Here, I present the current state of exoplanet detections, a ... The hot Neptune desert represents a striking demographic features in exoplanet ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://sab-astro.org.br/wp-content/uploads/2026/04/EderMartioli.pdf"/>
+    <published>2026-07-11T10:30:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7621aac9f9#0</id>
-    <title>Emergence of high-mass stars in complex fiber networks (EMERGE) VI. Turbulence dissipation and the formation of dense fibers</title>
-    <updated>2026-07-10T23:13:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#4</id>
+    <title>Clearing the Air: Solar System Bodies as Ground Truth for Aerosol Models in Exoplanet Atmospheric Retrievals</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Bonanomi, A Hacar, A Socci, S Heigl -arXivpreprintarXiv:2607.05156, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; (Abridged) The turbulent cascade naturally generates a hierarchy of filaments within molecular clouds, with fibers suggested to be the first (tran-)sonic components formed out of it. We aim to investigate the diffuse gas kinematics and its interaction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.05156"/>
-    <published>2026-07-10T23:13:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Robinthal, T Robinson, T Koskinen, F Montmessin... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf16059R/abstract"/>
+    <published>2026-07-11T10:30:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#3</id>
+    <title>Characterizing Stellar Flares on Proxima Centauri using Transiting Exoplanet Survey Satellite (TESS) Optical Data</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Holloway - AASTCS 11:ExoplanetAtmospheres 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASTCS..1100132H/abstract"/>
+    <published>2026-07-11T10:30:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#2</id>
+    <title>Modelling the Atmospheric Escape of Water from Sub - Neptune Steam Worlds</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Tao, A Aguichine, M Broome, N Batalha... - AASTCS 11:Exoplanet..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASTCS..1100135T/abstract"/>
+    <published>2026-07-11T10:30:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#1</id>
+    <title>Improving Terrestrial Exoplanet Modeling Predictions with Updated Haze Opacity Data</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Broussard, E Schwieterman, ET Wolf - The Astrobiology Science Conference ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf50107B/abstract"/>
+    <published>2026-07-11T10:30:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd91d2#0</id>
+    <title>Does K2 - 18b Meet the Standards of Evidence for Life ?</title>
+    <updated>2026-07-11T10:30:36+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Stevenson - AASTCS 11:ExoplanetAtmospheres 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASTCS..1160009S/abstract"/>
+    <published>2026-07-11T10:30:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#9</id>
+    <title>Molecular and Thermodynamic Insights into Prebiotic Lipid Assembly</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Martin, R Remsing - The Astrobiology Science Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf30204M/abstract"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#8</id>
+    <title>ChemOrigins: From prebiotic chemistry to a comprehensive origins of life database</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Cuevas Zuviría, ZR Adam, B Kacar - The Astrobiology Science Conference ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf14012C/abstract"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#7</id>
+    <title>Emergence of function in prebiotic peptides- protocell membrane binding and fitness mapping</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Adeniyi, CL Tong, B Seelig - The Astrobiology Science Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf32399A/abstract"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#6</id>
+    <title>Interactions of Lipid Vesicles and UV Light: Implications for Prebiotic Chemistry</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Cruz Rivera, M Jusino-Maldonado, Z Todd - The Astrobiology Science Conference ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf21306C/abstract"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#5</id>
+    <title>Micellar Protocell Precursors Can Self-Reproduce Without Any Life Molecules</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Lancet, R Yaniv - The Astrobiology Science Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf33406L/abstract"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#4</id>
+    <title>Thermal Gateways to Prebiotic Metaphosphate</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Feng, M Pasek - The Astrobiology Science Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf31442F/abstract"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#3</id>
+    <title>72682 Microbiome-Directed Burn Care: A Systematic Review of Probiotic and Prebiotic Adjunctive Therapies</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Thiagarajan, K Narloch, M Chernyak, N Rojek... - Journal of the American ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... and prebiotic use may offer a safe adjunctive therapy to reduce complications and enhance recovery in burn patients (2,3). This systematic review evaluates current literature on probiotic and prebiotic ... Combined probiotic and prebiotic treatment ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.jaad.org/article/S0190-9622(26)01789-5/abstract"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#2</id>
+    <title>Development of a Potential Prebiotic Film Based on Sago Flour and Kepok Plantain Peel Starch with Prebiotic Properties to Support Lactobacillus plantarum Growth</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RP Novita, R Palupi, S Lamin, R Amelia, D Alfarado - Science and Technology ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... developed prebiotic starch films using sago flour and starch from kepok plantain (Musa paradisiaca) peel, designed as intrinsic prebiotic ... development of prebiotic films in this study. Recent advances in starch-based films have demonstrated their potential ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://mail.sciencetechindonesia.com/index.php/jsti/article/download/2242/688"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#1</id>
+    <title>Association between probiotic, prebiotic , and yogurt consumption and colorectal cancer: real-world evidence from the US NHANES</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CW Tu, HL Wang - Nutrition &amp; Diabetes, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... examined prebiotic , probiotic, and yogurt consumption patterns [19, 20]. ... , prebiotic , or probiotic consumption and CRC. Second, dietary exposure was assessed through self-reported questionnaires, which may be influenced by recall ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41387-026-00432-y_reference.pdf"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9152#0</id>
+    <title>Oral Prebiotic Polysaccharide Hydrogels Sustaining Colon Antibody Release Alleviate Inflammatory Bowel Disease</title>
+    <updated>2026-07-11T10:30:37+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Dong, H He, L Cao, F Meng, Z Zhong - Advanced Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13335760/"/>
+    <published>2026-07-11T10:30:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd911d#2</id>
+    <title>Element use patterns emerge across microbial chemical reaction space</title>
+    <updated>2026-07-11T10:30:38+00:00</updated>
+    <author>
+      <name>Chris Kempes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Vergeli, C Mathis, J Malloy, CKempes... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf20105V/abstract"/>
+    <published>2026-07-11T10:30:38+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd911d#1</id>
+    <title>Towards a Statistical Framework for HWO Biosignature Assessment</title>
+    <updated>2026-07-11T10:30:38+00:00</updated>
+    <author>
+      <name>Chris Kempes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Meadows, H Graham, CKempes, S McCarty... - Astronomical Society of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..543..103M/abstract"/>
+    <published>2026-07-11T10:30:38+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd911d#0</id>
+    <title>Three Centuries of the Laws of Cricket Reveal Core Principles of the Evolution of Regulatory Mechanisms</title>
+    <updated>2026-07-11T10:30:38+00:00</updated>
+    <author>
+      <name>Chris Kempes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Chia, H Youn, J Singer, D Jeong, CKempes... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Rules, regulations, and regulatory systems are central to societies, institutions, and organisms, yet surprisingly little is known about their evolution over long timescales. The Laws of Cricket, the world's second most popular sport, offer a unique insight ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
+    <link href="https://arxiv.org/abs/2607.05586"/>
+    <published>2026-07-11T10:30:38+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9087#5</id>
+    <title>Detectability of Frozen Ocean Materials on Titan's Surface</title>
+    <updated>2026-07-11T10:30:39+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PV Johnson, RP Hodyss, M Malaska - ...AstrobiologyScience Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf24324J/abstract"/>
+    <published>2026-07-11T10:30:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9087#4</id>
+    <title>Vultures of the deep: Roles of Atribacterota in recalcitrant organic carbon processing in deep anoxic systems</title>
+    <updated>2026-07-11T10:30:39+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BP Hedlund, NS Sushenko, JA Dodsworth... - TheAstrobiologyScience ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf29386H/abstract"/>
+    <published>2026-07-11T10:30:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9087#3</id>
+    <title>Bridging art and astrobiology through the undergraduate classroom</title>
+    <updated>2026-07-11T10:30:39+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Scarpelli, S Rosengard, ST Krishnaswamy, K Lang... - TheAstrobiologyScience ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf31004S/abstract"/>
+    <published>2026-07-11T10:30:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9087#2</id>
+    <title>A generalised microbial cell model for methane biosignature predictions</title>
+    <updated>2026-07-11T10:30:39+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AE Nicholson, NJ Mayne - arXiv preprint arXiv:2607.06366, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the first alien life detected will potentially be living in conditions not found on our planet . This ... be applied to numerous planetary scenarios, built on fundamental knowledge of life on Earth, ... Given the range of planets discovered, it is likely that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.06366"/>
+    <published>2026-07-11T10:30:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9087#1</id>
+    <title>Robust Retrievals of Alien Life Using Polarized Reflected Light</title>
+    <updated>2026-07-11T10:30:39+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Berdyugina - TheAstrobiologyScience Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf11107B/abstract"/>
+    <published>2026-07-11T10:30:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7621dd9087#0</id>
+    <title>AI Co-Scientist for the Habitable Worlds Observatory: Enhanced Biosignature Detection by Multi-Agent Systems</title>
+    <updated>2026-07-11T10:30:39+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Shporer, I Drori - Astronomical Society of the Pacific Conference Series, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026ASPC..543..373S/abstract"/>
+    <published>2026-07-11T10:30:39+00:00</published>
   </entry>
 </feed>
