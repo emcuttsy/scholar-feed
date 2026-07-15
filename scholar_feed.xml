@@ -2,85 +2,206 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-13T16:18:51.495300+00:00</updated>
+  <updated>2026-07-15T08:08:54.934741+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7620f60204#0</id>
-    <title>A search for narrowband technosignatures from LTT 3780 with the Allen Telescope Array and the Karl G. Jansky Very Large Array</title>
-    <updated>2026-07-13T15:01:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92ccb#2</id>
+    <title>Isotopic imprints of late molecular cloud infall in the outer Solar System</title>
+    <updated>2026-07-14T15:19:35+00:00</updated>
     <author>
-      <name>Nikku Madhusudhan</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CD Tremblay, SZ Sheikh, V Gajjar, N Madhusudhan... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The LTT3780 system hosts two known exoplanets-LTT3780b, a rocky super-Earth, and LTT3780c, a temperate sub-Neptune-orbiting a nearby M dwarf on opposite sides of the radius valley. LTT3780c has been proposed as a candidate Hycean ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.07182"/>
-    <published>2026-07-13T15:01:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E van Kooten, SS Lodal, I Onyett, LR Pohlmann... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... water and organic compounds—to the inner, initially hot and volatile-poor terrestrial planet -... (3) The prevalence of CI-like bodies such as Ryugu and Bennu in the asteroid belt could be ... , to the terrestrial planet region1,2 is more plausible if ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41550-026-02927-1"/>
+    <published>2026-07-14T15:19:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7620f60023#0</id>
-    <title>Leaps in Evolution: Selective Funneling and State-Space Expansion</title>
-    <updated>2026-07-13T15:01:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92ccb#1</id>
+    <title>Deciphering the importance of carbon chemistry in gas giant and sub - Neptune atmospheres</title>
+    <updated>2026-07-14T15:19:35+00:00</updated>
     <author>
-      <name>Stuart Bartlett</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Wong, H Demarest, S Bartlett, C Cleland... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stuart Bartlett (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf31412W/abstract"/>
-    <published>2026-07-13T15:01:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Dubey&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To overcome this limitation, I investigate the prospects of high-resolution cross-correlation spectroscopy for hot and ultrahot Jupiters , as well as for different classes of Neptunian atmospheres. These studies show how atmospheric structure, chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://edoc.ub.uni-muenchen.de/37282/1/Dubey_Dwaipayan.pdf"/>
+    <published>2026-07-14T15:19:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7620f60012#0</id>
-    <title>Defining Life: A Conversation</title>
-    <updated>2026-07-13T15:01:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92ccb#0</id>
+    <title>Piercing Through the Haze: Characterizing Titan -like Terrestrial Exoplanets with JWST</title>
+    <updated>2026-07-14T15:19:35+00:00</updated>
     <author>
-      <name>Ricard Solé</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Shapiro, D McShea, W Miller, S Newman, A Nunn... - Organisms. Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Life is one of the most fascinating features of the physical world. Despite centuries of scientific study, experts still disagree about the definition, and even the possibility or utility of a definition, of this field. In a recent paper, we used AI to analyze the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Ricard Solé (author alert)</content>
-    <link href="https://rosa.uniroma1.it/rosa04/organisms/article/view/19492"/>
-    <published>2026-07-13T15:01:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LC Mayorga, J Lustig-Yaeger, AP Lincowski, KE Mandt... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in the search for life on an exoplanet . Although some studies have begun to consider Titan -like exoplanet atmospheres, more work is ... In preparation to discover and recognize exo- Titans we present an evaluation of the information ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae7712"/>
+    <published>2026-07-14T15:19:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7620f5fe52#0</id>
-    <title>Does a monoclonal antibody targeting immune cells affect glutamatergic level in schizophrenia? A multimodal PET/MRS brain imaging study</title>
-    <updated>2026-07-13T15:01:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#9</id>
+    <title>Eating for a Healthy Gut: What Foods Should I Eat?</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
     <author>
-      <name>Federico Turkheimer</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Hindley, Y Mizuno, K Beck, I Carreira Figueiredo... - Neuropsychopharmacology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Microglial dysfunction and glutamatergic dysregulation are implicated in the neurobiology of schizophrenia. Microglia regulate brain glutamate levels through mechanisms including the cysteine-glutamate antiporter, raising the possibility that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
-    <link href="https://www.nature.com/articles/s41386-026-02466-3"/>
-    <published>2026-07-13T15:01:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JNO Omega, S Mix, JNOGC Cubes, JNOP Prunes&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.naturesbest.co.uk/blogs/news/eating-for-a-healthy-gut-what-foods-should-i-eat"/>
+    <published>2026-07-14T15:19:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7620f5fd90#0</id>
-    <title>Defining Life: A Conversation</title>
-    <updated>2026-07-13T15:01:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#8</id>
+    <title>Functional profiling and genome mining of autochthonous lactic acid bacteria isolated from sauerkraut brine</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
     <author>
-      <name>Nick Lane</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Shapiro, D McShea, W Miller, S Newman, A Nunn... - Organisms. Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Life is one of the most fascinating features of the physical world. Despite centuries of scientific study, experts still disagree about the definition, and even the possibility or utility of a definition, of this field. In a recent paper, we used AI to analyze the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Lane (author alert)</content>
-    <link href="https://rosa.uniroma1.it/rosa04/organisms/article/view/19492"/>
-    <published>2026-07-13T15:01:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Banić, M Radović, K Butorac, J Novak... - Proceedings of the 19th ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , antimicrobial activity, gastrointestinal stress tolerance, adhesion and prebiotic substrate utilisation. Genes related to gastrointestinal stress ... of genes linked to gastrointestinal stress tolerance, adhesion, and prebiotic substrate utilisation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.croris.hr/crosbi/publikacija/prilog-skup/953345"/>
+    <published>2026-07-14T15:19:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7620f5fcc7#0</id>
-    <title>Soft cells, Tubular Tilings and the Hidden Phases in Binary Mixtures</title>
-    <updated>2026-07-13T15:01:40+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#7</id>
+    <title>Abiotic Peptide-Like Bond Formation in Gas-Phase Nitrile–Water Clusters Driven by Vacuum Ultraviolet Photoionization</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
     <author>
-      <name>Gábor Domokos</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Domokos - arXiv preprint arXiv:2607.06810, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biological and physical systems ranging from Fermi surfaces and skeletal structures to reaction--diffusion patterns and cosmological models may be viewed as binary mixtures in which a smooth interface separates two complementary phases. While ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gábor Domokos (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.06810"/>
-    <published>2026-07-13T15:01:40+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Li, J Gao, J Guan, J He, M Xie, Y Hu - Journal of the American Chemical Society, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/doi/abs/10.1021/jacs.6c07744"/>
+    <published>2026-07-14T15:19:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7620f5fb58#0</id>
-    <title>Defining Life: A Conversation</title>
-    <updated>2026-07-13T15:01:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#6</id>
+    <title>Assembly of Membranized Coacervates through Transmembrane Peptides</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Shapiro, D McShea, W Miller, S Newman, A Nunn... - Organisms. Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Life is one of the most fascinating features of the physical world. Despite centuries of scientific study, experts still disagree about the definition, and even the possibility or utility of a definition, of this field. In a recent paper, we used AI to analyze the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://rosa.uniroma1.it/rosa04/organisms/article/view/19492"/>
-    <published>2026-07-13T15:01:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Javed, E Spruijt&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to the resulting protocell structure, which then influence protocell behaviour, creating a system that is useful for origins - of - life research. ... confers unique properties to the resulting protocell structure — properties that then influence how ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15005942"/>
+    <published>2026-07-14T15:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#5</id>
+    <title>Perfection is the Origin of Life : The Ontology of Primordial Perfection, Fractals of Origin, Technology, and Destiny</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Mahardhika&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Perfection is understood here not as the final product of history but as the ontological model of origin that makes history, life, technology, and destiny intelligible as development. The central problem is the frequent assumption that what appears late ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/MAHPIT"/>
+    <published>2026-07-14T15:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#4</id>
+    <title>Chitin Protein Structure Mapping Assesses Prebiotic Potential and Nutritional Value in Edible Insects for Foods Assessment</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Harrison - Journal of Empirical Economics and Multidisciplinary ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper investigates the chitin-protein prebiotic structure mapping for edible insect nutritional assessment, focusing on how these ... their dual role as structural components and fermentable prebiotic substrates. Advanced spectroscopic and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://jeemm.org/index.php/JEEMM/article/view/28"/>
+    <published>2026-07-14T15:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#3</id>
+    <title>Autonomous Multi-Agent Reconstruction of Prebiotic Reaction Networks Reveals Organizational Features of Amino Acid Synthesis</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Saeedi, N Pokhrel, L Gao, C Wen, E Bruce...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Here we present ASTRA, a multi-agent AI system that reconstructs prebiotic reaction networks for biomolecular targets by integrating ... databases of prebiotic reaction pathways. Across these networks, ASTRA identifies recurrent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15005927"/>
+    <published>2026-07-14T15:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#2</id>
+    <title>The Rich Chemistry of Ionized Methanol With Sulfur Dioxide: Pathways to Prebiotic and Elusive Species in Earth's Atmosphere and Space</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Satta, D Catone, MC Castrovilli, A Cartoni - Chemistry–A European Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sulfur dioxide (SO 2 ) and methanol (CH 3 OH) are key components in both atmospheric and astrochemical environments, where ionizing radiation can initiate complex reaction networks. Here we investigate the ion chemistry of the CH 3 OH •+ ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/chem.71375"/>
+    <published>2026-07-14T15:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#1</id>
+    <title>Enzymatic Hydrolysis of Crayfish Shell Protein: Unveiling Peptide Structures for Superior Prebiotic Promotion of Bifidobacterium animalis</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Dong, Y Wu, H Wang, Q Xiao, Z Zhao, J Cai - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Crayfish shell protein is an abundant but underutilized resource for developing peptide-based prebiotics to support gut health. However, systematic evidence linking protease selection to peptide structure and subsequent probiotic responses ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226012599"/>
+    <published>2026-07-14T15:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627b92aeb#0</id>
+    <title>Guava polysaccharides as prebiotic candidates: selectively modulating microbiota in diseased gut environments to enhance epithelial regeneration</title>
+    <updated>2026-07-14T15:19:36+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Liu, H Nian, S Fan, Y Li, Q Zheng, L Cui, L Li, X Pang - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Guava polysaccharides (GP) are bioactive compounds with potential prebiotic and therapeutic effects, yet their impacts on gut microbiota and intestinal health remain poorly understood. This study aimed to compare the effects of GP on different gut ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226012551"/>
+    <published>2026-07-14T15:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627faf9f3#0</id>
+    <title>Remote work comes with a cost: An experimental videoconferencing study with motor-coordination, creative, and problem-solving tasks</title>
+    <updated>2026-07-14T23:16:43+00:00</updated>
+    <author>
+      <name>Guilherme M. de O. Wood</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MM Bangerl, K Stefan, GM de Oliveira Wood... - Computers in Human ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Videoconferencing is used by millions to work and collaborate remotely, yet most theoretical research is decades old, and empirical studies on contemporary technology are scarce. In a comparative experimental study, we tested 40 dyads of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2451958826002447"/>
+    <published>2026-07-14T23:16:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627faf9bb#0</id>
+    <title>Publisher Correction: Insights on physical-mechanical properties and salt weathering response of Comiso calcarenite in the Sicilian Baroque Heritage</title>
+    <updated>2026-07-14T23:16:43+00:00</updated>
+    <author>
+      <name>Török, Ákos</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Cirone, CM Belfiore, A Figoli, MF La Russa, Á Török... - npj Heritage Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Publisher Correction: Insights on physical-mechanical properties and salt weathering response of Comiso calcarenite in the Sicil Page 1 npj | heritage science Corrections&amp;amendments https://doi.org/10.1038/s40494-026-02783-2 Publisher ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Török, Ákos (author alert)</content>
+    <link href="https://www.nature.com/articles/s40494-026-02783-2"/>
+    <published>2026-07-14T23:16:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627fa2769#0</id>
+    <title>Piercing Through the Haze: Characterizing Titan-like Terrestrial Exoplanets with JWST</title>
+    <updated>2026-07-14T23:24:29+00:00</updated>
+    <author>
+      <name>Jacob Lustig-Yaeger</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LC Mayorga, J Lustig-Yaeger, AP Lincowski, KE Mandt... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As we enter a new era of using JWST to characterize exoplanet atmospheres, a top priority is defining observational needs and parameters in the search for life on an exoplanet. Although some studies have begun to consider Titan-like exoplanet ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae7712"/>
+    <published>2026-07-14T23:24:29+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627fa270b#0</id>
+    <title>Phase-dependent chemistry of WASP-43 b revealed with a suite of one-, two-, and three-dimensional models</title>
+    <updated>2026-07-14T23:24:30+00:00</updated>
+    <author>
+      <name>Renyu Hu</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Baeyens, JI Moses, J Blecic, EKH Lee, L Teinturier... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Our goal is to investigate the chemistry of the hot Jupiter WASP-43 b in detail using theoretical models, considering the constraints of the James Webb Space Telescope MIRI phase curve. With a suite of pseudo-two-dimensional and three-dimensional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
+    <link href="https://arxiv.org/pdf/2607.08486"/>
+    <published>2026-07-14T23:24:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7627fa2691#0</id>
+    <title>Modular Cognitive Architecture Emerges in Large Language Models</title>
+    <updated>2026-07-14T23:24:31+00:00</updated>
+    <author>
+      <name>Evelina (Ev) Fedorenko</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Han, J Andreas, E Fedorenko, AG de Varda&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
+    <link href="https://pengrui-han.github.io/LLM_Modularity_Page/assets/paper.pdf"/>
+    <published>2026-07-14T23:24:31+00:00</published>
   </entry>
 </feed>
