@@ -2,30 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-17T08:08:58.884324+00:00</updated>
+  <updated>2026-07-17T15:03:38.710673+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625234283#0</id>
-    <title>Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains—Part Two</title>
-    <updated>2026-07-16T16:05:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc57c4#0</id>
+    <title>High Resolution Optical Methane Linelist from observations of Titan for Cross-Correlation studies</title>
+    <updated>2026-07-17T12:43:53+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DBR M Levin - Biological Theory, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://scholar.google.com/citations?hl=en&amp;view_op=view_citation&amp;citation_for_view=luouyakAAAAJ:6gSKFiM3XosC&amp;oi=scholaralrt"/>
-    <published>2026-07-16T16:05:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Rianço-Silva, P Machado, CS Silva, S Yurchenko... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... CH4, the simplest hydrocarbon, is a crucial species for exoplanet atmosphere characterization and a possible biosignature . However, until ... of Titan and Jupiter using optical high resolution spectra. This work sets the stage for the search for CH4 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.10250"/>
+    <published>2026-07-17T12:43:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625234186#0</id>
-    <title>Fast and efficient geo-referencing for drone-based wildlife tracking</title>
-    <updated>2026-07-16T16:06:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc56f4#0</id>
+    <title>Living at the Edge of Chaos</title>
+    <updated>2026-07-17T12:43:54+00:00</updated>
     <author>
-      <name>Damien Farine</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Samad, D Sutaria, D Farine, K Shanker, M Cantor - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The study of animal behaviour and movement has been greatly enhanced by drones, but we have yet to harness their full potential in tracking animal groups. Georeferencing provides an exciting opportunity to expand the animal tracking ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-61647-8"/>
-    <published>2026-07-16T16:06:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA TURNER - Civilizational Collapse and the Philosophy of Post ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in our search for habitable exoplanets , we should look for astronomical bodies that are unstable and in flux (Grinspoon, 2005). In the bigger context, our planet supports life because it is changing and unstable. And we do not expect to find ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://library.oapen.org/bitstream/handle/20.500.12657/114818/1/9781636673615.pdf#page=285"/>
+    <published>2026-07-17T12:43:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#9</id>
+    <title>Mathematical It from Bit: Algebraic Abiogenesis , Anonymous Finite Operations, and the Automated Birth of Abstract Algebra</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Youvan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract algebra normally begins after its objects, operations, and axioms have already been selected. Groups, rings, lattices, fields, and Boolean algebras are introduced as established species whose consequences are then investigated. This ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Douglas-Youvan/publication/408944085_Mathematical_It_from_Bit_Algebraic_Abiogenesis_Anonymous_Finite_Operations_and_the_Automated_Birth_of_Abstract_Algebra/links/6a52d9faf8eec13a96bafae6/Mathematical-It-from-Bit-Algebraic-Abiogenesis-Anonymous-Finite-Operations-and-the-Automated-Birth-of-Abstract-Algebra.pdf"/>
+    <published>2026-07-17T12:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#8</id>
+    <title>Exploring the antioxidant and prebiotic potential of fermented Thai jasmine rice beverage: An in vitro study</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Kitkangplu, K Monpengpinij, K Kespechara...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... phenolic and flavonoid content, antioxidant capacity, prebiotic effects, and antipathogenic activity against bacteria. ... prebiotic activity against Lactobacillus plantarum (L. plantarum) and Escherichia coli (E. coli) were evaluated using ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://repository.li.mahidol.ac.th/items/7fb05612-576c-436b-b447-e4d95b8dacee"/>
+    <published>2026-07-17T12:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#7</id>
+    <title>Investigating the therapeutic potential of Australian honey as a prebiotic and anti-inflammatory to improve gut health</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KR Schell&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... and reported antimicrobial, prebiotic and anti-inflammatory properties. This thesis investigated the antibacterial, antioxidant, prebiotic and anti-... Collectively, these findings demonstrate that Australian honey possesses antimicrobial, antioxidant ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ses.library.usyd.edu.au/handle/2123/35564"/>
+    <published>2026-07-17T12:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#6</id>
+    <title>Evaluation of the Efficacy and Tolerability of a Dermocosmetic Repair Balm Containing Vitamin B5, Madecassoside, and a Prebiotic Complex When Used Post ...</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Nogita, Y Gunji, D Kerob, O James, A Fukase... - Methods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objective: To assess the ability of a dermocosmetic containing vitamin B5, madecassoside, and a prebiotic complex (DC) to shorten the downtime after a cosmetic procedure. Methods: A randomized, evaluator-blinded, split-face study was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.scirp.net/pdf/jcdsa_1050811.pdf"/>
+    <published>2026-07-17T12:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#5</id>
+    <title>Breaking Kinetic Symmetry: How Wet–Dry Cycling Ratchets Prebiotic Chemistry Far from Equilibrium</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Capera-Aragones, V Rajaei, A Deans-Rowe...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Wet-dry cycling drives formation of biological oligomers from unactivated monomers, but the mechanism of directional accumulation has remained unclear. Low water activity and high monomer concentrations favor condensation; high water activity ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15005954"/>
+    <published>2026-07-17T12:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#4</id>
+    <title>The Impact of Prebiotic Supplementation on Growth, Carcass Traits and Meat Quality of Rabbit</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RB Rhouma, A Askri, N Mhamdi, A Boubaker - Genetics and Biodiversity Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Therefore, this study evaluated the effects of different dietary inclusion levels of a prebiotic based on MOS and β-glucans on growth ... supplementation (Control) and three experimental diets supplemented with 2% (D1), 3% (D2), or 4% (D3) prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journals.univ-tlemcen.dz/GABJ/index.php/GABJ/article/download/453/317"/>
+    <published>2026-07-17T12:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#3</id>
+    <title>Co-evolution of self-replication and function in a digital primordial soup</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Cicala, E Niklasson, E Randazzo, S Boukortt, A Basti... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; While traditional evolutionary algorithms hard-code reproduction, self-replication can emerge spontaneously within digital ``primordial soups''. This paper investigates the co-evolution of this emergent self-replication alongside problem-solving ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.09211"/>
+    <published>2026-07-17T12:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#2</id>
+    <title>Biological Safety and Functional Properties of Açaí Seed Extract: Antioxidant Capacity and Prebiotic Potential</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MP da Silva Junior, AJA Miranda, AL Gagliardi... - Journal of Food Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... as to investigate its antioxidant activity, prebiotic potential, cytotoxicity, and mutagenic safety profile. The extract was obtained by percolation using 70% ethanol. Antioxidant activity was evaluated by the DPPH assay, while prebiotic potential was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ift.onlinelibrary.wiley.com/doi/pdf/10.1111/1750-3841.71293"/>
+    <published>2026-07-17T12:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#1</id>
+    <title>... seed powder: Chemical composition, oil characterization, impact of extraction technique and solvent type on the antioxidant and antimicrobial activities, and prebiotic ...</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Almesafri, Z Najjar, MF Ramadan, M Ayyash, AH Ali - LWT, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Agri-food byproducts valorization has attracted increasing interest as a part of sustainable circular bioeconomy approaches. Representing a significant fraction of avocado processing, avocado seeds are a plentiful source of bioactive compounds ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0023643826007619"/>
+    <published>2026-07-17T12:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#0</id>
+    <title>A review on valorizing sugarcane bagasse for prebiotic production with insights on health benefits, applications, regulations, and challenges</title>
+    <updated>2026-07-17T12:43:55+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Teferi, MG Kassa, MT Belachew, AM Asemu... - ... Production, Processing and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This review examines sugarcane bagasse (SCB) as a sustainable and underutilized source of prebiotics, with particular emphasis on its potential to support gut health and functional food development. SCB is rich in hemicellulose, predominantly xylan ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s43014-026-00408-6"/>
+    <published>2026-07-17T12:43:55+00:00</published>
   </entry>
 </feed>
