@@ -2,107 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-16T08:12:02.856787+00:00</updated>
+  <updated>2026-07-17T08:08:58.884324+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7626644fee#0</id>
-    <title>Could the notions of quantum geology and quantum biology make sense?</title>
-    <updated>2026-07-15T15:52:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7625234283#0</id>
+    <title>Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains—Part Two</title>
+    <updated>2026-07-16T16:05:59+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Michael Levin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Pitkänen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Titan has xJ ≃ .07 resp. xT ≃ .056. The recently found exoplanet K2 - 18b is regarded as a candidate for a seat of life . In particular, there are indications that it has ... Therefore the condition making possible the expansion and burst of life to the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://tgdtheory.fi/public_html/articles/qgeobio.pdf"/>
-    <published>2026-07-15T15:52:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DBR M Levin - Biological Theory, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
+    <link href="https://scholar.google.com/citations?hl=en&amp;view_op=view_citation&amp;citation_for_view=luouyakAAAAJ:6gSKFiM3XosC&amp;oi=scholaralrt"/>
+    <published>2026-07-16T16:05:59+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7626644f41#7</id>
-    <title>Could the notions of quantum geology and quantum biology make sense?</title>
-    <updated>2026-07-15T15:52:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7625234186#0</id>
+    <title>Fast and efficient geo-referencing for drone-based wildlife tracking</title>
+    <updated>2026-07-16T16:06:01+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Damien Farine</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Pitkänen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This article is an attempt to fuse the existing TGD inspired ideas about the geological and biological evolution of life on Earth to a single coherent whole. The strategy is to identify weak points of the existing vision and here the language models provide an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://tgdtheory.fi/public_html/articles/qgeobio.pdf"/>
-    <published>2026-07-15T15:52:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7626644f41#6</id>
-    <title>Plant and algal mucilage: a comprehensive review on sources, extraction, functional properties, health benefits, and emerging trends in food</title>
-    <updated>2026-07-15T15:52:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Jaiswal&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review provides information regarding health-related functions, such as prebiotic potential, glycaemic management, cholesterol reduction, antioxidant activity, and antibacterial properties, showing that mucilage is a beneficial ingredient for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.rsc.org/fb/article-pdf/doi/10.1039/d6fb00132g/13363652/d6fb00132g.pdf"/>
-    <published>2026-07-15T15:52:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7626644f41#5</id>
-    <title>Gut Microbiota and Sleep Disorders with a Special Focus on the Pediatric Population</title>
-    <updated>2026-07-15T15:52:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Verrotti, V Filippini, B Federici, V Biagioli, L Nobili... - Pediatric Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2036-7503/18/4/94"/>
-    <published>2026-07-15T15:52:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7626644f41#4</id>
-    <title>Micropolarity Grammar in Liquid–Liquid Phase Separation</title>
-    <updated>2026-07-15T15:52:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Hu, Y Qiao - CCS Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... and to provide guiding principles for elucidating multiplex protocell engineering and physicochemical mechanisms behind MLO functions. ... Mann and coworkers further related coacervates to protocell models in 2011.Thereafter, works exploited ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.chinesechemsoc.org/doi/pdf/10.31635/ccschem.026.202607537"/>
-    <published>2026-07-15T15:52:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7626644f41#3</id>
-    <title>Harnessing the Potential of Broen Seaweed (Laminaria Spp.) Bioactives for Cortisol Regulation: Neuroendocrine Mechanism and Functional Food Horizion</title>
-    <updated>2026-07-15T15:52:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Yusuf, NW Maina, SA Odongo - Asian Journal of Food Research and Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://hal.science/hal-05689489/"/>
-    <published>2026-07-15T15:52:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7626644f41#2</id>
-    <title>The Wild Gut: How Our Ancestral Diet of Foraged Plants Shaped Your Microbiome</title>
-    <updated>2026-07-15T15:52:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Archard&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiotic -rich roots in autumn. Polyphenol-dense berries in late summer. Antimicrobial herbs in the damp months. ... We know that specific wild plant compounds — polyphenols, inulin, tannins, bitter terpenoids — have prebiotic and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chloearchard.com/the-wild-gut-how-our-ancestral-diet-of-foraged-plants-shaped-your-microbiome/"/>
-    <published>2026-07-15T15:52:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7626644f41#1</id>
-    <title>Origins of life and molecular phylogenies: mind the gap!</title>
-    <updated>2026-07-15T15:52:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Lazcano Araujo - Proceedings of the Genetic and Evolutionary ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://dl.acm.org/doi/abs/10.1145/3795095.3822497"/>
-    <published>2026-07-15T15:52:49+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7626644f41#0</id>
-    <title>Prebiotic and postbiotic synergy alleviates age-related dysbiosis and inflammation in mice</title>
-    <updated>2026-07-15T15:52:49+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Roméo, A Rodiles, C Le Bourgot, A Mugnier... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Advances in medicine and veterinary medicine extend the lifespan of humans and companion animals. Interest in nutritional strategies to support healthy aging consequently increases. In this study, the effect of 11% scFOS+ supplementation (a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-61326-8_reference.pdf"/>
-    <published>2026-07-15T15:52:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Samad, D Sutaria, D Farine, K Shanker, M Cantor - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The study of animal behaviour and movement has been greatly enhanced by drones, but we have yet to harness their full potential in tracking animal groups. Georeferencing provides an exciting opportunity to expand the animal tracking ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
+    <link href="https://www.nature.com/articles/s41598-026-61647-8"/>
+    <published>2026-07-16T16:06:01+00:00</published>
   </entry>
 </feed>
