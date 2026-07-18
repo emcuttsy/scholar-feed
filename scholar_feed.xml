@@ -2,140 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-17T15:03:38.710673+00:00</updated>
+  <updated>2026-07-18T07:48:30.519471+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc57c4#0</id>
-    <title>High Resolution Optical Methane Linelist from observations of Titan for Cross-Correlation studies</title>
-    <updated>2026-07-17T12:43:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7625f34bd1#0</id>
+    <title>The Emergence of Astroparticle Physics: From Cosmic-Ray Physics to a new Scientific Field</title>
+    <updated>2026-07-17T20:38:36+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Rianço-Silva, P Machado, CS Silva, S Yurchenko... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... CH4, the simplest hydrocarbon, is a crucial species for exoplanet atmosphere characterization and a possible biosignature . However, until ... of Titan and Jupiter using optical high resolution spectra. This work sets the stage for the search for CH4 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.10250"/>
-    <published>2026-07-17T12:43:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Bonolis -arXivpreprintarXiv:2607.10927, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Astroparticle physics emerged during the late twentieth century as a new interdisciplinary field at the intersection of particle physics, astrophysics, and cosmology. This article examines the historical mechanisms through which it took ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.10927"/>
+    <published>2026-07-17T20:38:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc56f4#0</id>
-    <title>Living at the Edge of Chaos</title>
-    <updated>2026-07-17T12:43:54+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76241c5f9a#0</id>
+    <title>Pre-adult attention-deficit/hyperactive disorder and later adverse health outcomes: the 1987 Finnish birth cohort study</title>
+    <updated>2026-07-18T03:06:36+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Varun Warrier</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA TURNER - Civilizational Collapse and the Philosophy of Post ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in our search for habitable exoplanets , we should look for astronomical bodies that are unstable and in flux (Grinspoon, 2005). In the bigger context, our planet supports life because it is changing and unstable. And we do not expect to find ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://library.oapen.org/bitstream/handle/20.500.12657/114818/1/9781636673615.pdf#page=285"/>
-    <published>2026-07-17T12:43:54+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Batty, M Gissler, SE Mousavi, V Warrier, T Ford... - Molecular Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Whereas attention-deficit/hyperactive disorder (ADHD) has consistently been shown to be correlated with later risk of depression, anxiety, and substance misuse, the relationship with other adverse health endpoints, particularly somatic conditions, is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.nature.com/articles/s41380-026-03700-6"/>
+    <published>2026-07-18T03:06:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#9</id>
-    <title>Mathematical It from Bit: Algebraic Abiogenesis , Anonymous Finite Operations, and the Automated Birth of Abstract Algebra</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76241c5f32#0</id>
+    <title>Computable functions as Reeb flows</title>
+    <updated>2026-07-18T03:06:37+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Eva Miranda</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Youvan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract algebra normally begins after its objects, operations, and axioms have already been selected. Groups, rings, lattices, fields, and Boolean algebras are introduced as established species whose consequences are then investigated. This ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Douglas-Youvan/publication/408944085_Mathematical_It_from_Bit_Algebraic_Abiogenesis_Anonymous_Finite_Operations_and_the_Automated_Birth_of_Abstract_Algebra/links/6a52d9faf8eec13a96bafae6/Mathematical-It-from-Bit-Algebraic-Abiogenesis-Anonymous-Finite-Operations-and-the-Automated-Birth-of-Abstract-Algebra.pdf"/>
-    <published>2026-07-17T12:43:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Cieliebak, Á González-Prieto, E Miranda - arXiv preprint arXiv:2607.10022, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Computable functions as Reeb flows Page 1 COMPUTABLE FUNCTIONS AS REEB FLOWS KAI CIELIEBAK, ÁNGEL GONZÁLEZ-PRIETO, AND EVA MIRANDA Abstract. We prove that, given any contact 3-manifold and any computable function f : N N, there ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eva Miranda (author alert)</content>
+    <link href="https://arxiv.org/pdf/2607.10022"/>
+    <published>2026-07-18T03:06:37+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#8</id>
-    <title>Exploring the antioxidant and prebiotic potential of fermented Thai jasmine rice beverage: An in vitro study</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76241c5e8a#0</id>
+    <title>Finding Turing islands through dynamical exploration</title>
+    <updated>2026-07-18T03:06:38+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Ricard Solé</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Kitkangplu, K Monpengpinij, K Kespechara...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... phenolic and flavonoid content, antioxidant capacity, prebiotic effects, and antipathogenic activity against bacteria. ... prebiotic activity against Lactobacillus plantarum (L. plantarum) and Escherichia coli (E. coli) were evaluated using ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://repository.li.mahidol.ac.th/items/7fb05612-576c-436b-b447-e4d95b8dacee"/>
-    <published>2026-07-17T12:43:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Solé - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Ricard Solé (author alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2617205123"/>
+    <published>2026-07-18T03:06:38+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#7</id>
-    <title>Investigating the therapeutic potential of Australian honey as a prebiotic and anti-inflammatory to improve gut health</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76241c5e48#0</id>
+    <title>The brain is a diverse place, why not computing? Neuromorphic architectures</title>
+    <updated>2026-07-18T03:06:39+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>James B Aimone</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KR Schell&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... and reported antimicrobial, prebiotic and anti-inflammatory properties. This thesis investigated the antibacterial, antioxidant, prebiotic and anti-... Collectively, these findings demonstrate that Australian honey possesses antimicrobial, antioxidant ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ses.library.usyd.edu.au/handle/2123/35564"/>
-    <published>2026-07-17T12:43:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Chandarana, JB Aimone - Nature Machine Intelligence, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The brain's architecture exhibits diversity across many temporal and spatial scales, yet our computing architectures remain largely homogeneous. Low-powered neuromorphic hardware offers a path towards energy-efficient AI, but could these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; James B Aimone (author alert)</content>
+    <link href="https://www.nature.com/articles/s42256-026-01273-1"/>
+    <published>2026-07-18T03:06:39+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#6</id>
-    <title>Evaluation of the Efficacy and Tolerability of a Dermocosmetic Repair Balm Containing Vitamin B5, Madecassoside, and a Prebiotic Complex When Used Post ...</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76241c5e41#0</id>
+    <title>Social complexity does not lead to more stable demographic histories across bird species</title>
+    <updated>2026-07-18T03:06:40+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Damien Farine</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Nogita, Y Gunji, D Kerob, O James, A Fukase... - Methods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objective: To assess the ability of a dermocosmetic containing vitamin B5, madecassoside, and a prebiotic complex (DC) to shorten the downtime after a cosmetic procedure. Methods: A randomized, evaluator-blinded, split-face study was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.scirp.net/pdf/jcdsa_1050811.pdf"/>
-    <published>2026-07-17T12:43:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Bliard, J Xu, M Griesser, Y Chen, DR Farine, G Zhang...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Species' responses to environmental variability can include evolutionary changes in social behaviours, leading to variation among species in characteristics including their mating systems, care systems (eg, cooperative breeding), the rate of group ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Birds&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
+    <link href="https://ecoevorxiv.org/repository/object/13936/download/24449/"/>
+    <published>2026-07-18T03:06:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#5</id>
-    <title>Breaking Kinetic Symmetry: How Wet–Dry Cycling Ratchets Prebiotic Chemistry Far from Equilibrium</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76241c5df7#0</id>
+    <title>Atmospheric characterization of rocky exoplanets using emission spectroscopy</title>
+    <updated>2026-07-18T03:06:41+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Christopher Monaghan</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Capera-Aragones, V Rajaei, A Deans-Rowe...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Wet-dry cycling drives formation of biological oligomers from unactivated monomers, but the mechanism of directional accumulation has remained unclear. Low water activity and high monomer concentrations favor condensation; high water activity ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15005954"/>
-    <published>2026-07-17T12:43:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Monaghan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Résumé Porté par le succès retentissant de diverses missions spatiales, le domaine de la science des exoplanètes connaît actuellement une transformation rapide, marquée par un intérêt croissant pour l'étude de la nature des planètes situées au ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Christopher Monaghan (author alert)</content>
+    <link href="https://umontreal.scholaris.ca/items/7adf831a-38b0-4d41-baab-95bbc3c9964b"/>
+    <published>2026-07-18T03:06:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#4</id>
-    <title>The Impact of Prebiotic Supplementation on Growth, Carcass Traits and Meat Quality of Rabbit</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76241c5d52#0</id>
+    <title>Stellar Multiplicity of M Dwarfs with Short-period Giant Planets, and the Characterization of TOI-5628Ab</title>
+    <updated>2026-07-18T03:06:43+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RB Rhouma, A Askri, N Mhamdi, A Boubaker - Genetics and Biodiversity Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Therefore, this study evaluated the effects of different dietary inclusion levels of a prebiotic based on MOS and β-glucans on growth ... supplementation (Control) and three experimental diets supplemented with 2% (D1), 3% (D2), or 4% (D3) prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://journals.univ-tlemcen.dz/GABJ/index.php/GABJ/article/download/453/317"/>
-    <published>2026-07-17T12:43:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Gan, A L'Heureux, C Cadieux, S Mao, E Pallé... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Binary stars are ubiquitous, yet it remains unclear how wide-orbit stellar companions influence the formation of hot Jupiters, particularly around M dwarfs. Here, we first report the discovery of TOI-5628Ab, a giant planet transiting a mid-type M dwarf ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/pdf/2607.10177"/>
+    <published>2026-07-18T03:06:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#3</id>
-    <title>Co-evolution of self-replication and function in a digital primordial soup</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76241c5d11#0</id>
+    <title>Effects of Chemically Activated L-Nucleotides on Nonenzymatic RNA Copying</title>
+    <updated>2026-07-18T03:06:44+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jack W. Szostak</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Cicala, E Niklasson, E Randazzo, S Boukortt, A Basti... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; While traditional evolutionary algorithms hard-code reproduction, self-replication can emerge spontaneously within digital ``primordial soups''. This paper investigates the co-evolution of this emergent self-replication alongside problem-solving ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.09211"/>
-    <published>2026-07-17T12:43:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Essex, X Jia, J Zhang, JW Szostak&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; It has long been known that L-nucleotides inhibit the nonenzymatic copying of D- RNA templates, suggesting that nucleotide homochirality must have been attained before the emergence of RNA replication and the Origin of Life. Recent advances in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jack W. Szostak (author alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15005970"/>
+    <published>2026-07-18T03:06:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#2</id>
-    <title>Biological Safety and Functional Properties of Açaí Seed Extract: Antioxidant Capacity and Prebiotic Potential</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e762413e4a1#0</id>
+    <title>Modelling West Nile spread in a habitat heterogeneous in space and time</title>
+    <updated>2026-07-18T03:13:50+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Cinzia Soresina</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MP da Silva Junior, AJA Miranda, AL Gagliardi... - Journal of Food Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... as to investigate its antioxidant activity, prebiotic potential, cytotoxicity, and mutagenic safety profile. The extract was obtained by percolation using 70% ethanol. Antioxidant activity was evaluated by the DPPH assay, while prebiotic potential was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ift.onlinelibrary.wiley.com/doi/pdf/10.1111/1750-3841.71293"/>
-    <published>2026-07-17T12:43:55+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#1</id>
-    <title>... seed powder: Chemical composition, oil characterization, impact of extraction technique and solvent type on the antioxidant and antimicrobial activities, and prebiotic ...</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Almesafri, Z Najjar, MF Ramadan, M Ayyash, AH Ali - LWT, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Agri-food byproducts valorization has attracted increasing interest as a part of sustainable circular bioeconomy approaches. Representing a significant fraction of avocado processing, avocado seeds are a plentiful source of bioactive compounds ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0023643826007619"/>
-    <published>2026-07-17T12:43:55+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625bc5688#0</id>
-    <title>A review on valorizing sugarcane bagasse for prebiotic production with insights on health benefits, applications, regulations, and challenges</title>
-    <updated>2026-07-17T12:43:55+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Teferi, MG Kassa, MT Belachew, AM Asemu... - ... Production, Processing and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This review examines sugarcane bagasse (SCB) as a sustainable and underutilized source of prebiotics, with particular emphasis on its potential to support gut health and functional food development. SCB is rich in hemicellulose, predominantly xylan ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s43014-026-00408-6"/>
-    <published>2026-07-17T12:43:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Pugliese, C Soresina, L Gerardo Giorda... - ECMTB 2026: 14th ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We would like to express a most appreciative Thank You to the University of Graz headed by Rector Peter Riedler, in providing the venue and its facilities. In particular, we are very grateful to the extraordinary support received from the event ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Cinzia Soresina (author alert)</content>
+    <link href="https://openpub.fmach.it/bitstream/10449/97335/1/2026%20ECMTB%20Marini.pdf"/>
+    <published>2026-07-18T03:13:50+00:00</published>
   </entry>
 </feed>
