@@ -2,118 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-18T07:48:30.519471+00:00</updated>
+  <updated>2026-07-19T08:17:09.803989+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7625f34bd1#0</id>
-    <title>The Emergence of Astroparticle Physics: From Cosmic-Ray Physics to a new Scientific Field</title>
-    <updated>2026-07-17T20:38:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76246fe1c4#0</id>
+    <title>Emergence of drifted diffusion in quantum walks with subspace restart</title>
+    <updated>2026-07-18T17:11:51+00:00</updated>
     <author>
       <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Bonolis -arXivpreprintarXiv:2607.10927, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Astroparticle physics emerged during the late twentieth century as a new interdisciplinary field at the intersection of particle physics, astrophysics, and cosmology. This article examines the historical mechanisms through which it took ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.10927"/>
-    <published>2026-07-17T20:38:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Qiao, R Yin, W Zhang -arXivpreprintarXiv:2607.12727, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Restart of a quantum process is typically modeled as a global reinitialization that erases the system's entire history. Here we introduce subspace restart, a protocol that periodically resets only the internal degrees of freedom while preserving the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/abs/2607.12727"/>
+    <published>2026-07-18T17:11:51+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76241c5f9a#0</id>
-    <title>Pre-adult attention-deficit/hyperactive disorder and later adverse health outcomes: the 1987 Finnish birth cohort study</title>
-    <updated>2026-07-18T03:06:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76247046e3#0</id>
+    <title>Prototype Coherence-Based Biosignature Searches with Vera C Rubin Observatory Legacy Survey of Space and Time</title>
+    <updated>2026-07-18T22:17:27+00:00</updated>
     <author>
-      <name>Varun Warrier</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Batty, M Gissler, SE Mousavi, V Warrier, T Ford... - Molecular Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Whereas attention-deficit/hyperactive disorder (ADHD) has consistently been shown to be correlated with later risk of depression, anxiety, and substance misuse, the relationship with other adverse health endpoints, particularly somatic conditions, is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
-    <link href="https://www.nature.com/articles/s41380-026-03700-6"/>
-    <published>2026-07-18T03:06:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Kovacevic, N Mason, M Moore&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (2026) and aerial-biosphere scenarios in sub - Neptune atmospheres (Seager et al. 2021), we test whether a Vegetation Red Edge (VRE) signature produces a statistically detectable, directionally coherent displacement in the LSST multiband ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-763.html"/>
+    <published>2026-07-18T22:17:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76241c5f32#0</id>
-    <title>Computable functions as Reeb flows</title>
-    <updated>2026-07-18T03:06:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7624704625#0</id>
+    <title>The Possibility of Life on Tidally Locked Planets</title>
+    <updated>2026-07-18T22:17:28+00:00</updated>
     <author>
-      <name>Eva Miranda</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Cieliebak, Á González-Prieto, E Miranda - arXiv preprint arXiv:2607.10022, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Computable functions as Reeb flows Page 1 COMPUTABLE FUNCTIONS AS REEB FLOWS KAI CIELIEBAK, ÁNGEL GONZÁLEZ-PRIETO, AND EVA MIRANDA Abstract. We prove that, given any contact 3-manifold and any computable function f : N N, there ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eva Miranda (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.10022"/>
-    <published>2026-07-18T03:06:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Anjum&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... ABSTRACT Terrestrial planets located in the habitable zones of low-mass M-dwarf stars ... of extraterrestrial life , and dynamical analyses suggest that the majority of these planets are ... habitability ; instead, it delineates a unique category of climatic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Mavia-Anjum-Abbasi/publication/409446073_The_Possibility_of_Life_on_Tidally_Locked_Planets/links/6a55df39f6cec25ad2d918b9/The-Possibility-of-Life-on-Tidally-Locked-Planets.pdf"/>
+    <published>2026-07-18T22:17:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76241c5e8a#0</id>
-    <title>Finding Turing islands through dynamical exploration</title>
-    <updated>2026-07-18T03:06:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76247045af#1</id>
+    <title>Levin, M 2026,"Defining Life: A Conversation"</title>
+    <updated>2026-07-18T22:17:29+00:00</updated>
     <author>
-      <name>Ricard Solé</name>
+      <name>stuart kauffman</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Solé - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Ricard Solé (author alert)</content>
-    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2617205123"/>
-    <published>2026-07-18T03:06:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Kofman - Organisms: Journal of Biological Sciences&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Life is one of the most fascinating features of the physical world. Despite centuries of scientific study, experts still disagree about the definition, and even the possibility or utility of a definition, of this field. In a recent paper, we used AI to analyze the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; stuart kauffman (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/William-Miller-Jr/publication/409271287_Defining_Life_A_Conversation/links/6a552244d4da0457569e4a7c/Defining-Life-A-Conversation.pdf"/>
+    <published>2026-07-18T22:17:29+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76241c5e48#0</id>
-    <title>The brain is a diverse place, why not computing? Neuromorphic architectures</title>
-    <updated>2026-07-18T03:06:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76247045af#0</id>
+    <title>11 Non-Local and Evolving Mind</title>
+    <updated>2026-07-18T22:17:29+00:00</updated>
     <author>
-      <name>James B Aimone</name>
+      <name>stuart kauffman</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Chandarana, JB Aimone - Nature Machine Intelligence, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The brain's architecture exhibits diversity across many temporal and spatial scales, yet our computing architectures remain largely homogeneous. Low-powered neuromorphic hardware offers a path towards energy-efficient AI, but could these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; James B Aimone (author alert)</content>
-    <link href="https://www.nature.com/articles/s42256-026-01273-1"/>
-    <published>2026-07-18T03:06:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Patra - Transhumanism and Divine Humanity in Global ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The current work first argues that the world we inhabit is fundamentally indeterministic, and, contextual, that the biosphere or even social-ecology cannot be modelled based on a definite configuration space, since it is ever evolving and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; stuart kauffman (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=QuL0EQAAQBAJ&amp;oi=fnd&amp;pg=PT147&amp;dq=%22stuart+kauffman%22&amp;ots=Bo4ynzHApt&amp;sig=bvfRSzNtqzgkSPyz9AXPcomPadE"/>
+    <published>2026-07-18T22:17:29+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76241c5e41#0</id>
-    <title>Social complexity does not lead to more stable demographic histories across bird species</title>
-    <updated>2026-07-18T03:06:40+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#9</id>
+    <title>The Relationship of Health Education About Prebiotics with Maternal Knowledge in the Provision of Healthy and Nutritious Complementary Feeding</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
     <author>
-      <name>Damien Farine</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Bliard, J Xu, M Griesser, Y Chen, DR Farine, G Zhang...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Species' responses to environmental variability can include evolutionary changes in social behaviours, leading to variation among species in characteristics including their mating systems, care systems (eg, cooperative breeding), the rate of group ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Birds&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
-    <link href="https://ecoevorxiv.org/repository/object/13936/download/24449/"/>
-    <published>2026-07-18T03:06:40+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Yuliaswati, A Suarsih, RAP Sidabutar... - Bulletin of Inspiring ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... midwife-led health education on prebiotic complementary feeding and maternal knowledge ... In addition, 60.5% of respondents had received health education on prebiotic complementary ... by midwives may improve maternal knowledge and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://gpijournal.com/index.php/bidan/article/download/647/527"/>
+    <published>2026-07-18T22:17:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76241c5df7#0</id>
-    <title>Atmospheric characterization of rocky exoplanets using emission spectroscopy</title>
-    <updated>2026-07-18T03:06:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#8</id>
+    <title>Chemical Evolution in Cosmos and Earth</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
     <author>
-      <name>Christopher Monaghan</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Monaghan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Résumé Porté par le succès retentissant de diverses missions spatiales, le domaine de la science des exoplanètes connaît actuellement une transformation rapide, marquée par un intérêt croissant pour l'étude de la nature des planètes situées au ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Christopher Monaghan (author alert)</content>
-    <link href="https://umontreal.scholaris.ca/items/7adf831a-38b0-4d41-baab-95bbc3c9964b"/>
-    <published>2026-07-18T03:06:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Grinin - Complexity in universal evolution–A Big History ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Chemical evolution is a very important part of Big History without which the emergence of life would have been impossible. Chemical ... based on Big History: from the formation of the first atoms in the Universe to abiogenesis on the Earth, that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=mHH0EQAAQBAJ&amp;oi=fnd&amp;pg=PA191&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=V8x6sVmh47&amp;sig=liovquf6lJbt9q3TBNgh6alYQmA"/>
+    <published>2026-07-18T22:17:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76241c5d52#0</id>
-    <title>Stellar Multiplicity of M Dwarfs with Short-period Giant Planets, and the Characterization of TOI-5628Ab</title>
-    <updated>2026-07-18T03:06:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#7</id>
+    <title>Can Artificial Intelligence Discover Mathematics Before Humans Name It? Automated Theory Formation, Machine-Generated Mathematics, and Algebraic Abiogenesis</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Gan, A L'Heureux, C Cadieux, S Mao, E Pallé... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Binary stars are ubiquitous, yet it remains unclear how wide-orbit stellar companions influence the formation of hot Jupiters, particularly around M dwarfs. Here, we first report the discovery of TOI-5628Ab, a giant planet transiting a mid-type M dwarf ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.10177"/>
-    <published>2026-07-18T03:06:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Youvan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The early programs also supplied a crucial warning for Algebraic Abiogenesis . Reducing explicit ... symbolic era and contemporary Algebraic Abiogenesis would be the HR system and its program ... For Algebraic Abiogenesis , symbolic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Douglas-Youvan/publication/409269849_Can_Artificial_Intelligence_Discover_Mathematics_Before_Humans_Name_It_Automated_Theory_Formation_Machine-Generated_Mathematics_and_Algebraic_Abiogenesis/links/6a5516a2f6cec25ad2d8de4f/Can-Artificial-Intelligence-Discover-Mathematics-Before-Humans-Name-It-Automated-Theory-Formation-Machine-Generated-Mathematics-and-Algebraic-Abiogenesis.pdf"/>
+    <published>2026-07-18T22:17:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76241c5d11#0</id>
-    <title>Effects of Chemically Activated L-Nucleotides on Nonenzymatic RNA Copying</title>
-    <updated>2026-07-18T03:06:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#6</id>
+    <title>III Moscow Regional Congress" Moscow Region Meetings. At the origins of life "</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
     <author>
-      <name>Jack W. Szostak</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Essex, X Jia, J Zhang, JW Szostak&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; It has long been known that L-nucleotides inhibit the nonenzymatic copying of D- RNA templates, suggesting that nucleotide homochirality must have been attained before the emergence of RNA replication and the Origin of Life. Recent advances in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jack W. Szostak (author alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15005970"/>
-    <published>2026-07-18T03:06:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Editorial - Obstetrics, Gynecology and Reproduction, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; АКУШЕРСТВО ГИНЕКОЛОГИЯ РЕПРОДУКЦИЯ Page 1 ISSN 2313-7347 (print) ISSN 2500-3194 (online) АКУШЕРСТВО ГИНЕКОЛОГИЯ РЕПРОДУКЦИЯ Включен в перечень ведущих рецензируемых журналов и изданий ВАК 2026 • ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.gynecology.su/jour/article/download/2869/1481"/>
+    <published>2026-07-18T22:17:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e762413e4a1#0</id>
-    <title>Modelling West Nile spread in a habitat heterogeneous in space and time</title>
-    <updated>2026-07-18T03:13:50+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#5</id>
+    <title>Confronting the Water Problem: The Lifetime of Aqueous Cyanide and its Role in Origins of Life</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
     <author>
-      <name>Cinzia Soresina</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Pugliese, C Soresina, L Gerardo Giorda... - ECMTB 2026: 14th ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We would like to express a most appreciative Thank You to the University of Graz headed by Rector Peter Riedler, in providing the venue and its facilities. In particular, we are very grateful to the extraordinary support received from the event ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Cinzia Soresina (author alert)</content>
-    <link href="https://openpub.fmach.it/bitstream/10449/97335/1/2026%20ECMTB%20Marini.pdf"/>
-    <published>2026-07-18T03:13:50+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SS Murali, P Rimmer&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... However, the research has just began to discover the feasibility of these reactions under prebiotic conditions and the physical factors influencing their ... Our results are critical for constraining the prebiotic environment where the prebiotic synthesis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-1168.html"/>
+    <published>2026-07-18T22:17:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#4</id>
+    <title>Maternal Prebiotic Supplementation Modifies Associations Between Intrapartum Antibiotics and Infant Allergy</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SVM Walker, TR Sullivan, RA Pretorius, N D'Vaz, J Lo... - Allergy&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Prebiotics promote growth of beneficial gut bacteria, whereas antibiotics can disrupt the microbial balance, reduce diversity, and potentially cause gut dysbiosis. This investigation aimed to determine whether antibiotic use before ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42448632/"/>
+    <published>2026-07-18T22:17:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#3</id>
+    <title>Targeting the gut microbiome: an integrated probiotic and prebiotic strategy for polycystic ovary syndrome management</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Ni, Q Wang, T Ye, H Lei, Y Wang, Y Yuan - Journal of Ovarian Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Polycystic ovary syndrome (PCOS) is a prevalent endocrine-metabolic disorder in which gut dysbiosis acts as a key environmental driver. This review synthesizes how probiotics and prebiotics remodel the gut ecosystem and ameliorate PCOS through ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s13048-026-02164-0"/>
+    <published>2026-07-18T22:17:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#2</id>
+    <title>Emergence of natural selection and catalytic function in prebiotic information-coding polymers</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Tkachenko&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In modern biology, this role is played by nucleic acids and proteins, while the RNA world ... In this talk, I focus on the stage prior to the RNA world , where shorter, simpler information-... the gap between non-enzymatic prebiotic chemistry and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="http://www.sigmaphi.polito.it/images/2026/Abstracts/TkachenkoA_2.pdf"/>
+    <published>2026-07-18T22:17:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#1</id>
+    <title>Cation competition and low pH protect protocell membranes from divalent cation disruption</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LA Lowe, Z Fan, SK De, A Wang&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the origin of life ... protocell stability and highlight the importance of solution composition and pH fluctuations in early Earth scenarios. This work advances our understanding of how protocells may have coexisted with essential metal-catalyzed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15006057"/>
+    <published>2026-07-18T22:17:30+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7624704542#0</id>
+    <title>Preoperative prebiotic supplementation alleviates colitis and improves anastomotic healing associated with modulation of the gut microbiota in rats</title>
+    <updated>2026-07-18T22:17:30+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kovacs, K Szigeti, K Laczi, B Hofmeister, N Makra... - Surgery, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Results Prebiotic pretreatment protected against colitis-related microbial shifts by increasing the ... Prehabilitation with a complex prebiotic supplement enhanced epithelial barrier integrity and ... Conclusion Our findings indicate that a complex ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0039606026003685"/>
+    <published>2026-07-18T22:17:30+00:00</published>
   </entry>
 </feed>
