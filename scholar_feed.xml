@@ -2,19 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-21T08:27:37.003973+00:00</updated>
+  <updated>2026-07-22T08:28:13.949909+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761b9944ac#0</id>
-    <title>Reflation: redox-driven atmospheric inflation as tracer of super-Earth geochemistry</title>
-    <updated>2026-07-20T21:11:33+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a8382#0</id>
+    <title>Rejuvenating the Evolutionary Perspective: Innovation, Firm Growth, and Industry Dynamics</title>
+    <updated>2026-07-21T16:34:36+00:00</updated>
     <author>
-      <name>Tim Lichtenberg</name>
+      <name>Chris Kempes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Cesario, T Lichtenberg, M Attia, H Nicholls... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We demonstrate that the redox-sensitivity of mantle outgassing can trigger transient episodes of atmospheric re-inflation in highly irradiated and geochemically-reduced super-Earths, a mechanism we term reflation. Mantle redox governs the outgassing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tim Lichtenberg (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.13793"/>
-    <published>2026-07-20T21:11:33+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Youn, J Lee, PD Wibbens, CKempes- Academy of Management Proceedings, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
+    <link href="https://journals.aom.org/doi/abs/10.5465/AMPROC.2026.18747symposium"/>
+    <published>2026-07-21T16:34:36+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a8266#0</id>
+    <title>Exoplanets : The Search for Earth's Twin</title>
+    <updated>2026-07-21T16:34:37+00:00</updated>
+    <author>
+      <name>(habitable|habitability planet|planetary|world ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Murdin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of planets outside our solar system, for which a new name was coined: exoplanets . It made the universality of life in the cosmos more likely—no one had discovered extraterrestrial life ... A star's habitable zone is defined as the range of locations in a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=Rpv1EQAAQBAJ&amp;oi=fnd&amp;pg=PR6&amp;dq=(habitable%7Chabitability+planet%7Cplanetary%7Cworld%7Cexoplanet)%7C%22habitale+zone%22%7Cbiosignature%7Castrobiology%7Ctechnosignature%7C(%22search+for%22+~alien%7Cextraterrestrial+life)%7CSETI%7C%22biosignature+detection%22&amp;ots=-74Z-Gdgai&amp;sig=WBfAIgbK5l3FnunysnoYgBLrvNk"/>
+    <published>2026-07-21T16:34:37+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a80e1#3</id>
+    <title>requirements for the degree of Doctor of Philosophy University of Washington 2023 Reading Committee</title>
+    <updated>2026-07-21T16:34:39+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Catling, KJ Zahnle, R Buick, R Barnes&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... H2 and CO2 or CO and water vapor is an anti- biosignature if observed on an exoplanet ... produced in the Hadean atmosphere in the wake of large asteroid impacts. Both HCN ... To aid our understanding for how life might impact an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/0da5a940-b2cc-449f-9346-99c4d24adb47/content"/>
+    <published>2026-07-21T16:34:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a80e1#2</id>
+    <title>Like Star, Like Planet: A Spectroscopic Analysis of Stellar Atmospheres and Their Link to the Planets They Host</title>
+    <updated>2026-07-21T16:34:39+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Mendez-Trujillo&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of exoplanet characterization, this work underscores that the search for Earth-like life must ... some stars are known hosts of giants and Neptune -size planets for 12 different elements. ... ] by 0.14 compared to stars that hosts Neptune -size and super - Earth ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://search.proquest.com/openview/eac28c0ac731fcb713b09b19d38c56b1/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
+    <published>2026-07-21T16:34:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a80e1#1</id>
+    <title>Exoplanets: The Search for Earth's Twin</title>
+    <updated>2026-07-21T16:34:39+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Murdin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... life in the cosmos more likely—no one had discovered extraterrestrial life but they had proved that there are places outside our own solar system on which life ... It was a prime candidate to be a hot Jupiter , like the exoplanet 51 Pegasi b found by Mayor ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=Rpv1EQAAQBAJ&amp;oi=fnd&amp;pg=PR6&amp;dq=(~biosignature%7Clife%7Calien%7Corganic)+(Mars%7CVenus%7CEuropa%7CEnceladus%7CTitan%7C%22icy+moon%22%7CJupiter%7CSaturn%7CNeptune%7CPluto%7CAsteroid%7CComet+~exoplanet%7C%22super+Earth%22%7C%22sub+Neptune%22%7C%22rocky+world%22%7C%22terrestrial+planet%22%7CTRAPPIST%7CK2-18b%7CProxima)&amp;ots=-74Z-Gdgba&amp;sig=urneVtjo4PM8LTihCiy0QVZtbNY"/>
+    <published>2026-07-21T16:34:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a80e1#0</id>
+    <title>Use of a Lateral Shearing Plate Interferometer for Verifying Diffraction-limited Performance of a Near-infrared Spectrometer</title>
+    <updated>2026-07-21T16:34:39+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Bernard, N Butler, C Earley, J Gamaunt, J Hartley... - Publications of the ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the NASA EXoplanet Climate Infrared TElescope spectrograph as an example of real- life ... is enabling phase resolved spectroscopy of hot Jupiter exoplanet atmospheres. EXCITE is a ... phase curve measurements of transiting hot Jupiters ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://iopscience.iop.org/article/10.1088/1538-3873/ae7cb4/meta"/>
+    <published>2026-07-21T16:34:39+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#9</id>
+    <title>Dynamics of liquid-liquid phase-separated microdroplets</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Kumar, S Ameta&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In the early stages of life, the protocell must have relied on simple chemical and physical processes to cope with low chemical ... environmental conditions for protocell propagation, and such design principles for motility can be used to create ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15006209"/>
+    <published>2026-07-21T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#8</id>
+    <title>Structural design and delivery performance of resistant starch-containing delivery systems: A comprehensive review from material fundamentals to colon-targeted ...</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X He, H Tian, X Hu, Z Ma - Carbohydrate Polymers, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Resistant starch (RS) is a dietary fiber that escapes small-intestinal digestion and reaches the colon, offering inherent colon-targeting potential, bioactive protection, and prebiotic benefits. However, native RS often shows limited mechanical strength ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0144861726007794"/>
+    <published>2026-07-21T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#7</id>
+    <title>Short-Chain Fatty Acid-Dependent Neuroimmune Regulation in Autism Spectrum Disorder Pathogenesis</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Dhungel, R Bora - The European journal of neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Preclinical and early clinical data demonstrate that SCFA restoration through prebiotic fiber/resistant starch, probiotics, or direct SCFA supplementation normalizes gastrointestinal symptoms, behavioral deficits, microglial morphology ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42470181/"/>
+    <published>2026-07-21T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#6</id>
+    <title>Article Review: The Role of Synbiotic Beverages Containing Purple Sweet Potato and Butterfly Pea Flower (Clitoria ternatea L.) as Functional Nutrition in the ...</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Fadella, A Ulilalbab, NT Triatmaja - Ficco Public Health Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The analysis focused on bioactive anthocyanin compounds, probiotic- prebiotic synergies, as well as their effects on glucose metabolism and gut health. Results: Purple sweet potatoes and telang flowers contain anthocyanins with antioxidant, anti-inflammatory ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="http://journal.theficco.com/index.php/publichealth/article/download/49/41"/>
+    <published>2026-07-21T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#5</id>
+    <title>Pharmacological profile and bioactive phytochemistry of Metroxylon sagu: A critical evaluation</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Moshawih, JPT Kong, IA Hailat, HP Goh, KW Goh... - Food and Humanity, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... coli ); antidiarrheal action (20% root infusion reduced diarrhea frequency by 40.54% in castor oil model); immunostimulation by water-soluble polysaccharides (PSMS at 500 mg/kg enhanced phagocytic index and antibody titers); prebiotic potential (native ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2949824426003885"/>
+    <published>2026-07-21T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#4</id>
+    <title>Sustainable next-generation prebiotics for brain health: microbiota–gut–brain axis in neurodegenerative and demyelinating diseases</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Barrera-Chamorro, T Gonzalez-de la Rosa... - Critical Reviews in Food ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.tandfonline.com/doi/full/10.1080/10408398.2026.2703335"/>
+    <published>2026-07-21T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#3</id>
+    <title>G-Quadruplex-Inspired Suprazymes within Coacervates as Catalytic Protocells</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Goswami, N Barman, MK Baroi, A Bala, S Das&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... analysis, indicating efficient in situ generation and retention within the protocell interiors (Figure 5e-f). The CD ... protocell depicting the accumulation of fluorescent triazole P product within the protocell . (f) Orthogonal slicing and 3D reconstruction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15006202"/>
+    <published>2026-07-21T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#2</id>
+    <title>Geobiology of the Extremophilic Archaeon Ignicoccus in Hydrothermal Systems–Implications for the Emergence of Life on Earth and Bey</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LM Schlund, M Hoppert, JP Duda, K Beblo-Vranesevic&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ignicoccus hospitalis is a hyperthermophilic chemolithoautotrophic archaeon inhabiting deepsea hydrothermal systems such as black smokers, which are considered candidate environments for the emergence of life on Earth and potential ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://elib.dlr.de/225297/"/>
+    <published>2026-07-21T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#1</id>
+    <title>From Hydrothermal Vents to Ocean Worlds: the Prebiotic Chemistry of Ketene</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Pandya, K Vanka&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... hydrocarbon dead end rather than into the diverse functional groups abiogenesis needs. This offers a molecular rationale for why a ... that ketene and ketenimine together were the main chemical engines of prebiotic metabolism. AINR simulations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15006226"/>
+    <published>2026-07-21T16:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761a2a7fdb#0</id>
+    <title>... seed powder: Chemical composition, oil characterization, impact of extraction technique and solvent type on the antioxidant and antimicrobial activities, and prebiotic ...</title>
+    <updated>2026-07-21T16:34:40+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Ayyash, AH Ali - LWT-Food Science and Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Agri-food byproducts valorization has attracted increasing interest as a part of sustainable circular bioeconomy approaches. Representing a significant fraction of avocado processing, avocado seeds are a plentiful source of bioactive compounds ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Elsayed-Abd-Elsattar/publication/409451445_Valorization_of_avocado_seed_powder_Chemical_composition_oil_characterization_impact_of_extraction_technique_and_solvent_type_on_the_antioxidant_and_antimicrobial_activities_and_prebiotic_potential/links/6a58bb7437be4e7a63c540b2/Valorization-of-avocado-seed-powder-Chemical-composition-oil-characterization-impact-of-extraction-technique-and-solvent-type-on-the-antioxidant-and-antimicrobial-activities-and-prebiotic-potential.pdf"/>
+    <published>2026-07-21T16:34:40+00:00</published>
   </entry>
 </feed>
