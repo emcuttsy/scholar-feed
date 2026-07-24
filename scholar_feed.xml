@@ -2,19 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-24T08:26:21.007485+00:00</updated>
+  <updated>2026-07-24T15:18:44.826574+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619ff9c8f#0</id>
-    <title>Constructing far-from-equilibrium patterns in a cross-diffusion vegetation-autotoxicity model</title>
-    <updated>2026-07-24T08:22:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc7af#0</id>
+    <title>This document has been made available through RO@ M (Research Online at Macewan), a service of MacEwan University Library. Please contact roam@ macewan ...</title>
+    <updated>2026-07-24T08:36:56+00:00</updated>
     <author>
-      <name>Cinzia Soresina</name>
+      <name>Gregory Scholes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Iuorio, C Soresina, F Veerman - arXiv preprint arXiv:2607.15692, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Using geometric singular perturbation theory, we construct stationary, periodic, front- type far-from-equilibrium patterns in a cross-diffusion model for plant growth under the influence of toxicity. We show how existing techniques for the analysis of far-from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Cinzia Soresina (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.15692"/>
-    <published>2026-07-24T08:22:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AP Kalra, BB Eakins, SI Vagin, H Wang, SD Patel...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This document has been made available through RO@M (Research Online at Macewan), a service of MacEwan University Library. Please contact roam@macewan.ca for add itional information. A Nanometric Probe of the Local Proton Concentration in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://roam.macewan.ca/server/api/core/bitstreams/298d3c2f-e45a-4f18-961e-31e7728b7889/content"/>
+    <published>2026-07-24T08:36:56+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc702#0</id>
+    <title>A Braitenberg vehicle's habitat</title>
+    <updated>2026-07-24T08:36:58+00:00</updated>
+    <author>
+      <name>Fernando E. Rosas</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Baltieri, FE Rosas, F Torresan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Agents do not generally interact with the entirety of their physical environment equally. What matters to them depends on their morphology, sensory interface, embodied dynamics, and action repertoire. This paper formalises some of these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
+    <link href="https://manuelbaltieri.com/assets/pdf/BraitenbergHabitat.pdf"/>
+    <published>2026-07-24T08:36:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc659#0</id>
+    <title>Seasonal biases in data collection cause conceptual gaps in animal ecology</title>
+    <updated>2026-07-24T08:36:59+00:00</updated>
+    <author>
+      <name>Damien Farine</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ramellini, WH Bray, Y Chen, R Fuste, F Hacker...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1. Animal life cycles are structured into seasons with major differences in behaviour. Yet much of the data that inform policy and predictive modelling is drawn from studies conducted when animals breed. This temporal research bias overlooks key ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
+    <link href="https://ecoevorxiv.org/repository/view/14011/"/>
+    <published>2026-07-24T08:36:59+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#9</id>
+    <title>Utilizing Epistemic Pluralism to Better Understand the Intricacies of Astrobiology</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KJ Smith, P Anderson, ML Wong - The Astrobiology Science Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Astrobiology is the study of life in the universe, how it begins, what it is, and whether it exists beyond Earth. This field combines ideas and methods from many disciplines to tackle these big questions. In this work, we explore how astrobiology can benefit ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf41303S/abstract"/>
+    <published>2026-07-24T08:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#8</id>
+    <title>White Paper on Phototrophic Biosignatures: Research Priorities for the Search for Life on Other Worlds</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NY Kiang, C Gisriel, RE Blankenship, MN Parenteau... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Photosynthesis is of prime interest in the telescopic search for life beyond the Solar System, because, on Earth, oxygenic photosynthesis produces two strong" biosignatures," global scale signs of life that can be seen from space: atmospheric ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://arxiv.org/pdf/2607.03106"/>
+    <published>2026-07-24T08:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#7</id>
+    <title>PALLAS: Strengthening Community Across Artists &amp; Scientists</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Nyberg, D Nyberg, A Capirala, L Fifer, ÉA Laflèche... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Artists and scientists are eager to interface with one another, and astrobiology represents a prime focal point for artscience collaboration. However, the long history of the artscience divide undermines community on both sides and undervalues ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf25369N/abstract"/>
+    <published>2026-07-24T08:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#6</id>
+    <title>Building Interpretable Biosignature Detection Models using Machine Learning</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Prabhu, ML Wong, GD Cody, HJ Cleaves, G Hystad... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In our study, we employed NASA flight-tested pyrolysis gas-chromatography mass- spectrometry (pyGCMS) methods to analyze 406 varied carbon-rich samples from living cells, taphonomically-degraded samples, geologically processed fossil fuels, C ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf10102P/abstract"/>
+    <published>2026-07-24T08:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#5</id>
+    <title>Mineral biosignature identification from Raman spectroscopy using machine learning</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Li, A Prabhu, B Hou, ML Wong, A Lu, J Xing, D Ngo... - PNAS nexus, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biosignature detection remains a key challenge in astrobiology, yet robust mineral biosignatures remain limited. Raman spectroscopy is increasingly applied in planetary exploration, but its high-dimensional spectral information has not yet been ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://academic.oup.com/pnasnexus/article/5/7/pgag215/8732401"/>
+    <published>2026-07-24T08:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#4</id>
+    <title>A Robust Mineralogical Biosignature Based on Machine Learning Analysis of Apatite Raman Spectra</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Li, A Prabhu, ML Wong, R Hazen - The Astrobiology Science Conference ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Searching for signs of life beyond Earth requires scientists to interpret many different kinds of data, from laboratory experiments on Earth to measurements made by spacecraft on other planets. One important type of data comes from Raman ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf14019L/abstract"/>
+    <published>2026-07-24T08:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#3</id>
+    <title>For my thesis advisor In memoriam: Yuk L. Yung (1946-2026)</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Wong - The Astrobiology Science Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For my thesis advisor In memoriam: Yuk L. Yung (1946-2026) - ADS Now on home page ads icon ads Enable full ADS view ADS For my thesis advisor In memoriam: Yuk L. Yung (1946-2026) Wong, Michael L. Abstract Been thinking about Yuk and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.confP...4W/abstract"/>
+    <published>2026-07-24T08:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#2</id>
+    <title>Leaps in Evolution: Selective Funneling and State-Space Expansion</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Wong, H Demarest, S Bartlett, C Cleland... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Evolution, conceived broadly as encompassing both biological and abiological systems, generates novel structures and phenomena that are seemingly different, in important ways, from what came before. While it is always possible, in theory, to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf31412W/abstract"/>
+    <published>2026-07-24T08:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#1</id>
+    <title>Habitable Worlds Observatory Living Worlds Community Working Group: The Search for Life on Potentially Habitable Exoplanets</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MN Parenteau, GN Arney, J Krissansen-Totton... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The Habitable Worlds Observatory (HWO) is the first astrophysics flagship mission with a key cross-divisional astrobiology science goal of searching for signs of life on rocky planets beyond our solar system. The Living Worlds Working Group ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf18142P/abstract"/>
+    <published>2026-07-24T08:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#0</id>
+    <title>Rethinking the Practice and Rhetoric of Planetary "Colonization" from an Astrobioethics Perspective</title>
+    <updated>2026-07-24T08:37:00+00:00</updated>
+    <author>
+      <name>Michael L Wong</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Haramia, ÉA Laflèche, J De Marines, ML Wong - Earth Science, Systems and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; "Colonization" is a commonly used term for describing the human habitation of extraterrestrial environments. Recently, a wide range of authors have critiqued this term for its historical and ethical baggage: colonial attitudes toward space ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://www.lyellcollection.org/doi/pdf/10.1144/esss2025-013"/>
+    <published>2026-07-24T08:37:00+00:00</published>
   </entry>
 </feed>
