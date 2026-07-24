@@ -2,162 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-23T08:29:13.556479+00:00</updated>
+  <updated>2026-07-24T08:26:21.007485+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76191435cf#2</id>
-    <title>Observational Insights into White Dwarf Planetary Systems Laura Kathryn Rogers Institute of Astronomy University of Cambridge</title>
-    <updated>2026-07-23T03:32:56+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7619ff9c8f#0</id>
+    <title>Constructing far-from-equilibrium patterns in a cross-diffusion vegetation-autotoxicity model</title>
+    <updated>2026-07-24T08:22:45+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Cinzia Soresina</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LK Rogers&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... successes of these two detection methods delivering the first exoplanet discoveries, more ... With the number of exoplanet discoveries increasing everyday, the research focus has shifted ... technique provides an estimate for the average ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/613c5efd-c5d8-49cd-9c1d-ec7051ab3979/content"/>
-    <published>2026-07-23T03:32:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76191435cf#1</id>
-    <title>ACHUSETTS INSTITUTEOF TECHNOLOGY SEP 19 2016 LIBRARIES ARGHIVEs Doctor of Philosophy in Planetary Science</title>
-    <updated>2026-07-23T03:32:56+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NK Inamdar&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In fact, we now know that hot Jupiters comprise a relatively small per- centage of the exoplanet population (on the order of a few percent). In ... In this thesis, we will use the term " super - Earth " to refer to those ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/5415a223-86e1-42dd-b5d1-691bfc457473/content"/>
-    <published>2026-07-23T03:32:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76191435cf#0</id>
-    <title>Revealing the Nature of Exoplanetary Atmospheres Ryan John MacDonald Supervisor: Dr Nikku Madhusudhan Institute of Astronomy</title>
-    <updated>2026-07-23T03:32:56+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Boffin, S Gandhi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... these molecules and atoms, as required to infer exoplanet formation mechanisms, has ... of giant exoplanets, new insights into exoplanet atmospheres have been obtained. I ... hot Jupiters persisted, all doubt was lifted when a known radial velocity exoplanet , ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/529aff53-1caa-4e27-9346-7138ac5f6345/content"/>
-    <published>2026-07-23T03:32:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#9</id>
-    <title>Energy flow and emergence of complexity in the Universe's structure</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DJ LePoire - Complexity in universal evolution: A Big History ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The Universe's structural development contrasts with the rapid cooling after the Big Bang and the later emergence of life on Earth, spanning scales from the cosmic web to planets. Earlier studies on free energy rate density (FERD) suggested ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-3-032-20517-9_6"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#8</id>
-    <title>Current and emerging therapeutic strategies targeting adherent-invasive Escherichia coli in Crohn's disease: a review</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LA Mohammed Abdelhadi, Y Liang, Y Liao, G Zhu - Gut Pathogens, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Considerable evidence has accumulated over the past two decades demonstrating that Escherichia coli, specifically adherent-invasive E. coli, contributes to the pathogenesis of Crohn's disease. Adherent-invasive E. coli can adhere to and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s13099-026-00852-2"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#7</id>
-    <title>Food Chemistry Advances</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NE Bentouhami, G Chataigne, S Moumnassi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The probiotic activity index (ΔAbs) was used as a prebiotic activity score to evaluate potential prebiotic candidates. This index reflects the ability of each substrate to support the growth of probiotic strains compared with non- prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Nour-Eddine-Bentouhami/publication/408293356_Bioconversion_of_Orange_Peel_into_Prebiotic_Pectic_Oligosaccharides_via_Integrated_Immobilized_Polygalacturonase_Hydrolysis_and_Probiotic_Fermentation/links/6a4d6c53f8eec13a96b9e877/Bioconversion-of-Orange-Peel-into-Prebiotic-Pectic-Oligosaccharides-via-Integrated-Immobilized-Polygalacturonase-Hydrolysis-and-Probiotic-Fermentation.pdf"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#6</id>
-    <title>Current and emerging therapeutic strategies targeting adherent-invasive Escherichia coli in Crohn's disease: a review</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LAM Abdelhadi, Y Liang, Y Liao, G Zhu - Gut pathogens&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Considerable evidence has accumulated over the past two decades demonstrating that Escherichia coli, specifically adherent-invasive E. coli, contributes to the pathogenesis of Crohn's disease. Adherent-invasive E. coli can adhere to and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42472818/"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#5</id>
-    <title>Designing mushroom polysaccharides through chemical derivatization: physico-chemical properties, improved bioactivity, and nutraceutical applications</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Khatua, K Acharya - Archives of microbiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In recent decades, mushroom polysaccharides have emerged as astounding biological macromolecules with more than 3800 publications indexed in PubMed between the years 2005 and 2025. However their applications are often restricted by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42474510/"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#4</id>
-    <title>Quantum biophysical platform for deterministic satiety signaling modulation and metabolic homeostasis in human cohorts</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Somsai - International Journal of Obesity, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Conventional gastroenterology and metabolic medicine model prebiotic -microbiome interactions through passive, random-walk kinetics, ... To address these limitations, we developed a Metabolite Conjugate Prebiotic (MCP) platform that functions as a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41366-026-02137-9"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#3</id>
-    <title>The Neuroscience of Octopuses: Why People Think They're Aliens (And Why They're Not)</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Arancio&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://knowingneurons.com/the-neuroscience-of-octopuses/"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#2</id>
-    <title>Author's Version: Original published in Origins of Life and Evolution of Biospheres, DOI: 10.1007/s11084-011-9261-2 The final publication is available at springerlink ...</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GP Fournier, CP Andam, EJ Alm, JP Gogarten...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... inherited from the time of the Last Universal Common Ancestor (LUCA). However, unlike the ... reflect a stage of the RNA world where simple polypeptides or aminoacylated RNAs were ... the demise of the RNA world , and the nature of life at ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/19485ec6-2cd4-4674-9c85-7dde5e820fd3/content"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#1</id>
-    <title>Prebiotic Chemistry on Titan: Insights into the Origins of Life</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AR Campbell&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Conclusions ★ Titan hosts multiple plausible environments for prebiotic chemistry.★ Transient melt pools (eg Selk Crater) and dune systems may support complex organic chemistry.★ Dragonfly will directly test Titan's potential for chemical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://spacegrant.oregonstate.edu/sites/spacegrant.oregonstate.edu/files/2026-06/acampbell_eou_starr_poster_pdf_spring-2026.pdf"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761914356b#0</id>
-    <title>Novel index for assessing the intestinal environment in prebiotic -supplemented healthy adults via non-invasive gas analysis</title>
-    <updated>2026-07-23T03:32:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Hosokawa, H Matsui, S Fujino, D Aoki, H Higuchi... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic intervention using a novel system that noninvasively collects intestinal gas released during daily defecation. We conducted a prebiotic ... microbiota, and metabolites such as SCFAs before and after prebiotic intake to propose a new ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-59991-w_reference.pdf"/>
-    <published>2026-07-23T03:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761934dc49#0</id>
-    <title>Causality from the spectrum: Emergence of causal order from process-matrix mereology</title>
-    <updated>2026-07-23T08:11:51+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Kushwaha, N Loizeau, A Grinbaum, O Friedrich -arXivpreprintarXiv:2607.15345, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... decompositions into local subsystems, leading to the emergence of locality. Causal order, however, ... This suggests a mechanism for the emergence of classical causality only from algebraic ... The use of the thermodynamic limit hints at ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.15345"/>
-    <published>2026-07-23T08:11:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Iuorio, C Soresina, F Veerman - arXiv preprint arXiv:2607.15692, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Using geometric singular perturbation theory, we construct stationary, periodic, front- type far-from-equilibrium patterns in a cross-diffusion model for plant growth under the influence of toxicity. We show how existing techniques for the analysis of far-from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Cinzia Soresina (author alert)</content>
+    <link href="https://arxiv.org/pdf/2607.15692"/>
+    <published>2026-07-24T08:22:45+00:00</published>
   </entry>
 </feed>
