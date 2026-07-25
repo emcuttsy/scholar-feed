@@ -2,151 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-24T15:18:44.826574+00:00</updated>
+  <updated>2026-07-25T08:04:56.379041+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc7af#0</id>
-    <title>This document has been made available through RO@ M (Research Online at Macewan), a service of MacEwan University Library. Please contact roam@ macewan ...</title>
-    <updated>2026-07-24T08:36:56+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#9</id>
+    <title>Impact of nucleotide and Lactobacillus dietary supplementation on transition buffalo cows' growth performance, milk yield and composition, blood metabolites and ...</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AP Kalra, BB Eakins, SI Vagin, H Wang, SD Patel...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This document has been made available through RO@M (Research Online at Macewan), a service of MacEwan University Library. Please contact roam@macewan.ca for add itional information. A Nanometric Probe of the Local Proton Concentration in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://roam.macewan.ca/server/api/core/bitstreams/298d3c2f-e45a-4f18-961e-31e7728b7889/content"/>
-    <published>2026-07-24T08:36:56+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ATO Radwan, HS El-Qaliouby, MAAA El-Hady...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The present study aimed to evaluate the effect of oral supplementation of prebiotic (nucleotide hilysis) and probiotic (lactobacillus bio pro) to improve buffalo performance, milk yield, composition, hematological parameters, biochemical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260353350"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc702#0</id>
-    <title>A Braitenberg vehicle's habitat</title>
-    <updated>2026-07-24T08:36:58+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#8</id>
+    <title>The Chemical Unity of Life and the Evolutionary Cycle: The Scientific Relationship Between Plants and Animals</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Baltieri, FE Rosas, F Torresan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Agents do not generally interact with the entirety of their physical environment equally. What matters to them depends on their morphology, sensory interface, embodied dynamics, and action repertoire. This paper formalises some of these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://manuelbaltieri.com/assets/pdf/BraitenbergHabitat.pdf"/>
-    <published>2026-07-24T08:36:58+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Annamalai&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper explores the deep biochemical and evolutionary connections between the plant and animal kingdoms. While outwardly distinct in morphology and lifestyle, plants and animals share an undeniable molecular foundation—a phenomenon ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Chinnaraji-Annamalai/publication/410600887_The_Chemical_Unity_of_Life_and_the_Evolutionary_Cycle_The_Scientific_Relationship_Between_Plants_and_Animals/links/6a5df2d1a066b6236f2ae3b5/The-Chemical-Unity-of-Life-and-the-Evolutionary-Cycle-The-Scientific-Relationship-Between-Plants-and-Animals.pdf"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc659#0</id>
-    <title>Seasonal biases in data collection cause conceptual gaps in animal ecology</title>
-    <updated>2026-07-24T08:36:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#7</id>
+    <title>Assessing conventionally bred lentil (Lens culinaris Medik) cultivars for adaptation to organic cropping systems in the southeastern USA</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Damien Farine</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ramellini, WH Bray, Y Chen, R Fuste, F Hacker...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1. Animal life cycles are structured into seasons with major differences in behaviour. Yet much of the data that inform policy and predictive modelling is drawn from studies conducted when animals breed. This temporal research bias overlooks key ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
-    <link href="https://ecoevorxiv.org/repository/view/14011/"/>
-    <published>2026-07-24T08:36:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Thavarajah, M Dempsey, T Lawrence, E Shipe... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Lentil is a rich dietary source of protein and prebiotic carbohydrates, supporting human gut health. This study determined the grain yield, ... Total known prebiotic carbohydrates ranged from 1.9 to 10.9 g/100 g with 45–57 g/100 g total starch ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41598-026-63027-8"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#9</id>
-    <title>Utilizing Epistemic Pluralism to Better Understand the Intricacies of Astrobiology</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#6</id>
+    <title>Illuminating the Path to Evolution: UV-Induced Repair as a Precursor to Biological Function</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KJ Smith, P Anderson, ML Wong - The Astrobiology Science Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Astrobiology is the study of life in the universe, how it begins, what it is, and whether it exists beyond Earth. This field combines ideas and methods from many disciplines to tackle these big questions. In this work, we explore how astrobiology can benefit ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf41303S/abstract"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Crucilla&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... particular emphasis on UV-rich surface environments, prebiotic feedstock accumulation, and the role of ... and selection of early RNA sequences on the prebiotic Earth. I next show in Chapter 4 that ... More broadly, this work links ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://dash.harvard.edu/entities/publication/5fd26714-559f-4f2f-abf1-7fc4adb3ffb0"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#8</id>
-    <title>White Paper on Phototrophic Biosignatures: Research Priorities for the Search for Life on Other Worlds</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#5</id>
+    <title>0673 Topical application of the prebiotic HMO type LNnT alleviates chronic skin inflammation</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NY Kiang, C Gisriel, RE Blankenship, MN Parenteau... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Photosynthesis is of prime interest in the telescopic search for life beyond the Solar System, because, on Earth, oxygenic photosynthesis produces two strong" biosignatures," global scale signs of life that can be seen from space: atmospheric ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.03106"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MP Pagac, M Moulin, M Gempeler, R Campiche - Journal of Investigative ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Topical application of the prebiotic HMO type LNnT alleviates chronic skin inflammation ... Moreover, this study provides the first scientific claim substantiation for a prebiotic effect of HMO on human skin with the potential to restore and prevent dysbiosis. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.jidonline.org/article/S0022-202X(26)01984-6/pdf"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#7</id>
-    <title>PALLAS: Strengthening Community Across Artists &amp; Scientists</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#4</id>
+    <title>Polyhydroxybutyrate as a prebiotic : mechanisms of action, optimization of fermentation production, and food application.</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Nyberg, D Nyberg, A Capirala, L Fifer, ÉA Laflèche... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Artists and scientists are eager to interface with one another, and astrobiology represents a prime focal point for artscience collaboration. However, the long history of the artscience divide undermines community on both sides and undervalues ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf25369N/abstract"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Dong, J Xie, T Cui, J Xin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It is biodegradable and biocompatible, serving as a new type of prebiotic , also known as a "... regulate the human intestinal microecology through its prebiotic function. Consequently, it plays a ... Through analyzing the functional mechanism of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260358412"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#6</id>
-    <title>Building Interpretable Biosignature Detection Models using Machine Learning</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#3</id>
+    <title>In Situ Potentially Prebiotic (Re) activation of 3′-Amino-2′, 3′ dideoxynucleotides for Sustainable Chemical Copying Chemistry</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Prabhu, ML Wong, GD Cody, HJ Cleaves, G Hystad... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In our study, we employed NASA flight-tested pyrolysis gas-chromatography mass- spectrometry (pyGCMS) methods to analyze 406 varied carbon-rich samples from living cells, taphonomically-degraded samples, geologically processed fossil fuels, C ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf10102P/abstract"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SR Sammons, NG Horton, NF Leite, DK O'Flaherty&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... More recently, our group reported a potentially prebiotic route to a 3′-amino-containing riboside,15 ... Our prebiotic vision pictured initial triphosphorylation of the 3′-amine, then cyclizing the species to a cyclic phosphoramidate. Once at the cyclic stage, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15006360"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#5</id>
-    <title>Mineral biosignature identification from Raman spectroscopy using machine learning</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#2</id>
+    <title>Impact of Xylooligosaccharides Containing Soluble Lignin Fractions from Birch on Prebiotic Activity by In Vitro Fecal Fermentation of Smoking-Linked Dysbiotic ...</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Li, A Prabhu, B Hou, ML Wong, A Lu, J Xing, D Ngo... - PNAS nexus, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biosignature detection remains a key challenge in astrobiology, yet robust mineral biosignatures remain limited. Raman spectroscopy is increasingly applied in planetary exploration, but its high-dimensional spectral information has not yet been ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://academic.oup.com/pnasnexus/article/5/7/pgag215/8732401"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Fang, C Lai, Y Chen, C Huang, Q Hua, Q Yong - Applied Biochemistry and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... XOS prebiotic performance. However, few studies have clarified how hydrothermal-derived soluble lignin affects the prebiotic property of DP ... ), the research seeks to elucidate the potential role of soluble lignin in modulating the prebiotic function and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s12010-026-05826-3"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#4</id>
-    <title>A Robust Mineralogical Biosignature Based on Machine Learning Analysis of Apatite Raman Spectra</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#1</id>
+    <title>A mannogalactoglucan from steam-exploded Hericium erinaceus: structural elucidation, digestion resistance and gut microbiota-modulating prebiotic activity</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Li, A Prabhu, ML Wong, R Hazen - The Astrobiology Science Conference ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Searching for signs of life beyond Earth requires scientists to interpret many different kinds of data, from laboratory experiments on Earth to measurements made by spacecraft on other planets. One important type of data comes from Raman ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf14019L/abstract"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Chen, Q Yan, L Liu, J Feng, Q Kong, J Zhang, J Geng... - Food Chemistry: X, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Steam explosion (SE) pretreatment effectively enhanced the extraction yield and bioactivity of polysaccharides from Hericium erinaceus ( H. erinaceus ), demonstrating notable therapeutic potential. In this study, a polysaccharide fraction (Q60E) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2590157526007546"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#3</id>
-    <title>For my thesis advisor In memoriam: Yuk L. Yung (1946-2026)</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc4d#0</id>
+    <title>Revealing the metabolic fate of bound phenolic compounds in dietary fiber from adzuki beans in vitro and their prebiotic properties in the colon</title>
+    <updated>2026-07-25T03:36:12+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Wong - The Astrobiology Science Conference (AbSciCon) ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For my thesis advisor In memoriam: Yuk L. Yung (1946-2026) - ADS Now on home page ads icon ads Enable full ADS view ADS For my thesis advisor In memoriam: Yuk L. Yung (1946-2026) Wong, Michael L. Abstract Been thinking about Yuk and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.confP...4W/abstract"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Liu, P Zhou, Y Yan, W Khalid, T Li, Y Ren, K Wang... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The indigestible dietary fiber from adzuki beans acts as a natural delivery system for bound phenolics (BPs). However, their patterns of release along the gastrointestinal tract, as well as the specific ways they act on the gut microbiota, are still not fully ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926017916"/>
+    <published>2026-07-25T03:36:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#2</id>
-    <title>Leaps in Evolution: Selective Funneling and State-Space Expansion</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc17#3</id>
+    <title>The Nature and Characterization of M Dwarf Terrestrial Planetary Atmospheres: A Theoretical Case Study of the TRAPPIST-1 Planetary System Andrew Peter ...</title>
+    <updated>2026-07-25T03:36:13+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Wong, H Demarest, S Bartlett, C Cleland... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Evolution, conceived broadly as encompassing both biological and abiological systems, generates novel structures and phenomena that are seemingly different, in important ways, from what came before. While it is always possible, in theory, to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf31412W/abstract"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Meadows, D Crisp, T Robinson&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the first place to search for habitability and life outside the Solar System. Several small planets ... have been used to infer the history of ocean loss and atmospheric escape (eg Venus , ... abundant atmospheric gases, comprising the bulk of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/5cfba79f-0e0c-4c68-aae6-b5fb046055d8/content"/>
+    <published>2026-07-25T03:36:13+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#1</id>
-    <title>Habitable Worlds Observatory Living Worlds Community Working Group: The Search for Life on Potentially Habitable Exoplanets</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc17#2</id>
+    <title>DOCTOR OF PHILOSOPHY IN PLANETARY SCIENCE at the MASSACHUSETTS INSTITUTE OF TECHNOLOGY May 2025© 2025 Zifan Lin. All rights reserved.</title>
+    <updated>2026-07-25T03:36:13+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MN Parenteau, GN Arney, J Krissansen-Totton... - The Astrobiology Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The Habitable Worlds Observatory (HWO) is the first astrophysics flagship mission with a key cross-divisional astrobiology science goal of searching for signs of life on rocky planets beyond our solar system. The Living Worlds Working Group ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026absc.conf18142P/abstract"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Lin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... measure of how far the exoplanet 's transit chord is from the center of the star. Hence, orbital ... Knowing both the mass and the radius of an exoplanet , we may compute its bulk density ... ratios, potentially explaining exoplanet populations on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/5d0a4690-f046-4b36-a762-6ced61b0c852/content"/>
+    <published>2026-07-25T03:36:13+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7619fdc5ab#0</id>
-    <title>Rethinking the Practice and Rhetoric of Planetary "Colonization" from an Astrobioethics Perspective</title>
-    <updated>2026-07-24T08:37:00+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc17#1</id>
+    <title>MASSACHUSETTS INSTITUTE OF TECHNOLOGY JUN 13 2016 LIBRARIES ARCHIVES</title>
+    <updated>2026-07-25T03:36:13+00:00</updated>
     <author>
-      <name>Michael L Wong</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Haramia, ÉA Laflèche, J De Marines, ML Wong - Earth Science, Systems and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; "Colonization" is a commonly used term for describing the human habitation of extraterrestrial environments. Recently, a wide range of authors have critiqued this term for its historical and ethical baggage: colonial attitudes toward space ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
-    <link href="https://www.lyellcollection.org/doi/pdf/10.1144/esss2025-013"/>
-    <published>2026-07-24T08:37:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Messenger&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In the second study, I focus specifically on the super Earth GJ 1214b, the most studied super Earth to date. GJ 1214b is particularly interesting due to the difficulty ... of life on an exoplanet , is much harder and beyond our current technological reach. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://dspace.mit.edu/server/api/core/bitstreams/d2da9d56-d217-49df-9a2f-d70613043471/content"/>
+    <published>2026-07-25T03:36:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761876cc17#0</id>
+    <title>THERMAL AND RADIATIVE PROPERTIES OF EXOPLANET ATMOSPHERES ACROSS THE MASS RANGE ANJALI AURÉLIE ALISON PIETTE UNDER THE ...</title>
+    <updated>2026-07-25T03:36:13+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N MADHUSUDHAN&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Observations of exoplanet atmospheres have flourished in recent years, revealing a re- ... on recent suggestions of habitability of the mini- Neptune K2-18 b, I find a range of ... constituents, and use this to assess the observability of promising ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/346616d6-f54a-4eda-aae8-54ced6231f08/content"/>
+    <published>2026-07-25T03:36:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761876bba9#0</id>
+    <title>An approach to systemic risks of AI through the lens of emergence , collective action problems, and externalities</title>
+    <updated>2026-07-25T03:37:09+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Orwat, L Staab, A Gazos -arXivpreprintarXiv:2607.18170, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We argue that some concepts so far have not sufficiently take complexity and emergence into ... that considers complex phenomena that lead to the emergence of harms at the societal or global ... , informational emergence , and deficits of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.18170"/>
+    <published>2026-07-25T03:37:09+00:00</published>
   </entry>
 </feed>
