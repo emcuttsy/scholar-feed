@@ -2,250 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-26T08:25:17.518885+00:00</updated>
+  <updated>2026-07-26T14:54:43.431454+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7618f1ca57#1</id>
-    <title>The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning</title>
-    <updated>2026-07-26T05:01:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761f1d5794#0</id>
+    <title>Catastrophic disruption cascades driven by the nonlinearity of systemic risk</title>
+    <updated>2026-07-26T10:34:48+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>Stefan Thurner</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Cvjetko, B Hartl, M Levin, C Moulin-Frier... - ALIFE 2026-Conference on ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://hal.science/hal-05698778v1/file/_ALife2026__Reinforcement_Learning_with_Cellular_Automata%20%2828%29.pdf"/>
-    <published>2026-07-26T05:01:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Fialkowski, S Havlin, S Thurner - arXiv preprint arXiv:2607.20068, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Whether the COVID-19 pandemic or the Iran war, recent events have highlighted the systemic fragility of supply chains. Due to highly specific and mutual buyer-supplier dependencies, even the failure of a single firm can cause system-wide economic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.20068"/>
+    <published>2026-07-26T10:34:48+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7618f1ca57#0</id>
-    <title>Intelligence from Learnable Novelty</title>
-    <updated>2026-07-26T05:01:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761f1d575b#3</id>
+    <title>Emergence of Hexanematic Order in a Growing Confluent Cell Monolayer</title>
+    <updated>2026-07-26T10:34:49+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhang, M Levin - arXiv preprint arXiv:2607.18433, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Intelligence appears under different names in different fields: as data compression in statistics and machine learning, as universal computation in dynamical systems, and as adaptive behavior in agents. Each field carries its own objective, and the two most ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.18433"/>
-    <published>2026-07-26T05:01:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HL Too, F Dary, ISY Ling, DE Theofilusa, D Zhang... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Collective migration of epithelial layers underlies processes ranging from wound healing to cancer invasion. A defining yet challenging feature is the emergence of distinct cell morphologies within a single migrating confluent sheet, with larger ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.19963"/>
+    <published>2026-07-26T10:34:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7618f1c9e9#0</id>
-    <title>Generalised Bellman recurrence and three dualities in sequential decision-making</title>
-    <updated>2026-07-26T05:01:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761f1d575b#2</id>
+    <title>Perspective Latents as an Architectural Condition for Causal Emergence in Active Inference Agents</title>
+    <updated>2026-07-26T10:34:49+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FE Rosas, D Hyland, D Polani - arXiv preprint arXiv:2607.18077, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; What gives the Bellman equation its form? We show that the recursive properties of optimal value functions follow from three conditions: that the dynamics decomposes through sufficient statistics, that the return decomposes recursively, and that the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.18077"/>
-    <published>2026-07-26T05:01:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Pae -arXivpreprintarXiv:2607.20708, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A recent line of work measures causal emergence in reinforcement learning agents through Integrated Information Decomposition, reporting that $\Phi_r$ grows with training and tracks reward improvement. For active inference, this raises the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.20708"/>
+    <published>2026-07-26T10:34:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7618f1c95b#0</id>
-    <title>Competitive and Complementary Tools</title>
-    <updated>2026-07-26T05:01:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761f1d575b#1</id>
+    <title>Emergence of giant vortices under nonlinear rotation with attractive interactions in a toroidal condensate</title>
+    <updated>2026-07-26T10:34:49+00:00</updated>
     <author>
-      <name>David Krakauer</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Krakauer - arXiv preprint arXiv:2607.18460, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Humans have always externalized thought onto tools, from the tally and the abacus to the map and, now, large language models. I model the agent, the tool, and the task as one dynamical system in which competence (what the user retains) and reliance ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Krakauer (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.18460"/>
-    <published>2026-07-26T05:01:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Boral, SK Sarkar, M Edmonds, P Muruganandam... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We numerically investigate the effects of a density-dependent gauge potential which induces nonlinear rotation on a Bose-Einstein condensate confined in a toroidal trapping geometry. By focusing on the resulting vortex lattice configurations, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.19840"/>
+    <published>2026-07-26T10:34:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7618f1c92b#1</id>
-    <title>WHY 1ºC IS MORE JUST THAN 1.5 ºC</title>
-    <updated>2026-07-26T05:01:40+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761f1d575b#0</id>
+    <title>Autonomization of Quantum Systems and the Emergence of the Work Operator</title>
+    <updated>2026-07-26T10:34:49+00:00</updated>
     <author>
-      <name>Timothy Lenton</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Gupta, T Lenton, Y Chen, A Heras...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The 1992 United Nations Framework Convention on Climate Change aimed at the:"stabilization of greenhouse gas concentrations in the atmosphere that would prevent dangerous anthropogenic interference with the climate system. Such a level ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://cliffproject.eu/wp-content/uploads/2026/07/Updated-PB-6.pdf"/>
-    <published>2026-07-26T05:01:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7618f1c92b#0</id>
-    <title>The relative productivity index for assessing local impacts on rangeland condition: Refinement and evaluation</title>
-    <updated>2026-07-26T05:01:40+00:00</updated>
-    <author>
-      <name>Timothy Lenton</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GA Lomax, TWR Powell, TM Lenton, AM Cunliffe - Rangelands, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; On the Ground• The relative productivity index (RPI) compares observed vegetation productivity with the potential productivity of healthy, undegraded rangelands, estimated from climate, soils, and topography using a machine learning model. This ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S019005282600060X"/>
-    <published>2026-07-26T05:01:40+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7618f1c8e4#0</id>
-    <title>1Autism Research Centre, Department of Psychiatry, University of Cambridge, Cambridge, UK. 2Nic Waals Institute, Lovisenberg Diaconal Hospital, Oslo, Norway ...</title>
-    <updated>2026-07-26T05:01:41+00:00</updated>
-    <author>
-      <name>Varun Warrier</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Warrier, X Zhang, P Reed, A Havdahl, TM Moore...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Articles https://doi.org/10.1038/s41588-022-01072-5 1Autism Research Centre, Department of Psychiatry, University of Cambridge, Cambridge, UK. 2Nic Waals Institute, Lovisenberg Diaconal Hospital, Oslo, Norway. 3Department of Mental ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/f3bb1441-ec11-4e2a-b3ff-6fb30d817e39/content"/>
-    <published>2026-07-26T05:01:41+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f02853c#2</id>
-    <title>requirements for the degree of Doctor of Philosophy University of Washington 2023 Reading Committee</title>
-    <updated>2026-07-26T08:15:05+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Agol, D Foreman-Mackey, J Davenport&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... likely that this count underestimates the number of exoplanet studies pub- ... exoplanets do not contain the word " exoplanet " but rather refer directly to the exoplanet ... member of the class of planets we now refer to as "hot Jupiters ". These are gas giants that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/4fa33d93-b5b3-4e54-b1b2-ab474ae58833/content"/>
-    <published>2026-07-26T08:15:05+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f02853c#1</id>
-    <title>c? Copyright 2012 Tyler D. Robinson</title>
-    <updated>2026-07-26T08:15:05+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TD Robinson, VS Meadows, D Crisp, D Catling&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... fundamental properties with the kind of life we already know and understand. ... timely to ask two important questions: How do we recognize a distant exoplanet as being ... After an initial decade dominated by the discovery of Jupiter -mass planets ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/f3ea6619-907f-442e-b886-5296b2b11017/content"/>
-    <published>2026-07-26T08:15:05+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f02853c#0</id>
-    <title>TO WA RDSGENERALIZEDCHARACT ERIZ AT IONOF EXOPLANET AT MOSPHERESWITHTRANSITS PECTROSCOPY luis carlos welbanks camarena Supervisor ...</title>
-    <updated>2026-07-26T08:15:05+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DAT ION&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... ties in the next two decades will deliver exquisite spectra of exoplanet at- ... tional trends across the exoplanet mass range, and considerations for ... In order to fully understand the nature of an exoplanet , we must turn to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/787ee009-a2b9-4e52-8895-c58d5d109d4d/content"/>
-    <published>2026-07-26T08:15:05+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f0284d8#1</id>
-    <title>Concept and Development of a Multimodal Bioanalytic Laboratory for the In-Situ Exploration of Icy Ocean Worlds</title>
-    <updated>2026-07-26T08:15:06+00:00</updated>
-    <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Tepecik, M Urbach, P Ohlig, Y Aboudrare... - Frontiers in Astronomy and Space ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The definition of life and its universal attributes remains debated, making extraterrestrial life ... approaches capable of probing multiple classes of biosignatures . Here we present the concept ... biosignature detection and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2026.1894853/full"/>
-    <published>2026-07-26T08:15:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f0284d8#0</id>
-    <title>Triton as an archetype for icy ocean worlds : Key scientific drivers for future exploration</title>
-    <updated>2026-07-26T08:15:06+00:00</updated>
-    <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Wang, H Li, Y Wang, J He, J Hao, R Liu, J Li, B Yu... - Fundamental Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The search for extraterrestrial life and the study of planetary habitability represent a core frontier in planetary science and astrobiology , ... liquid oceans of icy satellites have emerged as prime targets in the search for extraterrestrial life due to their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S266732582600628X"/>
-    <published>2026-07-26T08:15:06+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#9</id>
-    <title>obal Ecology</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Tudge&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In Global Ecology, eminent science writer Colin Tudge offers an authoritative overview of ecological science, one that encompasses the many diverse terrains, climates and habitats of our planet while emphasizing the global unity of the Earth's ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3ceabb31-bcf9-4898-a359-b91bd85887fc/content"/>
-    <published>2026-07-26T08:15:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#8</id>
-    <title>Supplemental Material: Meteor over New York City: Brines in a primitive CM asteroid</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Jenniskens, ME Zolensky, A Gordon, J Gordon...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The CI (Ivuna-type) carbonaceous material returned from asteroids Ryugu and Bennu contain mobilized sodium from the evaporation or freezing of liquid water into brines, shedding light on the internal structure of ice-rich CI-type worlds and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://digitallibrary.amnh.org/items/adc162dc-5ed1-49a2-8803-f4ebc036e0be"/>
-    <published>2026-07-26T08:15:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#7</id>
-    <title>Parasites constrain within-population diversification while accelerating between-population divergence in an RNA replication system</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Kanai, N Ichihashi - Molecular Biology and Evolution, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Diversification of replicators from simple self-replicating RNA molecules is a major challenge in prebiotic evolution. In our previous evolution experiment using an RNA replication system derived from the Qβ phage, a single RNA species spontaneously ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msag184/69866624/msag184.pdf"/>
-    <published>2026-07-26T08:15:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#6</id>
-    <title>Efficacy of prebiotics, probiotics, and postbiotics on depression: a systematic review and meta-analysis of randomized controlled trials</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Anjum, Z Ahmed, F Anjum, S Liaqat - Nutritional Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Evidence for prebiotic and postbiotic interventions remains inconclusive. Overall, substantial heterogeneity was observed across studies, and findings should be interpreted cautiously. Further well-designed randomized controlled trials are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/full/10.1080/1028415X.2026.2703621"/>
-    <published>2026-07-26T08:15:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#5</id>
-    <title>Emergence_Intelligence_Necessity_Immanence</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Paganellli&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... A main tenet of the research about the origin of life , whether natural or artificial, is that life can be said to emerge from non-life ( abiogenesis ) when selfreplicators appear. Interactions lead to complex organisations, these to self-replication. To this ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://research.gold.ac.uk/id/eprint/40728/1/Mattia%20Paganelli%20Emergence_Intelligence_Necessity_Immanence.pdf"/>
-    <published>2026-07-26T08:15:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#4</id>
-    <title>Modified homogalacturonan-rich citrus pectin as potential next-generation prebiotics</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Poppe, JN Humerez Flores, S Vieira-Silva, J Raes... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the goal of identifying the most promising candidate for a next-generation prebiotic . Our findings highlighted CP3 MOD 2, a highly linear citrus-derived pectin fraction, as a strong prebiotic candidate. CP3 MOD 2 promoted the abundances of butyrate-producing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/pdf/10.1080/09637486.2026.2704773"/>
-    <published>2026-07-26T08:15:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#3</id>
-    <title>Eckol-rich phlorotannins and fucoidan from brown seaweeds promote lactic acid Bacteria growth and postbiotic production</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MA Praveen, L Yu, C Selva, V Bulone - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... as prebiotic substrates for enhancing SCFA and GABA production by specific probiotic LAB strains remains limited. Our study focused on evaluating the prebiotic ... , establishing a novel, marine-derived, multifunctional prebiotic system for targeted ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626026919"/>
-    <published>2026-07-26T08:15:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#2</id>
-    <title>Effects of a high-purity fructo-oligosaccharide mixture on single-strain gut microbiota</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Veljković, M Simović, K Banjanac, A Petrov Ivanković... - 1ST SOUTH-EAST ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The purified FOS mixture was then used to assess the prebiotic potential through the growth of individual gut bacterial strains. The results ... To more reliably assess the prebiotic potential of the obtained FOS mixture, further investigations with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://technorep.tmf.bg.ac.rs/handle/123456789/9013"/>
-    <published>2026-07-26T08:15:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#1</id>
-    <title>Assessing conventionally bred lentil (Lens culinaris Medik) cultivars for adaptation to organic cropping systems in the southeastern USA</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Dempsey, T Lawrence, E Shipe, S Kumar - Scientific reports&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Lentil is a rich dietary source of protein and prebiotic carbohydrates, supporting human gut health. This study determined the grain yield, ... Total known prebiotic carbohydrates ranged from 1.9 to 10.9 g/100 g with 45-57 g/100 g total starch ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42481655/"/>
-    <published>2026-07-26T08:15:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f028451#0</id>
-    <title>Carbamoyl phosphate-mediated peptide formation in mild prebiotic environment</title>
-    <updated>2026-07-26T08:15:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Zheng, F Chen, M Zhang, S Yu, S Xie, Y Zhao, J Ying - Communications Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of CAP as a promising prebiotic agent for N-carbamoylation.However, there has been insufficient research on the role of CAP in prebiotic amino acid condensation. Therefore, this work focuses on the CAP-mediated synthesis of prebiotic peptides ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s42004-026-02149-6_reference.pdf"/>
-    <published>2026-07-26T08:15:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Cepollaro, D Chughtai, A Spalvieri, M Huber... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Estimation of work at the quantum scale remains a central challenge in quantum thermodynamics. Canonical approaches have a fundamental drawback: they assume classical control of the quantum system, as implicit in a time-dependent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.20602"/>
+    <published>2026-07-26T10:34:49+00:00</published>
   </entry>
 </feed>
