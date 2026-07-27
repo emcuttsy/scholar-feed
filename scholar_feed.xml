@@ -2,63 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-07-26T14:54:43.431454+00:00</updated>
+  <updated>2026-07-27T16:05:19.006045+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f1d5794#0</id>
-    <title>Catastrophic disruption cascades driven by the nonlinearity of systemic risk</title>
-    <updated>2026-07-26T10:34:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761fc6f95a#0</id>
+    <title>Causal Emergent State Representation Learning for Control</title>
+    <updated>2026-07-27T15:38:58+00:00</updated>
     <author>
-      <name>Stefan Thurner</name>
+      <name>Fernando E. Rosas</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Fialkowski, S Havlin, S Thurner - arXiv preprint arXiv:2607.20068, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Whether the COVID-19 pandemic or the Iran war, recent events have highlighted the systemic fragility of supply chains. Due to highly specific and mutual buyer-supplier dependencies, even the failure of a single firm can cause system-wide economic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.20068"/>
-    <published>2026-07-26T10:34:48+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Clauw, F Rosas, D Marinazzo - ... Reinforcement Learning Beyond Rewards Workshop at ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Many real-world reinforcement learning problems involve controlling complex systems (swarming, fluid dynamics, chemistry) where the task-relevant state is an emergent collective variable not carried by any individual component. In this work ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
+    <link href="https://openreview.net/pdf?id=Ss6iuIwv3J"/>
+    <published>2026-07-27T15:38:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f1d575b#3</id>
-    <title>Emergence of Hexanematic Order in a Growing Confluent Cell Monolayer</title>
-    <updated>2026-07-26T10:34:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761fc6f891#0</id>
+    <title>Cautious optimism for deep parameterized quantum circuits</title>
+    <updated>2026-07-27T15:38:59+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HL Too, F Dary, ISY Ling, DE Theofilusa, D Zhang... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Collective migration of epithelial layers underlies processes ranging from wound healing to cancer invasion. A defining yet challenging feature is the emergence of distinct cell morphologies within a single migrating confluent sheet, with larger ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.19963"/>
-    <published>2026-07-26T10:34:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Kempkes, E Gil-Fuster, C Bravo-Prieto, A Ijaz... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A central challenge in quantum machine learning is understanding the scaling behavior of parameterized quantum circuits (PQCs). In particular, it remains unclear how their performance on unseen data changes as the number of trainable ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2607.21409"/>
+    <published>2026-07-27T15:38:59+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f1d575b#2</id>
-    <title>Perspective Latents as an Architectural Condition for Causal Emergence in Active Inference Agents</title>
-    <updated>2026-07-26T10:34:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761fc6f752#0</id>
+    <title>Refining drug classes: a multidimensional, data-driven map of antidepressant pharmacology</title>
+    <updated>2026-07-27T15:39:01+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Federico Turkheimer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Pae -arXivpreprintarXiv:2607.20708, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A recent line of work measures causal emergence in reinforcement learning agents through Integrated Information Decomposition, reporting that $\Phi_r$ grows with training and tracks reward improvement. For active inference, this raises the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.20708"/>
-    <published>2026-07-26T10:34:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Martins, L Fernandes, SCR Williams, F Turkheimer... - Biological Psychiatry Global ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Traditional classifications of antidepressant medications are organised around primary molecular targets or historical development pathways. However, these categorical systems obscure substantial heterogeneity in receptor-and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2667174326001096"/>
+    <published>2026-07-27T15:39:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f1d575b#1</id>
-    <title>Emergence of giant vortices under nonlinear rotation with attractive interactions in a toroidal condensate</title>
-    <updated>2026-07-26T10:34:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761fc6f690#0</id>
+    <title>The Seasons of a Career in Physical Chemistry: Nathan Baker</title>
+    <updated>2026-07-27T15:39:02+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Gregory Scholes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Boral, SK Sarkar, M Edmonds, P Muruganandam... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We numerically investigate the effects of a density-dependent gauge potential which induces nonlinear rotation on a Bose-Einstein condensate confined in a toroidal trapping geometry. By focusing on the resulting vortex lattice configurations, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.19840"/>
-    <published>2026-07-26T10:34:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Baker, JE Shea, GD Scholes, GC Solomon - ACS Physical Chemistry Au, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Physical Chemistry Letters. The series celebrates the people behind physical chemistry, giving researchers at all career stages the opportunity to tell their own stories: how they came to be where they are today, the joys and challenges they ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://pubs.acs.org/doi/full/10.1021/acsphyschemau.6c00113"/>
+    <published>2026-07-27T15:39:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761f1d575b#0</id>
-    <title>Autonomization of Quantum Systems and the Emergence of the Work Operator</title>
-    <updated>2026-07-26T10:34:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761fc6f523#0</id>
+    <title>Disentangling Gaia and the Earth System</title>
+    <updated>2026-07-27T15:39:04+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Timothy Lenton</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Cepollaro, D Chughtai, A Spalvieri, M Huber... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Estimation of work at the quantum scale remains a central challenge in quantum thermodynamics. Canonical approaches have a fundamental drawback: they assume classical control of the quantum system, as implicit in a time-dependent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.20602"/>
-    <published>2026-07-26T10:34:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TM Lenton, S Dutreuil - Tellus, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The foundational article on Gaia was published in Tellus in 1974. Contrary to the popular story, that this triggered scientific controversy with evolutionary biologists, Gaia's central legacy is within Earth and environmental sciences. The constitution of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://tellusjournal.org/articles/4132"/>
+    <published>2026-07-27T15:39:04+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761fc6f49b#0</id>
+    <title>The magneto-elastic instability of Kirchhoff rings</title>
+    <updated>2026-07-27T15:39:05+00:00</updated>
+    <author>
+      <name>Prof. Alain Goriely FRS</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Napoli, G Saccomandi, Y Liu, R De Luca, A Goriely - Proceedings of the Royal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding the interplay between electromagnetic forces and elasticity is a fundamental problem in the mechanics of deformable structures, particularly when electrical currents interact with magnetic fields to generate distributed body forces. A ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Prof. Alain Goriely FRS (author alert)</content>
+    <link href="https://ora.ox.ac.uk/objects/uuid:67a36c3c-5d56-4263-95b3-eece6710ec89"/>
+    <published>2026-07-27T15:39:05+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761fc6f35a#0</id>
+    <title>The genome sequence of the European Free-tailed Bat, Tadarida teniotis (Rafinesque, 1814)(Chiroptera: Molossidae)</title>
+    <updated>2026-07-27T15:39:07+00:00</updated>
+    <author>
+      <name>Sonja Vernes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Ruedi, SC Vernes, EC Teeling, M Mai... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual female Tadarida teniotis (European Free-tailed Bat; Chordata; Mammalia; Chiroptera; Molossidae). The assembly contains two haplotypes with total lengths of 2 587.88 megabases and 2 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
+    <link href="https://wellcomeopenresearch.org/articles/11-454"/>
+    <published>2026-07-27T15:39:07+00:00</published>
   </entry>
 </feed>
