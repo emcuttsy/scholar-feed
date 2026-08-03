@@ -2,96 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-03T09:42:44.223816+00:00</updated>
+  <updated>2026-08-03T16:12:33.208044+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7613c2ed36#0</id>
-    <title>Constraining the lives and times of exoplanets through evolutionary Bayesian retrievals</title>
-    <updated>2026-08-03T04:21:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#5</id>
+    <title>Asymptotic emergence of statistically supported false causal interpretation under unmeasured confounding</title>
+    <updated>2026-08-03T12:48:16+00:00</updated>
     <author>
-      <name>Tim Lichtenberg</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Nicholls, T Lichtenberg, B Riegler, R Calder... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Static retrieval frameworks are leading tools for interpreting exoplanet observations, yet time-independent modelling leaves them prone to degeneracy and unable to resolve exoplanets' histories. The compositions and structures of surveyed super ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tim Lichtenberg (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.25845"/>
-    <published>2026-08-03T04:21:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MLF Ramos -arXivpreprintarXiv:2607.27593, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Unmeasured confounding is widely recognized as a limitation of observational causal inference, but its implications for data-driven causal discovery are often understated. We provide an asymptotic characterization of this limitation. When the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.27593"/>
+    <published>2026-08-03T12:48:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7613c2ec21#0</id>
-    <title>Quantum Computing</title>
-    <updated>2026-08-03T04:22:02+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#4</id>
+    <title>Continuous Game of Life: cell emergence and self-organization at the edge of growth</title>
+    <updated>2026-08-03T12:48:16+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Carolan, AM Childs, M Kovacs-Deak, L Schaeffer... - ACM Transactions on, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ordered search is a fundamental computational primitive with broad applications. The problem asks, given a sorted list of 𝑛 numbers, to find the location of some specified target. In the classical context, ordered search is solved by the standard ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://dl.acm.org/doi/pdf/10.1145/3759569"/>
-    <published>2026-08-03T04:22:02+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Guillet, F Jülicher -arXivpreprintarXiv:2607.27402, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Resemblance to biological processes such as division, motility, and death, together with a concise formulation and numerical implementation, makes the continuous Game of Life an appealing model system for investigating the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.27402"/>
+    <published>2026-08-03T12:48:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7613c2ebc8#0</id>
-    <title>AI, Consciousness and Ethics: Round Table</title>
-    <updated>2026-08-03T04:22:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#3</id>
+    <title>Phase transitions and microphases in elastomers. I. Emergence of stable domains</title>
+    <updated>2026-08-03T12:48:16+00:00</updated>
     <author>
-      <name>Murray Shanahan</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Dorsch, M Shanahan, A Chella, K Šekrst, R Chrisley... - AISB (The Society for the study of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This two-day AISB-26 symposium includes contributions discussing the many ethical issues that arise over AI Consciousness research–in particular the potential for such research to produce systems that have their own moral standing (either as agents or ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Murray Shanahan (author alert)</content>
-    <link href="https://www.croris.hr/crosbi/publikacija/prilog-skup/956790"/>
-    <published>2026-08-03T04:22:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Mannattil, H Diamant, D Andelman -arXivpreprintarXiv:2607.27516, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Consequently, instead of a macroscopic phase separation into solvent-rich and polymer-rich domains, we expect the emergence of a periodic pattern of alternating solvent-rich and polymer-rich regions. Minimizing Fq in Eq. (14) with respect to q, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.27516"/>
+    <published>2026-08-03T12:48:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7613c2eb52#0</id>
-    <title>Mendelian Randomization Analysis of the IL-1 Cytokine Family Proteins Identifies IL1RL1 as a Potential Causal Contributor to Traumatic Brain Injury Prognosis</title>
-    <updated>2026-08-03T04:22:04+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#2</id>
+    <title>Emergence of a Macroscopic Cat State and Multi-Channel Entanglement in a Frustrated Cluster Spin Chain</title>
+    <updated>2026-08-03T12:48:16+00:00</updated>
     <author>
-      <name>Varun Warrier</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Bhak, A Helmy, EJ Needham, DK Menon, V Warrier... - Neurocritical Care, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Traumatic brain injury (TBI) is a leading preventable cause of death and disability worldwide. Inflammatory mechanisms contribute to secondary brain injury, and the interleukin-1 (IL-1) cytokine family has emerged as a potential contributor ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s12028-026-02575-3"/>
-    <published>2026-08-03T04:22:04+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Bera, A Anglés-Castillo, AA Meléndez... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study a one-dimensional frustrated spin chain, which combines cluster-Ising and anisotropic next-nearest neighbor Ising models. We first offer a historical perspective that justifies the studied model. Then we study in detail the two quantum phases and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.28373"/>
+    <published>2026-08-03T12:48:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7613c2ea51#0</id>
-    <title>c? Copyright 2012 Sarah Jane Schmidt</title>
-    <updated>2026-08-03T04:22:07+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#1</id>
+    <title>Microscopic Emergence of Ancilla Lattice Physics in the Emery Model</title>
+    <updated>2026-08-03T12:48:16+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SJ Schmidt, SL Hawley, AC Becker, AJ Burgasser...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; c?Copyright 2012 Sarah Jane Schmidt Activity and Kinematics of Cool and Ultracool Dwarfs Sarah Jane Schmidt A dissertation submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy University of Washington 2012 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/1c117323-0086-458b-ad94-101d0e9bfdb7/content"/>
-    <published>2026-08-03T04:22:07+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Walicki, J Knolle, K Wohlfeld -arXivpreprintarXiv:2607.26869, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We derive a controlled low-energy effective theory for the three-band Emery model on the Lieb lattice near (n=2) filling. Starting from the positive charge-transfer regime, a sequence of Schrieffer--Wolff transformations rigorously establishes a direct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.26869"/>
+    <published>2026-08-03T12:48:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7613c2e9df#0</id>
-    <title>Deliverable D2. 7 Replication coupled to coacervation</title>
-    <updated>2026-08-03T04:22:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#0</id>
+    <title>The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence , Plasticity Loss, and Circuit Control in Language Models</title>
+    <updated>2026-08-03T12:48:16+00:00</updated>
     <author>
-      <name>Sijbren Otto</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Otto&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Deliverable D2.7 Replication coupled to coacervation Page 1 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sijbren Otto (author alert)</content>
-    <link href="https://darchem-dn.eu/wp-content/uploads/sites/71/2026/05/DarChemDN_Deliverable_D2.7.pdf"/>
-    <published>2026-08-03T04:22:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7613c2e8f2#0</id>
-    <title>How large should academic departments be?</title>
-    <updated>2026-08-03T04:22:11+00:00</updated>
-    <author>
-      <name>Aaron Clauset</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Bachmann, L Espín-Noboa, F Karimi, DB Larremore... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Academic departments are the primary unit of scholarship and education at universities, and they vary vastly in their sizes. However, the consequences and natural dynamics of department size are poorly understood. Small departments face ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Aaron Clauset (author alert)</content>
-    <link href="https://arxiv.org/pdf/2607.22189"/>
-    <published>2026-08-03T04:22:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7613c1e89f#0</id>
-    <title>The Thickness of Musical Pitch</title>
-    <updated>2026-08-03T04:32:31+00:00</updated>
-    <author>
-      <name>Asifa Majid</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Dolscheid, S Shayan, A Majid, D Casasanto - Psychol. Sci&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Do people who speak different languages think differently, even when they are not using language? To find out, we used nonlinguistic psychophysical tasks to compare mental representations of musical pitch in native speakers of Dutch and Farsi. Dutch ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Asifa Majid (author alert)</content>
-    <link href="https://www.psychologicalscience.org/journals/psychological-science/0956797612457374/"/>
-    <published>2026-08-03T04:32:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Dong -arXivpreprintarXiv:2607.27281, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A capability appears in a language model when the last parts of its circuit align in one stochastic attempt, and getting all but one right is worth nothing. We show this no-partial-credit joint alignment is the rate-limiting step of capability formation. Two fingerprints: in a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.27281"/>
+    <published>2026-08-03T12:48:16+00:00</published>
   </entry>
 </feed>
