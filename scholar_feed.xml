@@ -2,74 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-03T16:12:33.208044+00:00</updated>
+  <updated>2026-08-04T08:35:14.060250+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#5</id>
-    <title>Asymptotic emergence of statistically supported false causal interpretation under unmeasured confounding</title>
-    <updated>2026-08-03T12:48:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761222a837#0</id>
+    <title>Stellar Activity, Exoplanet , Habitability, Planetary Atmospheres</title>
+    <updated>2026-08-03T16:36:41+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MLF Ramos -arXivpreprintarXiv:2607.27593, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Unmeasured confounding is widely recognized as a limitation of observational causal inference, but its implications for data-driven causal discovery are often understated. We provide an asymptotic characterization of this limitation. When the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.27593"/>
-    <published>2026-08-03T12:48:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Segura, M Güdel, K Herbst, D Nandy, A Paul... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In the solar system, this boundary successfully distinguishes atmosphere-bearing bodies such as Earth, Venus , Titan , and Triton from ... Being Earth the only planet with life , our tools to infer if there is life on others planets are chemistry principles ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.27531"/>
+    <published>2026-08-03T16:36:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#4</id>
-    <title>Continuous Game of Life: cell emergence and self-organization at the edge of growth</title>
-    <updated>2026-08-03T12:48:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#9</id>
+    <title>An Erdős-Inspired Perspective on Abiogenesis</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Guillet, F Jülicher -arXivpreprintarXiv:2607.27402, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Resemblance to biological processes such as division, motility, and death, together with a concise formulation and numerical implementation, makes the continuous Game of Life an appealing model system for investigating the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.27402"/>
-    <published>2026-08-03T12:48:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Tozzi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Consequently, a general theoretical question is unresolved: was the emergence of life an exceptionally improbable accident or is it an inevitable consequence of sufficiently rich chemical organization? To tackle the question, we address ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/1e8c5f2d609ab8dda7360a8d99906025/download_pub"/>
+    <published>2026-08-03T16:36:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#3</id>
-    <title>Phase transitions and microphases in elastomers. I. Emergence of stable domains</title>
-    <updated>2026-08-03T12:48:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#8</id>
+    <title>Effects of a prebiotic fibre-enriched bread in older adults: a randomised, placebo-controlled, parallel-groups feasibility study (BiomeBakery)</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Mannattil, H Diamant, D Andelman -arXivpreprintarXiv:2607.27516, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Consequently, instead of a macroscopic phase separation into solvent-rich and polymer-rich domains, we expect the emergence of a periodic pattern of alternating solvent-rich and polymer-rich regions. Minimizing Fq in Eq. (14) with respect to q, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.27516"/>
-    <published>2026-08-03T12:48:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Lee, R Colombage, CV Hall, D Lamport, C Williams... - The Journal of Nutrition ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Effects of a prebiotic fibre-enriched bread in older adults: a randomised, placebo-controlled, parallel-groups feasibility study (BiomeBakery... Effects of a prebiotic fibre-enriched bread in older adults: a randomised, placebo-controlled, parallel-groups feasibility ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://centaur.reading.ac.uk/131127/"/>
+    <published>2026-08-03T16:36:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#2</id>
-    <title>Emergence of a Macroscopic Cat State and Multi-Channel Entanglement in a Frustrated Cluster Spin Chain</title>
-    <updated>2026-08-03T12:48:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#7</id>
+    <title>Physicochemical and Rheological properties of fortified cocoa milk containing prebiotic lactulose and stevia for individuals with Dysphagia</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Bera, A Anglés-Castillo, AA Meléndez... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study a one-dimensional frustrated spin chain, which combines cluster-Ising and anisotropic next-nearest neighbor Ising models. We first offer a historical perspective that justifies the studied model. Then we study in detail the two quantum phases and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.28373"/>
-    <published>2026-08-03T12:48:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Beheshti, N Rahdar, M Farhoodi, AE Pure...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Dysphagia increases the risk of choking, aspiration, dehydration, and malnutrition, creating a need for nutritious beverages with controlled flow properties that remain stable from serving to oral temperature. To develop a fortified cocoa milk containing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchsquare.com/article/rs-10283234/latest.pdf"/>
+    <published>2026-08-03T16:36:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#1</id>
-    <title>Microscopic Emergence of Ancilla Lattice Physics in the Emery Model</title>
-    <updated>2026-08-03T12:48:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#6</id>
+    <title>... and the Emergence of Molecular Order in Early Life: A General Phenomenological Framework for Disorder-Limited Surface Symmetry Breaking, Applied to Prebiotic ...</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Walicki, J Knolle, K Wohlfeld -arXivpreprintarXiv:2607.26869, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We derive a controlled low-energy effective theory for the three-band Emery model on the Lieb lattice near (n=2) filling. Starting from the positive charge-transfer regime, a sequence of Schrieffer--Wolff transformations rigorously establishes a direct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.26869"/>
-    <published>2026-08-03T12:48:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Sandler&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Many physical and chemical systems exhibit emergent macroscopic order despite substantial microscopic disorder; we investigate this general phenomenon through mineral-surface homochirality in prebiotic chemistry. We introduce a new ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchsquare.com/article/rs-10232898/latest.pdf"/>
+    <published>2026-08-03T16:36:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76120cffd3#0</id>
-    <title>The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence , Plasticity Loss, and Circuit Control in Language Models</title>
-    <updated>2026-08-03T12:48:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#5</id>
+    <title>Causal Architecture Dynamics Prior to Arrival of Self-replicators in a Model of Catalytic Networks Relevant to Origin - of - Life</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Dong -arXivpreprintarXiv:2607.27281, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A capability appears in a language model when the last parts of its circuit align in one stochastic attempt, and getting all but one right is worth nothing. We show this no-partial-credit joint alignment is the rate-limiting step of capability formation. Two fingerprints: in a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2607.27281"/>
-    <published>2026-08-03T12:48:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Pigozzi, M Levin - arXiv preprint arXiv:2607.28250, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Agents that exert causal power in the world are thought to be the product of selection among diverse replicators; what is the causal structure of a medium before replicators appear, and evolution takes hold? We studied information-theoretic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2607.28250"/>
+    <published>2026-08-03T16:36:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#4</id>
+    <title>Glycolaldehyde: from a prebiotic hub to a synthetic biology hub for sustainable biomanufacturing</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kim, C Zhang - Systems Microbiology and Biomanufacturing, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Inspired by its critical role in prebiotic chemistry, this review evaluates the metabolic landscape of glycolaldehyde-centric metabolic pathways and their capacity to bridge diverse feedstocks with central metabolism. We first survey routes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s43393-026-00530-z"/>
+    <published>2026-08-03T16:36:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#3</id>
+    <title>Prevention of Intestinal Inflammation and Gut Dysbiosis by Prebiotic Grape Seed Flour in Mice with DSS-Induced Colitis</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Mokrani, M Le Barz, AM Elie, É Renouf, JM Mérillon... - Pharmaceuticals, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Inflammatory bowel disease is a complex intestinal inflammatory disorder linked to immune dysregulation, oxidative stress, and an imbalance in the gut microbiota. Grape seed flour (GSF), a winemaking by-product rich in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/1424-8247/19/8/1189"/>
+    <published>2026-08-03T16:36:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#2</id>
+    <title>The RNA world hypothesis: Strengths, weaknesses, and unresolved challenges</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IA Aly -Origin of LifeReview Series, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... by RNA's chemical complexity and the difficulty of prebiotic synthesis, and recent breakthroughs including the ... metabolism - first models — and conclude that while the RNA World remains the best-supported framework for the emergence of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/132937520/Paper2_RNA_World_Hypothesis.pdf"/>
+    <published>2026-08-03T16:36:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#1</id>
+    <title>The gut microbiota mediates the antidepressant effects of imipramine: Evidence from fecal microbiota transplantation and prebiotic inulin intervention</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Chen, Y Lan, J Yi, X Qi, L Liu, S Liu, X Xu, H Liu... - Psychopharmacology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Many antidepressants exert their effects by modulating the gut microbiota, but it is unknown if this mechanism extends to the tricyclic antidepressant imipramine. Objective We probed the extent to which specific gut bacterial taxa ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s00213-026-07135-3"/>
+    <published>2026-08-03T16:36:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761222a714#0</id>
+    <title>Hydrogen peroxide on Mars and icy moons: Implications for the search for extraterrestrial signatures of prebiotic chemistry</title>
+    <updated>2026-08-03T16:36:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Lin, R Yi, AC Fahrenbach, HJ Cleaves II, YG Xu - Fundamental Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in prebiotic chemistry that potentially had a large impact on life's early evolution. We highlight recent examples of H 2 O 2 in prebiotic syntheses ... Given that Earth's active geological processes have erased records of the earliest prebiotic chemical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2667325826006345"/>
+    <published>2026-08-03T16:36:43+00:00</published>
   </entry>
 </feed>
