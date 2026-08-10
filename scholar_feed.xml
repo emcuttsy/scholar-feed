@@ -2,173 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-09T14:22:10.799506+00:00</updated>
+  <updated>2026-08-10T07:39:30.615318+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761790237e#1</id>
-    <title>Isomorphic Emergence of Lorentz and Gauge Symmetries--A Constructive Interpretation Based on Continuum Mechanics</title>
-    <updated>2026-08-09T09:00:07+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KX Jiang -arXivpreprintarXiv:2608.06244, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Lorentz symmetry and gauge symmetry constitute the mathematical cornerstones of modern physics, yet their ultimate physical origins remain elusive. From the standpoint of a constructive interpretation, this paper demonstrates that both ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.06244"/>
-    <published>2026-08-09T09:00:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761790237e#0</id>
-    <title>Observing the emergence of a velocity hierarchy in matter waves</title>
-    <updated>2026-08-09T09:00:07+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Yu, W Chen, I Zhuravlev, Y Zeng, S Dhar, M Horvath... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Classical waves in dispersive media naturally exhibit distinct phase and group velocities. Whether an analogous separation of velocities can emerge in matter waves under strong many-body interactions has remained experimentally ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.05241"/>
-    <published>2026-08-09T09:00:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#9</id>
-    <title>Influence of drying techniques on metabolite profile and available carbohydrate in green Awak banana</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Rahmawati, S Paramita, MMM Ikram, F Santoso... - Journal of Bioscience and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Green Awak banana ( Musa paradisiaca cv. Awak) is a tropical fruit widely cultivated in Indonesia and valued for its high resistant starch content, which contributes to improved glycemic control, gut health, and potential prebiotic effects. The growing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1389172326002458"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#8</id>
-    <title>In vitro digestion modifies Lepidium meyenii extract, altering its major glucosinolates, lepidilines, β-carbolines, and gut bacterial growth</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Tarabasz, E Baranowska-Wójcik, P Szczeblewski... - Journal of Food and Drug ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In addition, the red maca extract exhibited prebiotic activity by promoting the growth of selected lactic acid bacteria, with Lactococcus lactis showing the most pronounced response, suggesting that maca-derived preparations may hold ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.jfda-online.com/cgi/viewcontent.cgi?article=3602&amp;context=journal"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#7</id>
-    <title>Enteral nutrition, gut microbiota alterations, and SIBO-related outcomes in critically ill patients: a systematic review</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EM Pangkahila, IWG Sutadarma, IW Weta - Jurnal SAGO Gizi dan Kesehatan, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Studies evaluating fiber-or prebiotic -containing enteral formulas suggested potential increases in short-chain fatty acid (SCFA)-producing bacteria, although the findings remained inconsistent and were influenced by antibiotic exposure and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ejournal.poltekkesaceh.ac.id/index.php/gikes/article/view/3286"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#6</id>
-    <title>Synbiotic and postbiotic reuterin attenuate heat stress in rabbits by improving intestinal barrier function and modulating TLR4–NF-κB signalling</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Abd El Ghany, HM Yassin, RM Mosaad... - Research in Veterinary ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Heat stress disrupts intestinal barrier integrity, immune homeostasis, and growth in rabbits, a species highly sensitive to thermal challenges. Microbiota-targeted interventions represent a potential strategy to mitigate these effects. This study ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0034528826003073"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#5</id>
-    <title>Ultrasound-Assisted enzymatic extraction of polysaccharides from agricultural By-Products: A comprehensive review</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Bibi, U Roobab, U Zulfiqar, S Ansar, S Hussain... - Ultrasonics Sonochemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These residual materials contain functional polysaccharides with antioxidant, immunomodulatory, prebiotic , and hypoglycemic properties. Conventional extraction methods have limitations, including prolonged processing times, excessive energy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1350417726002580"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#4</id>
-    <title>A Zetetic Philosophy of Scientific Modeling: Target, Evaluation and Representation under Referential Indeterminacy</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Yang&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Scientists build, evaluate, and refine models of proposed entities such as cold dark matter halos, prebiotic lipid assemblies, and minimal forms of life, whose existence and defining features remain unsettled. I call this exploratory modeling ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://scholarship.miami.edu/esploro/outputs/doctoral/A-Zetetic-Philosophy-of-Scientific-Modeling/991033159106302976"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#3</id>
-    <title>Fructooligosaccharides modulate intestinal fermentation and immune response during Giardia lamblia infection in Meriones unguiculatus</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DRDE Oliveira, MBMP Antunes, VMDE Oliveira... - Anais da Academia ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Giardia lamblia infection alters gut physiology and microbiota interactions, but the impact of prebiotic supplementation in this context remains unclear. This study investigated how fructooligosaccharide (FOS) treatment affects microbial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42561356/"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#2</id>
-    <title>Evaluating Constructive Empiricism Using Competing Biological Theories</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AE Balderas&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... such, to further investigate van Fraassen's constructive empiricism, I will begin with a set of biological theories concerning the origin of life . ... The RNA World Theory The prevailing paradigm in the field of abiogenesis is the RNA World theory (Higgs ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://oaktrust.library.tamu.edu/bitstreams/79f71009-5236-4893-8534-e10d6a3e0807/download"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#1</id>
-    <title>Regulatory effects of chitosan and chito-oligosaccharides on gut microbiota and application in ameliorating inflammatory bowel disease</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Dai, H Li, S Liu, G Li - Trends in Food Science &amp; Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Chitosan and chito-oligosaccharides, chitin-derived polysaccharides with prebiotic potential, have attracted attention for their anti-... concentration, antimicrobial activity extends to commensals and offsets the prebiotic effect. Their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0924224426004620"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797de80#0</id>
-    <title>... remain fragmented: physics explains the movement of matter, philosophy explains consciousness and existence, theology explains the origin of life and death, and ...</title>
-    <updated>2026-08-09T09:02:57+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ICF Axiom&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Traditional simulated universe theories only offer the superficial conjecture that" the world is a virtual simulation," lacking operational rules, a purpose for existence, mechanisms of civilizational competition, and life and death—a fragmented ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Cosmology, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philpapers.org/archive/WANNCM-3.pdf"/>
-    <published>2026-08-09T09:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797ddc3#0</id>
+    <id>http://www.inoreader.com/article/3a9c6e76160dee56#0</id>
     <title>Euhabitability: a new term to aid in the search for life in addition to the habitable zone framework</title>
-    <updated>2026-08-09T09:03:00+00:00</updated>
+    <updated>2026-08-10T05:51:26+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Jacob Lustig-Yaeger</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DM Glaser, S Olson, S Berdyugina, P Byrne, P Cawood... - Space Science Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (suitable for life ), that addresses this confusion. In brief, a euhabitable exoplanet can exist outside the HZ (eg, a Europa -like planet), and ... 1993) created a useful tool, the HZ framework, as a method to assess if an exoplanet could possibly host ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DM Glaser, S Olson, S Berdyugina, P Byrne, P Cawood... - Space Science Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The search for life on exoplanets is difficult due to observational limitations stemming from vast separating distances. The Habitable Zone (HZ) is a simplifying framework for identifying exoplanets that may be suitable for life, given our observational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
     <link href="https://link.springer.com/article/10.1007/s11214-026-01315-5"/>
-    <published>2026-08-09T09:03:00+00:00</published>
+    <published>2026-08-10T05:51:26+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797dce9#1</id>
-    <title>GRAVITY+: reducing non-common-path aberrations for sub-10 {\mu} as astrometric accuracy</title>
-    <updated>2026-08-09T09:03:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76160dedba#0</id>
+    <title>Bioelectrical regionalization of multicellular aggregates by microRNAs</title>
+    <updated>2026-08-10T05:51:28+00:00</updated>
     <author>
-      <name>Laura Kreidberg</name>
+      <name>Michael Levin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Fournier, G Bourdarot, F Eisenhauer, H Feuchtgruber... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; GRAVITY is a state-of-the-art instrument for near-infrared astrometric interferometry that routinely achieves astrometric accuracy of 30-100 microarcsecond in its phase-referenced dual-field mode. However, its fundamental limit is not yet reached, and can still be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.05751"/>
-    <published>2026-08-09T09:03:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Egea-Carro, S Mafe, M Levin, J Cervera - The Journal of Chemical Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We theoretically explore how microRNAs (miRNAs) can modulate the expression of ion channel proteins and the resulting cell membrane potentials in multicellular aggregates. To this end, we simulate the spatiotemporal regionalizations that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
+    <link href="https://pubs.aip.org/aip/jcp/article/165/5/055102/3400410"/>
+    <published>2026-08-10T05:51:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761797dce9#0</id>
-    <title>The SPACE Program II: No discernible spectral features in the transmission spectrum of the sub-Neptune HD 191939 b observed with HST/WFC3</title>
-    <updated>2026-08-09T09:03:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76160ded4c#3</id>
+    <title>Using Motion-guided Foveation to Improve Physical Prediction in Latent Representation Video Models</title>
+    <updated>2026-08-10T05:51:29+00:00</updated>
     <author>
-      <name>Laura Kreidberg</name>
+      <name>Nancy Kanwisher</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Gapp, L Acuña-Aguirre, R Ashtari, M Damiano... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The atmospheres of sub-Neptunes provide a window into their internal structure and history, shedding light on the origin of this common, but enigmatic, class of exoplanets. However, the physical and chemical processes that shape sub-Neptunes' ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.05962"/>
-    <published>2026-08-09T09:03:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Sun, N Kanwisher, RT Pramod - 9th Annual Conference on Cognitive Computational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent research on video models used latent representations to predict physical interactions in large video datasets. Inspired by the biological visual system, we investigate whether incorporating motion-guided foveation improves physical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nancy Kanwisher (author alert)</content>
+    <link href="https://openreview.net/pdf?id=QFO8NpmUxk"/>
+    <published>2026-08-10T05:51:29+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76160ded4c#2</id>
+    <title>Origins of Category Selectivity: Natural Image Statistics Are Necessary but Not Sufficient</title>
+    <updated>2026-08-10T05:51:29+00:00</updated>
+    <author>
+      <name>Nancy Kanwisher</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Zheng, M Khosla, N Kanwisher - 9th Annual Conference on Cognitive Computational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How do category-selective responses arise in primate visual cortex? We used artificial neural networks to ask what conditions are necessary for category selectivity to emerge. We define three increasingly stringent measures of selectivity, the strictest ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nancy Kanwisher (author alert)</content>
+    <link href="https://openreview.net/pdf?id=gCTOAMCNSF"/>
+    <published>2026-08-10T05:51:29+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76160ded4c#1</id>
+    <title>A Benchmark for Physical Object Relationship Perception in Humans and Machines</title>
+    <updated>2026-08-10T05:51:29+00:00</updated>
+    <author>
+      <name>Nancy Kanwisher</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Woo, RT Pramod, N Kanwisher - 9th Annual Conference on Cognitive Computational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We introduce a benchmark dataset of synthetic 3D-rendered images spanning five physical object relationships (Attach, Contain, Cover, Separate, Support), each instantiated across varied objects, materials, viewpoints, and backgrounds, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nancy Kanwisher (author alert)</content>
+    <link href="https://openreview.net/pdf?id=PWgacHy134"/>
+    <published>2026-08-10T05:51:29+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76160ded4c#0</id>
+    <title>The Right STS Responds Preferentially to Communicative Signals</title>
+    <updated>2026-08-10T05:51:29+00:00</updated>
+    <author>
+      <name>Nancy Kanwisher</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E McMahon, N Kanwisher - 9th Annual Conference on Cognitive Computational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Our ability to perceive communicative signals---whether directed toward us or others-- -is central to social behavior. In the current fMRI study, participants viewed videos in which the same people in the same setting engaged in communicative interactions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nancy Kanwisher (author alert)</content>
+    <link href="https://openreview.net/pdf?id=jSGhPAn4RV"/>
+    <published>2026-08-10T05:51:29+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76160dc99f#0</id>
+    <title>Hippocampal representations of temporal context during visual statistical learning</title>
+    <updated>2026-08-10T05:52:50+00:00</updated>
+    <author>
+      <name>Zhenghan QI</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Tang, Z Qi - 9th Annual Conference on Cognitive Computational ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Temporal patterns embedded in sequential stimuli can facilitate the perception and memory of these stimuli after brief exposure. The role of the hippocampus in such a statistical learning (SL) process remains unclear. We investigated this problem with a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Zhenghan QI (author alert)</content>
+    <link href="https://openreview.net/pdf?id=tOci6Q7uMr"/>
+    <published>2026-08-10T05:52:50+00:00</published>
   </entry>
 </feed>
