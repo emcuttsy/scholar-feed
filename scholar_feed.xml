@@ -2,140 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-11T07:05:51.175872+00:00</updated>
+  <updated>2026-08-12T07:23:33.871063+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#9</id>
-    <title>Impact of synbiotic formulation on lactic acid bacteria viability and quality attributes of yogurt during cold storage</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7615359f83#0</id>
+    <title>Bright People know more about Wine</title>
+    <updated>2026-08-12T00:23:44+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Timothy C. Bates</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HS Olcay, M Yildirim-Yalcin, F Tarlak - Journal of Dairy Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study evaluated the impact of synbiotic formulation on lactic acid bacteria (LAB) viability and quality attributes of yogurt during cold storage. Yogurt was manufactured with traditional starter cultures (Lactobacillus delbrueckii subsp ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cambridge.org/core/journals/journal-of-dairy-research/article/impact-of-synbiotic-formulation-on-lactic-acid-bacteria-viability-and-quality-attributes-of-yogurt-during-cold-storage/161159C995A6E6AA2BF4D07B4DEB5CCE"/>
-    <published>2026-08-11T00:16:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Krolo, TC Bates - Intelligence &amp; Cognitive Abilities, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; General intelligence (g) is a robust predictor of success across numerous life domains, including academic achievement and occupational performance. However, these domains often involve strong external incentives or are linked to socio ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy C. Bates (author alert)</content>
+    <link href="https://icajournal.scholasticahq.com/article/165719.pdf"/>
+    <published>2026-08-12T00:23:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#8</id>
-    <title>Brassica rapa L. polysaccharides ameliorate chronic alcohol-induced liver injury by restoring bile acid metabolism through the gut–liver axis</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7615359f32#0</id>
+    <title>Nanopore-based profiling of PEGylation in nucleic acid</title>
+    <updated>2026-08-12T00:23:45+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jack W. Szostak</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Chen, A Li, F Ye, X Zhao, C Liu, Y Zhuang, Z Cuomu... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brassica rapa L. polysaccharides (BRLP) have prebiotic activity, but their effects on alcohol-induced liver injury and the gut–liver axis remain unclear; therefore, this study evaluated the protective effects of BRLP and examined the associated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226014276"/>
-    <published>2026-08-11T00:16:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#7</id>
-    <title>The space sciences 'tetrarchy'. Integration of astronomical observations, laboratory studies, theory and modelling within modern astrochemistry, astrobiology and ...</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Sivaraman, N John Mason - EPJ Web of Conferences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Only through such a 'tetrarchy' can we expect to address, and ultimately answer, two of the greatest remaining scientific questions – The origins of life on Earth and whether life has emerged elsewhere across the Universe. Establishing such a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.epj-conferences.org/articles/epjconf/pdf/2026/38/epjconf_rap2026_01001.pdf"/>
-    <published>2026-08-11T00:16:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#6</id>
-    <title>Hot springs in India: Assessing their potential relevance for terrestrial analogue studies</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Vijayan, KB Kimi, R Sahoo - EPJ Web of Conferences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Hydrothermal systems preserve biosignatures and support prebiotic chemistry, which makes them useful as terrestrial analogues for hydrothermal environments inferred on early Mars. So far, only Ladakh's hot springs, specifically Puga and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.epj-conferences.org/articles/epjconf/pdf/2026/38/epjconf_rap2026_02003.pdf"/>
-    <published>2026-08-11T00:16:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#5</id>
-    <title>Cryogenic infrared spectra of thiourea ice: Crystalline and amorphous phases</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Mahapatra, R Rácz, G Lakatos, Z Juhász, DV Mifsud... - EPJ Web of Conferences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... infrared spectroscopic database for this sulphur-bearing prebiotic molecule. These laboratory measurements provide essential reference ... extraterrestrial environments, thereby improving our understanding of the molecular complexity ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.epj-conferences.org/articles/epjconf/pdf/2026/38/epjconf_rap2026_03003.pdf"/>
-    <published>2026-08-11T00:16:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#4</id>
-    <title>Production of fucoidan from Scottish ocean farmed seaweed: optimisation of extraction methods, biological activity testing and future purification trends</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Chadwic&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Next, antiviral and prebiotic activities were investigated further to better characterise the ... The prebiotic effect of fucoidan was further explored using three assays. The first examined ... extracts could be applied safely as a prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://era.ed.ac.uk/items/877b71ae-43c1-4c18-8dd0-8da2ec77baa5"/>
-    <published>2026-08-11T00:16:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#3</id>
-    <title>Mushroom bioresidues as sources of bioactive compounds: obtaining ergosterol and statins from Pleurotus ostreatus L.–assessment of antioxidant and prebiotic ...</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Ayari&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; (s) The valorization of bio-residues generated during the production of Pleurotus ostreatus represents a sustainable strategy to reduce waste while recovering compounds with health-promoting potential. In this work, misshapen mushroom ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://bibliotecadigital.ipb.pt/entities/publication/75f9b64a-06f9-4e79-913a-be30344d65d8"/>
-    <published>2026-08-11T00:16:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#2</id>
-    <title>Characterisation of Antioxidant Capacity and Prebiotic -like Effects of Whey Derived from Different Bovine Breeds' Milk</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Coşkun, S Sarıtaş, S Karav, H Uzkuç - International Journal of Food Science and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The antioxidant capacity and prebiotic activity potential of sweet whey and heat-treated whey samples derived from Jersey, Brown Swiss, and Holstein milk were investigated. Whey was produced by simulating cheese-making, and heat-treated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://academic.oup.com/ijfst/advance-article/doi/10.1093/ijfood/vvag172/8756961"/>
-    <published>2026-08-11T00:16:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#1</id>
-    <title>Impact induced shock chemistry: A potential pathway for molecular complexity in prebiotic environments</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SV Singh, V Jayaram, JK Meka, A Bhardwaj, NJ Mason... - EPJ Web of Conferences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... evolution that preceded the emergence of life . By examining the response of prebiotic molecules to extreme impact conditions, this study offers valuable insights into the potential role of impacts in shaping the molecular complexity necessary for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.epj-conferences.org/articles/epjconf/pdf/2026/38/epjconf_rap2026_03004.pdf"/>
-    <published>2026-08-11T00:16:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76169970ba#0</id>
-    <title>Chemical Emergence of Phospholipids, Protometabolism under Plausible Prebiotic Conditions-A Perspective</title>
-    <updated>2026-08-11T00:16:45+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Pulletikurti - EPJ Web of Conferences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life remains one of the most fundamental questions in science, remaining poorly understood and how simple ... prebiotic reactions, elucidating the transition from non-living chemistry to the first cellular organisms continues to be a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.epj-conferences.org/articles/epjconf/pdf/2026/38/epjconf_rap2026_03006.pdf"/>
-    <published>2026-08-11T00:16:45+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7616996fe6#1</id>
-    <title>requirements for the degree of Doctor of Philosophy University of Washington 2019 Reading Committee</title>
-    <updated>2026-08-11T00:16:46+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Agol, SL Hawley, L Hebb, R Barnes, D Catling&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... arcs of some exoplanet orbits bring the planets between their host stars and the Earth – allowing us to see an eclipse of the host star by the exoplanet , an event known as a transit. ... Starspots directly a↵ect our ability to make precise ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/534ff04d-4a75-4343-9326-45c755779740/content"/>
-    <published>2026-08-11T00:16:46+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7616996fe6#0</id>
-    <title>Radio Activity in Low-Mass Stars and Brown Dwarfs</title>
-    <updated>2026-08-11T00:16:46+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Wandia&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Motivated by recently claimed detections of potential biosignatures on the exoplanet K2-18 b, we targeted the system in a search for radio ... FIGURE 1.1: Comparison of the Sun, an M1 dwarf star, an M8 brown dwarf, a T7 brown dwarf, a Y-type ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/0a8035a0f6d4b84dddac74747ea1cdb7/1?pq-origsite=gscholar&amp;cbl=2026366&amp;diss=y"/>
-    <published>2026-08-11T00:16:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GP Guillén, TT Schmidt, JJ Baumberg, JW Szostak...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Nucleic acid therapeutics, including aptamers, offer effective strategies for programmable and 20 targeted disease treatment. To improve their stability and circulation time, oligonucleotides are often conjugated to hydrophilic polymers such ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jack W. Szostak (author alert)</content>
+    <link href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/9d9406cb-c009-43d5-a8d4-b811b845e838/content"/>
+    <published>2026-08-12T00:23:45+00:00</published>
   </entry>
 </feed>
