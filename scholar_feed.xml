@@ -2,85 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-12T14:48:30.877197+00:00</updated>
+  <updated>2026-08-13T14:48:32.867366+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76159cd162#4</id>
-    <title>Dynamic Microcompartments Drive Adaptation, Catalysis, and Assembly Changes in Constitutional Dynamic Networks</title>
-    <updated>2026-08-12T13:03:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761458d877#2</id>
+    <title>Suppression of orbital ordering and emergence of a glassy magnetic state in a high-entropy spinel vanadate</title>
+    <updated>2026-08-13T14:39:16+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Rieu, F Esteve, FZ Mihoubi, C Bonfio, JM Lehn - Journal of the American Chemical Society&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The formation of microcompartments is a form of self-assembly that governs the transition from chaotic mixtures of molecules to complex systems with functional states. Despite recent advances in systems chemistry, how microcompartments favor ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c05666/5236197"/>
-    <published>2026-08-12T13:03:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ito, S Nakakuki, S Demura, T Watanabe -arXivpreprintarXiv:2608.06738, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; High-entropy oxides provide a unique platform for exploring the interplay between configurational disorder and correlated electronic states. We report on structural, thermodynamic, and magnetic properties of the high-entropy spinel vanadate (Li$_{0.2}$Mg$_{0.2}$Mn$_{0.2}$...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2608.06738"/>
+    <published>2026-08-13T14:39:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76159cd162#3</id>
-    <title>Radiolytic Processing of CH4: CO2: NH3 Ices by Swift Heavy Ions: Coupled C–H–ON Chemistry</title>
-    <updated>2026-08-12T13:03:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761458d877#1</id>
+    <title>Emergence of Bogoliubov Fermi Surfaces in hybrid Al/InAs heterostructures</title>
+    <updated>2026-08-13T14:39:16+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AL Ferreira de Barros, Y Murhej, I Prazeres... - ACS Earth and Space Chemistry&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in interstellar ices, promoting the formation of oxygen- and nitrogen-bearing organic species of astrochemical and prebiotic relevance. ... remains a central issue in astrochemistry, particularly in connection with prebiotic chemistry. Over the past ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/aesccq/article/doi/10.1021/acsearthspacechem.6c00104/5237205"/>
-    <published>2026-08-12T13:03:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Feyrer, V Dimic, I Lobato, A Kirchner, P Drexler... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate the microwave electrodynamics of a proximitized two-dimensional electron gas in hybrid superconductor/semiconductor heterostructures. Using lumped-element resonators with inductor wires oriented relative to an in-plane ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2608.06553"/>
+    <published>2026-08-13T14:39:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76159cd162#2</id>
-    <title>Egyptian Journal of Veterinary Sciences</title>
-    <updated>2026-08-12T13:03:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761458d877#0</id>
+    <title>Mathematical Principles and Experimental Discoveries of the Emergence of Symbolic Patterns in Artificial Neural Networks</title>
+    <updated>2026-08-13T14:39:16+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DS Abd-Elaziz, MM Khorshed, NA Hassaan, FA Salem...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The improvement in ADG and FCR observed in our study with prebiotic , probiotic and ... with probiotic, prebiotic and synbiotic supplementations when compared with the control group. ... However, the positive effects of prebiotic , probiotic and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ejvs.journals.ekb.eg/article_497100_b6e120036fa70bebce94989063ef2b71.pdf"/>
-    <published>2026-08-12T13:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76159cd162#1</id>
-    <title>African Research Journal of Biosciences</title>
-    <updated>2026-08-12T13:03:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Okayama&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... -based recognition of all messenger RNA triplets by only two prebiotic tRNAs, enabling protein synthesis. Finally, independently evolved ... RNA for its replication and transcription, particularly in calm prebiotic environments. This mutual ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.afrjbs.com/files/1785240823_1_AFRJBS202617311131JP_(p_1-12).pdf"/>
-    <published>2026-08-12T13:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76159cd162#0</id>
-    <title>Phosphorus Chemistry and the Origin of Life : From N-Phosphoryl Amino Acid to Protocell</title>
-    <updated>2026-08-12T13:03:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Ying, Y Liu, S Fu, X Gao, Y Zhao - Accounts of Chemical Research&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (1)This work provides a plausible model that correlates prebiotic peptide synthesis with the ... and membrane self-assembly mediated by phosphorus in the prebiotic environment. ... (5)This work exemplifies a paradigm shift in prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/achre4/article/doi/10.1021/acs.accounts.6c00206/5243731"/>
-    <published>2026-08-12T13:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76159cd118#0</id>
-    <title>The Detection, Characterization, and Retrieval of Terrestrial Exoplanet Atmospheres Jacob Lustig-Yaeger A dissertation</title>
-    <updated>2026-08-12T13:03:08+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Meadows, D Crisp, M Line&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... space-based telescope designed from the outset to probe exoplanet habitability and biosignatures , ... In the first part of this dissertation, we investigate the extent of terrestrial exoplanet science that ... We find that water may be prohibitively difficult to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/4899ea9a-1623-44ce-8ea2-30cc86b523d6/content"/>
-    <published>2026-08-12T13:03:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7615ab5126#0</id>
-    <title>ANTONIO I. FERNÁNDEZ-DOMÍNGUEZ, 4, 5 YU LUO, 6, 7</title>
-    <updated>2026-08-12T14:06:25+00:00</updated>
-    <author>
-      <name>Ulrich Hohenester</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X ZHENG, C TSERKEZIS, JB KHURGIN...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... YI YANG,27 ULRICH HOHENESTER ,28 LORENZ HUBER,28 ... ULRICH HOHENESTER , LORENZ HUBER &amp; JAVIER AIZPURUA ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Ulrich Hohenester (keyword alert)</content>
-    <link href="https://aaltodoc.aalto.fi/server/api/core/bitstreams/e61d0bee-0a07-4e13-8768-c76b76efc83b/content"/>
-    <published>2026-08-12T14:06:25+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Zhang, Q Ren, S Lou -arXivpreprintarXiv:2608.06839, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This raises a deeper inquiry: does the emergence of symbolic patterns reflect a natural law ... implicitly required across tasks, lead to the emergence of such sparse symbolic interactions. Empirical ... Finally, the observed emergence of symbolic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2608.06839"/>
+    <published>2026-08-13T14:39:16+00:00</published>
   </entry>
 </feed>
