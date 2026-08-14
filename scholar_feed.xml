@@ -2,41 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-13T14:48:32.867366+00:00</updated>
+  <updated>2026-08-14T07:23:13.825159+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761458d877#2</id>
-    <title>Suppression of orbital ordering and emergence of a glassy magnetic state in a high-entropy spinel vanadate</title>
-    <updated>2026-08-13T14:39:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7614603b04#0</id>
+    <title>Quantum Collisionlessness of Ricci-Soliton Dark Matter in the Nexus Paradigm</title>
+    <updated>2026-08-13T17:17:29+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>stuart kauffman</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Ito, S Nakakuki, S Demura, T Watanabe -arXivpreprintarXiv:2608.06738, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; High-entropy oxides provide a unique platform for exploring the interplay between configurational disorder and correlated electronic states. We report on structural, thermodynamic, and magnetic properties of the high-entropy spinel vanadate (Li$_{0.2}$Mg$_{0.2}$Mn$_{0.2}$...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.06738"/>
-    <published>2026-08-13T14:39:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Marongwe, SA Kauffman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A companion cosmological analysis shows that a population of stable Ricci-soliton excitations can reproduce the background and linear perturbation phenomenology of cold dark matter if the solitons retain their identity, conserve their mass, remain ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; stuart kauffman (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Stuart-Marongwe/publication/412036800_Quantum_Collisionlessness_of_Ricci-Soliton_Dark_Matter_in_the_Nexus_Paradigm_Spectral_Stability_Selection_Rules_and_the_Vlasov_Limit/links/6a782553a4d94b202f24a1b3/Quantum-Collisionlessness-of-Ricci-Soliton-Dark-Matter-in-the-Nexus-Paradigm-Spectral-Stability-Selection-Rules-and-the-Vlasov-Limit.pdf"/>
+    <published>2026-08-13T17:17:29+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761458d877#1</id>
-    <title>Emergence of Bogoliubov Fermi Surfaces in hybrid Al/InAs heterostructures</title>
-    <updated>2026-08-13T14:39:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7614603a4e#0</id>
+    <title>Proto- Biosignatures and Planetary Geochemical Metabolism: A Thermodynamic Screening Model of Prebiotic Geochemical Organization</title>
+    <updated>2026-08-13T17:17:31+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Feyrer, V Dimic, I Lobato, A Kirchner, P Drexler... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate the microwave electrodynamics of a proximitized two-dimensional electron gas in hybrid superconductor/semiconductor heterostructures. Using lumped-element resonators with inductor wires oriented relative to an in-plane ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.06553"/>
-    <published>2026-08-13T14:39:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SE Spoto -Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The literature on exoplanet biosignatures has repeatedly emphasized this distinction through environmental context, atmospheric false ... : a hydrothermal vent pore, a Martian mudstone, an Enceladus ocean plume source, and an exoplanet ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2075-1729/16/8/1312"/>
+    <published>2026-08-13T17:17:31+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e761458d877#0</id>
-    <title>Mathematical Principles and Experimental Discoveries of the Emergence of Symbolic Patterns in Artificial Neural Networks</title>
-    <updated>2026-08-13T14:39:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#9</id>
+    <title>Emma Gut Health Reviews: Hurry, All You Need To Know (2026)</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Zhang, Q Ren, S Lou -arXivpreprintarXiv:2608.06839, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This raises a deeper inquiry: does the emergence of symbolic patterns reflect a natural law ... implicitly required across tasks, lead to the emergence of such sparse symbolic interactions. Empirical ... Finally, the observed emergence of symbolic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.06839"/>
-    <published>2026-08-13T14:39:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Badu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Potential benefits: It has prebiotic properties and may influence the gut microbiome. ... Multi-ingredient formula: Combines several botanical compounds and prebiotic fibers rather than ... May cause bloating or gas: Prebiotic fibers such ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://healthandbestips.com/emma-gut-health-reviews/"/>
+    <published>2026-08-13T17:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#8</id>
+    <title>FERMENTED GOAT MILK AND STINGLESS BEE HONEY MODULATE INTESTINAL LACTIC ACID BACTERIA AND BODY WEIGHT IN DIABETIC RATS MODEL</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Amelia, D Abdullah, I Suryanis, YE Pratama... - Nusantara Hasana Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Diabetes mellitus is associated with intestinal dysbiosis and body-weight loss. Fermented goat milk provides probiotic lactic acid bacteria (LAB), whereas stingless bee honey contains oligosaccharides with prebiotic potential. This study evaluated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ejournal.nusantarahasanajournal.com/index.php/nhj/article/download/2301/2066"/>
+    <published>2026-08-13T17:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#7</id>
+    <title>Will Evolutionists Ever Admit That Life Never Existed on Mars?</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Bergman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... One of the major pieces of evidence against evolution is the difficulty of accounting for a material origin of life , both theoretically and in laboratory experiments. It is a problem of such magnitude that evolutionists often attempt to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://crev.info/2026/08/jb-life-on-mars/"/>
+    <published>2026-08-13T17:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#6</id>
+    <title>Experimental simulation of Enceladus' hydrothermal vents to constrain the evolution of primordial organic matter with iron-rich saponite</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Lévêque, A Slodczyk, R Champailler, K Fukushi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... polymerisation of prebiotic molecules such as amino acids [5, 6]. To investigate the potential catalytic role of saponite in prebiotic chemistry in ... potential role in catalyzing prebiotic molecules during the formation of the Enceladus ocean and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-740.html"/>
+    <published>2026-08-13T17:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#5</id>
+    <title>Bioactive Metal-Phenolic Network and Prebiotic Hydrogel Synergize with Mesenchymal stem cell-derived extracellular vesicles for Microenvironment-Modulating ...</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Pan, P Li, Y Gao, N Zhao, M Yu, Z Wang, X Feng...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mesenchymal stem cell-derived extracellular vesicles (MVs) holds great promise for inflammatory bowel disease (IBD) therapy. However, oral delivery of MVs therapeutic efficacy is severely compromised by the harsh gastrointestinal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchsquare.com/article/rs-10544945/latest"/>
+    <published>2026-08-13T17:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#4</id>
+    <title>EP823-ECE_1873-Current literature on the use of Probiotic and prebiotic with Glucagon like peptide-1 receptor agonist therapy in patients with Type 2 diabetes</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Htet, V Preda - European Journal of Endocrinology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Synbiotic therapy consisting of probiotic(lactobacillus caesi and bifidobacterium breve) and prebiotic (galacto-oligosaccharide) for 24 weeks showed no significant improvement in inflammatory markers. Our review identified that the use of probiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://academic.oup.com/ejendo/article/195/Supplement_1/lvag096.1160/8755530"/>
+    <published>2026-08-13T17:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#3</id>
+    <title>Counseling Patients on Prebiotic Soda Trends, With Carlos Soto Diaz, MPH.</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CS Díaz - Patient Care (Online), 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Counseling Patients on Prebiotic Soda Trends, With Carlos Soto Diaz, MPH. | EBSCOhost ... Counseling Patients on Prebiotic Soda Trends, With Carlos Soto Diaz, MPH. ... A new analysis of the US beverage market found prebiotic sodas contain ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://openurl.ebsco.com/contentitem/gcd:195867750?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:195867750&amp;crl=c&amp;jrnl=19391897"/>
+    <published>2026-08-13T17:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#2</id>
+    <title>Bioactive Phytochemicals and Prebiotic –Probiotic Formulation Mitigate Fructose-Induced Glycation, Oxidative Stress, and Alterations in Cultivable Gut Bacterial ...</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RS Patil, SB Rooge, ML Nalawade, SP Kamble... - Applied Microbiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; High fructose intake rapidly induces protein glycation, oxidative stress, inflammation, and disturbances in the cultivable fraction of gut bacteria, contributing to early metabolic impairment. This study examined whether selected plant-derived ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2673-8007/6/8/93"/>
+    <published>2026-08-13T17:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#1</id>
+    <title>Proto-Biosignatures and Planetary Geochemical Metabolism: A Thermodynamic Screening Model of Prebiotic Geochemical Organization</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SE Spoto - Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Astrobiological observations usually return atmospheric, mineralogical, molecular, isotopic, or textural states rather than organisms. The interval between environmental habitability and confirmed life detection is therefore an evidential ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2075-1729/16/8/1312"/>
+    <published>2026-08-13T17:17:34+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e761460384a#0</id>
+    <title>Phytochemical compounds, antioxidant activity, and prebiotic potential of Stevia rebaudiana ethanolic extract for gut health promotion</title>
+    <updated>2026-08-13T17:17:34+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Kaewkod, S Thongyim, P Sattayawat, P Pititeankul... - Applied Food Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study explored the potential of Stevia rebaudiana extract, a plant well known for its natural sweetening compounds, as a functional ingredient for promoting gut health through gut microbiota modulation, with particular emphasis on its prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2772502226008383"/>
+    <published>2026-08-13T17:17:34+00:00</published>
   </entry>
 </feed>
