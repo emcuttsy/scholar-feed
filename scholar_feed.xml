@@ -2,19 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-18T06:40:57.638494+00:00</updated>
+  <updated>2026-08-18T14:20:27.225597+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760ad30b69#0</id>
-    <title>Hot off the Press: The Genomic Code: The Genome Instantiates a Generative Model of the Organism</title>
-    <updated>2026-08-18T02:45:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7609203f4d#5</id>
+    <title>Scuola Superiore Meridionale</title>
+    <updated>2026-08-18T13:45:51+00:00</updated>
     <author>
-      <name>Kevin Mitchell</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KJ Mitchell, N Cheney - Proceedings of the Genetic and Evolutionary ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The genome is often described through metaphors like blueprint or recipe, but these frameworks fail to capture the dynamic complexity of biological systems. This paper emphasizes a more robust analogy: the genome as a generative model. Drawing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Kevin Mitchell (author alert)</content>
-    <link href="https://dl.acm.org/doi/pdf/10.1145/3795101.3814625"/>
-    <published>2026-08-18T02:45:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Giancola, L Petraccone, A Tortorella&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Given their intrinsic robustness, it is reasonable to hypothesize that such structures could have persisted in prebiotic environments and interacted with primitive membranes, potentially contributing to the molecular organization ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.fedoa.unina.it/16866/1/Tortorella_attila_37.pdf"/>
+    <published>2026-08-18T13:45:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7609203f4d#4</id>
+    <title>Systematic Construction of Chemical Reaction Networks: An Automated Nanoreactor Approach Powered by Integrated Tempering Sampling</title>
+    <updated>2026-08-18T13:45:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Li, Z Lan - Journal of Chemical Theory and Computation&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... -related species, which are central to understanding the chemical origins of life . The inherent complexity of its reaction networks provides a ... reactions, and prebiotic synthesis, where multispecies interactions and unknown intermediates are ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/jctcce/article/doi/10.1021/acs.jctc.6c00571/5255416"/>
+    <published>2026-08-18T13:45:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7609203f4d#3</id>
+    <title>From waste to wellness: pomelo peel derived exosome-like nanoparticles reshape gut microbiota and enhance beneficial metabolites</title>
+    <updated>2026-08-18T13:45:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Li, C Chen, T Yang, R Tuo, Y Huang, X Zhao, L Chu... - Food Chemistry: X, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Pomelo processing by-products, traditionally regarded as agricultural waste, are underutilized bioactive-rich candidate feedstocks for circular economy. This study optimized isolation protocol (differential centrifugation with PEG precipitation) for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S259015752600831X"/>
+    <published>2026-08-18T13:45:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7609203f4d#2</id>
+    <title>SEQUENTION: A Timeless Biological Framework for Foliated Change and 4D-Counterduction</title>
+    <updated>2026-08-18T13:45:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Arellano-Peña&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper presents an expanded biological foundation for SEQUENTION within TCGS–SEQUENTION. Standard evolutionary biology is retained as an effective shadow-level account of mutation, recombination, selection, drift, development ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/bdee6ead9702f55e9d917a1ae97fc494/download_pub"/>
+    <published>2026-08-18T13:45:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7609203f4d#1</id>
+    <title>Temporal Membranes: Delay-Induced Self-Retention Without Clocks or Memory Substrates</title>
+    <updated>2026-08-18T13:45:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Yamaki, T Churiki - Artificial life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Living systems must preserve organization while their components relax, diffuse, or fluctuate. Most origin - of - life accounts place this problem in space, emphasizing membranes and compartments, but persistence also has a temporal dimension ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42600121/"/>
+    <published>2026-08-18T13:45:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7609203f4d#0</id>
+    <title>Synthesis of mineral-organic hybrid materials under dynamic prebiotic conditions</title>
+    <updated>2026-08-18T13:45:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A López-García, F Cañadas, JL de la Fuente... - Communications Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This raises several questions: Could these organic films acting as coatings be formed under plausible prebiotic conditions? Could ... of prebiotic chemical evolution and the detection of biosignatures in planetary exploration? Thus, in light ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s42004-026-02169-2_reference.pdf"/>
+    <published>2026-08-18T13:45:51+00:00</published>
   </entry>
 </feed>
