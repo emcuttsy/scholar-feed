@@ -2,250 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-22T06:38:05.529497+00:00</updated>
+  <updated>2026-08-23T06:38:55.510657+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f884ba7#0</id>
-    <title>The unbearable simplicity of being something</title>
-    <updated>2026-08-22T01:00:07+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e07fc4d#1</id>
+    <title>ADHD is a neurodevelopmental psychiatric disorder that affects around 5% of children and adolescents and 2.5% of adults worldwide1. ADHD is often persistent and ...</title>
+    <updated>2026-08-23T05:14:10+00:00</updated>
     <author>
-      <name>Edgar Onea</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Onea, I Kučerová - Proceedings of Sinn und Bedeutung, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper investigates a correlation between copula agreement and anaphoric potential in Czech and German copular clauses. We argue that this correlation stems from a structural ambiguity between standard predicational clauses and a novel ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edgar Onea (author alert)</content>
-    <link href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/download/1372/1319"/>
-    <published>2026-08-22T01:00:07+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TD Als, E Agerbo, G Baldursson13, R Belliveau...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Index variants are LD independent (r2&lt; 0.1) and are merged into one locus when located with a distance&lt; 400 kb. The location (chromosome (chr) and base position (BP)), alleles (A1 and A2), allelefrequency (A1 freq), odds ratio (OR) of the effect with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://helda.helsinki.fi/server/api/core/bitstreams/f6c7b12a-c65b-483b-94f0-c45cba1d4113/content"/>
+    <published>2026-08-23T05:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e7560#0</id>
-    <title>Unlocking Distinct Excited States of a Nickel (II) Complex Without Modulating the Primary Coordination Sphere</title>
-    <updated>2026-08-22T01:27:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e07fc4d#0</id>
+    <title>Genomic meta-analyses of binge-eating behavior and anorexia nervosa yield insights into the unique and shared biology of eating disorder phenotypes</title>
+    <updated>2026-08-23T05:14:10+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Hendricks, RM Morley, AY Gomez, Y Godínez-Loyola... - JACS Au&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Traditional efforts in modulating the reactivity of metal centers focus on tuning parameters in the primary coordination sphere. The ability to embed stimuli- responsive functionality in the secondary coordination sphere to modulate metal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00738/5255010"/>
-    <published>2026-08-22T01:27:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JD Termorshuizen, HL Davies, SH Lee, JK Dennis... - Nature Mental Health, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Eating disorders—including anorexia nervosa (AN), bulimia nervosa and binge- eating disorder—are clinically distinct but exhibit symptom overlap and diagnostic crossover. Genomic analyses have mostly examined AN. Here we conducted a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://www.nature.com/articles/s44220-026-00698-2"/>
+    <published>2026-08-23T05:14:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e74fd#0</id>
-    <title>The genome sequence of Gardnerycteris keenani (Chiroptera, Phyllostomidae, Stenodermatinae; Handley, 1960)</title>
-    <updated>2026-08-22T01:27:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e07fb96#0</id>
+    <title>Social information use promotes breeding synchrony but constrains adaptation to rapid environmental changes</title>
+    <updated>2026-08-23T05:14:13+00:00</updated>
     <author>
-      <name>Erich Jarvis</name>
+      <name>Damien Farine</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NB Simmons, MR de Waal, M Mai, LN Singh, P Philip... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual male Gardnerycteris keenani (Chordata; Mammalia; Chiroptera; Phyllostomidae). The genome sequence is 2.2 Gb in span. The majority of the assembly is scaffolded into 32 chromosomal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
-    <link href="https://wellcomeopenresearch.org/articles/11-527"/>
-    <published>2026-08-22T01:27:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Zheng, DR Farine, B Kuijper&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigates how private sensing of ecological cues and social sensing of neighbours' breeding states interact to shape the evolution of breeding strategy, specifically the initiation of breeding. By establish individual based simulation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
+    <link href="https://kops.uni-konstanz.de/entities/dataset/1b015dd7-ee41-4a0e-8a4c-27da7b579fe3"/>
+    <published>2026-08-23T05:14:13+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e74ad#0</id>
-    <title>Theories of Aging: From Damage and Programmed Theories to Goal-Directedness</title>
-    <updated>2026-08-22T01:27:04+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e07fb5a#0</id>
+    <title>Fate patterns originate through structural relations between cell and supracellular levels of organization</title>
+    <updated>2026-08-23T05:14:13+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>Amy Elizabeth Shyer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Pio-Lopez, N Jawanda, M Levin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Aging is an extensive biological process characterized by morphological and functional alterations at different biological scales, resulting in a systematic decline in biological functions ultimately leading to death. Overall, two main types of theories ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/274304ab120f94fac8dfbc497513e628/download_pub"/>
-    <published>2026-08-22T01:27:04+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CS Ko, R Chen, NT Magid, K Courtemanche, PW Miller... - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How patterns of cell state emerge across a tissue field is a fundamental question brought into renewed focus by spatial omics tools that map molecular states onto tissue organization. Here, we investigate how a field of limb progenitor mesenchyme ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Amy Elizabeth Shyer (author alert)</content>
+    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13483771/"/>
+    <published>2026-08-23T05:14:13+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e7472#0</id>
-    <title>The genome sequence of Gardnerycteris keenani (Chiroptera, Phyllostomidae, Stenodermatinae; Handley, 1960)</title>
-    <updated>2026-08-22T01:27:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e07fac7#1</id>
+    <title>Spectro-Temporal Modulation Sensitivity Prospectively Predicts Speech-in-Noise Recognition in Cochlear Implant Users</title>
+    <updated>2026-08-23T05:14:15+00:00</updated>
     <author>
-      <name>Sonja Vernes</name>
+      <name>Jonas Obleser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NB Simmons, MR de Waal, M Mai, LN Singh, P Philip... - Wellcome Open Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a genome assembly from an individual male Gardnerycteris keenani (Chordata; Mammalia; Chiroptera; Phyllostomidae). The genome sequence is 2.2 Gb in span. The majority of the assembly is scaffolded into 32 chromosomal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
-    <link href="https://wellcomeopenresearch.org/articles/11-527"/>
-    <published>2026-08-22T01:27:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Erb, M Wöstmann, J Kreitewolf, JP Thomas, C Völter... - Ear &amp; Hearing, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Spectro-Temporal Modulation Sensitivity Prospectively Predicts Speech-in-Noise Recognition in Cochlear Implant Users Page 1 Copyright © 2026 The American Auditory Society. Unauthorized reproduction of this article is prohibited. &lt;zdoi; ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jonas Obleser (author alert)</content>
+    <link href="https://www.ovid.com/jnls/ear-hearing/abstract/10.1097/aud.0000000000001881~spectro-temporal-modulation-sensitivity-prospectively"/>
+    <published>2026-08-23T05:14:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e7405#0</id>
-    <title>Initiation of rotational collective migration in Drosophila through tissue geometry and mechanochemical feedback</title>
-    <updated>2026-08-22T01:27:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e07fac7#0</id>
+    <title>Spatial attention in the moving brain: Dissociable roles of neural alpha oscillations and head rotation</title>
+    <updated>2026-08-23T05:14:15+00:00</updated>
     <author>
-      <name>Mattia Serra</name>
+      <name>Jonas Obleser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Schwabach, S Santhosh, AM Williams, M Cetera... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Collective migration of epithelial cells drives diverse tissue remodeling processes. In many cases, a free tissue edge works alone or in combination with other external cues to align the cells for collective movement, but how edge-free or closed epithelia ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Mattia Serra (author alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42612006/"/>
-    <published>2026-08-22T01:27:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Wöstmann, J Obleser - iScience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The brain is part of a moving body. Most insights about the relationship between neural activity and cognition come from studies involving movement-constrained participants. Here, we test the roles of neural alpha oscillations (∼ 10 Hz) and head ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jonas Obleser (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2589004226024193"/>
+    <published>2026-08-23T05:14:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e73ea#0</id>
-    <title>GEMS JWST: Hold on to your HATS (-6 b), a sub-solar metallicity giant planet with water, methane and ammonia in its atmosphere</title>
-    <updated>2026-08-22T01:27:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e07fab2#2</id>
+    <title>Optimum non-Gaussian State Engineering From Optical Catalysis</title>
+    <updated>2026-08-23T05:14:15+00:00</updated>
     <author>
-      <name>Jacob Lustig-Yaeger</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GG Caloca, CI Cañas, NL Wallack, EM May, SM Tsai... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; HATS-6 b is one of several recently discovered Giant Exoplanets orbiting M-dwarf Stars (GEMS) and is part of a JWST survey that aims to compare bulk and atmospheric properties of these rare planets against their FGK star counterparts ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://arxiv.org/pdf/2608.16990"/>
-    <published>2026-08-22T01:27:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Kögler, JK Nauth, AM Datta, N Walk, K Busch... - Quantum 2.0, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Optimum non-Gaussian State Engineering From Optical Catalysis Skip to main content clickable element to expand a topic Your token has expired or is invalid. Please log in again to continue. Log in by email links must be used within 10 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://opg.optica.org/abstract.cfm?uri=QUANTUM-2026-QTh3A.8"/>
+    <published>2026-08-23T05:14:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e7356#0</id>
-    <title>Atmospheric Reconnaissance of TRAPPIST-1 f with JWST NIRISS SOSS: No Evidence for the Transit Light Source Effect</title>
-    <updated>2026-08-22T01:27:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e07fab2#1</id>
+    <title>Optimal and Reliable Certification of Linear-Optical Quantum Processes</title>
+    <updated>2026-08-23T05:14:15+00:00</updated>
     <author>
-      <name>Björn Benneke</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Lim, R Doyon, RJ MacDonald, É Artigau, M Radica... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In just over three years of operation, JWST has observed all seven planets of the TRAPPIST-1 system. The two innermost planets were found to have little to no atmosphere, barring the presence of high-altitude aerosols. Here we present the first ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://arxiv.org/pdf/2608.17207"/>
-    <published>2026-08-22T01:27:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Schadow, N Spier, SN van den Hoven, MC Anguita... - Quantum 2.0, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Optimal and Reliable Certification of Linear-Optical Quantum Processes Page 1 Optimal and Reliable Certification of Linear-Optical Quantum Processes Riko Schadow,1 Naomi Spier,2,3,* Stefan N. van den Hoven,2 Malaquias Correa Anguita,2 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://opg.optica.org/abstract.cfm?uri=QUANTUM-2026-QM4A.5"/>
+    <published>2026-08-23T05:14:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e7321#0</id>
-    <title>JWST/NIRSpec Spectra for Three Ultracool Brown Dwarfs Detected in Extragalactic Surveys: Further Evidence for Phosphine Absorption</title>
-    <updated>2026-08-22T01:27:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e07fab2#0</id>
+    <title>Experimental (n, n) Quantum Secret Sharing using GHZ states</title>
+    <updated>2026-08-23T05:14:15+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KN Hainline, SA Beiler, AJ Burgasser, ES Chen... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present JWST NIRSpec prism spectra for three ultracool brown dwarfs discovered in extragalactic survey data, two from the JWST Advanced Deep Extragalactic Survey (JADES), and one from Public Release IMaging for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://arxiv.org/pdf/2608.14786"/>
-    <published>2026-08-22T01:27:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Ho, RMJ Brooks, J Niblo, J Memmen, A Pappa... - Quantum 2.0, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Experimental (n, n) Quantum Secret Sharing using GHZ states Page 1 Experimental (n, n) Quantum Secret Sharing using GHZ states Joseph Ho,1 Russell MJ Brooks,1 Joseph Niblo,1 Janka Memmen,2 Anna Pappa,2 Nathan Walk,3 Jens Eisert,3 and Alessandro ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://opg.optica.org/abstract.cfm?uri=QUANTUM-2026-QW2A.3"/>
+    <published>2026-08-23T05:14:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e72b9#0</id>
-    <title>Atmospheric Reconnaissance of TRAPPIST-1 f with JWST NIRISS SOSS: No Evidence for the Transit Light Source Effect</title>
-    <updated>2026-08-22T01:27:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760e077e86#0</id>
+    <title>Shape-independent fluidity in epithelial cell monolayers</title>
+    <updated>2026-08-23T05:20:52+00:00</updated>
     <author>
-      <name>Lisa Dang</name>
+      <name>Dapeng (Max) Bi</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Lim, R Doyon, RJ MacDonald, É Artigau, M Radica... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In just over three years of operation, JWST has observed all seven planets of the TRAPPIST-1 system. The two innermost planets were found to have little to no atmosphere, barring the presence of high-altitude aerosols. Here we present the first ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
-    <link href="https://arxiv.org/pdf/2608.17207"/>
-    <published>2026-08-22T01:27:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f8e724d#0</id>
-    <title>The View from Among: a Relational Epistemology for Structural Approaches</title>
-    <updated>2026-08-22T01:27:11+00:00</updated>
-    <author>
-      <name>Naotsugu Tsuchiya</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Ellia, N Tsuchiya&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Consciousness science remains caught between a first-person approach that cannot independently corroborate its data and a third-person approach that excludes its target of explanation. We argue that this is a false dichotomy, and propose a third ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Naotsugu Tsuchiya (author alert)</content>
-    <link href="https://www.researchgate.net/profile/Francesco-Ellia/publication/412298265_The_View_from_Among_a_Relational_Epistemology_for_Structural_Approaches/links/6a812eb15c2ae2061e8eab33/The-View-from-Among-a-Relational-Epistemology-for-Structural-Approaches.pdf"/>
-    <published>2026-08-22T01:27:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f991b8d#0</id>
-    <title>Mise-en-Sc\ene: Implicit Layout Emergence in Diffusion Transformers for Human-AI Design Co-Creation</title>
-    <updated>2026-08-22T04:41:11+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Xu, R Murdock, U Michieli -arXivpreprintarXiv:2608.19000, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... First, we achieve implicit layout emergence with a flow-matching Diffusion Transformer (DiT) adapted by a knockout-selected LoRA. Second, we deploy a deterministic match-and-place post-processing stage that guarantees exact pixel ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.19000"/>
-    <published>2026-08-22T04:41:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#9</id>
-    <title>How structure shapes function in mushroom-derived β-glucans: Implications for gastrointestinal functionality, gut microbiota modulation, and immunomodulation</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Olo-Fontinha, J Garcia, FM Nunes, C Fidalgo... - Food Hydrocolloids, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mushroom-derived β-glucans are increasingly recognized as dietary polysaccharides with prebiotic and immunomodulatory potential; however, their biological effects are not uniform and depend critically on molecular architecture ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0268005X26008465"/>
-    <published>2026-08-22T06:27:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#8</id>
-    <title>Fermentation capacity of the gut microbiota influences exercise motivation and neuroendocrine integration</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NT Hutchinson, CA Maino-Vieytes, C Valls, J Allen... - mSystems, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Conversely, 4-week dietary pretreatment with 2.5% prebiotic fiber (inulin) increased predicted fermentative capacity of the microbiota and ... Finally, we showed that enhancement of microbiota fermentation capacity via dietary addition of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://journals.asm.org/doi/pdf/10.1128/msystems.00876-26"/>
-    <published>2026-08-22T06:27:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#7</id>
-    <title>Planetary Relay Hypothesis: An Inference on the Origin of Earth's Life Based on Organic Matter Transport from a Disrupted Ocean World V1. 1</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Yang, Y Liu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper proposes the "Planetary Relay" hypothesis, which suggests that the prebiotic organic matter required for the origin of life on Earth was not derived solely from local synthesis or random asteroid impacts, but rather existed as dissolved ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://essopenarchive.org/doi/pdf/10.22541/essoar.15007644"/>
-    <published>2026-08-22T06:27:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#6</id>
-    <title>SPACE BIOLOGY IN THE PHILIPPINES: A NARRATIVE REVIEW OF RESEARCH POTENTIALS AND FUTURE DIRECTIONS</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JPT Hernandez - Journal of Nature Studies&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Space biology is emerging as one of the most consequential scientific frontiers of the twenty-first century. This paper presents a narrative review of foundational concepts and current trends in space biology, examines their relevance for Philippine higher ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="http://www.journalofnaturestudies.org/files/58/38-55_Hernandez_Space%20Biology%20Philippines.pdf"/>
-    <published>2026-08-22T06:27:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#5</id>
-    <title>The universal polyol platform explains the evolution of lipid headgroups and the origin of membrane function</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; VM Dembitsky, AO Terent'ev - Discover Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The objective of this review is therefore not to propose an alternative to the Lipid World, the RNA World , or existing models of membrane evolution... This perspective provides a unifying framework connecting prebiotic organic chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s11084-026-09760-6"/>
-    <published>2026-08-22T06:27:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#4</id>
-    <title>The Natural Imperative: A Mechanistic Framework for Life, Cosmic Evolution, and the Limits of Scientific Inquiry</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Annamalai&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Abstract: This paper presents a unified conceptual framework examining the origin of life and cosmic phenomena through the lens of strict ... goldilocks conditions, it formalizes the mechanisms governing abiogenesis . Furthermore, this ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Chinnaraji-Annamalai/publication/412680246_The_Natural_Imperative_A_Mechanistic_Framework_for_Life_Cosmic_Evolution_and_the_Limits_of_Scientific_Inquiry/links/6a85711e5c2ae2061e8f2120/The-Natural-Imperative-A-Mechanistic-Framework-for-Life-Cosmic-Evolution-and-the-Limits-of-Scientific-Inquiry.pdf"/>
-    <published>2026-08-22T06:27:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#3</id>
-    <title>Galactic panspermia by interstellar objects</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kakharov, A Loeb&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Previous panspermia calculations have examined individual parts of the transfer problem, including ejection, radiation survival, ... The purpose of this work is to identify which Galactic populations can supply potential panspermia carriers and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://lweb.cfa.harvard.edu/~loeb/SL3.pdf"/>
-    <published>2026-08-22T06:27:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#2</id>
-    <title>Biological safety and functional properties of açaí seed extract: antioxidant capacity and prebiotic potential.</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MPS Junior, AJA Miranda, AL Gagliardi, IG Moreira...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... as to investigate its antioxidant activity, prebiotic potential, cytotoxicity, and mutagenic safety profile. The extract was obtained by percolation using 70% ethanol. Antioxidant activity was evaluated by the DPPH assay, while prebiotic potential was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260398919"/>
-    <published>2026-08-22T06:27:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#1</id>
-    <title>Study of prebiotic properties of amaranth products.</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NS Rodionova, ES Popov, DM Vyrodov, TA Razinkova...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The article presents the results of fermentation of water-plant systems based on amaranth processing products - seeds, grains, flour - by various consortia of probiotic microorganisms. The possibility of cultivation by consortia containing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260395008"/>
-    <published>2026-08-22T06:27:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760f911a82#0</id>
-    <title>Formulation and evaluation of a finger millet-based instant weaning mix enriched with potential prebiotic -rich indigenous ingredients</title>
-    <updated>2026-08-22T06:27:00+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AO Olugbuyi, AM Oyinloye, OA Babarinsa - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Malnutrition in infants and young children remains a major concern in sub-Saharan Africa, often linked to poor complementary feeding practices. This study formulated and evaluated an instant weaning mix using finger millet (Eleusine coracana) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-67074-z"/>
-    <published>2026-08-22T06:27:00+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PK Bera, AQ Nguyen, M McCord, D Bi, J Notbohm - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Tissue fluidity regulates biological processes such as embryonic development, wound healing, and cancer metastasis. In confluent epithelia, where cell packing fraction is effectively fixed, the prevailing paradigm postulates that fluidity is governed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Dapeng (Max) Bi (author alert)</content>
+    <link href="https://www.nature.com/articles/s41467-026-76793-w_reference.pdf"/>
+    <published>2026-08-23T05:20:52+00:00</published>
   </entry>
 </feed>
