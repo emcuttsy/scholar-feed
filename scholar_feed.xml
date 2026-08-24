@@ -2,184 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-23T14:11:42.126228+00:00</updated>
+  <updated>2026-08-24T14:29:49.852473+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fedfc#2</id>
-    <title>Building the future of astronomy: China's astronomical infrastructure and the next 10-year roadmap</title>
-    <updated>2026-08-23T09:52:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760eb772e9#0</id>
+    <title>What Even Is an "Exomoon"?</title>
+    <updated>2026-08-24T11:53:17+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>David Kipping</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Liu, A Luo, P Jiang, J Sun, W Zhu, H Gan, R Yao... - ... : Strategies, Processes, and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Spectroscopic data from LAMOST supported the discovery of hot Jupiters and enabled ... targets in searches for atmospheric biosignatures and extraterrestrial life . The number of ... identified additional exoplanet candidates in Kepler and Transiting ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14151/1415103/Building-the-future-of-astronomy--Chinas-astronomical-infrastructure-and/10.1117/12.3120261.short"/>
-    <published>2026-08-23T09:52:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Kipping - Research Notes of the AAS, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Early work on exomoons largely imagined analogs to the satellites of the solar system planets. However, the recent claims of "exomoons" and "satellites," with reference to the Jupiter-sized companions around the brown dwarfs HD 206983 B ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/2515-5172/ae9baa/ampdf"/>
+    <published>2026-08-24T11:53:17+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fedfc#1</id>
-    <title>Planetary Freedom and Constructal Drivers of Earth's Architectures</title>
-    <updated>2026-08-23T09:52:36+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BM Goldstein - BioSystems, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... -level separation is preserved: the hypothetical high-F h super - Earth remains High, modern Earth remains Intermediate, and Venus , Mars , and TOI-700 d remain Low. Fine ... D; the exoplanet and biosignature consequences of the framework are taken ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726002418"/>
-    <published>2026-08-23T09:52:36+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fedfc#0</id>
-    <title>Preliminary design of VIOLA prototype: vipa instrument for oxygen loaded atmospheres</title>
-    <updated>2026-08-23T09:52:36+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Rukdee, DP Sablowski, S Sithajan, B Prinoth... - Ground-based and Airborne ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of exoplanet atmospheres is key to identifying habitable worlds and potential biosignatures . ... around nearby M-dwarf super - Earth and sub - Neptune exoplanets. By combining innovative ... -generation ground-based characterization of potentially ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14149/14149BB/Preliminary-design-of-VIOLA-prototype--vipa-instrument-for-oxygen/10.1117/12.3104480.full"/>
-    <published>2026-08-23T09:52:36+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#9</id>
-    <title>Perceived Awareness, Objective Nutrition Knowledge, and Health Beliefs About Probiotics and Prebiotics among Adults in the United Arab Emirates: A Cross ...</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N AlKalbani, T Osaili, R Obaid, HA Hasan... - Frontiers in Nutrition&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Correct responses were highest for the probiotic definition (55.8%) and lowest for natural prebiotic sources (37.0%). High perceived awareness ... and clearer messages that distinguish probiotic and prebiotic concepts, dietary sources, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1929193/full"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#8</id>
-    <title>Assembly Theory, Evolution and Artificial Life</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Cronin - ALIFE 2026: Proceedings of the 2026 Artificial Life ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life has remained one of the most enigmatic open problems in science because we have lacked a formal language with ... design of synthetic life, the design of experiments to probe the de novo origin of life in the laboratory, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://direct.mit.edu/isal/proceedings/isal2026/38/122/138322"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#7</id>
-    <title>Black Soldier Fly (Hermetia illucens) Larval Chitin as Animal Feed Additive: A Systematic ReviewBlack Soldier Fly (Hermetia illucens) Larval Chitin as Animal Feed ...</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AO Ogabidu, J Abdulkadir, YY Jibrin, UM Nasaarawa... - UMYU Conference on ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... BSFL chitin has been shown to have prebiotic properties, which have been attributed to the ability to selectively promote the growth of ... BSFL chitin is an interesting prebiotic immunomodulatory compound for maintaining gut health and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://publications.umyu.edu.ng/conference/index.php/umyunas/article/view/34"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#6</id>
-    <title>Exploration-related contamination of lunar polar regions: consequences and considerations for lunar science in the context of planetary protection</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Anand, CH van der Bogert, C Batty, IA Crawford... - Advances in Space ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... volatiles of high scientific value, including prebiotic organic molecules, they are vulnerable ... in PSRs, potentially compromising records of prebiotic chemistry preserved in these regions. ... a record of materials or processes relevant to the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0273117726011841"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#5</id>
-    <title>Effects of lactic acid bacteria fermentation and prebiotic supplementation on soy protein's regulation of intestinal barrier and induction of oral tolerance.</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Guo, X Lu, Q Lu, W Li, X Rui&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objectives: This study aimed to investigate the effects of lactic acid bacteria (LAB) fermentation and prebiotic addition on soy protein in maintaining intestinal barrier homeostasis and regulating immune tolerance. Methods: Fermented soy protein (FSPI) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260399117"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#4</id>
-    <title>Effects of Psychobiotic and Prebiotic Administration on Gut Microbiota and Depression-Like Behaviors in Mice</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Dağ - Journal of Food and Nutrition Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic group received inulin (66 mg/kg) via oral gavage. Behavioral assessments were ... The results showed that both psychobiotic and prebiotic interventions significantly improved ... In conclusion, psychobiotic and prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://avesis.lokmanhekim.edu.tr/yayin/2b6a96b3-2e6d-464b-a937-9f15566bb329/effects-of-psychobiotic-and-prebiotic-administration-on-gut-microbiota-and-depression-like-behaviors-in-mice/document.pdf"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#3</id>
-    <title>The Origins of Life : Not as Hard as It Looks?</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JW Szostak - Molecular Frontiers Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Let's go back in time to somewhere around four billion years ago, when the chemistry of the early Earth was becoming more complex and ultimately giving rise to biology. This is a hard thing to study for many reasons, including the fact that we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.worldscientific.com/doi/pdf/10.1142/S2529732526300016"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#2</id>
-    <title>Prebiotic Absolute Asymmetric Synthesis of d‐Ribose on Wollastonite</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Zhang, Y Gao, J Wang, Q Deng, L Han, W Zhang... - Chirality, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Given ribose's unique prebiotic relevance as the canonical sugar of RNA, we focus on its formation and enantioselectivity. Other pentoses (arabinose, xylose, and lyxose) and tetroses were also detected. The catalytic reactions were conducted in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13491307/"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#1</id>
-    <title>Biosynthesis of prebiotic inulins by a probiotic Lactiplantibacillus plantarum HK9 under simplified in vitro gut-like conditions</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JH Ju, SY Heo, HJ Kim, MH Jo, TG Kim, BR Oh - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this study, Lactiplantibacillus plantarum HK9 was identified as a probiotic strain capable of synthesizing exopolysaccharides from sucrose, with 13 C NMR confirming these exopolysaccharides to be inulins characterized by β -(2 → 1)-glycosidic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626029444"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2fed35#0</id>
-    <title>A multifunctional nanosonosensitizer-encapsulated prebiotic hydrogel for synergizing sonodynamic therapy with multimodal immune activation against colorectal ...</title>
-    <updated>2026-08-23T09:52:38+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Wu, J Zhang, S Shi, C Wang, Y Liu, Y Liu, M Zhang... - Chemical Engineering ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Inulin (IN), a validated prebiotic known to promote intestinal homeostasis, has been shown to elicit systemic immunomodulatory effects and enhance the efficacy of anti-PD-1/PD-L1 therapy [26], [27], [28]. Herein, we engineered a bifunctional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1385894726084822"/>
-    <published>2026-08-23T09:52:38+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2070b0#2</id>
+    <id>http://www.inoreader.com/article/3a9c6e760eb77211#0</id>
     <title>Climate change and human mobility will shape dengue emergence risk in Europe</title>
-    <updated>2026-08-23T11:07:36+00:00</updated>
+    <updated>2026-08-24T11:53:19+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Manlio De Domenico</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Presigny, P Baglioni, P Rotondo, M Allegra, A Barla... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To this end, we combine climate and population projections with mobility data to estimate and map dengue emergence risk in Europe ... pathways and climate-driven population redistribution into predictive models of vector-borne disease emergence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Presigny, P Baglioni, P Rotondo, M Allegra, A Barla... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The risk of local arbovirus outbreaks in Europe is expected to increase due to climate change, as suggested by the multiplication of arbovirus outbreaks in the last decades. Europe has historically been a non-endemic region, making it vital to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
     <link href="https://arxiv.org/pdf/2608.20079"/>
-    <published>2026-08-23T11:07:36+00:00</published>
+    <published>2026-08-24T11:53:19+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2070b0#1</id>
-    <title>Trapping: The" Waterfall" of Vlasov-Poisson Dynamics and the Post-Transient Emergence of Drift-Independent Hole Structures in Collisionless Plasmas</title>
-    <updated>2026-08-23T11:07:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760eb77092#0</id>
+    <title>Computational Methods of Wave Propagation for Semiclassical Models of High Harmonic Generation in Bulk Solids</title>
+    <updated>2026-08-24T11:53:22+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Gregory Scholes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Schamel -arXivpreprintarXiv:2608.18658, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A key aspect of structure formation in collisionless plasmas is particle trapping or, more precisely, the gap this process leaves in the theoretical description. While the dynamics prior to the onset of trapping are governed by Landau physics and phase ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.18658"/>
-    <published>2026-08-23T11:07:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AN Hejazi, N Karpowicz, GD Scholes, JM Mikhailova - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present a theoretical framework for self consistent treatment of nonlinear light- matter interactions in the ultra-fast strong-field regime based on numerical solution of Maxwell's equations and semiconductor Bloch equations. This framework is shown ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://arxiv.org/pdf/2608.20306"/>
+    <published>2026-08-24T11:53:22+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760e2070b0#0</id>
-    <title>Emergence of cooperation: A reputation-modulated reinforcement learning</title>
-    <updated>2026-08-23T11:07:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760eb76fdc#0</id>
+    <title>Looking for TRAPPIST-1 external planets' emission in JWST archival data</title>
+    <updated>2026-08-24T11:53:24+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Elsa Ducrot</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Zhao, J Zhang, L Chen, Y Zou -arXivpreprintarXiv:2608.20016, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our results reveal that reputationmodulated learning significantly promotes the emergence of cooperative behavior, and we observe a discontinuous phase transition from full cooperation to full defection as the temptation increases ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.20016"/>
-    <published>2026-08-23T11:07:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LJ Cartigny, A Maurel, E Ducrot, TJ Bell - arXiv preprint arXiv:2608.18626, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The TRAPPIST-1 system has been thoroughly observed with JWST. Unfortunately, stellar contamination issues strongly limit the interpretation of transit observations. As for emission observations, only the two closest planets have been observed through ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
+    <link href="https://arxiv.org/pdf/2608.18626"/>
+    <published>2026-08-24T11:53:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760eb76e36#0</id>
+    <title>From Model to Practice: Testing Near-Infrared Spectroscopy as a Bone Collagen Prescreening Tool</title>
+    <updated>2026-08-24T11:53:26+00:00</updated>
+    <author>
+      <name>Tom Higham</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Ryder, G Celis, T Devièse, T Higham, K Douka... - Archaeometry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Collagen is a vital archaeological material, preserving biochemical signatures that provide insights into past environments, diets, and human–animal interactions. However, diagenetic processes can lead to rapid and often inconspicuous ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tom Higham (author alert)</content>
+    <link href="https://www.researchgate.net/profile/Matt-Sponheimer/publication/412949180_From_Model_to_Practice_Testing_Near-Infrared_Spectroscopy_as_a_Bone_Collagen_Prescreening_Tool/links/6a874ff806f4dd60ded7a0ed/From-Model-to-Practice-Testing-Near-Infrared-Spectroscopy-as-a-Bone-Collagen-Prescreening-Tool.pdf"/>
+    <published>2026-08-24T11:53:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760eb76caf#0</id>
+    <title>The Origins of Life: Not as Hard as It Looks?</title>
+    <updated>2026-08-24T11:53:29+00:00</updated>
+    <author>
+      <name>Jack W. Szostak</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JW Szostak - Molecular Frontiers Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Let's go back in time to somewhere around four billion years ago, when the chemistry of the early Earth was becoming more complex and ultimately giving rise to biology. This is a hard thing to study for many reasons, including the fact that we have no ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jack W. Szostak (author alert)</content>
+    <link href="https://www.worldscientific.com/doi/pdf/10.1142/S2529732526300016"/>
+    <published>2026-08-24T11:53:29+00:00</published>
   </entry>
 </feed>
