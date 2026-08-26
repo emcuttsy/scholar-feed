@@ -2,140 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-25T06:44:33.854927+00:00</updated>
+  <updated>2026-08-26T06:47:29.649042+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d0429fb#0</id>
-    <title>2ES: updates on the Second Earth Spectrograph</title>
-    <updated>2026-08-24T21:56:54+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760dcceba7#0</id>
+    <title>Emotions, Moods, and Affective States</title>
+    <updated>2026-08-25T22:38:19+00:00</updated>
     <author>
-      <name>Laura Kreidberg</name>
+      <name>Nicole Rust</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Stürmer, LA Buchhave, S Barboza, V Benz, R Brahm... - Ground-based and Airborne ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present an update on the development of the Second Earth Spectrograph (2ES), a fiber-fed, high-resolution, extreme-precision radial-velocity echelle spectrograph for the 2.2m ESO/MPG telescope at La Silla Observatory, Chile. The instrument will ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
-    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14149/141498Z/2ES-updates-on-the-Second-Earth-Spectrograph/10.1117/12.3103659.short"/>
-    <published>2026-08-24T21:56:54+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NC Rust&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The phenomena that comprise emotions, moods, and affective states are united by their valence—their pleasantness or unpleasantness—such as the pleasure of seeing a baby laugh or the aversion to smelling feces. Beyond this broadly accepted ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nicole Rust (author alert)</content>
+    <link href="https://oecs.mit.edu/assets/underlay/26d3dcaa7174358564516baeceb0ab16bce215786e6ea1df67cc6da4776624f8.pdf"/>
+    <published>2026-08-25T22:38:19+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d0428f2#0</id>
-    <title>Characterizing fiber and detector systematics of the MAROON-X EPRV spectrograph on Gemini North</title>
-    <updated>2026-08-24T21:56:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760dcceb06#0</id>
+    <title>Closed-Loop Control of Pharmaceutical Manufacturing Processes Can Usually Optimize Better Than Open-Loop Control</title>
+    <updated>2026-08-25T22:38:20+00:00</updated>
     <author>
-      <name>JL bean</name>
+      <name>Sarah Marzen</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Das, A Seifahrt,JL Bean, J Stürmer, Z Vladimir... - Ground-based and Airborne ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; MAROON-X is an extreme-precision fiber-fed Echelle spectrograph operating since 2020 at the 8.1 m Gemini North Telescope on Maunakea, Hawai'i. Designed for sub-m/s radial velocity (RV) measurements of M dwarfs, it caters to a broad range of stellar ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
-    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14149/141492O/Characterizing-fiber-and-detector-systematics-of-the-MAROON-X-EPRV/10.1117/12.3102471.short"/>
-    <published>2026-08-24T21:56:55+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#9</id>
-    <title>Enhancing Probiotic Performance in Food Matrices: From Strain Selection to Bioengineering</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SRJ Silva, RC Rodrigues, R Freitas, PC Stringheta... - Journal of Food Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Furthermore, prebiotic co‐encapsulation and synbiotic formulations improve survival and functionality through synergistic effects. Advances in genetic engineering, including CRISPR‐based tools, enable the development of next‐generation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ift.onlinelibrary.wiley.com/doi/pdf/10.1111/1750-3841.71371"/>
-    <published>2026-08-24T21:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#8</id>
-    <title>AE JOURNAL OF ARCHITECTURE AND EDUCATION (LabART editions), n. 11/2014, p. 389-401, 2014.(disponível em http://revistas. ulusofona. pt/index. php/revlae ...</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JCDRA Nunes&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The architecture's memory is the primordial soup to the creative act of architectural design. We intend to demonstrate that the architect uses a" drawer of the stored", standing on" manufactured" or" living" channels and whose creation is not ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://attachments.academia-assets.com/extracted-pdfs/45386625.pdf"/>
-    <published>2026-08-24T21:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#7</id>
-    <title>Essential Oil Composition of Aerial Parts of Prangos platychlaena subsp. platychlaena and Its Antimicrobial Activity against Foodborne Microorganisms</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Çoban, B Çetin, H Özer&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ObjectivePrangos platychlaena subsp. platychloena is found in the East and North East Anatolian Regions of Turkey. In traditional medicine, the dried and crushed roots are used externally for wound healing in animals. Here we report on the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://avesis.atauni.edu.tr/yayin/4c375c7a-10e2-4bca-b9fa-5d26943a587f/essential-oil-composition-of-aerial-parts-of-prangos-platychlaena-subsp-platychlaena-and-its-antimicrobial-activity-against-foodborne-microorganisms"/>
-    <published>2026-08-24T21:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#6</id>
-    <title>Technology development for space-based far-infrared double Fourier interferometry (Conference Presentation)</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LD Spencer, C Benson, MA Buchan... - Optical and Infrared ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Topics include: the origin of the universe, conditions for star and planet formation, and, ultimately, the conditions for the emergence of life . Over half of the energy emitted by the Universe appears in the relatively unexplored Far-IR spectral region ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14148/141481I/Technology-development-for-space-based-far-infrared-double-Fourier-interferometry/10.1117/12.3105307.short"/>
-    <published>2026-08-24T21:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#5</id>
-    <title>Beyond'Just Eat Real Food,'Revisited: Functional Fiber, the Food Matrix, and the Health Halo in Reverse</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KP KAREN&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In 2019 I published a paper with a title chosen to irritate the people I most wanted to reach: Beyond'Just Eat Real Food': The Case for Prebiotic Fiber and Hydrocolloid Fortification in Modern Diets [7]. Its argument was simple and, at the time ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://karenpendergrass.com/writing/beyond-just-eat-real-food-revisited"/>
-    <published>2026-08-24T21:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#4</id>
-    <title>Prebiotic supplementation improves metabolic dysfunction and hyperandrogenism in polyendocrine metabolic ovarian syndrome: A systematic review with meta ...</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Li, J Huang, D Yang - Clinical Nutrition Open Science&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... While Razmpoosh's meta- 254 analysis incorporated 20 RCTs—including five RCTs with Dietary Approaches to Stop Hypertension (DASH) 255 diet interventions—the present analysis strictly included 14 RCTs exclusively investigating prebiotic , 256 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.clinicalnutritionopenscience.com/article/S2667-2685(26)00093-8/pdf"/>
-    <published>2026-08-24T21:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#3</id>
-    <title>Informational Selectivity in Prebiotic Chemistry and Crystal Lattices: An Astrobiological Perspective from the HIGM</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Hamouda&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate the emergence of molecular selectivity and crystal lattice ordering in prebiotic chemistry through the lens of the Hamouda Informational Gravity Model (HIGM). By coupling chemical reaction coordinates to background vacuum infrared ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Samir-Hamouda/publication/412891494_Informational_Selectivity_in_Prebiotic_Chemistry_and_Crystal_Lattices_An_Astrobiological_Perspective_from_the_HIGM/links/6a8728cd0dd6e90404dea407/Informational-Selectivity-in-Prebiotic-Chemistry-and-Crystal-Lattices-An-Astrobiological-Perspective-from-the-HIGM.pdf"/>
-    <published>2026-08-24T21:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#2</id>
-    <title>Phyllanthus emblica as a prebiotic modulator of the gut–endocrine axis in polycystic ovary syndrome: a translational perspective on synbiotic therapeutics</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Jeyavelkumaran, N Keerthivasan, MS Dhanapal - Folia Microbiologica, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Polycystic Ovary Syndrome (PCOS) is a complex endocrine–metabolic disorder characterized by insulin resistance, chronic inflammation, and hyperandrogenism, with emerging evidence implicating gut microbiome dysbiosis in its pathogenesis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s12223-026-01577-0"/>
-    <published>2026-08-24T21:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#1</id>
-    <title>... -assisted three-phase partitioning produces a pectin-leaning polysaccharide fraction from Idesia polycarpa Maxim cake meal with stable rheology and prebiotic -like ...</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhang, W Zhang, X Shi, L Tan, Z Zhao, Y Hu... - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Idesia polycarpa Maxim cake meal (IPMM) is an abundant oil processing by-product that is frequently discarded. In this study, five polysaccharide fractions (IPMPs) were obtained using ultrasound assisted three phase partitioning (UTPP), alkali, citric acid ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626030207"/>
-    <published>2026-08-24T21:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760d042840#0</id>
-    <title>Prebiotic and Chemopreventive Potential of Digested Cooked Huitlacoche (Ustilago maydis) in Human HT‐29 Colon Cancer Cells</title>
-    <updated>2026-08-24T21:56:56+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Rebollar‐García, I Luzardo‐Ocampo... - Journal of Food Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic potential. Cooked huitlacoche underwent in vitro gastrointestinal digestion, followed by colonic fermentation, to evaluate the bioaccessibility of phenolic compounds and antioxidant capacity at each stage. The prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.71365"/>
-    <published>2026-08-24T21:56:56+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JMC Austria, S Marzen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract 1 Current practice in pharmaceutical batch manufacturing is, in a precise sense, weaker than 2 open-loop control: process parameters are fixed within a validated design space before 3 a batch begins, using settings typically determined ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sarah Marzen (author alert)</content>
+    <link href="https://www.sarahmarzen.com/uploads/2/5/5/9/25590538/closed_loop_control_paper.pdf"/>
+    <published>2026-08-25T22:38:20+00:00</published>
   </entry>
 </feed>
