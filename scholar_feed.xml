@@ -2,30 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-26T06:47:29.649042+00:00</updated>
+  <updated>2026-08-26T14:32:17.798087+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760dcceba7#0</id>
-    <title>Emotions, Moods, and Affective States</title>
-    <updated>2026-08-25T22:38:19+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760c00c6ef#1</id>
+    <title>First results from commissioning of the GRAVITY+ adaptive optics and laser guide star systems at the VLTI (Conference Presentation)</title>
+    <updated>2026-08-26T09:27:10+00:00</updated>
     <author>
-      <name>Nicole Rust</name>
+      <name>Laura Kreidberg</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NC Rust&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The phenomena that comprise emotions, moods, and affective states are united by their valence—their pleasantness or unpleasantness—such as the pleasure of seeing a baby laugh or the aversion to smelling feces. Beyond this broadly accepted ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nicole Rust (author alert)</content>
-    <link href="https://oecs.mit.edu/assets/underlay/26d3dcaa7174358564516baeceb0ab16bce215786e6ea1df67cc6da4776624f8.pdf"/>
-    <published>2026-08-25T22:38:19+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Shimizu, J Kammerer, G Bourdarot, F Eisenhauer... - Optical and Infrared ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The GRAVITY+ project delivered in 2024 and 2025 four new sets of wavefront sensors and three new laser guide star systems to the VLTI. Together with the GRAVITY-Wide upgrade, this will revolutionize interferometry by providing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
+    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14148/1414804/First-results-from-commissioning-of-the-GRAVITY-adaptive-optics-and/10.1117/12.3104773.full"/>
+    <published>2026-08-26T09:27:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760dcceb06#0</id>
-    <title>Closed-Loop Control of Pharmaceutical Manufacturing Processes Can Usually Optimize Better Than Open-Loop Control</title>
-    <updated>2026-08-25T22:38:20+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760c00c6ef#0</id>
+    <title>GRAVITY+ at the VLTI: instrumental advances enabling high-angular-resolution AGN science</title>
+    <updated>2026-08-26T09:27:10+00:00</updated>
     <author>
-      <name>Sarah Marzen</name>
+      <name>Laura Kreidberg</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JMC Austria, S Marzen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract 1 Current practice in pharmaceutical batch manufacturing is, in a precise sense, weaker than 2 open-loop control: process parameters are fixed within a validated design space before 3 a batch begins, using settings typically determined ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sarah Marzen (author alert)</content>
-    <link href="https://www.sarahmarzen.com/uploads/2/5/5/9/25590538/closed_loop_control_paper.pdf"/>
-    <published>2026-08-25T22:38:20+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Pappert, Y Cao, R Davies, F Delplancke-Ströbele... - Optical and Infrared ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present an overview of how recent and upcoming GRAVITY+ upgrades at the VLTI interconnect instrument and science, enabling high-angular-resolution studies of active galactic nuclei (AGN). Improvements such as wideangle off-axis fringe ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
+    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14148/1414813/GRAVITY-at-the-VLTI--instrumental-advances-enabling-high-angular/10.1117/12.3107264.full"/>
+    <published>2026-08-26T09:27:10+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760c00c606#0</id>
+    <title>Proto‐Panic Modulation by Caffeine‐Proteinoid Complexes</title>
+    <updated>2026-08-26T09:27:11+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Mougkogiannis, A Adamatzky - Journal of Applied Polymer Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This approach integrates principles of prebiotic chemistry with modern pharmaceutical design, offering a promising strategy for the deliv... In the context of prebiotic chemistry, caffeine–proteinoid complexes may offer insights into the self ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/app.71377"/>
+    <published>2026-08-26T09:27:11+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760c00c53f#1</id>
+    <title>Toward a hybrid ground-space exoplanet observatory: summary of Caltech Keck Institute for Space Studies (KISS) report</title>
+    <updated>2026-08-26T09:27:13+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Soliman, S Shaklan, J Mather, E Peretz, C Gregg... - Space Telescopes and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in March 2026, dedicated to the search for life beyond Earth - one of the highest scientific ... imaging of complete planetary systems, from Venus to Saturn , around nearby Sun-like stars at ... We investigate hybrid telescopes sharing a single ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14145/141455U/Toward-a-hybrid-ground-space-exoplanet-observatory--summary-of/10.1117/12.3105590.full"/>
+    <published>2026-08-26T09:27:13+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760c00c53f#0</id>
+    <title>Optimizing HWO architectures for distinguishing sub - Neptune size planets as rocky planets, water worlds, or mini-Neptunes</title>
+    <updated>2026-08-26T09:27:13+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RM Morgan, R Hu, M Damiano, M Turmon... - Space Telescopes and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... understand exoplanet formation and diversity, some larger-than-Earth planets with solid surfaces or oceans could support life . The Habitable Worlds Observatory (HWO) could perform atmospheric characterization to distinguish types of sub-Neptunes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14145/1414561/Optimizing-HWO-architectures-for-distinguishing-sub-Neptune-size-planets-as/10.1117/12.3105829.full"/>
+    <published>2026-08-26T09:27:13+00:00</published>
   </entry>
 </feed>
