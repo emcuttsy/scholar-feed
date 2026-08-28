@@ -2,140 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-27T17:21:58.096122+00:00</updated>
+  <updated>2026-08-28T18:14:52.845206+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760ca505d9#0</id>
-    <title>Optimizing HWO architectures for distinguishing sub-Neptune size planets as rocky planets, water worlds, or mini-Neptunes</title>
-    <updated>2026-08-27T07:29:18+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76039311d9#0</id>
+    <title>Aston literacy project 2011-1016</title>
+    <updated>2026-08-28T14:16:55+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>Joel B. Talcott</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RM Morgan, R Hu, M Damiano, M Turmon... - Space Telescopes and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sub-Neptune-sized planets are among the most common in our galaxy, yet it is currently unknown what fraction of sub-Neptune sized planets are rocky planets, water worlds, or gas-dominated mini-Neptunes. In addition to helping understand ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14145/1414561/Optimizing-HWO-architectures-for-distinguishing-sub-Neptune-size-planets-as/10.1117/12.3105829.full"/>
-    <published>2026-08-27T07:29:18+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Shapiro, A Cunningham, C Witton, JB Talcott...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; These datasets include information on children's auditory and phonological skills during primary school. They were used as part of the Aston Literacy Project to investigate the relationship between auditory skills, phonological skills, and reading ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joel B. Talcott (author alert)</content>
+    <link href="https://reshare.ukdataservice.ac.uk/853894/"/>
+    <published>2026-08-28T14:16:55+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760ca5054f#0</id>
-    <title>AIRS: ARIEL IR Spectrometer development and testing towards the flight model</title>
-    <updated>2026-08-27T07:29:19+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76039310f3#0</id>
+    <title>Emergent Multiscale Organisation of Neural Dynamics Fragments in Anaesthesia</title>
+    <updated>2026-08-28T14:16:56+00:00</updated>
     <author>
-      <name>Elsa Ducrot</name>
+      <name>Anil Seth</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Horeau, J Amiaux, C Bataillon, M Baumann... - Space Telescopes and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; AIRS is the infrared spectroscopic instrument of ARIEL: Atmospheric Remote‐ sensing Infrared Exoplanet Large‐survey mission adopted in November 2020 as the Cosmic Vision M4 ESA mission and planned to be launched in 2032 by an Ariane 6 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
-    <link href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14145/141450E/AIRS--ARIEL-IR-Spectrometer-development-and-testing-towards-the/10.1117/12.3101017.full"/>
-    <published>2026-08-27T07:29:19+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Milinkovic, AK Seth, L Barnett, O Carter, T Andrillon - Imaging Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Conscious experience depends on the coordinated activity of neural processes that span multiple scales: from synapses to whole-brain dynamics. A recently introduced measure, dynamical independence (DI), identifies, characterises, and quantifies ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.1364/2622190/imag.a.1364.pdf"/>
+    <published>2026-08-28T14:16:56+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#9</id>
-    <title>Short-Chain Fatty Acids in Blood Pressure Management: A Systematic Review of Clinical Effects, Delivery Strategies, and Translational Barriers</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7603930f7f#0</id>
+    <title>How host mobility formulations shape estimates of pathogen dispersal and epidemic risk in non endemic regions</title>
+    <updated>2026-08-28T14:16:58+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Manlio De Domenico</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Wathore, S Kumbam, D Ibikunle, MU Abdelrahman... - Cureus, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Short-chain fatty acids (SCFAs) have been proposed as mediators of the relationship between the intestinal microbiome and blood pressure (BP), but their therapeutic relevance in humans remains uncertain. This systematic review ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cureus.com/articles/522093-short-chain-fatty-acids-in-blood-pressure-management-a-systematic-review-of-clinical-effects-delivery-strategies-and-translational-barriers.pdf"/>
-    <published>2026-08-27T10:43:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Presigny, P Poletti, S Merler, M De Domenico - PLOS Computational Biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The global warming effects of climate change favor the stable residence of invasive vectors, such as the mosquito Aedes albopictus, in temperate areas, like the Mediterranean basin or north America. Thus, favorable weather conditions, together ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014646"/>
+    <published>2026-08-28T14:16:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#8</id>
-    <title>Cortisol and Gut Health: How Stress Rewires Your Gut</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76039308a8#0</id>
+    <title>Preserved topography, lateralization, selectivity, and functional connectivity of the language network in older brains</title>
+    <updated>2026-08-28T14:17:09+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Evelina (Ev) Fedorenko</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WYGB Matters&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic (Bimuno galactooligosaccharides, or B-GOS) for three weeks showed a significantly lower waking cortisol response and reduced attention to negative information compared with placebo — measurable stress-buffering from a fiber ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://siallac.com/cortisol-and-gut-health-how-stress-rewires-your-gut/"/>
-    <published>2026-08-27T10:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#7</id>
-    <title>Building artificial life: synthetic cells and their applications</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Albanese, E Altamura, F Mavelli, M Fiore, I Lagzi... - Contemporary Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Finally, we address the role of synthetic cells in origin - of - life studies and their potential as ... In contrast, a protocell refers to a more primitive, simplified compartment, often lacking ... as minimal models for origin - of - life studies, with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/abs/10.1080/00107514.2026.2716480"/>
-    <published>2026-08-27T10:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#6</id>
-    <title>Applications of the Schwinger multichannel method to the scattering of slow electrons by the ZC, EC, and N isomers of cyanomethanimine: Shape resonances, bound ...</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BM Monaro, LVS Dalagnol, MHF Bettega - Physical Review A, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The detection of prebiotic molecules in astrophysical environments, particularly in star-forming regions, is essential for understanding the origins of life and the chemistry of the interstellar medium. Among such species, cyanomethanimine ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.aps.org/pdf/10.1103/wfb6-wt4q"/>
-    <published>2026-08-27T10:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#5</id>
-    <title>Biofunctional Properties and Metabolic Characteristics of Colostrum Yogurt Supplemented with Smallanthus sonchifolius</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PP Rahayu, D Setiawan, RD Andriani, NS Ibrahim... - Journal of Animal Health ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Yoghurt is a popular fermented dairy product and can be used as vehicle to produce functional food that has better health and biofunctionality. Yacon (Smallanthus sonchifolius) is rich in fructooligosaccharides, fermentable and phenolic compounds ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://scholar.ub.ac.id/en/publications/biofunctional-properties-and-metabolic-characteristics-of-colostr/"/>
-    <published>2026-08-27T10:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#4</id>
-    <title>Structural characterisation and antioxidant and prebiotic activities of Ophiopogon japonicus polysaccharides obtained by enzymatic pretreatment followed by ...</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Sun, H Yu, H Yu, K Feng - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this study, response surface methodology was used to optimise a sequential two-stage process comprising enzymatic pretreatment followed by simultaneous microwave–ultrasound-assisted extraction of Ophiopogon japonicus polysaccharides. At the unrounded model ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1927939/full"/>
-    <published>2026-08-27T10:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#3</id>
-    <title>Prebiotic Emergence of Rna Prior to Cellulardiversification: A Theoretical Integration Ofstoichiometry and Assembly Theory Inprotocellular Evolution</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HUS Thewmini&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The traditional paradigm of biological evolution often frames nucleic acids as metabolic adaptationsdeveloped within functional prokaryotic cells. This paper presents a counter-theoretical synthesisdemonstrating that Ribonucleic Acid (RNA) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/rec/THEPEO-2"/>
-    <published>2026-08-27T10:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#2</id>
-    <title>The Use of Yacon Prebiotic Syrup with Low Glycemic Index and Glycemic Load on Body Endurance and Organ Safety.</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Yuanita, NW Kusnanik, PR Wikandari, WB Sabtiawan... - Tropical Journal of Natural ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , especially as bioactive prebiotic dietary fiber ie fructooligosaccharides (FOS), and antioxidants ie phenolic compounds. Prebiotic FOS is a ... Yacon tubers are recognized as a significant natural source of prebiotic fructooligosaccharides (FOS).Approximately ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://openurl.ebsco.com/contentitem/gcd:196262592?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:196262592&amp;crl=c&amp;jrnl=26160684"/>
-    <published>2026-08-27T10:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#1</id>
-    <title>Effect of probiotic, prebiotic , and synbiotic supplementation on anemia in hemodialysis patients: a systematic review and meta-analysis of randomized controlled trials</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AAO Ahmed, MA Mansour, MT Ebid, MSW Mohamed... - BMC Nephrology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Anemia is common in hemodialysis patients and reduces quality of life. Gut dysbiosis may contribute. Biotic supplements (probiotics, prebiotics, synbiotics) could help, but evidence is uncertain. This review evaluated their effects on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s12882-026-05310-4"/>
-    <published>2026-08-27T10:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760cc0b044#0</id>
-    <title>Prebiotic -matrix protective stabilization enables long-term probiotic storage for vaginal intervention</title>
-    <updated>2026-08-27T10:43:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Xu, R Huang, Q Tian, F Zhou, J Zhang - International Journal of Pharmaceutics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Here, we report a single-pot co-lyophilization formulation (termed prebiotic -matrix protective stabilization, PMPS), in which probiotics are uniformly dispersed within a protective prebiotic matrix. The formulation was characterized for microstructure ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0378517326007696"/>
-    <published>2026-08-27T10:43:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Billot, N Jhingan, M Varkanitsa, A Wolna, C Shain... - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Healthy aging is associated with structural and functional brain changes. However, cognitive abilities vary in how they change with age: executive functions decline, while aspects of linguistic processing remain relatively preserved. This heterogeneity ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
+    <link href="https://www.nature.com/articles/s41467-026-76598-x"/>
+    <published>2026-08-28T14:17:09+00:00</published>
   </entry>
 </feed>
