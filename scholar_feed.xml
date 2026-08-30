@@ -2,118 +2,206 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-08-28T23:14:53.417095+00:00</updated>
+  <updated>2026-08-30T11:21:16.717237+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#9</id>
-    <title>Reaction-induced selection of phase-separated RNA protocells</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76024587c3#0</id>
+    <title>A developmental biologist's guide to mechanics</title>
+    <updated>2026-08-29T21:34:02+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Pierre-François Lenne</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Verma, CD Modak, TP Fraccia, P Nghe&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Theoretical studies emphasize the necessity of compartments for Darwinian evolution at all prebiotic stages. Prior to replication based ... of protocell lineages, where protocell survival increases with the fraction of functional replicators15. As ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15007872"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Cao, A Chiappori, S Landiech, R Clément, PF Lenne - Development, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Developmental biology seeks to explain how living systems self-organize into functional, robust forms. While molecular and genetic approaches have revealed how biological information is encoded and processed, they often do not explain how ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Pierre-François Lenne (author alert)</content>
+    <link href="https://journals.biologists.com/dev/article/153/16/dev205785/372658"/>
+    <published>2026-08-29T21:34:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#8</id>
-    <title>Engineering Artificial Cells targeting Microbial Molecular Network Architecture</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7602458719#1</id>
+    <title>The phantastic organ: Predictive processing in the brain</title>
+    <updated>2026-08-29T21:34:03+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Karl Friston</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Riofrío&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We highlight a research domain dedicated to the development and implementation of an innovative protocell fabrication technique: the bacteriogenic methodology. A protocell model of this fascinating bacteriogenic technique with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cambridge.org/engage/coe/article-details/6a7f4ba34770e67d92d386ae"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Friston, T Parr - Frontiers in Psychology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neuroscience has witnessed a curious inversion over the past decades, with a switch from views of the brain as abstracting information from sensory input to a view of the brain as a constructive organ, actively generating explanations for—and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
+    <link href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1901293/full"/>
+    <published>2026-08-29T21:34:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#7</id>
-    <title>Soybean Hull Fermentation Into Tempe Modifies Dietary Fibre Composition and Improves In Vitro Antidiabetic Properties</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7602458719#0</id>
+    <title>The Free Energy Principle and Free Markets</title>
+    <updated>2026-08-29T21:34:03+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Karl Friston</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; APG Prayudani, M Astawan, U Hasanah, T Wresdiyati... - Journal of food science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (SHT), on the physicochemical, prebiotic , and in vitro antidiabetic properties of soybean ... prebiotic activity by selectively promoting the growth of Lactobacillus paracasei LPC-37 while limiting Escherichia coli ATCC 25922 proliferations, with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42642877/"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Friston, J Medrano, T Verbelen - Entropy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We apply the free energy principle to free markets by treating the Market as a random dynamical system with an attracting set, ie, some characteristic states. This licenses a normal form for stochastic dynamics that inherits from the Helmholtz–Hodge ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
+    <link href="https://www.mdpi.com/1099-4300/28/9/956"/>
+    <published>2026-08-29T21:34:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#6</id>
-    <title>Selective identification of the herb Picrorhiza kurroa and probiotic Lactobacillus fermentum as a potential synergistic synbiotic with fermentation-enhanced ...</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#9</id>
+    <title>Ammonium-bearing clays and multiple nitrogen species linked to the late-stage brines of Ryugu's parent body</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Kumar, B Diwan, MA Khan, A Awasthi, E Bala... - Biocatalysis and Agricultural ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Himalayan medicinal plant extracts for potential prebiotic and synbiotic properties. The selective prebiotic potential of plants was identified using ... Our results identify the Himalayan herb Picrorhiza kurroa (PK) as a prebiotic agent that can be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1878818126003154"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Matsumoto, H Yuzawa, M Koike, Y Kebukawa... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Nitrogen-bearing compounds are key precursors for prebiotic organic synthesis in the early Solar System. Spectroscopic detections of ... aqueous activity ceased, serving as sustained nitrogen sources for prebiotic organic synthesis. The nitrogen ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41550-026-02962-y"/>
+    <published>2026-08-30T01:19:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#5</id>
-    <title>Genome-Guided Prebiotic Fermentation Generates Anti-Virulence Metabolites Against Pseudomonas aeruginosa</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#8</id>
+    <title>A processual account of scientific definitions</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Elsayim, MSM Alqahtani, MM Alosaimi, A Alameen... - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: The rise of multidrug-resistant Pseudomonas aeruginosa has heightened interest in microbiome-based anti-virulence strategies that mitigate pathogenicity without directly affecting bacterial survival. This study examined ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1948465/full"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Sander-Oest - European Journal for Philosophy of Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The theory is then exemplified by applying it to a case study in the origins - of - life debate. ... 4, I apply this to the case-study in origins of life research, where a minimal cell construct was ... the typical trichotomy between RNA - world , metabolism - first and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s13194-026-00769-2"/>
+    <published>2026-08-30T01:19:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#4</id>
-    <title>HANDY PREBIOTIC CHEMISTRY FOR THE SYNTHESIS OF HETEROCYCLIC COMPOUNDS</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#7</id>
+    <title>Catalytic non-energetic formation of diverse peptides on cosmic dust under extraterrestrial conditions</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BM Bizzarri, V Ubertini, V Rendo, E Mancin, R Saladino&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Herein, we present a comprehensive overview of the application of prebiotic chemistry in the synthesis of heterocyclic compounds. This review highlights significant synthetic advantages resulting from one-pot multicomponent reactions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.societachimica.it/sites/default/files/ths/29/chapter_15.pdf"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Krasnokutski, F Kruczkiewicz, C Bourseau... - Communications Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... One of the enduring mysteries in origins - of - life research is how simple prebiotic chemistry gave rise to the complex, information-driven molecular systems of modern biology. While the RNA - world hypothesis has long dominated theoretical discourse ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s42004-026-02159-4"/>
+    <published>2026-08-30T01:19:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#3</id>
-    <title>From Meteorites to Membrane Rafts: Ganglioside-Incorporating Prebiotic Vesicles and the Emergence of Membrane Domain Organization</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#6</id>
+    <title>Bioconversion of Agro-Waste Biomass into Functional Xylan-Based Prebiotics and Their Potential as Probiotic Nutraceuticals for Gut Health</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Lefebvre, H Chahinian, A Lleshaj... - The Journal of Membrane ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Their incorporation into a prebiotic membrane model would represent a conceptual bridge ... systems combining nonanoic acid and nonanol ( prebiotic -like binary lipid matrix), and ... Our results reveal that the incorporation of gangliosides ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00232-026-00399-y"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SB Ummalyma, D Subasri, M Goswami - Waste and Biomass Valorization, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The aim of the in vitro prebiotic analysis is to assess the prebiotic potential of xylan from agro-waste using a fermentation broth. The list of prebiotic properties analyzed in this study includes growth performance, SCFA production, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s12649-026-03790-x"/>
+    <published>2026-08-30T01:19:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#2</id>
-    <title>Production of Prebiotic Xylo-Oligosaccharides from Rice Straw via Combined Dilute-Acid Hydrolysis</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#5</id>
+    <title>Enhanced Microwave-Assisted Xylooligosaccharide Production from Corn Stover via Ball Milling and Citric Acid-Induced Dielectric Regulation</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Sawisit, S Jampatesh, T Sankhunthod, K Jantama... - Applied Food Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Rice straw is an abundant agricultural residue that can serve as a renewable feedstock for the production of value-added prebiotic ingredients. This study investigated the production of xylo-oligosaccharides (XOS) from rice straw using ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S277250222600884X"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Ren, K Ding, X Liang, H Zhang, Y He, N Zhang... - Food and Bioprocess ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Short-chain DP2–6 XOS exert favorable prebiotic effects, while existing processes fail to enrich ... , of which only 6.83 g/L was DP2-6 prebiotic XOS. Mechanistically, the synergistic effect of ball ... long-chain XOS restricting its direct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s11947-026-04554-0"/>
+    <published>2026-08-30T01:19:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#1</id>
-    <title>Evaluation of Saccharomyces cerevisiae Yeast Cell Wall as a Microbial-Derived Prebiotic Substrate for Enhancing the Functional Properties of Lactic Acid Bacteria</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#4</id>
+    <title>Optimization of an EPS-enriched gluten-free sorghum bread with improved technological properties and eubiotic potential: evidence from an in vitro colonic model</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Soyer, M Ayhan, E İrdem, M Dikmen, Z Cantürk - International Journal of Food ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The yeast cell wall preparation used as a microbial-derived prebiotic substrate in this study was obtained from S. cerevisiae ATCC 208288, following the protocol described by Zarei et al. (2016) with minor modifications, and in accordance with the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://academic.oup.com/ijfst/advance-article-pdf/doi/10.1093/ijfood/vvag191/70793188/vvag191.pdf"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Nissen, D Addazii, A Gianotti, A Torreggiani... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The growing demand for healthy and appealing gluten-free products has prompted research into alternative cereals like sorghum and targeted fermentation strategies. Hence, this study aimed at developing a gluten-free sorghum sourdough bread ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926022416"/>
+    <published>2026-08-30T01:19:28+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7603d3e948#0</id>
-    <title>Euterpe oleracea Mart.(açaí) seeds show in vitro prebiotic potential: Integrative evidence from human colonic fermentation</title>
-    <updated>2026-08-28T22:34:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#3</id>
+    <title>A statistical perspective on the Last Universal Common Ancestor (LUCA)</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JG Santos, L Cabral, LR da Silva, TKA Bezerra... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Açaí seeds ( Euterpe oleracea Mart.) are an abundant agro-industrial by-product rich in bioactive compounds, remain unexplored for their gut microbiota modulating potential. This study investigated the modulation of gut microbiota composition and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926022520"/>
-    <published>2026-08-28T22:34:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Huzak, P Goldstein, T Rimac - Book of Abstracts: 6th Belgrade Bioinformatics ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We introduce an analysis-of-variance statistical framework for analyzing multiple sequence alignments of protein families shared between two groups of organisms. When applied to present-day bacteria and archaea, the method yields a ranking ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://imagine.imgge.bg.ac.rs/bitstream/handle/123456789/3449/a_statistical_perspective.pdf?sequence=1&amp;isAllowed=y"/>
+    <published>2026-08-30T01:19:28+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#2</id>
+    <title>The Concept of Water as the Origin of Life in Surah Al-Anbiya Verse 30: A Tahlili and Natural Science Perspective</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BH Mahardita, RL Maharani, M Susilayati - Al-Hikmah: Jurnal Agama dan Ilmu ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study aims to examine water as the primary source of life for all living beings from the perspective of Surah Al-Anbiya verse 30 and to analyze the verse through the Tahlili method by relating it to findings in modern science. A qualitative library-research ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journal.uir.ac.id/index.php/alhikmah/article/download/27502/10183"/>
+    <published>2026-08-30T01:19:28+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#1</id>
+    <title>The first major transition: Origin of life from a multilevel selection perspective</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EV Koonin - arXiv preprint arXiv:2608.22348, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... replication and useless to the protocell , thus incurring costs both on autonomous replicators and the protocell (non-autonomous parasites)... for the origin of life , when the interactions among GE occur inside protocells and there is feedback ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2608.22348"/>
+    <published>2026-08-30T01:19:28+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7602572208#0</id>
+    <title>Enhancing the Functional and Prebiotic Properties of Chinese Quince Pectin by Modifying Its Structure Through Acidic and Alkaline Extraction at Elevated ...</title>
+    <updated>2026-08-30T01:19:28+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RY Zhang, JK Li, ZK Zhang, Z Qin, GQ Zhang, HM Liu - Journal of Food Process ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Chinese quince ( Chaenomeles sinensis (Thouin) Koehne) represents an underutilized resource abundant in pectin. In this work, pectin was extracted using either an acidic extraction solution (ACP, pH = 2) or an alkaline method (ALP, pH ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jfpe.70761"/>
+    <published>2026-08-30T01:19:28+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76026de081#4</id>
+    <title>Emergence of the SARS-CoV-2 furin cleavage site in humans is constrained to late 2019: implications for COVID-19 origins</title>
+    <updated>2026-08-30T03:51:09+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SE Massey -arXivpreprintarXiv:2608.20416, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... from phylogenetic considerations for the emergence of SARS-CoV-2 in late 2019, indicating that FCS appearance and virus emergence correspond. The waiting time approach enables discrimination between various scenarios of SARS-CoV-2 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2608.20416"/>
+    <published>2026-08-30T03:51:09+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76026de081#3</id>
+    <title>On the Emergence of the Hysteresis Effect in Gravitational Systems</title>
+    <updated>2026-08-30T03:51:09+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Moti, A Shojai -arXivpreprintarXiv:2608.21269, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Previously, it was shown that the interplay between the gravitational memory effect and the thermodynamics of an ensemble of spinning objects gives rise to a hysteresis effect, which can be termed Gravo-Thermo memory. This effect can be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2608.21269"/>
+    <published>2026-08-30T03:51:09+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76026de081#2</id>
+    <title>Emergence of Stigmergic Transport in Granular Environments</title>
+    <updated>2026-08-30T03:51:09+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Wéry, FN Basualdo, B Gorissen, N Vandewalle -arXivpreprintarXiv:2608.24383, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We show that stigmergic path formation emerges in a deformable environment through the interplay between environmental memory and geometrical crowding. Using experiments with robotic random walkers together with a minimal stochastic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2608.24383"/>
+    <published>2026-08-30T03:51:09+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76026de081#1</id>
+    <title>From local kernels to global form: modeling the emergence of musical content</title>
+    <updated>2026-08-30T03:51:09+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Vitucci, M Lorusso, F Scagliola -arXivpreprintarXiv:2608.24660, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Markov models are established tools for symbolic music, including non-homogeneous formulations. The narrower contribution examined here is an observation-driven estimation mechanism: overlapping sliding windows derive a trajectory of local ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2608.24660"/>
+    <published>2026-08-30T03:51:09+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76026de081#0</id>
+    <title>The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine-Tuning</title>
+    <updated>2026-08-30T03:51:09+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Perlman, A Nijasure, J Allan -arXivpreprintarXiv:2608.23338, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; LoRA fine-tuning is standard for adapting LLMs to reranking, but it remains unclear where in the network task-specific relevance behavior is learned and what attention-level changes accompany that learning. Through ablation and attention experiments, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2608.23338"/>
+    <published>2026-08-30T03:51:09+00:00</published>
   </entry>
 </feed>
