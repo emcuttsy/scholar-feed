@@ -2,19 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-03T10:44:38.397539+00:00</updated>
+  <updated>2026-09-03T17:20:54.031109+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760707dc16#0</id>
-    <title>JWST MEP-A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H</title>
-    <updated>2026-09-03T04:19:11+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760759d217#0</id>
+    <title>The long-term persistence of microbial biospheres introduces a temporal bias 1 into the Drake equation: implications for the search for extraterrestrial life</title>
+    <updated>2026-09-03T12:42:25+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Pan, R MacDonald, N Espinoza, B Prinoth...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Exoplanets orbiting active stars offer distinct challenges for atmospheric characterization with the JWST. Among such worlds, the hot Saturn WASP-52b (Teq∼ 1300K) orbits an active K-dwarf that complicates transmission spectroscopy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://ore.exeter.ac.uk/articles/journal_contribution/JWST_MEP-_A_World_Under_Spotty_Starlight_Detection_of_CO2_and_H2O_in_the_Hot_Saturn_WASP-52b_with_JWST_NIRSpec_G395H/33328380"/>
-    <published>2026-09-03T04:19:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Roizman, JM Gómez-Gómez, A Rodriguez-Rojas&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , R* is the mean rate of star formation, fp the fraction of stars hosting 196 planetary systems, ne the number of potentially habitable planets per system, fl the fraction 197 on which life arises, fi the fraction on which intelligence evolves, fc the fraction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://eartharxiv.org/repository/object/14711/download/25584/"/>
+    <published>2026-09-03T12:42:25+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#9</id>
+    <title>Lpb. plantarum inhalation powders for the reduction of lung inflammation and S. aureus growth control in non-CF bronchiectasis</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Glieca, M Tambassi, C Schianchi, E Quarta, B Bottari... - Expert Opinion on Drug ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... plantarum, lactose, l-leucine with and without raffinose, a prebiotic , were produced by spray drying and in vitro tested. The focus was on ... Moreover, raffinose was investigated as prebiotic excipient in the formulation of the spray-dried ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.tandfonline.com/doi/abs/10.1080/17425247.2026.2727113"/>
+    <published>2026-09-03T12:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#8</id>
+    <title>Maternal Obesity, Diet, and the Gut Microbiome: Implications for Offspring Cardiometabolic Programming</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Jahan-mihan, S Salamat, R Nodarse, R Shangraw... - Frontiers in Nutrition&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Probiotic, prebiotic , and synbiotic interventions show potential, but clinical results—particularly for gestational diabetes prevention—remain mixed. This narrative review integrates evidence on diet–microbiome interactions in maternal obesity, microbial metabolites ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1909112/full"/>
+    <published>2026-09-03T12:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#7</id>
+    <title>HEALTH EFFECTS OF FUNCTIONAL FOODS ENRICHED WITH AGRO-INDUSTRIAL BY-PRODUCTS</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Kolobarić, Z Mihaljević, I Drenjančević - ... FOOD INDUSTRY BY-PRODUCTS-Book of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The addition of fruit pomace, nut skins, and citrus fibre improves antioxidant capacity, acts as a prebiotic , and enhances textural and functional properties. Whey, a by-product of the dairy industry, further contributes to nutritional value, while in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.croris.hr/crosbi/publikacija/prilog-skup/959917"/>
+    <published>2026-09-03T12:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#6</id>
+    <title>Survival of dipeptides under ionizing radiation in astrophysical environments</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Carlini, P Bolognesi, F Porcelli, G Mattioli... - Physical Chemistry Chemical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Thus they may have played a major role in the origin of life . Two scenarios have been proposed. In the first scenario, inorganic precursors present in the early Earth were the starting material for producing organic and prebiotic molecules in a ' primordial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.rsc.org/cp/article-pdf/doi/10.1039/D6CP00230G/13728766/d6cp00230g.pdf"/>
+    <published>2026-09-03T12:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#5</id>
+    <title>Optimalisasi Gut-Skin Axis melalui Edukasi Prebiotik Alami Berbasis Pangan Lokal sebagai Nutrisi Preventif Dermatitis Atopik Bagi Lansia</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DN Pravitasari, T Mandiricha, F Safitri, N Febyan... - ... Masyarakat Bidang Sains ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... : program socialization, interactive education on atopic dermatitis and prebiotic local food sources, distribution of visual media (posters ... ' knowledge concerning atopic dermatitis and natural prebiotic food sources. Through this prebiotic functional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journal.literasisains.id/index.php/abdikan/article/download/8516/3417"/>
+    <published>2026-09-03T12:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#4</id>
+    <title>Ganoderma lucidum-Derived Oligosaccharides: Antioxidant Prebiotics and Encapsulating Agents for Controlled Delivery of Essential Oils in a Selenium Nanoparticle ...</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Thuekeaw, S Tada, C Nuengjamnong, S Poothong - ACS Food Science &amp; Technology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic ... prebiotic oligosaccharides, biopolymer matrixes, and nanocarriers into a single delivery platform; however, this approach remains insufficiently investigated in both the food and feed industries. In our concept, GL byproducts ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/afsthl/article/doi/10.1021/acsfoodscitech.6c00680/5329097"/>
+    <published>2026-09-03T12:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#3</id>
+    <title>History of Microbiology: Scientists, Discoveries and Timeline</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Janssen, R Hooke - Antonie van Leeuwenhoek&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... He experimentally supported abiogenesis by devising a method that supposedly produced mice. ... He found mice near these materials and concluded that mice were produced by abiogenesis . ... He was an Italian physician who opposed the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://microbenotes.com/history-of-microbiology/"/>
+    <published>2026-09-03T12:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#2</id>
+    <title>Best Prebiotic and Probiotic Supplement for Gut-Brain Focus</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Andrews&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic and probiotic supplement rank products by CFU count or number of bacterial strains — metrics that tell you nothing about whether those microbes actually influence how you think and feel. This article takes a different approach: we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://noobru.com/blogs/articles/best-prebiotic-and-probiotic-supplement-for-gut-brain-focus?"/>
+    <published>2026-09-03T12:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#1</id>
+    <title>Aguamiel as a prebiotic ingredient: Composition, processing, and functional potential for gut microbiota modulation</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L García-Curiel, JG Pérez-Flores, E Pérez-Escalante... - Zanco Journal of Pure and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Aguamiel, the fresh sap of Agave, holds cultural and nutritional relevance and has been increasingly studied as a functional prebiotic ingredient with documented effects on gut microbiota modulation. This study aimed to evaluate the bibliometric ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://zancojournal.su.edu.krd/index.php/JPAS/article/view/4874"/>
+    <published>2026-09-03T12:42:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e760759d1d9#0</id>
+    <title>Enzymatic Conversion of Sucrose in Annona squamosa Pulp into Prebiotic Fructooligosaccharides: Process Optimization and Probiotic Activity</title>
+    <updated>2026-09-03T12:42:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Li, X Hou, X Geng, Z Zhu - LWT, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study aimed to enhance the functional quality of Annona squamosa juice by enzymatically converting its endogenous sucrose into prebiotic fructooligosaccharides (FOS). Initially, a model substrate (ASS) was enzymatically ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0023643826009199"/>
+    <published>2026-09-03T12:42:26+00:00</published>
   </entry>
 </feed>
