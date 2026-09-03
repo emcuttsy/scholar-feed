@@ -2,107 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-02T10:44:02.160317+00:00</updated>
+  <updated>2026-09-03T10:44:38.397539+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76003cc135#8</id>
-    <title>The Living Tree of Life and Relative Motion: First Steps in Biokinematics</title>
-    <updated>2026-09-02T00:29:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e760707dc16#0</id>
+    <title>JWST MEP-A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H</title>
+    <updated>2026-09-03T04:19:11+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Hudnall&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This dissertation develops equations that unify special relativity and biological evolution. We begin by mathematically formulating three foundational principles of biology. From these principles, we show that the tree of life is a multifractal geometry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/284fbb23feedcdbe136ff2a075dba747/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
-    <published>2026-09-02T00:29:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76003cc135#7</id>
-    <title>Insights into Protein Evolution From Improved Amino Acid Substitution Models</title>
-    <updated>2026-09-02T00:29:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Wheeler&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... By constructing phylogenies of genes dating back to the last universal common ancestor of ... synthetase genes that predate the last universal common ancestor . 2.3.2 Contributions to ... in the origins of life as we know it, many of which predate the last ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/33d862a1ba067240dccf0dc278c00098/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
-    <published>2026-09-02T00:29:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76003cc135#6</id>
-    <title>Polysaccharides From Laminaria japonica: Extraction and Effects on the Growth and Preservation of Yogurt‐Associated Lactic Acid Bacteria and Bifidobacteria</title>
-    <updated>2026-09-02T00:29:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Wang - Journal of Food Processing and Preservation, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study is aimed at optimizing the extraction of Laminaria japonica polysaccharides (LJPs) and evaluating the in vitro effects of LJPs on the growth and preservation of lactic acid bacteria (LAB) and bifidobacteria strains commonly used ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/01ab5f64f2675c5eb011b905db1d5ac2/1?pq-origsite=gscholar&amp;cbl=7257544"/>
-    <published>2026-09-02T00:29:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76003cc135#5</id>
-    <title>Probiotics, prebiotics, synbiotics, and postbiotics: A literature review</title>
-    <updated>2026-09-02T00:29:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Parusheva - Bulgarian Journal of Animal Husbandry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This early observation laid the foundation for the later development of the prebiotic concept. The term " prebiotic " was first introduced in ... Synergistic synbiotics are combinations in which the prebiotic substrates can be specifically ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://agriacad.eu/ojs/index.php/bjah/article/download/7082/5888"/>
-    <published>2026-09-02T00:29:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76003cc135#4</id>
-    <title>Fitness VI: The conflict between individual selfishness and germline immortality: evolution preserves lineages but restrains and disposes individuals</title>
-    <updated>2026-09-02T00:29:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Heininger&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... There are extensive examples of cooperative behavior among genes and proteins in both functioning cells and in the origin of life , so this cooperative nature, along with selfishness, must be considered part of normal evolution. The principles ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Kurt-Heininger/publication/413695958_Fitness_VI_The_conflict_between_individual_selfishness_and_germline_immortality_evolution_preserves_lineages_but_restrains_and_disposes_individuals/links/6a90f6b8726e0877c92c82ae/Fitness-VI-The-conflict-between-individual-selfishness-and-germline-immortality-evolution-preserves-lineages-but-restrains-and-disposes-individuals.pdf"/>
-    <published>2026-09-02T00:29:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76003cc135#3</id>
-    <title>Subacute oral toxicity of Sinopodophyllum hexandrum fruit in mice: Integrated assessment of target-organ injury and gut microbiota alteration</title>
-    <updated>2026-09-02T00:29:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Han, W Zhao, X Ma, M Li, PW Paré - Journal of Ethnopharmacology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The low dose demonstrates a safe and prebiotic profile, supporting its potential development as a functional food. Conversely, the high dose is associated with toxicity risks, necessitating pulmonary, liver and renal monitoring. Future research ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0378874126012055"/>
-    <published>2026-09-02T00:29:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76003cc135#2</id>
-    <title>Modulating the Architectures of FOS-Encapsulated Iron Oxide Nanoparticles via Salt Precursors: Kinetic Control and Enhanced Bioaccessibility</title>
-    <updated>2026-09-02T00:29:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Akhter, N Safdar - BioNanoScience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Iron deficiency anemia (IDA) has been a significant health issue worldwide, despite adequate daily dietary iron intake of 10–20 mg, given that only 1–2 mg is absorbed, highlighting its low bioavailability and gastrointestinal side effects. This study aims to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s12668-026-02814-z"/>
-    <published>2026-09-02T00:29:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76003cc135#1</id>
-    <title>Polysaccharides from Glycyrrhiza: a review on extraction, structural features, bioactivities, structure-activity relationships and emerging applications in food industries</title>
-    <updated>2026-09-02T00:29:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Maity, IK Sen - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Glycyrrhiza is one of the most prevalent and eldest herbal therapies in the world. The significant component present in glycyrrhiza species is bioactive polysaccharides that possess antitumor, immune regulation, prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626030840"/>
-    <published>2026-09-02T00:29:34+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76003cc135#0</id>
-    <title>An Assessment of Knowledge, Attitude, and Practice (KAP) of Probiotics and Prebiotics and Their Association with Nutritional and Inflammatory Health among Low ...</title>
-    <updated>2026-09-02T00:29:34+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Nallanagula, SS Sunkara, K Ambati, SV Sumalatha... - Journal of Chemical Health ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Objective: To assess knowledge, attitude, and practice (KAP) regarding prebiotic and ... Two prototype functional beverages--a flaxseed--barley prebiotic beverage and a probiotic ... Conclusion: This cross-sectional study documents poor dietary ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://openurl.ebsco.com/contentitem/gcd:196430438?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:196430438&amp;crl=c&amp;jrnl=22516719"/>
-    <published>2026-09-02T00:29:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Pan, R MacDonald, N Espinoza, B Prinoth...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Exoplanets orbiting active stars offer distinct challenges for atmospheric characterization with the JWST. Among such worlds, the hot Saturn WASP-52b (Teq∼ 1300K) orbits an active K-dwarf that complicates transmission spectroscopy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://ore.exeter.ac.uk/articles/journal_contribution/JWST_MEP-_A_World_Under_Spotty_Starlight_Detection_of_CO2_and_H2O_in_the_Hot_Saturn_WASP-52b_with_JWST_NIRSpec_G395H/33328380"/>
+    <published>2026-09-03T04:19:11+00:00</published>
   </entry>
 </feed>
