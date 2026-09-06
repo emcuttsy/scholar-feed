@@ -2,206 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-05T10:01:27.390480+00:00</updated>
+  <updated>2026-09-06T10:20:58.673343+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#9</id>
-    <title>Mechanism-based nutritional strategies for performance and recovery in soccer players: a qualitative research synthesis</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7606ee47d6#0</id>
+    <title>Strengthened second law for periodic processes</title>
+    <updated>2026-09-06T06:39:41+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>David H. Wolpert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AHA Ammarati, Z Shanazari, M Rahmati - Journal of the International Society of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiotic , probiotic, and synbiotic interventions enhanced mucosal immunity and reduced the incidence and duration of upper respiratory tract infections (URTI) as well as delayed onset muscle soreness (DOMS). Certain combined formulations-particularly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42679097/"/>
-    <published>2026-09-04T21:35:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Schaefer, B Ansbacher, J Korbel, DH Wolpert - arXiv preprint arXiv:2609.00639, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Many physical systems evolve under periodic driving: the same control protocol is applied again and again, even though the state of the system itself need not return to where it started after each cycle. We derive a physics-independent lower bound on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David H. Wolpert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.00639"/>
+    <published>2026-09-06T06:39:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#8</id>
-    <title>Pre-and probiotics for gastrointestinal and behavioral symptoms in autism spectrum disorder: a systematic review</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7606ee477c#1</id>
+    <title>ExoMOD I. A Forward Model for the Orbital Architecture of Kepler Multi-Planet Systems</title>
+    <updated>2026-09-06T06:39:43+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>David Kipping</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M França Dias, YJ de Almeida Nogueira... - Nutritional Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this context, the objective of this systematic review is to evaluate the efficacy of probiotic and prebiotic interventions in attenuating clinical symptoms of ASD, as well as to investigate how these interventions are associated with changes in GM ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/full/10.1080/1028415X.2026.2723173"/>
-    <published>2026-09-04T21:35:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Nesvorny, DA Yahalomi, D Kipping, C Beauge - arXiv preprint arXiv:2608.28548, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Transit observations only detect planets with favorable, near edge-on orientation of orbits as seen by a distant observer, which leaves much freedom for various interpretations in terms of the underlying planetary system architecture. Here we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
+    <link href="https://arxiv.org/pdf/2608.28548"/>
+    <published>2026-09-06T06:39:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#7</id>
-    <title>Lower-molecular-weight yeast mannan polysaccharides beneficially modulate gut microbiota and fermentation profiles in broilers: An in vitro and in vivo assessment</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7606ee477c#0</id>
+    <title>ExoMOD II. A Statistical Model of Transit Timing Variations in Kepler Multi-Planet Systems</title>
+    <updated>2026-09-06T06:39:43+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>David Kipping</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Bao, L Gong, Y Zhao, R Wang, J Bai, J Liu - Biocatalysis and Agricultural ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study evaluated the MW-associated prebiotic potential of three MPS fractions (high, medium and low-MW) through integrated in vitro and in vivo models. In vitro, while all MPSs exhibited high resistance to simulated gastrointestinal digestion, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1878818126003245"/>
-    <published>2026-09-04T21:35:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Nesvorny, DA Yahalomi, D Kipping, C Beauge... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In Paper I (Nesvorn\'y et al. 2026), we forward modeled transit observations of the Kepler telescope to characterize the orbital properties of close-in planetary systems. The new population model, ExoMOD, was calibrated on Kepler's DR25 data. Here ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
+    <link href="https://arxiv.org/pdf/2608.28550"/>
+    <published>2026-09-06T06:39:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#6</id>
-    <title>Best Supplement for Gut Health: Ranked by Microbiome Evidence</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7606ee4712#1</id>
+    <title>pyEDITH: the coronagraphic exposure time calculator for the Habitable Worlds Observatory</title>
+    <updated>2026-09-06T06:39:44+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jacob Lustig-Yaeger</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Andrews&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiotic fibres feed your existing beneficial bacteria — particularly Bifidobacteria and Faecalibacterium ... Inulin, sourced from chicory root, is another well-studied prebiotic . A 2017 trial in The American ... Taking probiotics without prebiotic fibre is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://noobru.com/blogs/articles/best-supplement-for-gut-health-ranked-by-microbiome-evidence?"/>
-    <published>2026-09-04T21:35:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Alei, MH Currie, C Spohn, CC Stark, A Roberge... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; To support the development of next-generation missions for the search and characterization of habitable planets, high-fidelity tools for astrophysical and instrumental noise simulations are needed. In this paper, we introduce pyEDITH, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
+    <link href="https://arxiv.org/pdf/2608.28477"/>
+    <published>2026-09-06T06:39:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#5</id>
-    <title>Marine Sulfated Polysaccharides as Multifunctional Bioactives: Implications for Gut Microbiota and Human Health</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7606ee4712#0</id>
+    <title>A Clearer View of HAT-P-1 b: JWST NIRSpec G395H Reveals Water, Carbon Dioxide, and Possibly Hydrogen Sulfide</title>
+    <updated>2026-09-06T06:39:44+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jacob Lustig-Yaeger</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TT Tjandra, E Sinurat, VD Prasasty, S Ichikawa - Food Hydrocolloids for Health, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Marine macroalgae have emerged as sustainable sources of bioactive compounds, particularly sulfated polysaccharides with potential prebiotic functionality. This review examines the role of marine sulfated polysaccharides, including fucoidan ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2667025926000403"/>
-    <published>2026-09-04T21:35:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Ashtari, SP Schmidt, G Fu, A Verma, DK Sing... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As part of JWST's Exoplanet Grand Tour Survey, we use panchromatic transmission spectroscopy to connect HAT-P-1 b's previously studied optical and near-infrared atmosphere to the longer-wavelength molecular bands accessible with JWST. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
+    <link href="https://arxiv.org/pdf/2608.28538"/>
+    <published>2026-09-06T06:39:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#4</id>
-    <title>ExoMars analog sample campaign: preparing in situ research of organic matter with Gas Chromatography-Mass Spectrometry at Oxia Planum, Mars, with the MOMA ...</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7606ee4698#0</id>
+    <title>Atmospheric escape fractionates secondary but not primary atmospheres</title>
+    <updated>2026-09-06T06:39:46+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Tim Lichtenberg</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Govekar, C Szopa, C Freissinet, A Buch, B Bouhier... - ... Science Congress 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Mars is one among the Solar System bodies of highest interest for research about prebiotic ... necessary for the formation of such clays could facilitate prebiotic activity [4]. Therefore, Oxia ... ) for polar organic molecules of interest for prebiotic chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://hal.science/hal-05732881/"/>
-    <published>2026-09-04T21:35:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Attia, T Lichtenberg - arXiv preprint arXiv:2608.30106, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A planet's atmosphere, heated by starlight, can flow off as a wind, taking some gases and leaving others in unknown proportions. Yet this selection wrote the noble-gas records of the terrestrial planets, and decides which gases hot exoplanets keep. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tim Lichtenberg (author alert)</content>
+    <link href="https://arxiv.org/pdf/2608.30106"/>
+    <published>2026-09-06T06:39:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#3</id>
-    <title>Corresponding author:(AE Cruz-Hernández) This email address is being protected from spambots. You need JavaScript enabled to view it.</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7606ee465a#0</id>
+    <title>Measuring the contents of hallucinations from psychedelics and stroboscopic light: the Six-Dimensional Visual Hallucination Questionnaire</title>
+    <updated>2026-09-06T06:39:47+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Anil Seth</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AE Cruz-Hernández, M Colín-García, E Mateo-Martí - Boletín de la Sociedad ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in the chemical processes that led to the origin of life by concentrating and transforming organic ... of rock surfaces as potential concentrators of organic molecules in prebiotic scenarios. ... an important role as surfaces concentrating ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://boletinsgm.igeolcu.unam.mx/bsgm/index.php/volumenes-volumes/cuarta-epoca/375-sitio/articulos/cuarta-epoca/7802/3089"/>
-    <published>2026-09-04T21:35:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Hewitt, A Seth, D Schwartzman - Royal Society Open Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hallucinations arise from disruptions in neural processes that construct perceptual experience from sensory input. Progress in consciousness science may therefore benefit from methods that precisely characterize their phenomenology. We provide ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://royalsocietypublishing.org/rsos/article-abstract/13/9/rsos260647/483177"/>
+    <published>2026-09-06T06:39:47+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#2</id>
-    <title>4. Before DNA</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7606ee4615#0</id>
+    <title>Striatal dopaminergic function and cortical functional connectivity in 22q11. 2 deletion syndrome: an integrative multimodal 18F-DOPA PET and magnetic resonance ...</title>
+    <updated>2026-09-06T06:39:48+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Federico Turkheimer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Galfard - This Is Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The RNA world hypothesis has the potential to explain the emergence of life on Earth. Maybe not yet in all its details (and don't we all ... 't around during the RNA world , Dieter did not hesitate and immediately saw a link between his viroids and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.degruyterbrill.com/document/doi/10.7208/chicago/9780226853963-072/html"/>
-    <published>2026-09-04T21:35:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Mancini, M Rogdaki, S Jauhar, M Moretto... - Molecular Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Dopaminergic signalling is critical for regulating large-scale brain network dynamics and is implicated in the pathophysiology of psychotic disorders. 22q11. 2 deletion syndrome (22q11DS), a high-penetrance genetic risk factor for schizophrenia, is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
+    <link href="https://www.nature.com/articles/s41380-026-03839-2"/>
+    <published>2026-09-06T06:39:48+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#1</id>
-    <title>Probiotics vs Prebiotics: What's the Difference and Which One Do You Need?</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7606ed9a84#0</id>
+    <title>Improving Brain-Behaviour Causality with Neurofeedback</title>
+    <updated>2026-09-06T06:48:19+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Guilherme M. de O. Wood</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Sharma&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... If none of this feels urgent, and you're simply trying to stay ahead of gut issues, you can add both prebiotic and probiotics to your daily intake. Prebiotic ... A general note: If you're taking a probiotic or prebiotic supplement, follow the label's serving ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.revedahealth.in/blogs/health-tips/probiotics-vs-prebiotics"/>
-    <published>2026-09-04T21:35:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe30b#0</id>
-    <title>Survival of dipeptides under ionizing radiation in astrophysical environments</title>
-    <updated>2026-09-04T21:35:52+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Carlini, P Bolognesi, F Porcelli, G Mattioli... - ... Chemistry Chemical Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Thus they may have played a major role in the origin of life . Two scenarios have been proposed. In the first scenario, inorganic precursors present in the early Earth were the starting material for producing organic and prebiotic molecules in a ' primordial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.rsc.org/cp/article-pdf/doi/10.1039/D6CP00230G/13728766/d6cp00230g.pdf"/>
-    <published>2026-09-04T21:35:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76064fe297#0</id>
-    <title>Experimental study of the effect of CO2, H2, and water vapour in aerosol production at nitrogen-dominant exoplanet ionospheres</title>
-    <updated>2026-09-04T21:35:54+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Chatterjee, A Chatain, L Vettier - Europlanet Science Congress 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , organic aerosols formed by photochemical and thermionic processes are predicted to play a significant role [1]. The organic haze in Titan presents a clear example of how organic ... In this work, we start from the example of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://hal.science/hal-05732385/"/>
-    <published>2026-09-04T21:35:54+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760645ae93#6</id>
-    <title>" More Is Different''in Neural Circuits: Algebraic Emergence of Effective Theories in Canonical Recurrent Motifs of Biological Neuronal Networks</title>
-    <updated>2026-09-04T23:40:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Dehghani -arXivpreprintarXiv:2608.30231, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Canonical neural circuit motifs are usually described functionally: divisive normalization rescales population activity by a pooled signal, and winner-take-all competition selects one pattern through recurrent excitation and shared inhibition ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.30231"/>
-    <published>2026-09-04T23:40:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760645ae93#5</id>
-    <title>Electronic phase separation and emergence of a nondimerized insulating phase in VO $ _2 $$(110) _ {\mathit {R}} $ ultrathin films</title>
-    <updated>2026-09-04T23:40:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Inoue, D Shiga, R Hayasaka, K Ozawa... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Using in situ photoemission spectroscopy and x-ray absorption spectroscopy, we investigated the thickness dependence of the electronic structure and VV dimerization in VO$_2$/TiO$_2$ (110) ultrathin films, in which the one-dimensional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.29116"/>
-    <published>2026-09-04T23:40:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760645ae93#4</id>
-    <title>Emergence and suppression of phonon vortices in two-dimensional crystals: Interplay of lattice symmetry, heavy impurities, and shear</title>
-    <updated>2026-09-04T23:40:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YT Zhang, D Pan, Y Jin -arXivpreprintarXiv:2608.30645, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Phonon vortices are vortex-like displacement fields that appear in the vibrational modes of two- dimensional materials. Here, we demonstrate that these vortices arise as symmetry-adapted linear combinations of degenerate planar phonon modes, with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.30645"/>
-    <published>2026-09-04T23:40:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760645ae93#3</id>
-    <title>Sparse Competition during Training For the Emergence of Specialized Modules</title>
-    <updated>2026-09-04T23:40:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Rossigneux, K Haroun -arXivpreprintarXiv:2608.30978, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this work, we study the emergence of modular structure through competition dynamics between groups of neurons during training. We ... We also study the emergence of a hierarchical partition of sub-tasks depending on the number of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.30978"/>
-    <published>2026-09-04T23:40:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760645ae93#2</id>
-    <title>Vehicle Drift Emergence : Continuous Evolution from Grip Driving to the Handling Limit via Boundary Exploration Learning Model Predictive Control</title>
-    <updated>2026-09-04T23:40:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Zhao, BM Nguyen, H Lu, X Wu -arXivpreprintarXiv:2608.28723, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper defines drift emergence in a repetitive lap time minimization task, where neither the controller objective nor the reward contains an explicit drift reference. A boundary exploration learning model predictive controller (BELMPC) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.28723"/>
-    <published>2026-09-04T23:40:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760645ae93#1</id>
-    <title>Emergence of Strategic Equilibria from Transverse Field Ising Hamiltonian Dynamics</title>
-    <updated>2026-09-04T23:40:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Thomas, S Balakrishnan -arXivpreprintarXiv:2608.29926, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... useful, as they allow one to study collective behavior such as the emergence or breakdown of cooperation in the game setting. Traditional game ... The non-interacting limit is examined to clarify the emergence of trivial strategic behavior, followed by the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.29926"/>
-    <published>2026-09-04T23:40:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760645ae93#0</id>
-    <title>Latent Geometry and the Emergence of Lorentzian Time in Matrix Quantum Mechanics</title>
-    <updated>2026-09-04T23:40:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Ydri -arXivpreprintarXiv:2608.29686, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We introduce \emph{latent geometry} in BFSS/BMN models. Before an emergent geometry evaporates at the geometric transition, large-$d$ Gaussianization encodes its information in the exceptional $N=2$ sector selected by the baby fuzzy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2608.29686"/>
-    <published>2026-09-04T23:40:14+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Marins, M Ramot, A Cortese, R Sitaram, G Wood&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A robust and reliable causal mapping of human brain function requires ruling out multiple sources of bias and confounding. New standards for causal inference suggest that the causal evidence provided by traditional methods, such as lesion ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
+    <link href="https://osf.io/preprints/psyarxiv/udyg6"/>
+    <published>2026-09-06T06:48:19+00:00</published>
   </entry>
 </feed>
