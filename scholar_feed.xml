@@ -2,107 +2,228 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-06T10:20:58.673343+00:00</updated>
+  <updated>2026-09-06T16:31:31.416623+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7606ee47d6#0</id>
-    <title>Strengthened second law for periodic processes</title>
-    <updated>2026-09-06T06:39:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76050b718b#5</id>
+    <title>Requirements After the First Edit: Mining Late Requirement Emergence and Rework in Real-World Coding-Agent Sessions</title>
+    <updated>2026-09-06T11:26:17+00:00</updated>
     <author>
-      <name>David H. Wolpert</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Schaefer, B Ansbacher, J Korbel, DH Wolpert - arXiv preprint arXiv:2609.00639, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Many physical systems evolve under periodic driving: the same control protocol is applied again and again, even though the state of the system itself need not return to where it started after each cycle. We derive a physics-independent lower bound on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David H. Wolpert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.00639"/>
-    <published>2026-09-06T06:39:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Jiang, H Cheng, Y Fu, A Koziolek, J Li, W Zhang -arXivpreprintarXiv:2609.03028, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To separate correction from requirement emergence , we define an emergence unit as not ... Emergence units associated with the same file-writing edit share one invalidation window and are ... Automatically accepted and human-adjudicated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.03028"/>
+    <published>2026-09-06T11:26:17+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7606ee477c#1</id>
-    <title>ExoMOD I. A Forward Model for the Orbital Architecture of Kepler Multi-Planet Systems</title>
-    <updated>2026-09-06T06:39:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76050b718b#4</id>
+    <title>Emergence of Fibrations, Compression, and Symmetry Breaking in Artificial Neural Networks</title>
+    <updated>2026-09-06T11:26:17+00:00</updated>
     <author>
-      <name>David Kipping</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Nesvorny, DA Yahalomi, D Kipping, C Beauge - arXiv preprint arXiv:2608.28548, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Transit observations only detect planets with favorable, near edge-on orientation of orbits as seen by a distant observer, which leaves much freedom for various interpretations in terms of the underlying planetary system architecture. Here we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
-    <link href="https://arxiv.org/pdf/2608.28548"/>
-    <published>2026-09-06T06:39:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OM Velarde, LC Parra, A Hashemi, HA Makse -arXivpreprintarXiv:2609.01768, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Consistent with this theory, we report the emergence of covering symmetries across major network architectures, including multi-layer, convolutional, recurrent, and transformer networks. Exploiting these symmetries enables drastic model ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.01768"/>
+    <published>2026-09-06T11:26:17+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7606ee477c#0</id>
-    <title>ExoMOD II. A Statistical Model of Transit Timing Variations in Kepler Multi-Planet Systems</title>
-    <updated>2026-09-06T06:39:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76050b718b#3</id>
+    <title>Emergence of the magnetic octupole Rashba-Edelstein effect from spin-orbit entanglement</title>
+    <updated>2026-09-06T11:26:17+00:00</updated>
     <author>
-      <name>David Kipping</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Nesvorny, DA Yahalomi, D Kipping, C Beauge... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In Paper I (Nesvorn\'y et al. 2026), we forward modeled transit observations of the Kepler telescope to characterize the orbital properties of close-in planetary systems. The new population model, ExoMOD, was calibrated on Kepler's DR25 data. Here ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
-    <link href="https://arxiv.org/pdf/2608.28550"/>
-    <published>2026-09-06T06:39:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Lee, S Han -arXivpreprintarXiv:2609.02768, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Magnetic multipoles have attracted growing interest as order parameters and dynamical degrees of freedom in unconventional magnets, yet it remains unclear how broadly they can emerge as active electronic degrees of freedom. Here, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.02768"/>
+    <published>2026-09-06T11:26:17+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7606ee4712#1</id>
-    <title>pyEDITH: the coronagraphic exposure time calculator for the Habitable Worlds Observatory</title>
-    <updated>2026-09-06T06:39:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76050b718b#2</id>
+    <title>Persistence and emergence of quantum defects through pressure-induced phase changes</title>
+    <updated>2026-09-06T11:26:17+00:00</updated>
     <author>
-      <name>Jacob Lustig-Yaeger</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Alei, MH Currie, C Spohn, CC Stark, A Roberge... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; To support the development of next-generation missions for the search and characterization of habitable planets, high-fidelity tools for astrophysical and instrumental noise simulations are needed. In this paper, we introduce pyEDITH, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://arxiv.org/pdf/2608.28477"/>
-    <published>2026-09-06T06:39:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AJ Healey, A Salek, CTK Lew, Z Benedek, BC Johnson... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Extreme pressures can transform materials and their properties, but probing these in-situ is made challenging by the small sample volumes and access requirements demanded by diamond anvil cells. Quantum defects offer a route to local ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.02100"/>
+    <published>2026-09-06T11:26:17+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7606ee4712#0</id>
-    <title>A Clearer View of HAT-P-1 b: JWST NIRSpec G395H Reveals Water, Carbon Dioxide, and Possibly Hydrogen Sulfide</title>
-    <updated>2026-09-06T06:39:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76050b718b#1</id>
+    <title>Strategic Centrality and the Emergence of Core-Periphery Networks</title>
+    <updated>2026-09-06T11:26:17+00:00</updated>
     <author>
-      <name>Jacob Lustig-Yaeger</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Ashtari, SP Schmidt, G Fu, A Verma, DK Sing... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As part of JWST's Exoplanet Grand Tour Survey, we use panchromatic transmission spectroscopy to connect HAT-P-1 b's previously studied optical and near-infrared atmosphere to the longer-wavelength molecular bands accessible with JWST. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://arxiv.org/pdf/2608.28538"/>
-    <published>2026-09-06T06:39:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Arieli, J Correia-da-Silva, W Hann-Caruthers... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study a network formation game in which agents sponsor links at a linear cost in order to maximize centrality, defined as a weighted sum of walk counts with positive and weakly decreasing weights. This class includes Katz Bonacich centrality and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.02357"/>
+    <published>2026-09-06T11:26:17+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7606ee4698#0</id>
-    <title>Atmospheric escape fractionates secondary but not primary atmospheres</title>
-    <updated>2026-09-06T06:39:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76050b718b#0</id>
+    <title>The emergence of the Cauchy horizon from the crease for $3 D $ compressible Euler flow</title>
+    <updated>2026-09-06T11:26:17+00:00</updated>
     <author>
-      <name>Tim Lichtenberg</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Attia, T Lichtenberg - arXiv preprint arXiv:2608.30106, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A planet's atmosphere, heated by starlight, can flow off as a wind, taking some gases and leaving others in unknown proportions. Yet this selection wrote the noble-gas records of the terrestrial planets, and decides which gases hot exoplanets keep. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tim Lichtenberg (author alert)</content>
-    <link href="https://arxiv.org/pdf/2608.30106"/>
-    <published>2026-09-06T06:39:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Abbrescia, J Speck -arXivpreprintarXiv:2609.03101, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study open sets of nearly plane symmetric data for the $3D$ compressible Euler equations with dynamic entropy and non-trivial vorticity. In our prior work, we proved that the solutions develop a gradient singularity along a singular boundary, which is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.03101"/>
+    <published>2026-09-06T11:26:17+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7606ee465a#0</id>
-    <title>Measuring the contents of hallucinations from psychedelics and stroboscopic light: the Six-Dimensional Visual Hallucination Questionnaire</title>
-    <updated>2026-09-06T06:39:47+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76051a469f#1</id>
+    <title>New and Updated Rossiter-McLaughlin Measurements for Three Hot Jupiter-Hosting M Dwarfs</title>
+    <updated>2026-09-06T14:11:45+00:00</updated>
     <author>
-      <name>Anil Seth</name>
+      <name>JL bean</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Hewitt, A Seth, D Schwartzman - Royal Society Open Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hallucinations arise from disruptions in neural processes that construct perceptual experience from sensory input. Progress in consciousness science may therefore benefit from methods that precisely characterize their phenomenology. We provide ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
-    <link href="https://royalsocietypublishing.org/rsos/article-abstract/13/9/rsos260647/483177"/>
-    <published>2026-09-06T06:39:47+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., A Rochon, Z Vladimir, B Bitsch, R Basant,JL Bean... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Evidence suggests that Kozai-Lidov high-eccentricity migration (HEM) is the dominant migration channel for short-period Giant Exoplanets around M dwarf Stars (GEMS). However, it is unlikely that all short-period GEMS form via HEM, given that most ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.03031"/>
+    <published>2026-09-06T14:11:45+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7606ee4615#0</id>
-    <title>Striatal dopaminergic function and cortical functional connectivity in 22q11. 2 deletion syndrome: an integrative multimodal 18F-DOPA PET and magnetic resonance ...</title>
-    <updated>2026-09-06T06:39:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76051a469f#0</id>
+    <title>JWST MIRI reveals a potential atmosphere on the ultra-hot rocky planet TOI-431b</title>
+    <updated>2026-09-06T14:11:45+00:00</updated>
     <author>
-      <name>Federico Turkheimer</name>
+      <name>JL bean</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Mancini, M Rogdaki, S Jauhar, M Moretto... - Molecular Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Dopaminergic signalling is critical for regulating large-scale brain network dynamics and is implicated in the pathophysiology of psychotic disorders. 22q11. 2 deletion syndrome (22q11DS), a high-penetrance genetic risk factor for schizophrenia, is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
-    <link href="https://www.nature.com/articles/s41380-026-03839-2"/>
-    <published>2026-09-06T06:39:48+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., R Luque, AAA Piette, Q Xue, M Zhang,JL Bean... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; An open question in exoplanet science is whether rocky exoplanets extremely close in to their host stars, `lava worlds', can retain significant atmospheres. Thermal emission observations via secondary eclipse can be used to determine whether a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.03029"/>
+    <published>2026-09-06T14:11:45+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7606ed9a84#0</id>
-    <title>Improving Brain-Behaviour Causality with Neurofeedback</title>
-    <updated>2026-09-06T06:48:19+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76051a4661#1</id>
+    <title>3.5-meter Segmented-Mirror Robotic Space Telescope Mission White Paper I. Overall Architecture and Scientific Mission</title>
+    <updated>2026-09-06T14:11:46+00:00</updated>
     <author>
-      <name>Guilherme M. de O. Wood</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Marins, M Ramot, A Cortese, R Sitaram, G Wood&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A robust and reliable causal mapping of human brain function requires ruling out multiple sources of bias and confounding. New standards for causal inference suggest that the causal evidence provided by traditional methods, such as lesion ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
-    <link href="https://osf.io/preprints/psyarxiv/udyg6"/>
-    <published>2026-09-06T06:48:19+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YW Kang, SH Lee, J Kim, JY Han, SE Hong, B Moon... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... An optional Exoplanet Imaging Coronagraph is being investigated for highcontrast imaging of nearby planetary systems, with performance ... Ia supernova cosmology, direct imaging of exoplanets, and exoplanet atmospheric spectroscopy. Although ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.02571"/>
+    <published>2026-09-06T14:11:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a4661#0</id>
+    <title>3.5-meter Segmented-Mirror Robotic Space Telescope Mission White Paper III. Key Scientific Mission: Exoplanet Science with a Coronagraph</title>
+    <updated>2026-09-06T14:11:46+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Kim, SH Lee, YW Kang, JY Han, SE Hong, B Moon... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this way, the program extends the exploration of our nearest stellar neighbors toward the fundamental question of whether potentially life ... The Recent Venus , maximum-greenhouse, and Early Mars limits use the corresponding coefficient sets ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.02577"/>
+    <published>2026-09-06T14:11:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#9</id>
+    <title>Nonequilibrium Formation of C4 Carbonyls in Interstellar Ices Linked to Amino Acids</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Wang, J Wang, AS Shishova, SO Tuchin, M McAnally... - ACS Central Science&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Complex organic molecules in interstellar ices and carbonaceous asteroids record key steps in the chemical evolution toward life, yet the origin of branched carbonyl compounds─ a fundamental class of biorelevant molecules─ remains unresolved ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c00923/5405538"/>
+    <published>2026-09-06T14:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#8</id>
+    <title>Beyond Desensitization: The SCFA-Treg-Gut Microbiota Axis as a Mechanistic Framework for Sustained Unresponsiveness in Food Allergy</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Song, Q Zhang, Z Li, H Zhang, Z Chen, Q Liu - Frontiers in Immunology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Translational development should instead test spatially targeted metabolite delivery, defined microbial therapeutics, and precision prebiotic or synbiotic strategies as adjuncts to antigen-directed therapy. Future trials require harmonized ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1949158/full"/>
+    <published>2026-09-06T14:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#7</id>
+    <title>AUTHORED—The Mind Behind a Maintained Universe—Institutional Research &amp; Book Framework Edition</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SR Shahzad&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The book builds a cumulative case from fine-tuning, physical order, entropy, biological information, origin - of - life questions, consciousness and the convergence of multiple lines of intelligibility. It explicitly rejects a "God of the gaps" method. A gap-filler ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philpapers.org/rec/SHAATV"/>
+    <published>2026-09-06T14:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#6</id>
+    <title>Biofloc Farming: Transforming Aquaculture with Sustainable Practices</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Puri - Sustainability in Aquaculture and Fisheries, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Romano (2021) has related OCS addition to bacterial bioflocs akin supplementation of prebiotic (OCS) to beneficial heterotrophic bacteria (probionts) in flocs. Relative merits of supplementation of biofloc with probiotics, prebiotic additives, synbiotics, to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/chapter/10.1007/978-3-032-16605-0_2"/>
+    <published>2026-09-06T14:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#5</id>
+    <title>Rewiring the ribosome to translate proteins encoded in its own RNA</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Alizadeh, D Klepacki, N Vázquez-Laslop, AS Mankin - Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... hypothetically apply to prebiotic translation. According to the RNA world theory for the emergence of life on Earth, in the prebiotic world, ... How the RNA world transitioned to the modern DNA–RNA–protein world and how genetically coded ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41586-026-10962-1"/>
+    <published>2026-09-06T14:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#4</id>
+    <title>Oligosaccharides With Defined Glycosidic Bonds Shape Gut Microbial Succession and Metabolism Via Bond-Specific Microbial Responders</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Lu, J Zou, G Han, M Zhao, T Luo, X Feng, L Zhu... - Advanced science (Weinheim ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Functional oligosaccharides are important prebiotic ingredients, but the structure-function relationships and mechanisms by which defined glycosidic bonds shape microbial responses remain unclear. Five glucose disaccharides, trehalose (α-1,1), maltose (α-1,4) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42681814/"/>
+    <published>2026-09-06T14:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#3</id>
+    <title>Toxicological evaluation of Disialyllacto-N-neotetraose disodium salt</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EJ Park, H Go - Regulatory Toxicology and Pharmacology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Human milk oligosaccharides (HMOs) have gained attention owing to their diverse composition and potential functions, including prebiotic effects, pathogen protection, immune system development, and cognitive development. We produced Disialyllacto-N-neotetraose ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0273230026002059"/>
+    <published>2026-09-06T14:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#2</id>
+    <title>SP Children's® ProSynbiotic, 20 Count</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; UCU Count&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A synbiotic is a combination of probiotics, beneficial microorganisms that support good health, and prebiotics, fibers that feed the probiotics. Research shows the presence of prebiotic fiber within a synbiotic may help the probiotic survive the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://nhicenter.com/products/standardprocess-sp-childrens-prosynbiotic-16030"/>
+    <published>2026-09-06T14:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#1</id>
+    <title>Probiotics and synbiotics as adjunctive therapy for heart failure: a systematic review with network and pairwise meta-analysis</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Liu, H Xie, F Lin, WR Huang, J Lao - Frontiers in Nutrition&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... for heart failure (HF), while explicitly determining whether any eligible prebiotic -only trial existed. Methods: We searched eight English-and ... The revision-stage search audit identified no additional eligible randomized trial and no eligible prebiotic -only ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1898538/full"/>
+    <published>2026-09-06T14:11:47+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76051a45e3#0</id>
+    <title>Structural characterization and prebiotic activity of a novel polysaccharide from rice bran</title>
+    <updated>2026-09-06T14:11:47+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Chen, W Xia, HR Liu, C WANG, H He, X Wang... - Frontiers in Nutrition&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The chemical structure and prebiotic activity of a novel rice bran polysaccharide (RBP) were elucidated in this study. RBP was determined to be a typical heteropolysaccharide composed of arabinose (6.95%), galacturonic acid (2.13%) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1943700/full"/>
+    <published>2026-09-06T14:11:47+00:00</published>
   </entry>
 </feed>
