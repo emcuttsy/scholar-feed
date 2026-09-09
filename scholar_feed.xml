@@ -2,118 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-08T10:40:39.041399+00:00</updated>
+  <updated>2026-09-09T17:23:20.124745+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#9</id>
-    <title>Galactomannan polysaccharides: An updated review on isolation, characterization, bioactivities, and application as carrier agents and delivery systems for natural ...</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767b1c45ff#0</id>
+    <title>Discourse topics: domain widening, relational pronouns and gender tracking in Czech</title>
+    <updated>2026-09-09T15:38:53+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Edgar Onea</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Moumou, S Amrani, H Harnafi - Carbohydrate Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Galactomannans (GM) are mannose-galactose (Man-Gal) structure-based polysaccharides with different ratios according to the source, isolation, and purification technique. This work provides an update on GM sources, chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0008621526002788"/>
-    <published>2026-09-08T08:42:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Kucerova, E Onea&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper discusses discourse-topic data suggesting that semantic interpretation builds on syntactic representations, and that syntax-semantics structure shapes pragmatic inferences: it can restrict them, or enable them. Already Mathesius (1926 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edgar Onea (author alert)</content>
+    <link href="https://openreview.net/pdf?id=xAWNMI0U9r"/>
+    <published>2026-09-09T15:38:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#8</id>
-    <title>Selfhood Before Heredity: From a Peptide QAG to the Percolating Layer L</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767b123448#0</id>
+    <title>High-Dimensional Learning Dynamics of Attention-Indexed Models</title>
+    <updated>2026-09-09T15:50:27+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Lenka Zdeborová</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Shoshitaishvili&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We use L* for the peptide/protein configuration-space layer sought where the modernprotein and prebiotic peptide-self-organization approaches converge. Evolutionary manageability is a necessary property of L*: viable configurations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Alexander-Shoshitaishvili/publication/413956758_Selfhood_Before_Heredity_From_a_Peptide_QAG_to_the_Percolating_Layer_L/links/6a99e802d7cee10a45b61c7d/Selfhood-Before-Heredity-From-a-Peptide-QAG-to-the-Percolating-Layer-L.pdf"/>
-    <published>2026-09-08T08:42:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Xu, M Sagitova, L Zdeborová, F Krzakala - arXiv preprint arXiv:2609.03858, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Attention mechanisms are central to modern foundation models, yet their training dynamics remain poorly understood, especially when the attention matrices have extensive rank. In this work, we study attention-indexed models, a broad framework ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenka Zdeborová (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.03858"/>
+    <published>2026-09-09T15:50:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#7</id>
-    <title>Targeting Nrf2 in oxidative liver injury: expanding the role of gut microbiota and metabolites</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Luo, Y Jiang, Z Tingting - Journal of Advanced Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Finally, we evaluate the therapeutic potential of targeting this axis using microbiome-modulating strategies, including probiotic and prebiotic supplementation, fecal microbiota transplantation (FMT), dietary intervention, and synergy with Nrf2-targeting ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2090123226007058"/>
-    <published>2026-09-08T08:42:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#6</id>
-    <title>In Vitro Protein Digestibility, Microbial Growth, And pH Changes of Ice Cream Fortified with Cricket (Acheta domesticus) Powder</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Cole&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The increasing demand for sustainable protein sources has driven the exploration of edible insects as alternative functional ingredients. Cricket (Acheta domesticus) powder is recognized for its high protein content and potential prebiotic properties ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://repository.i3l.ac.id/jspui/bitstream/123456789/1469/5/References.pdf"/>
-    <published>2026-09-08T08:42:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#5</id>
-    <title>Application of Biotechnology in the Dairy Industry: A Review</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MS Malve, RJ Desale, BD Patil, AT Lokhande...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Recent research has also demonstrated the potential of probiotic and prebiotic dairy products in improving human health and supporting specialized nutrition. Despite these advancements, challenges such as high production costs, biosafety ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ijcope.org/wp-content/uploads/2026/08/Application-of-Biotechnology-in-the-Dairy-Industry-A-Review.pdf"/>
-    <published>2026-09-08T08:42:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#4</id>
-    <title>Intermittent Fasting versus Mediterranean Diet on HbA1c, Insulin Resistance, and Lipid Profile in Young Adults: A 4 Week Pilot Randomized Controlled Trial ...</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GH Abdulkreem, N Sarhan Ahmed... - Journal of food science and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Extra Virgin Olive Oil, nuts, legumes and prebiotic fibres with beneficial effects on the heart as well ... The prebiotic fibres in the MED affect the richness and production of beneficial microbes, ... changes associated with IF or optimize diets ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://fsct.modares.ac.ir/article_29219_a2667dd894062c9ca2a4602cb4718f52.pdf"/>
-    <published>2026-09-08T08:42:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#3</id>
+    <id>http://www.inoreader.com/article/3a9c6e767b1233f5#0</id>
     <title>The Origin of Genetic Heredity</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
+    <updated>2026-09-09T15:50:27+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Nick Lane</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RN Palmeira, N Lane, A Pomiankowski&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... grounds but fell out of favour as gene-level selection and the idea of an RNA world became ... The conventional resolution to this paradox is the idea of an RNA world , an era of prebiotic ... protocell division allowing selection at the level of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RN Palmeira, N Lane, A Pomiankowski&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The dominant view that genetic heredity arose in an RNA world stems from the ideas of Francis Crick and Leslie Orgel, who suggested that early nucleotide polymers could act as both phenotype and genotype and that the genetic code was shaped by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Lane (author alert)</content>
     <link href="https://ecoevorxiv.org/repository/object/14748/download/25668/"/>
-    <published>2026-09-08T08:42:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#2</id>
-    <title>Structural, Techno-Functional, Digestibility, and Prebiotic Characteristics of Spray-Dried Starch-Stearic Acid Complexes From Sorghum and Corn</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Mansoor, F Shaikh, TM Ali, G Mustafa, NA Butt... - Journal of food science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The present study developed a novel resistant starch (RS-5) using a pilot-scale jacketed tank where sorghum/corn starches were separately complexed with stearic acid (SA) at 1%, 3%, and 5% levels during the gelatinization stage. The complexes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42696461/"/>
-    <published>2026-09-08T08:42:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#1</id>
-    <title>Auroral Belts as Magnetically Localized Reactors for Prebiotic Chemistry on Early Earth</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kato - BioSystems, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Most models of prebiotic chemistry emphasize globally distributed or widely acting energy ... and spatially focused environments in which prebiotic reactions repeatedly occurred. ... acids, and hydrolysable organic precursors under plausible ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726002467"/>
-    <published>2026-09-08T08:42:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e760417ff00#0</id>
-    <title>Molecular Weight-Dependent Prebiotic and α-Glucosidase Inhibitory Activities of Enzymatically Hydrolyzed Pigmented Rice Extracts</title>
-    <updated>2026-09-08T08:42:16+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Wannasawad, P Chaikham, S Sansenya, A Chotiko - Food Chemistry Advances, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study evaluated the prebiotic potential and α-glucosidase inhibitory activity of Riceberry ... The &gt;10 kDa fraction of BR exhibited the highest prebiotic activity toward LP877 and LR2443. ... as functional ingredients for prebiotic and glycemic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2772753X26001747"/>
-    <published>2026-09-08T08:42:16+00:00</published>
+    <published>2026-09-09T15:50:27+00:00</published>
   </entry>
 </feed>
