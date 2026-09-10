@@ -2,41 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-09T17:23:20.124745+00:00</updated>
+  <updated>2026-09-10T10:43:33.177190+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767b1c45ff#0</id>
-    <title>Discourse topics: domain widening, relational pronouns and gender tracking in Czech</title>
-    <updated>2026-09-09T15:38:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767b5746ce#6</id>
+    <title>Consumer Awareness and Acceptance</title>
+    <updated>2026-09-10T00:37:16+00:00</updated>
     <author>
-      <name>Edgar Onea</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Kucerova, E Onea&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper discusses discourse-topic data suggesting that semantic interpretation builds on syntactic representations, and that syntax-semantics structure shapes pragmatic inferences: it can restrict them, or enable them. Already Mathesius (1926 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edgar Onea (author alert)</content>
-    <link href="https://openreview.net/pdf?id=xAWNMI0U9r"/>
-    <published>2026-09-09T15:38:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Seo - Functional Foods: Nutrients, Health, and Beyond, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... A further category comprises probiotic and prebiotic foods, which are primarily associated with gastrointestinal health. Probiotic products, including yogurt and kefir, contain live microorganisms such as Lactobacillus and Bifidobacterium , whereas ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=9WkJEgAAQBAJ&amp;oi=fnd&amp;pg=PT362&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=KP1mM-MLjG&amp;sig=cyHTwHJq60pTuuErvw1TBB4HCTE"/>
+    <published>2026-09-10T00:37:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767b123448#0</id>
-    <title>High-Dimensional Learning Dynamics of Attention-Indexed Models</title>
-    <updated>2026-09-09T15:50:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767b5746ce#5</id>
+    <title>Therapeutic potential of sorghum in gut-related disorders: a review. Scientific Records 3 (2): 101-111</title>
+    <updated>2026-09-10T00:37:16+00:00</updated>
     <author>
-      <name>Lenka Zdeborová</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Xu, M Sagitova, L Zdeborová, F Krzakala - arXiv preprint arXiv:2609.03858, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Attention mechanisms are central to modern foundation models, yet their training dynamics remain poorly understood, especially when the attention matrices have extensive rank. In this work, we study attention-indexed models, a broad framework ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenka Zdeborová (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.03858"/>
-    <published>2026-09-09T15:50:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Asif, H Asif, R Rabail, AK Hussain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These results indicate that sorghum polyphenols and fibers are prebiotic substrates which enhance healthy microbial communities. These observations are also enhanced by animal research. Fermented sorghum as used in obese diabetic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://scientific-records.com/wp-content/uploads/2026/07/v3-2-101-111.pdf"/>
+    <published>2026-09-10T00:37:16+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767b1233f5#0</id>
-    <title>The Origin of Genetic Heredity</title>
-    <updated>2026-09-09T15:50:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767b5746ce#4</id>
+    <title>Gut microbiome-derived short-chain fatty acids are associated with cognitive development among undernourished infants in Northern Ghana: a case-control study</title>
+    <updated>2026-09-10T00:37:16+00:00</updated>
     <author>
-      <name>Nick Lane</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RN Palmeira, N Lane, A Pomiankowski&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The dominant view that genetic heredity arose in an RNA world stems from the ideas of Francis Crick and Leslie Orgel, who suggested that early nucleotide polymers could act as both phenotype and genotype and that the genetic code was shaped by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Lane (author alert)</content>
-    <link href="https://ecoevorxiv.org/repository/object/14748/download/25668/"/>
-    <published>2026-09-09T15:50:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HY Addae, C Apprey, A Kwarteng - Global Pediatrics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Infant undernutrition is linked to cognitive deficits and reduced future economic productivity. This makes mitigating its effects on neurodevelopment an important health priority. The gut microbiome is hypothesised to influence host physiology ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2667009726000631"/>
+    <published>2026-09-10T00:37:16+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767b5746ce#3</id>
+    <title>Low-Temperature Synthesis of α, β-Unsaturated Carbonyl Compounds: Key Intermediates in Interstellar Organic Chemistry</title>
+    <updated>2026-09-10T00:37:16+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Zhou, J Zhang, C Li, Y Jin, Q Huang, J Yang... - Journal of the American Chemical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prototypical α, β-unsaturated carbonyl compounds, methyl ketene and propenal, are key intermediates in the formation of complex interstellar organic molecules and prebiotic molecules. The two important species have been detected in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13446/5420147"/>
+    <published>2026-09-10T00:37:16+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767b5746ce#2</id>
+    <title>AcmA-mediated non-GMO probiotic engineering for functional jujube juice fermentation</title>
+    <updated>2026-09-10T00:37:16+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Peng, G Tian, K Mao, X Wang, F Zhao, Y Sang - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Untargeted metabolomics analysis demonstrated that this strategy rewires the sucrose metabolic pathway and activates secondary metabolic pathways, thereby promoting prebiotic synthesis and enabling systematic regulation of the microbial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926022672"/>
+    <published>2026-09-10T00:37:16+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767b5746ce#1</id>
+    <title>Euglena gracilis-derived β-1, 3-glucan as a growth substrate for Lactococcus lactis–a snapshot of accompanying changes in transcriptomic and metabolomic profiles</title>
+    <updated>2026-09-10T00:37:16+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Kato, JMJ Nolsøe, HM Munang'andu, V Kiron - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; β-1,3-glucan from Euglena gracilis is an emerging microalgal prebiotic . However, its potential to reprogram the metabolic profile of lactic acid bacteria has not been reported previously. In the present study, the effects of insoluble β-1,3-glucan on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1894637/full"/>
+    <published>2026-09-10T00:37:16+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767b5746ce#0</id>
+    <title>Stealth Protocell System Based on Folated Polyoxyethylene Stearyl Ether-Modified Liposome-Encapsulated Mesoporous Silica for Active Tumor Targeting and pH ...</title>
+    <updated>2026-09-10T00:37:16+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TD Nguyen-Dinh, NH Nguyen, TP Nguyen, CY Chee... - ACS Applied Engineering ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Controlled drug release and enhanced cellular accumulation are critical strategies for improving the efficacy of mesoporous silica nanoparticle (MSN) carriers in cancer therapy. This study describes the development of a hybrid nanocarrier (MLBF) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/aaemdr/article/doi/10.1021/acsaenm.6c01095/5421240"/>
+    <published>2026-09-10T00:37:16+00:00</published>
   </entry>
 </feed>
