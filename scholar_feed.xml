@@ -2,173 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-11T10:41:44.967752+00:00</updated>
+  <updated>2026-09-11T17:22:49.686907+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea835#0</id>
-    <title>Retrieving Ocean Glint Reflectance Signatures from Directly Imaged Earth-like Exoplanets</title>
-    <updated>2026-09-11T08:13:07+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767a6b76e5#0</id>
+    <title>Late-Time Emergence of Dark Energy and Its Interaction with Dark Matter</title>
+    <updated>2026-09-11T11:20:47+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Cornish, TD Robinson - arXiv preprint arXiv:2609.04597, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... for extraterrestrial life require methods to detect environments that can potentially support life . Liquid water is considered essential for life ... This study assesses the feasibility of detecting ocean glint from Earth-like exoplanets using simulated data ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.04597"/>
-    <published>2026-09-11T08:13:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea77b#3</id>
-    <title>An Investigation of TESS M&amp;Ms and the Occurrence Rate of Transiting Circumbinary Planets</title>
-    <updated>2026-09-11T08:13:08+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Oddo&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... 't always know where life is headed, but perfect in that I'm still me, and this is my life . Countless ... This isn'ta dig at my undergraduate studies, we simply didn't have an exoplanet expert at ... CDPP required to detect a Jupiter , Saturn , Neptune , and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1384&amp;context=phyc_etds"/>
-    <published>2026-09-11T08:13:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea77b#2</id>
-    <title>Language: English Reference style: APA 7th edition</title>
-    <updated>2026-09-11T08:13:08+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G SAMUELSON&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Since the detection of 51 Pegasi b in 1995, exoplanet science has grown into a mature discovery enterprise with 6,319 confirmed planets ... mission to determine whether Europa contains environments capable of supporting life . Webb ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Samuelson-G-Godwin/publication/414054695_Space_as_a_Coupled_Socio-Technical_System_Scientific_Discovery_Engineering_Human_Performance_and_Governance/links/6a9ef507a8f476336ca160c3/Space-as-a-Coupled-Socio-Technical-System-Scientific-Discovery-Engineering-Human-Performance-and-Governance.pdf"/>
-    <published>2026-09-11T08:13:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea77b#1</id>
-    <title>Retrieving Ocean Glint Reflectance Signatures from Directly Imaged Earth-like Exoplanets</title>
-    <updated>2026-09-11T08:13:08+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Cornish, TD Robinson - arXiv preprint arXiv:2609.04597, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of surface liquid water on an exoplanet would have major implications for our ongoing search for life beyond Earth. One technology that ... to characterize Titan 's seas (Barnes et al. 2014). Future exoplanet observations will differ from Titan glint ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.04597"/>
-    <published>2026-09-11T08:13:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea77b#0</id>
-    <title>The Search for Oxygen in the Universe</title>
-    <updated>2026-09-11T08:13:08+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GC Kane - Oxygen: Evidence-Based Strategies for Delivery in ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... oxygen in our very own solar system and in the atmosphere of an exoplanet located more than 150 light-years away, with oxygen and ... life . Experts point out that an extrasolar planet (outside of our solar system) with Venus -like conditions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-3-032-18934-9_42"/>
-    <published>2026-09-11T08:13:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#9</id>
-    <title>Contact, Contamination, and Noninterference: A Governance Architecture for Deep-Time Interstellar AI Probes</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Stone&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Once it brakes, settles, mines, observes, manufactures, and reproduces in other star systems, it becomes an actor in environments that may contain prebiotic chemistry, microbial life, complex biospheres, technological civilizations, extinct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.deep-time-ai.org/papers/governance/interstellar_AI_governance_paper.pdf"/>
-    <published>2026-09-11T08:13:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#8</id>
-    <title>EFFECTS OF COMMERCIAL SWEETPOTATO (Ipomoea batatas) POWDER ON PROBIOTIC VIABILITY, PHYSICOCHEMICAL CHARACTERISTICS, AND SENSORY ...</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RAM Rosario, AJM Tagalag, AM Tapia - Philippine Journal of Veterinary and Animal ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study investigated sweetpotato powder (SPP) as a prebiotic additive in functional yogurt, assessing its impact on probiotic viability, physico-chemical properties, ... These findings demonstrate the potential of sweet potato powder as a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.pjvas.org/index.php/pjvas/article/download/356/348"/>
-    <published>2026-09-11T08:13:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#7</id>
-    <title>A Combination of Senna Leaf Extract, Prune Fibre and Inulin Relieves Opioid-Induced Constipation and Regulates Gut Microbiota in Cancer Patients: A Randomized ...</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Kubik, R Kolev, K Ozola - Journal of Clinical Nutrition and Food Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Findings: Stimulant laxatives, bulking fruit fibre and prebiotic fructans each improve stool frequency and consistency, and prebiotic fibre additionally enriches saccharolytic taxa and short-chain fatty acid output, supporting rationale for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="http://somatopub.com/index.php/JCNFS/article/download/478/260"/>
-    <published>2026-09-11T08:13:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#6</id>
-    <title>Applied Monistic Polymeiocosmology</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NM Aliman&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... When it comes to open issues such as "the origin of life on Earth", there is a risk for a few often hidden premature intrinsic ... that the origin of life encountered on Earth also has to be a location on Earth – as spatial context for abiogenesis , 2) that "the" ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/archive/ALIAMP"/>
-    <published>2026-09-11T08:13:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#5</id>
-    <title>Can Defective Schreibersite Deliver Prebiotic Phosphorus?</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Pantaleone, A Rimola, N Balucani, P Ugliengo - ACS Earth and Space Chemistry&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of bioavailable phosphorus remains one of the major unresolved questions in prebiotic chemistry. The most widely accepted hypotheses invoke an exogenous delivery of phosphorus during the Archean Eon (ca. 4 billion years ago) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/aesccq/article/doi/10.1021/acsearthspacechem.6c00158/5422894"/>
-    <published>2026-09-11T08:13:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#4</id>
-    <title>Synfood Project: Does the combination of a prebiotic and an inactivated probiotic have a synergistic effect on intestinal permeability (via LBP measurement) in humans ...</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E de Cordes&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic alone, inactivated probiotic alone, synbiotic (combination of prebiotic and inactivated probiotic), or placebo, over an 8-week intervention period. The prebiotic ... This pattern was most pronounced in the diarrhea-predominant ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://thesis.dial.uclouvain.be/entities/masterthesis/251187e2-0ab1-434c-8bd1-e62494aed797"/>
-    <published>2026-09-11T08:13:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#3</id>
-    <title>Preventive intervention with prebiotic resistant maltodextrin mitigates dextran sulfate sodium-induced colitis in female mice</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Yamazaki, A Kanasaki, M Kitagawa, Y Sone... - Bioscience, Biotechnology ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ulcerative colitis (UC), an inflammatory bowel disease with a rising global prevalence, may be alleviated by short-chain fatty acids (SCFAs) derived from dietary fiber fermentation. Additionally, preventive fiber intake, rather than therapeutic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://academic.oup.com/bbb/advance-article/doi/10.1093/bbb/zbag134/8788030"/>
-    <published>2026-09-11T08:13:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#2</id>
-    <title>Prebiotic peptide formation triggered by urea-rich warm little ponds on early earth</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Liu, S Huang - Bioorganic Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In the study of the origin of life , the polymerization of amino acids into peptides in water faces significant thermodynamic barriers, often referred to as the "water problem." It has been demonstrated that the reaction between urea and amino acids ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0045206826010369"/>
-    <published>2026-09-11T08:13:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#1</id>
-    <title>Effects of Bacillus amyloliquefaciens fermentation on phytochemical, flavor characteristics, antithrombotic, and prebiotic activities of soybean/radish mixed substrate</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Zhu, N Liu, Z Yang - International Journal of Food Microbiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... While this study demonstrates promising prebiotic and antithrombotic effects, limitations include the absence of dedicated pharmacokinetic or metabolomics investigations, detection of bacterial translocation assays, and use of a specific ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0168160526004393"/>
-    <published>2026-09-11T08:13:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767a4ea6ca#0</id>
-    <title>Fatty acid vesicles: Formation, applications, and stability–from protocell membrane models to functional food factor delivery</title>
-    <updated>2026-09-11T08:13:09+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Liu, X Meng, D Huang, L Li, Z Wu, C Li, X Meng... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Fatty acid vesicles (FAVs) are self-assembled bilayer aggregates formed by fatty acid molecules and their ions near the p K a through non-covalent interactions. Their ability to undergo membrane fusion, growth, and division makes them prominent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226017219"/>
-    <published>2026-09-11T08:13:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Zhang, W Yang, S Pan, O Mena, E Di Valentino... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present an interacting scenario between dark energy (DE) and dark matter (DM), where DE has an emergent nature, that means, DE was absent in the early universe but it becomes effective only at late times. We consider two specific emergent DE ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.04990"/>
+    <published>2026-09-11T11:20:47+00:00</published>
   </entry>
 </feed>
