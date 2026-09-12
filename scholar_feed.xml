@@ -2,140 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-12T10:10:49.859466+00:00</updated>
+  <updated>2026-09-12T16:35:03.212517+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4af24#0</id>
-    <title>A firefly-inspired model for detecting the alien</title>
-    <updated>2026-09-12T09:54:49+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76791e7ca6#2</id>
+    <title>Historical Reflections on Interest Rates and the Emergence of the Yield Curve</title>
+    <updated>2026-09-12T16:18:09+00:00</updated>
     <author>
-      <name>Orit Peleg</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Brooks, E Janin, G Siebert, C Mathis, O Peleg... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The Search for Extraterrestrial Intelligence (SETI) has historically been a search for aliens like us, shaped by human-centric ideas of intelligence, communication, and technology. However, humans are not the only instance of an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Orit Peleg (author alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-67878-z_reference.pdf"/>
-    <published>2026-09-12T09:54:49+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Guéant -arXivpreprintarXiv:2609.07958, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We trace the gradual emergence of these conditions from ancient Mesopotamia, Greece, and Rome, through medieval and early modern ... The twelfth century also saw the emergence of wealthy families who could invest in new debt instruments ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.07958"/>
+    <published>2026-09-12T16:18:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4aeb8#0</id>
-    <title>Shared circuits predict whether LLMs generalize across formats in arithmetic reasoning</title>
-    <updated>2026-09-12T09:54:50+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76791e7ca6#1</id>
+    <title>Factors Influencing the Emergence of Dependency Length Minimization in Neural Agent Simulations</title>
+    <updated>2026-09-12T16:18:09+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AG de Varda, S Pandey, P Han, J Andreas... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In many forms of reasoning, including arithmetic reasoning, generalizing across superficial changes in input format is effortless for humans: anyone who can solve 2+ 5 can also solve'two plus five'. In contrast, LLMs are more brittle to surface variations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.04463"/>
-    <published>2026-09-12T09:54:50+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Zhang, T Verhoef, G van Noord, A Bisazza -arXivpreprintarXiv:2609.06025, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to identifying the factors influencing the emergence of linguistic phenomena. However, previous simulations of DLM have not examined realistic interaction contexts and have produced mixed results. The present study investigates the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.06025"/>
+    <published>2026-09-12T16:18:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4ae49#0</id>
-    <title>Artificial intelligence sustains higher strategic tension than humans in chess</title>
-    <updated>2026-09-12T09:54:51+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76791e7ca6#0</id>
+    <title>Emergence of criticality in models of real neurons</title>
+    <updated>2026-09-12T16:18:09+00:00</updated>
     <author>
-      <name>Vito DP Servedio</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Cerioli, ED Lee, VDP Servedio&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Strategic decision-making requires balancing immediate opportunities against long- term objectives: a tension fundamental to competitive environments. We investigate this trade-off in chess by analyzing the dynamics of human and AI gameplay through ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Vito DP Servedio (author alert)</content>
-    <link href="https://link.aps.org/doi/10.1103/63cv-52fj"/>
-    <published>2026-09-12T09:54:51+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4adab#1</id>
-    <title>Evidence for LP 890-9d via Transit Timing Variations</title>
-    <updated>2026-09-12T09:54:53+00:00</updated>
-    <author>
-      <name>Jacob Lustig-Yaeger</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KB Stevenson, G Fu, KS Sotzen, EM May, L Palethorpe... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; LP 890-9, also known as SPECULOOS-2 and TOI-4306, is a nearby late-M dwarf hosting two confirmed transiting rocky exoplanets. We analyze 20 JWST/NIRSpec PRISM transits of LP 890-9b and LP 890-9c obtained as part of GO program 7073 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.05312"/>
-    <published>2026-09-12T09:54:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4adab#0</id>
-    <title>GEMS JWST: Hold on to Your HATS (-6 b), a Subsolar-metallicity Giant Planet with Water, Methane, and Ammonia in its Atmosphere</title>
-    <updated>2026-09-12T09:54:53+00:00</updated>
-    <author>
-      <name>Jacob Lustig-Yaeger</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Guzmán Caloca, CI Cañas, NL Wallack, EM May... - The Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; HATS-6 b is one of several recently discovered giant exoplanets orbiting M dwarf stars (GEMS) and is part of a JWST survey that aims to compare bulk and atmospheric properties of these rare planets against their FGK star counterparts ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/1538-3881/ae9858/meta"/>
-    <published>2026-09-12T09:54:53+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4abc9#0</id>
-    <title>Higher signal diversity, network dysregulation, and increased well-being under DMT administration: An EEG study</title>
-    <updated>2026-09-12T09:54:56+00:00</updated>
-    <author>
-      <name>Fernando E. Rosas</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Kroupi, H Araujo, C Oosterveld, C Timmermann... - Brain Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract N, N-Dimethyltryptamine (DMT), a potent serotonin-2A receptor agonist, elicits intense psychedelic experiences and has become a focus of interest in neuroscience and mental health research. While EEG studies of psychedelics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0006899326003926"/>
-    <published>2026-09-12T09:54:56+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4ab3c#1</id>
-    <title>A Homogeneous Survey of JWST MIRI Transmission Spectra of 10 Exoplanets</title>
-    <updated>2026-09-12T09:54:57+00:00</updated>
-    <author>
-      <name>Nikku Madhusudhan</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Binet, N Madhusudhan, M Holmberg, S Sarkar - arXiv preprint arXiv:2609.05264, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The launch of JWST has enabled unprecedented atmospheric characterization of exoplanets. In particular, the JWST-MIRI instrument in the mid-infrared enables probing of molecular species that are harder to detect in the near-infrared. This has ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.05264"/>
-    <published>2026-09-12T09:54:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4ab3c#0</id>
-    <title>Stellar Ages of M Dwarf Hosts of Temperate Sub-Neptunes</title>
-    <updated>2026-09-12T09:54:57+00:00</updated>
-    <author>
-      <name>Nikku Madhusudhan</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Sairam, N Madhusudhan - Monthly Notices of the Royal Astronomical Society, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Measuring the ages of M dwarfs remains one of the central Measuring M dwarf ages is a central challenge in stellar astrophysics. These stars evolve so slowly that isochrone fitting gives little constraint, requiring alternative methods based on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stag1635/70986320/stag1635.pdf"/>
-    <published>2026-09-12T09:54:57+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4aaa0#0</id>
-    <title>JWST Excludes Exomoons Down to 0.1 Earth Radii Around a Rocky, Temperate Exoplanet</title>
-    <updated>2026-09-12T09:54:58+00:00</updated>
-    <author>
-      <name>David Kipping</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Kipping - arXiv preprint arXiv:2609.05301, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; To date, even with JWST, it has not been possible to test for exomoons as small as the Moon. Only two reported searches for exomoons around bound planets have been attempted with JWST, both of which relied on a single JWST transit. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.05301"/>
-    <published>2026-09-12T09:54:58+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4aa3c#0</id>
-    <title>Artificial intelligence sustains higher strategic tension than humans in chess</title>
-    <updated>2026-09-12T09:55:00+00:00</updated>
-    <author>
-      <name>Edward D Lee</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Cerioli, ED Lee, VDP Servedio&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Strategic decision-making requires balancing immediate opportunities against long- term objectives: a tension fundamental to competitive environments. We investigate this trade-off in chess by analyzing the dynamics of human and AI gameplay through ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward D Lee (author alert)</content>
-    <link href="https://link.aps.org/doi/10.1103/63cv-52fj"/>
-    <published>2026-09-12T09:55:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4a858#0</id>
-    <title>A firefly-inspired model for detecting the alien</title>
-    <updated>2026-09-12T09:55:05+00:00</updated>
-    <author>
-      <name>Sara Imari Walker</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Brooks, E Janin, G Siebert, C Mathis, O Peleg... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The Search for Extraterrestrial Intelligence (SETI) has historically been a search for aliens like us, shaped by human-centric ideas of intelligence, communication, and technology. However, humans are not the only instance of an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sara Imari Walker (author alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-67878-z_reference.pdf"/>
-    <published>2026-09-12T09:55:05+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767ae4a7e9#0</id>
-    <title>Two-phase Temperature Reconstruction in Ice-Water Systems</title>
-    <updated>2026-09-12T09:55:06+00:00</updated>
-    <author>
-      <name>Douglas Jerolmack</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Wang, D Noto, DJ Jerolmack, HN Ulloa - arXiv preprint arXiv:2609.04479, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; What controls heat transport when liquid water interacts with ice? Answering this question is essential for understanding water bodies undergoing phase change. Yet experimental progress remains limited by the lack of a minimally invasive ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Douglas Jerolmack (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.04479"/>
-    <published>2026-09-12T09:55:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DP Carcamo, CW Lynn -arXivpreprintarXiv:2609.09438, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Critical systems sit near boundaries between qualitatively distinct behaviors. When inferring models of neural activity, this proximity to criticality is thought to require the precise tuning of parameters. Here, we show that as the number of neurons ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.09438"/>
+    <published>2026-09-12T16:18:09+00:00</published>
   </entry>
 </feed>
