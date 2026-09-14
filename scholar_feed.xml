@@ -2,96 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-14T11:56:22.722976+00:00</updated>
+  <updated>2026-09-14T18:55:35.479775+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679e15cc9#1</id>
-    <title>The Roman eXtreme Deep Field (RXDF)</title>
-    <updated>2026-09-14T08:47:50+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76781e3e43#2</id>
+    <title>Emergence of spin-orbit coupling among spin, atomic orbital, and Bloch dynamics in Janus double-transition-metal MXenes</title>
+    <updated>2026-09-14T13:38:02+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Yan, AM Koekemoer, Y Shen, B Sun, NA Grogin... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Roman eXtreme Deep Field (RXDF) program is one of the five General Astrophysics Survey (GAS) programs approved for observing time with the Nancy Grace Roman Space Telescope in Cycles 1 and 2. It has been allocated 386.41 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.08145"/>
-    <published>2026-09-14T08:47:50+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Habe -arXivpreprintarXiv:2609.10953, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We found a spin-orbit coupling to cause a simultaneous correlation among three degrees of freedom, the electronic spin, orbital, and Bloch dynamics in an investigation into the electronic structure of Janus double-transition-metal MXenes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.10953"/>
+    <published>2026-09-14T13:38:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679e15cc9#0</id>
-    <title>NEXUS: Transient Searches and First Results from Year One Observations</title>
-    <updated>2026-09-14T08:47:50+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76781e3e43#1</id>
+    <title>Critical emergence of quantum theory, spacetime and gravity from generalised trace dynamics</title>
+    <updated>2026-09-14T13:38:02+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MY Zhuang, L Hu, JDR Pierel, Z Pan, Y Shen... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We describe ongoing efforts of high-redshift transient searches using multi-epoch NIRCam imaging (F200W+ F444W) and NIRSpec MSA/PRISM spectroscopy from the NEXUS JWST multi-cycle Treasury program targeting the north ecliptic pole ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.06985"/>
-    <published>2026-09-14T08:47:50+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TP Singh -arXivpreprintarXiv:2609.10571, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Generalized trace dynamics (GTD) is a deterministic dynamics of aikyons (atoms of space-time-matter) whose near-equilibrium statistical mechanics yields quantum dynamics, while large anti-self-adjoint fluctuations drive spontaneous localisation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.10571"/>
+    <published>2026-09-14T13:38:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679e15c0e#0</id>
-    <title>Marine ecosystems in peril: Time to prepare for super El Niño</title>
-    <updated>2026-09-14T08:47:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76781e3e43#0</id>
+    <title>Emergence of a convex strange term via homogenization of non-local energies at the critical exponent</title>
+    <updated>2026-09-14T13:38:02+00:00</updated>
     <author>
-      <name>Timothy Lenton</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JF Bruno, MT Burrows, SC Doney, TL Frölicher... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A new El Niño has begun and is projected to develop later this year into one of the strongest on record (1). The El Niño Southern Oscillation is a cyclical climate phenomenon driven by complex interactions between the ocean and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2623156123"/>
-    <published>2026-09-14T08:47:52+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GC Brusca, G Fusco -arXivpreprintarXiv:2609.11371, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We derive the $\Gamma$-limit of convolution-type and discrete energies subject to Dirichlet boundary conditions on periodically perforated domains at the critical exponent. We assume that the length-scale of the non-local interactions is much ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.11371"/>
+    <published>2026-09-14T13:38:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679e15b5c#0</id>
-    <title>Sea Ice as an Origin of Life Location for Hycean and Ocean Worlds</title>
-    <updated>2026-09-14T08:47:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76782f57d5#1</id>
+    <title>The ethics of outer space exploration and utilisation</title>
+    <updated>2026-09-14T15:16:01+00:00</updated>
     <author>
-      <name>Nikku Madhusudhan</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EFL Barrier, N Madhusudhan, FE Rigby - arXiv preprint arXiv:2609.07818, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Water worlds with potential deep oceans are at the forefront of currently observable exoplanetary habitability. The standard requirements for habitability are the presence of an energy source, a source of nutrients, and a solvent, all of which can be met in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.07818"/>
-    <published>2026-09-14T08:47:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WorldCommission on the Ethics of Scientific ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... extraterrestrial environments, microbial ecosystems and potential alien life forms. A multispecies ethic recognises the intrinsic value of all forms of life , whether terrestrial or extraterrestrial , and calls for responsible stewardship of planetary ... 's ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://unesdoc.unesco.org/ark:/48223/pf0000398113"/>
+    <published>2026-09-14T15:16:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679e15b1e#0</id>
-    <title>Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments</title>
-    <updated>2026-09-14T08:47:54+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76782f57d5#0</id>
+    <title>Experiments for the Detection of Molecular Biosignatures in Irradiated Ice Grains with Europa Clipper's SUDA Mass Spectrometer</title>
+    <updated>2026-09-14T15:16:01+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Levin - Philosophies, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; I argue that the emerging sciences of synthetic morphology and diverse intelligence suggest non-physicalist models of mind and show how they can be empirically investigated. Whence the anatomical, physiological, molecular-biological, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://www.mdpi.com/2409-9287/11/5/161"/>
-    <published>2026-09-14T08:47:54+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Napoleoni, W Knolle, E Lugovoy, F Klenner, B Abel...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... worlds , including Jupiter's moon Europa, are key targets in the search for extraterrestrial life . One powerful approach involves searching for biochemical signatures at the molecular level - both specific biosignature ... considered as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-805.html"/>
+    <published>2026-09-14T15:16:01+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679e15a6d#0</id>
-    <title>Constant-depth global shadow estimation</title>
-    <updated>2026-09-14T08:47:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#9</id>
+    <title>Thermo-chemical modelling of organic-rich icy worlds of the outer solar system</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Zhang, Z You, D Qin, X Li, J Eisert, Y Zhou - arXiv preprint arXiv:2609.10408, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Reliable and scalable readout strategies are essential for quantum technologies. As quantum processors grow, extracting useful information must remain feasible without measurement circuits becoming a dominant bottleneck. Randomized measurements ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.10408"/>
-    <published>2026-09-14T08:47:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Reynard, G Confortini, C Delarue, M Kervaso...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Icy moons and dwarf planets provide a" water-world" model for studying potential prebiotic chemistry or extraterrestrial habitats in their subglacial oceans, and understanding the formation and properties of postulated ocean-exoplanets. Icy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-418.html"/>
+    <published>2026-09-14T15:16:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679e15a28#0</id>
-    <title>The Key Dimensions of Human Action: Content and Form</title>
-    <updated>2026-09-14T08:47:55+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#8</id>
+    <title>Detection of High-Mass Molecular Biosignatures in Antarctic Ices: Relevance for Icy Moons Exploration</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Rizzolatti, K Friston, G Di Cesare - Neuroscience &amp; Biobehavioral Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Human action, both in execution and observation, is characterized by two fundamental attributes: the action goal (the "what") and its vitality form (VF), namely the "how" an action is performed. Over the past three decades, substantial progress ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0149763426004240"/>
-    <published>2026-09-14T08:47:55+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LH Sánchez, M Napoleoni, PL Finkel, D Carrizo...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Moreover, Enceladus possesses valuable chemical ingredients, including at least five of the six basic elements for life-CHNOPS-and its porous rocky core hosts hydrothermal systems which, as sources of chemical disequilibria, are deemed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-895.html"/>
+    <published>2026-09-14T15:16:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679e159b6#0</id>
-    <title>534. Striatal dopamine synthesis trajectory in first-episode psychosis during amisulpride monotherapy and after switch to aripiprazole: a one-year [18 F] DOPA PET ...</title>
-    <updated>2026-09-14T08:47:57+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#7</id>
+    <title>Bloated Stomach Understanding: Common Dietary Triggers and Relief</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
     <author>
-      <name>Federico Turkheimer</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kim, J Schubert, M Veronese, F Turkheimer, BC Lee... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Schizophrenia and related psychotic disorders are associated with elevated striatal dopamine synthesis from the first episode. While antipsychotics primarily improve symptoms through dopamine D₂ receptor blockade, it remains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
-    <link href="https://academic.oup.com/ijnp/article/29/Supplement_1/i183/8789168"/>
-    <published>2026-09-14T08:47:57+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F McDowell&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Relief comes from identifying your specific triggers, improving gut bacteria diversity through fermented foods and prebiotic fiber, staying hydrated, and adopting mindful eating habits. Rebuilt's Pure Greens contains spirulina and chlorella—both ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://rebuiltperformance.com/fi-fi/blogs/knowledge-base/bloated-stomach-understanding-triggers"/>
+    <published>2026-09-14T15:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#6</id>
+    <title>Ganoderma lucidum polysaccharides ameliorate cognitive decline and neuroinflammation in aging via the Blautia coccoides-butyrate-NLRP3 axis</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Zhang, H Wei, Q Wang, M Zhang, G Wan, J Wang... - npj Parkinson's Disease, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our work defines a novel Blautia coccoides-butyrate-NLRP3 axis through which GLPs mitigates brain aging, supporting its potential as a prebiotic therapy for age-related cognitive disorders. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41531-026-01535-0"/>
+    <published>2026-09-14T15:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#5</id>
+    <title>Time-of-Flight Dust Mass Spectrometry for Enceladus Plume Analysis: A Concept Study for the ESA L4 Mission</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Komposch, R Srama, J Simolka&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... A more detailed study on habitability and biomarkers of the Enceladus icy surface and subsurface oceans could provide unprecedented insights on the origin of life in the solar system. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-1128.html"/>
+    <published>2026-09-14T15:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#4</id>
+    <title>Improve your Child's Immunity, Cognition and Memory through use of Swarn-Prashan: The Honey-Gold-Ghee Emulsion-A brief overview</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Bali - Natural Resources for Human Health (NRFHH), 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Honey provides antimicrobial, antioxidant, and prebiotic benefits while stabilizing the gold particles. Ghee serves as a critical lipid-based medium, facilitating lymphatic absorption and targeting immune tissues. The honey-ghee-gold ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nrfhh.com/index.php/journal/article/download/1486/831"/>
+    <published>2026-09-14T15:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#3</id>
+    <title>The Epistemic Risk of the 31st Spore: If Planets Aren't Fine Tuned, We're Doing Life Detection Wrong</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HB Smith, C Mathis - arXiv preprint arXiv:2609.10604, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Exploration of planetary bodies within our solar system will be essential for understanding the origin of life on Earth and the distribution of life in the universe. Planetary protection policy is concerned with balancing this desire for exploration ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.10604"/>
+    <published>2026-09-14T15:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#2</id>
+    <title>Water as a Transducer Layer Between Hyperspatial Information and Biological Order: A Hypothesis on the Origin of Life</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EC Fuchs, AH Paulitsch-Fuchs - BioSystems, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , no generally accepted mechanism explains how molecular organization emerged from prebiotic chemistry. Orgel [1] emphasized that the ... the organization of dissolved molecules, functioning as dynamic templates for prebiotic chemistry. In ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726002613"/>
+    <published>2026-09-14T15:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#1</id>
+    <title>... autoclave–hydrothermal, enzymatic conversion of cauliflower waste Xylan into high-purity bioactive Xylooligosaccharides: Purification, prebiotic activity and toxicity ...</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Verma, A Kumar, R Kaushik, P Dhiman, C Si, CW Lai - Food Chemistry: X, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The sustainable valorization of food wastes into health-promoting products as prebiotic xylo-oligosaccharides (XOS) is surely a circular ... The purified XOS showed a good prebiotic effect, promoting the growth of Lactobacillus strains with a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2590157526009491"/>
+    <published>2026-09-14T15:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76782f5678#0</id>
+    <title>Prebiotic effects of lotus seed starch-C18 fatty acid complexes: Role of structural changes during in vitro digestion and fermentation</title>
+    <updated>2026-09-14T15:16:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Liu, H Wang, F Luo, Y Zhang, B Zheng, Z Guo - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the gastrointestinal tract and their ultimate prebiotic effects remains unclear, particularly from the ... how FA unsaturation translates into distinct prebiotic outcomes, remains underexplored. ... between unsaturation-guided assembly and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626032929"/>
+    <published>2026-09-14T15:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76782f538b#0</id>
+    <title>What the Solar System can teach us about rocky exoplanets</title>
+    <updated>2026-09-14T15:16:06+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PK Byrne, CM Guimond, PA Cawood, MJ Way... - Space Science Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... that provide conclusive evidence for any terrestrial exoplanet possessing a temperate or even a Venus -like atmosphere. For ground-... -Earths" and "sub-Neptunes", even if those alien worlds are utterly unlike Earth and Neptune . Thus the true extent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s11214-026-01325-3"/>
+    <published>2026-09-14T15:16:06+00:00</published>
   </entry>
 </feed>
