@@ -2,151 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-13T11:10:16.020069+00:00</updated>
+  <updated>2026-09-14T11:56:22.722976+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76792925c8#0</id>
-    <title>Rotational broadening of exoplanet spectra in arbitrarily oriented systems: Application to reflected light</title>
-    <updated>2026-09-12T18:27:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7679e15cc9#1</id>
+    <title>The Roman eXtreme Deep Field (RXDF)</title>
+    <updated>2026-09-14T08:47:50+00:00</updated>
     <author>
-      <name>Laura Kreidberg</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SR Vaughan, L Kreidberg - arXiv preprint arXiv:2609.05619, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Exoplanet reflection spectra contain a wealth of information, which we are now beginning to access. At a high spectral resolution, the rotation of both the star and the planet affects the shape of the reflected spectral lines. This effect must be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Laura Kreidberg (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.05619"/>
-    <published>2026-09-12T18:27:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Yan, AM Koekemoer, Y Shen, B Sun, NA Grogin... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Roman eXtreme Deep Field (RXDF) program is one of the five General Astrophysics Survey (GAS) programs approved for observing time with the Nancy Grace Roman Space Telescope in Cycles 1 and 2. It has been allocated 386.41 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.08145"/>
+    <published>2026-09-14T08:47:50+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#9</id>
-    <title>Scientific Objectives and Payloads Configuration of China's Tianwen-2 Asteroid Exploration Mission</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7679e15cc9#0</id>
+    <title>NEXUS: Transient Searches and First Results from Year One Observations</title>
+    <updated>2026-09-14T08:47:50+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Li, J Liu, X Ren, W Yan, Z Zhang, H Li, Z Ouyang&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... small bodies, understanding their origin and evolutionary history, exploring the origin of life and Earth's water, revealing solar influence, and ... small bodies, the origin of Earth's water and prebiotic materials, and will demonstrate key ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://meetingorganizer.copernicus.org/EPSC2026/EPSC2026-219.html"/>
-    <published>2026-09-12T18:27:07+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MY Zhuang, L Hu, JDR Pierel, Z Pan, Y Shen... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We describe ongoing efforts of high-redshift transient searches using multi-epoch NIRCam imaging (F200W+ F444W) and NIRSpec MSA/PRISM spectroscopy from the NEXUS JWST multi-cycle Treasury program targeting the north ecliptic pole ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.06985"/>
+    <published>2026-09-14T08:47:50+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#8</id>
-    <title>The universal blueprint: One encodable topological metamaterial to explain the origin, intelligence, and evolution of life</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7679e15c0e#0</id>
+    <title>Marine ecosystems in peril: Time to prepare for super El Niño</title>
+    <updated>2026-09-14T08:47:52+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Timothy Lenton</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schaper - Annals of the Chrysene Formalism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Continuous stochastic models remain highly effective for macroscopic ecological dynamics; at the molecular scale of prebiotic assembly, ... Prebiotic purification proceeds by thermodynamically driven self-separation and pi-stacking. Nucleic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chrysene.com/index.php/acf/article/download/17/34"/>
-    <published>2026-09-12T18:27:07+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JF Bruno, MT Burrows, SC Doney, TL Frölicher... - Proceedings of the National ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A new El Niño has begun and is projected to develop later this year into one of the strongest on record (1). The El Niño Southern Oscillation is a cyclical climate phenomenon driven by complex interactions between the ocean and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2623156123"/>
+    <published>2026-09-14T08:47:52+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#7</id>
-    <title>Prebiotics vs. Probiotics: What's the Difference?(And Why Women 40+ Need Both)</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Planet&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Selectively utilized" is the key: a prebiotic does not feed every microbe in the gut, only beneficial ones. ... All prebiotics are a type of fiber, but not all fiber is prebiotic . To qualify as a prebiotic , a substrate must be selectively used by beneficial host ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.vitalplanet.com/blogs/vital-knowledge/prebiotics-vs-probiotics"/>
-    <published>2026-09-12T18:27:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#6</id>
-    <title>Your Gut and Your Immune System: The Real Connection</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Oncer&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... That's what prebiotic fiber does. The acacia fiber (gum arabic) in our blend is a prebiotic : a fiber your body can't digest but your beneficial bacteria can. A dose-response trial in healthy adults (opens in new tab) found that gum arabic significantly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://shroombiosis.com/blog/gut-and-immune-system/"/>
-    <published>2026-09-12T18:27:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#5</id>
-    <title>DNA, Mutations, and Evolution</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Trubenová, K Hudáková, H Uecker, H Sachdeva - Everyday Evolution: Unveiling ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It provides a useful background on the process of DNA replication, compares the key differences between DNA and RNA, and introduces the RNA world hypothesis as a theory for the origin of life . Drawing on several well-known examples, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ucrisportal.univie.ac.at/en/publications/dna-mutations-and-evolution/"/>
-    <published>2026-09-12T18:27:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#4</id>
-    <title>Physicochemical changes in sugarcane juice during the processing stage using sterilization method</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Wiyono, M Anwar, NA Bahmid, E Damayanti... - BIO Web of Conferences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... (antioxidant capacity, prebiotic index) of sugarcane juice ... Prebiotic index analysis demonstrated that all formulations retained prebiotic activity against Lactobacillus rhamnosus. Ultimately, sterilization at 115C for 15 minutes preserved ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.bio-conferences.org/articles/bioconf/pdf/2026/46/bioconf_isotobat2026_04007.pdf"/>
-    <published>2026-09-12T18:27:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#3</id>
-    <title>Tracking the Gastrointestinal Fate and Prebiotic Effect of Sparassis crispa Polysaccharide: In Vitro Dynamic Digestion Models</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Wu, J Chen, H Peng, X Luo, Z Huang, Z Guo, J Xiao... - Journal of Agricultural and Food ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Gastrointestinal digestion is indispensable for the utilization of bioactive macromolecules. Compared to static digestion models, dynamic digestion models more realistically simulate the physiological conditions of the gastrointestinal tract. In ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/jafcau/article/doi/10.1021/acs.jafc.6c08966/5426808"/>
-    <published>2026-09-12T18:27:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#2</id>
-    <title>EVALUATION OF DIETARY SUPPLEMENTATION WITH PROBIOTIC AND PREBIOTIC SUBSTANCES AND THEIR EFFECT ON THIGH AND SIRLOIN MEAT ...</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Ivanov, I Slavov, S Laleva, IG Penchev - Trakia Journal of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; PURPOSE: We observed the effect of the dietary addition of 8 g of the prebiotic Immunobeta and the combination of 8 g prebiotic Immunobeta and 4 g of the probiotic Zoovit on the quality of the meat in Île-de-France lambs. METHODS: The ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://tjs.trakia-uni.bg/index.php/tjs/article/download/283/339"/>
-    <published>2026-09-12T18:27:07+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#1</id>
+    <id>http://www.inoreader.com/article/3a9c6e7679e15b5c#0</id>
     <title>Sea Ice as an Origin of Life Location for Hycean and Ocean Worlds</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
+    <updated>2026-09-14T08:47:53+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Nikku Madhusudhan</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EFL Barrier, N Madhusudhan, FE Rigby - arXiv preprint arXiv:2609.07818, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Here we outline a location where nutrients could be concentrated in sufficiently high quantities to make abiogenesis possible – at the ... for prebiotic chemistry. We find that both of these mechanisms may plausibly provide concentrated chemical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EFL Barrier, N Madhusudhan, FE Rigby - arXiv preprint arXiv:2609.07818, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Water worlds with potential deep oceans are at the forefront of currently observable exoplanetary habitability. The standard requirements for habitability are the presence of an energy source, a source of nutrients, and a solvent, all of which can be met in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nikku Madhusudhan (author alert)</content>
     <link href="https://arxiv.org/pdf/2609.07818"/>
-    <published>2026-09-12T18:27:07+00:00</published>
+    <published>2026-09-14T08:47:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7679292538#0</id>
-    <title>Smart encapsulation and gut microbiota modulation: The next frontier in targeted probiotic and prebiotic delivery</title>
-    <updated>2026-09-12T18:27:07+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7679e15b1e#0</id>
+    <title>Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments</title>
+    <updated>2026-09-14T08:47:54+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Michael Levin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IE Agarry - Next Nanotechnology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The microbiota of the human gut forms a complex and ever-changing system that significantly impacts metabolism, the immune system, and general health. The moment its equilibrium is altered (dysbiosis), it becomes potentially involved in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2949829526003967"/>
-    <published>2026-09-12T18:27:07+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Levin - Philosophies, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; I argue that the emerging sciences of synthetic morphology and diverse intelligence suggest non-physicalist models of mind and show how they can be empirically investigated. Whence the anatomical, physiological, molecular-biological, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
+    <link href="https://www.mdpi.com/2409-9287/11/5/161"/>
+    <published>2026-09-14T08:47:54+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767929241d#1</id>
-    <title>The future of high-resolution UV spectroscopy: Science with a UV\'Echelle spectrograph on the Habitable Worlds Observatory, or a dedicated mission</title>
-    <updated>2026-09-12T18:27:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7679e15a6d#0</id>
+    <title>Constant-depth global shadow estimation</title>
+    <updated>2026-09-14T08:47:55+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A De Cia, D Cont, K Heng, B Gänsicke, F Grupp... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... ' nature, evolutionary history, and potential to sustain life . A major goal of exoplanet studies is to understand how exoplanetary atmospheres ... Another objective is to observe water vapor plumes that erupt from Jupiter 's icy moon , Europa ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.09329"/>
-    <published>2026-09-12T18:27:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Zhang, Z You, D Qin, X Li, J Eisert, Y Zhou - arXiv preprint arXiv:2609.10408, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Reliable and scalable readout strategies are essential for quantum technologies. As quantum processors grow, extracting useful information must remain feasible without measurement circuits becoming a dominant bottleneck. Randomized measurements ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.10408"/>
+    <published>2026-09-14T08:47:55+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767929241d#0</id>
-    <title>Sea Ice as an Origin of Life Location for Hycean and Ocean Worlds</title>
-    <updated>2026-09-12T18:27:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7679e15a28#0</id>
+    <title>The Key Dimensions of Human Action: Content and Form</title>
+    <updated>2026-09-14T08:47:55+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Karl Friston</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EFL Barrier, N Madhusudhan, FE Rigby - arXiv preprint arXiv:2609.07818, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... With the advent of the JWST era, the atmospheric characterisation of exoplanets has extended to ever cooler and smaller planets in the sub - Neptune ... We study three planets across the terrestrial to sub - Neptune range, chosen to represent a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.07818"/>
-    <published>2026-09-12T18:27:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Rizzolatti, K Friston, G Di Cesare - Neuroscience &amp; Biobehavioral Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Human action, both in execution and observation, is characterized by two fundamental attributes: the action goal (the "what") and its vitality form (VF), namely the "how" an action is performed. Over the past three decades, substantial progress ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0149763426004240"/>
+    <published>2026-09-14T08:47:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7679e159b6#0</id>
+    <title>534. Striatal dopamine synthesis trajectory in first-episode psychosis during amisulpride monotherapy and after switch to aripiprazole: a one-year [18 F] DOPA PET ...</title>
+    <updated>2026-09-14T08:47:57+00:00</updated>
+    <author>
+      <name>Federico Turkheimer</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kim, J Schubert, M Veronese, F Turkheimer, BC Lee... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Schizophrenia and related psychotic disorders are associated with elevated striatal dopamine synthesis from the first episode. While antipsychotics primarily improve symptoms through dopamine D₂ receptor blockade, it remains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
+    <link href="https://academic.oup.com/ijnp/article/29/Supplement_1/i183/8789168"/>
+    <published>2026-09-14T08:47:57+00:00</published>
   </entry>
 </feed>
