@@ -2,118 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-16T10:55:15.698198+00:00</updated>
+  <updated>2026-09-17T17:47:22.278097+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#9</id>
-    <title>Integrated ¹H-NMR Metabolomics and Growth Kinetics Uncover Three Distinct Metabolic Scenarios in Lactiplantibacillus pentosus P7 Fermentation of Plant-Derived ...</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e3170cd#0</id>
+    <title>The atomic C/O ratio of KELT-9b</title>
+    <updated>2026-09-17T13:29:44+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>JL bean</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NH Chu, TKL Pham, HD Le, QT Pham, HH Chu - Applied Biochemistry and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Despite this comprehensive genomic characterization, the metabolic response of P7 to natural prebiotic substrates, and the extent to which ... pentosus P7 induce in three structurally distinct prebiotic extracts (garlic, onion, kiwifruit), and over what ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Nhathuy-Chu/publication/414250710_Integrated_H-NMR_Metabolomics_and_Growth_Kinetics_Uncover_Three_Distinct_Metabolic_Scenarios_in_Lactiplantibacillus_pentosus_P7_Fermentation_of_Plant-Derived_Prebiotics/links/6aa54e1fb8b306746a9a22b0/Integrated-H-NMR-Metabolomics-and-Growth-Kinetics-Uncover-Three-Distinct-Metabolic-Scenarios-in-Lactiplantibacillus-pentosus-P7-Fermentation-of-Plant-Derived-Prebiotics.pdf"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Pelletier, NW Borsato,JL Bean, A Seifahrt, D Kasper... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The carbon-to-oxygen (C/O) ratio of a giant planet's atmosphere has long been theorised to hold compositional information that can be traced back to its formation history. Typically, the C/O ratio of an exoplanetary atmosphere is inferred from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.13051"/>
+    <published>2026-09-17T13:29:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#8</id>
-    <title>CONSUMER TRENDS, INGREDIENT INNOVATION, AND THE EVOLVING SCIENCE BEHIND CHILDREN'S IMMUNE-HEALTH NUTRACEUTICALS</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#9</id>
+    <title>Effects of sun-drying and steaming on Ehretia macrophylla Wall.(EMW) fruit polysaccharides: structure, physicochemical properties and gut-related functions</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JM López&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Powders permit larger active payloads, flexible serving size, incorporation of prebiotic fibres and reduced dependence on confectionery-style matrices. Their challenges include oxidation, hygroscopicity, agglomeration, flavour deterioration ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://intabiotech.com/wp-content/uploads/commercial/Articulos/Childrens_Immune_Health_Nutraceuticals_Academic_Review_2026.pdf"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Mo, H Li, Y Yu, J Li, T Zhang, S Zheng, D Huang... - npj Science of Food, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Pectin-like polysaccharides from Ehretia macrophylla Wall. fruit (EMWFP) remains scarcely explored; their macromolecular structures are highly responsive to traditional post-harvest processing. Using in vitro digestion-fermentation models and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41538-026-01144-4_reference.pdf"/>
+    <published>2026-09-17T13:29:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#7</id>
-    <title>Microbiota-Gut-Brain Axis Mediated Treatments: Historical Origins, Mechanisms, and Clinical Promise</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#8</id>
+    <title>Gelidium Bioactives in Gut and Skin Homeostasis: Mechanisms, Microbiota Modulation, and the Gut–Skin Axis</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Zickefoose&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The microbiota–gut–brain axis has emerged as an important framework for understanding how the gut microbiome influences neurological functioning. This literature review examines the historical development of microbiota-based therapies ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/206c2ec759e3c82eb7b2cf3f68eee01b/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Lee, SH Lee, S Jung, KN Kim - Microorganisms, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review comprehensively synthesizes the dual-target therapeutic modalities of Gelidium bioactives, focusing on their prebiotic modulation of the gastrointestinal microbiota and their protective effects on cutaneous tissues. In the gastrointestinal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2076-2607/14/9/2039"/>
+    <published>2026-09-17T13:29:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#6</id>
-    <title>Microbiota Gut Brain Axis Mediated Treatments Historical Origins, Mechanisms, and Clinical Promise_Creative Component_Ethan Zickefoose</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#7</id>
+    <title>Probiotic-Based Functional Beverages: A Comprehensive Review of Strain Selection, Formulation Strategies, Viability Challenges, and Health-Promoting Potential</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Zickefoose&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The microbiota–gut–brain axis has emerged as an important framework for understanding how the gut microbiome influences neurological functioning. This literature review examines the historical development of microbiota-based therapies ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://dr.lib.iastate.edu/bitstreams/cadefa72-7186-446b-86db-bcd5d1b682c0/download"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SB Dahikar, S Bhutada, RB Yeole, E Kovaleva - Frontiers in Food Science and Technology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... determinants of product quality, including pH, titratable acidity, viscosity, total soluble solids, colour, and flavour; (v) strategies to preserve probiotic viability during processing, storage, and gastrointestinal transit, with particular emphasis on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/food-science-and-technology/articles/10.3389/frfst.2026.1938248/full"/>
+    <published>2026-09-17T13:29:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#5</id>
-    <title>From Chemistry to Heredity: A Systems-Level Pathway to Pre-Genetic Evolution</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#6</id>
+    <title>Supercritical Fluid Extraction of organic molecules from extraterrestrial samples: A new one-step protocol proposed</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Moussa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life therefore need not be reconstructed solely by searching for the earliest recognizable biological molecule. The surviving ... The transition from prebiotic chemistry to life requires more than the appearance of individual molecules ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/archive/MOUFCT-3"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Bouhier, L Bourmancé, F Stalport, H Cottin... - EPSC 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To better understand the role of meteorites in the emergence of life on Earth nearly 4 billion years ago, their molecular characterisation is ... Understanding prebiotic chemistry through the analysis of extraterrestrial amino acids and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://hal.science/hal-05747087/"/>
+    <published>2026-09-17T13:29:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#4</id>
-    <title>Sequential Ultrasound and Microwave-Assisted Autohydrolysis for Efficient Production of Oligosaccharides from Apple Pomace</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#5</id>
+    <title>Assessing the potential of biologically-activated carbon treatment, pasteurization, and particle filtration as pre/pro-biotic controls on premise plumbing microbiomes</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Beitia, A Morales, M González-Alriols, I Egüés... - Food and Bioprocess ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigates the valorisation of apple pomace (AP) by developing a sequential extraction process to obtain oligosaccharide-enriched fractions using intensified hydrothermal treatments. The research focuses on optimising a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s11947-026-04574-w"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ME Deck, AC Cullom, E Milligan, A Pruden, M Edwards - npj Biofilms and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Biostability control can be viewed as a prebiotic approach in that it entails depleting organic carbon and growthlimiting nutrients, which is ... In this work, we sought to achieve a side-by-side comparison of how hypothetical probiotic and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41522-026-01116-2_reference.pdf"/>
+    <published>2026-09-17T13:29:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#3</id>
-    <title>Research Progress and Applications of Inulin in Poultry Production</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#4</id>
+    <title>Isolation of Potato Peel Starch &amp; Its Food Application</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Wu, E Tugiyanti, S Rahayu - Frontiers in Animal Science&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Inulin, a fructan-type prebiotic , resists digestion in the upper gastrointestinal tract and undergoes selective fermentation by beneficial intestinal microorganisms, which underpins its widespread use in poultry nutrition. Inulin has gained increasing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2026.1919634/full"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Akram, SF Ali, MB Sadiq&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... As the amylose increases in starch it starts to depict a prebiotic potential. Starch was ... a prebiotic effect that induces a variety of benefits for human health. The findings of the study fully support the notion that modified starches extracted from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://scholarl.com/articles/SCH-2026-845859/isolation-of-potato-peel-starch-its-food-application.pdf"/>
+    <published>2026-09-17T13:29:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#2</id>
-    <title>SKU: 4690 Availability: Many In Stock 10 customers are viewing this product Free Shipping Free standard shipping on orders over $199</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#3</id>
+    <title>UV dose rates in Parsamian cometary nebulae: cosmic-ray-induced energetic processing of C2H2, H2CO, and CH3OH</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HGIS Works&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic action, supporting a healthy gut microbiome, and feeding the growth of beneficial bacteria*^. Designed for everyday and acute gastrointestinal (GI) needs With prebiotic 2'-... GI Stability is a great source for targeted prebiotic action that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://perfectlyhealthy.com/en-ca/products/standardprocess-gi-stability-4690?_pos=161&amp;_sid=56e01886a&amp;_ss=r"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Yeghikyan, M Rah, L Darbinyan, M Alizadeh... - Astrophysics and Space ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Third, we evaluate whether the resulting C2H2/CH3OH abundance ratio places the chemistry in the isoprene ( prebiotic ) or the PAH (... Section 6 discusses the pathway diagnostic, prebiotic implications, and application to Parsamian Pa13 and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s10509-026-04636-7"/>
+    <published>2026-09-17T13:29:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#1</id>
-    <title>ProSynbiotic, 90 Capsules</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#2</id>
+    <title>Investigating the 'Water Paradox': Theoretical Evidence for Electric Field-Mediated Catalysis of Peptide Bond Formation</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; UCU Count&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We include with our formulation a prebiotic that comes from chicory root that is known to deliver fermentable energy to bacteria since our ... We include with our formulation a prebiotic that comes from chicory root that is known to deliver ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.drmattgianforte.com/products/standardprocess-prosynbiotic-7085"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Herriman, GA DiLabio&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... that interfacial electric fields could play a central role in prebiotic peptide synthesis. ... reactions and are central to understanding the origins of life . However, these reactions are ... This concept has been extensively explored in prebiotic chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15008753"/>
+    <published>2026-09-17T13:29:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767f270833#0</id>
-    <title>A pullulan-type α-D-glucan produced from lactose by Aureobasidium pullulans: structure and potential as a prebiotic agri-food ingredient</title>
-    <updated>2026-09-16T02:32:03+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#1</id>
+    <title>Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Tian, F Cheng, P Wu, X Jia, L Qu, C Xu - Chemical and Biological Technologies in ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Microbial exopolysaccharides (EPS) are renewable biopolymers of increasing importance in the agri-food sector, and producing them from low-cost substrates offers a route to valorize agro-industrial resources. Aureobasidium ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s40538-026-01062-3"/>
-    <published>2026-09-16T02:32:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Charumathi, S Kim, H Shin - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Drawing on mechanistic evidence from in vivo studies and insights from in vitro host–microbe fermentation models, this review critically examines how prebiotic dietary fibers have influenced the human gut microbial ecosystem, fermentation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1927734/full"/>
+    <published>2026-09-17T13:29:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767e316fab#0</id>
+    <title>Mechanistic insights into prebiotic modulation of the infant gut microbiome and its impact on intestinal motility</title>
+    <updated>2026-09-17T13:29:46+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Schwalbe&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Our digestive system is inhabited by millions of microbes, called the gut microbiome, which help us digest our food and support many aspects of our health. These microbes begin colonising the gut immediately after birth, and the types of bacteria ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://research.rug.nl/en/publications/mechanistic-insights-into-prebiotic-modulation-of-the-infant-gut-/"/>
+    <published>2026-09-17T13:29:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#7</id>
+    <title>Self-Gravitation of Mode Quanta in a Causal Resonator: One-Loop Finiteness in Linearized Quantum Gravity and the Emergence of the Dark-Energy Scale</title>
+    <updated>2026-09-17T13:47:21+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Rembe -arXivpreprintarXiv:2609.14650, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Perturbative quantum gravity is ultraviolet divergent and, as shown by 't Hooft and Veltman, non-renormalizable. A recent object-relative, Lorentz-invariant weighting of internal electromagnetic modes renders selected one-loop contributions of quantum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.14650"/>
+    <published>2026-09-17T13:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#6</id>
+    <title>Ab Initio Emergence and Collapse of Nuclear Collectivity near N= Z= 40</title>
+    <updated>2026-09-17T13:47:21+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; XC Cao, CF Jiao, RZ Hu -arXivpreprintarXiv:2609.15774, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present an \textit{ab initio} description of the emergence and collapse of enhanced quadrupole collectivity in nuclei near $N=Z=40$ using multi-shell valence-space Hamiltonians derived from chiral two- and three-nucleon forces with the in-medium ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.15774"/>
+    <published>2026-09-17T13:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#5</id>
+    <title>Measuring Time-Horizon Engagement Effectiveness: Persistence, Recency, and Re- Emergence</title>
+    <updated>2026-09-17T13:47:21+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Rushing, E Anderson, W Hersch, S Xu -arXivpreprintarXiv:2609.14474, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Online attention is commonly summarized using cumulative volume, peak activity, or arithmetic averages, but such measures can obscure differences between activity that is sustained over time, concentrated near the present, or renewed after ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.14474"/>
+    <published>2026-09-17T13:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#4</id>
+    <title>Why LLM Agents Collapse Without Oversight: The Enforcement Gap as the Mechanism Behind Emergence World Failures</title>
+    <updated>2026-09-17T13:47:21+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Wang -arXivpreprintarXiv:2609.15293, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... a complete three-part taxonomy that explains every collapse pattern in Emergence World. ... , audit ambiguity) that maps onto every Emergence World collapse pattern, and rank four defense ... at the end of this section is a direct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.15293"/>
+    <published>2026-09-17T13:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#3</id>
+    <title>Hierarchical emergence of network bursting in a four-cell central pattern generator model</title>
+    <updated>2026-09-17T13:47:21+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Pusuluri, H Wu, AL Shilnikov -arXivpreprintarXiv:2609.13858, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How can a neural circuit rhythmically burst when none of its constituent neurons can endogenously do so? We address this question through a bottom-up reconstruction of a 4-cell neural circuit modeled after the swim central pattern generator (CPG) of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.13858"/>
+    <published>2026-09-17T13:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#2</id>
+    <title>Emergence of Subdominant Quadrupolar Order in the 5$ d^ 2$ Multipolar Mott Insulator Ba $ _2 $ CaOsO $ _6$</title>
+    <updated>2026-09-17T13:47:21+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IK Nikolov, G Allodi, G Corsale, A Kataria, C Foster... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Relativistic $5d$ Mott insulators host a rich variety of exotic hidden multipolar order, whose microscopic nature remains heavily debated. A broken local point-symmetry (BLPS) phase followed by antiferromagnetism was previously observed in the doped ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.14223"/>
+    <published>2026-09-17T13:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#1</id>
+    <title>Convergent Emergence of In-Context Learning Across Modalities</title>
+    <updated>2026-09-17T13:47:21+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Breslow, S Han, DH Lee, A Mishra, A Liu... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the same task suite in a variety of modalities to test what we call the Convergent Emergence Hypothesis: the idea that few-shot ICL, when it emerges, shares a ... Together, these results provide support for the Convergent Emergence Hypothesis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.14011"/>
+    <published>2026-09-17T13:47:21+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#0</id>
+    <title>Hierarchical Prototype Emergence in Modern Hopfield Models</title>
+    <updated>2026-09-17T13:47:21+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Cowsik, A Sriram -arXivpreprintarXiv:2609.12079, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hierarchical correlations are a universal feature of any realistic model of data, and the question of how associative memory models may learn these correlations and generalize beyond them to construct new sensible images is an important step ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.12079"/>
+    <published>2026-09-17T13:47:21+00:00</published>
   </entry>
 </feed>
