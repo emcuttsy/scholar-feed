@@ -2,217 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-17T17:47:22.278097+00:00</updated>
+  <updated>2026-09-18T17:19:45.329241+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e3170cd#0</id>
-    <title>The atomic C/O ratio of KELT-9b</title>
-    <updated>2026-09-17T13:29:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f509#0</id>
+    <title>Mitochondrial genetic effects mediate the response to stress through development, but not adult metabolic rate in Drosophila</title>
+    <updated>2026-09-18T16:43:03+00:00</updated>
     <author>
-      <name>JL bean</name>
+      <name>Nick Lane</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Pelletier, NW Borsato,JL Bean, A Seifahrt, D Kasper... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The carbon-to-oxygen (C/O) ratio of a giant planet's atmosphere has long been theorised to hold compositional information that can be traced back to its formation history. Typically, the C/O ratio of an exoplanetary atmosphere is inferred from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.13051"/>
-    <published>2026-09-17T13:29:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Chakraborty, E Rodríguez, S Bettinazzi, S Stroila... - Journal of Experimental ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Energy expenditure is fundamental to physiology, behaviour, ecology, and life history, yet the mechanisms that regulate metabolic rate remain poorly understood. At the cellular level, incompatibilities between the maternally inherited mitochondrial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Lane (author alert)</content>
+    <link href="https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.253155/3717381/jeb253155.pdf"/>
+    <published>2026-09-18T16:43:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#9</id>
-    <title>Effects of sun-drying and steaming on Ehretia macrophylla Wall.(EMW) fruit polysaccharides: structure, physicochemical properties and gut-related functions</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f41f#2</id>
+    <title>High-rate multipartite quantum secret sharing with composable security</title>
+    <updated>2026-09-18T16:43:05+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Mo, H Li, Y Yu, J Li, T Zhang, S Zheng, D Huang... - npj Science of Food, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Pectin-like polysaccharides from Ehretia macrophylla Wall. fruit (EMWFP) remains scarcely explored; their macromolecular structures are highly responsive to traditional post-harvest processing. Using in vitro digestion-fermentation models and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41538-026-01144-4_reference.pdf"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RMJ Brooks, J Ho, J Niblo, J Memmen, A Pappa... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Future quantum communication networks will conceivably support cryptographic tasks that require entanglement among more than two users. Quantum secret sharing is a prime example where entanglement provides a direct means to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.13367"/>
+    <published>2026-09-18T16:43:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#8</id>
-    <title>Gelidium Bioactives in Gut and Skin Homeostasis: Mechanisms, Microbiota Modulation, and the Gut–Skin Axis</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f41f#1</id>
+    <title>Instantiating Microcrypt: Obstacles and opportunities via tailored state certification</title>
+    <updated>2026-09-18T16:43:05+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Lee, SH Lee, S Jung, KN Kim - Microorganisms, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review comprehensively synthesizes the dual-target therapeutic modalities of Gelidium bioactives, focusing on their prebiotic modulation of the gastrointestinal microbiota and their protective effects on cutaneous tissues. In the gastrointestinal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2076-2607/14/9/2039"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Carrasco, J Eisert, S Ghosh, D Hangleiter, NKH Li... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent work has introduced the Hamiltonian phase state (HPS) assumptions, which postulate that Hamiltonian phase states can be used to instantiate pseudorandom and one-way state generators. Additionally, it has been conjectured that these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.15842"/>
+    <published>2026-09-18T16:43:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#7</id>
-    <title>Probiotic-Based Functional Beverages: A Comprehensive Review of Strain Selection, Formulation Strategies, Viability Challenges, and Health-Promoting Potential</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f41f#0</id>
+    <title>Fermionic quantum error correction is never free</title>
+    <updated>2026-09-18T16:43:05+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jens Eisert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SB Dahikar, S Bhutada, RB Yeole, E Kovaleva - Frontiers in Food Science and Technology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... determinants of product quality, including pH, titratable acidity, viscosity, total soluble solids, colour, and flavour; (v) strategies to preserve probiotic viability during processing, storage, and gastrointestinal transit, with particular emphasis on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/food-science-and-technology/articles/10.3389/frfst.2026.1938248/full"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Tang, I Roth, P Faist, ZW Liu, J Eisert, Z Liu - arXiv preprint arXiv:2609.15059, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Fermionic platforms offer compelling architectures for quantum computing, ranging from topologically protected Majorana-based qubits to fermionic cold atoms. To achieve scalability, however, they require quantum error correction. In this work, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.15059"/>
+    <published>2026-09-18T16:43:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#6</id>
-    <title>Supercritical Fluid Extraction of organic molecules from extraterrestrial samples: A new one-step protocol proposed</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f3e0#0</id>
+    <title>Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals</title>
+    <updated>2026-09-18T16:43:05+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Varun Warrier</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Bouhier, L Bourmancé, F Stalport, H Cottin... - EPSC 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To better understand the role of meteorites in the emergence of life on Earth nearly 4 billion years ago, their molecular characterisation is ... Understanding prebiotic chemistry through the analysis of extraterrestrial amino acids and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://hal.science/hal-05747087/"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Okewole, VR Bourque, M Koko, G Huguet... - Molecular Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Autistic individuals show elevated rates of co-occurring neurodevelopmental and mental health conditions, yet the genetic architecture of those comorbidities remains unclear. Using phenotypic (N= 74,204) and genetic (N= 17,582) data from the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.nature.com/articles/s41380-026-03880-1"/>
+    <published>2026-09-18T16:43:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#5</id>
-    <title>Assessing the potential of biologically-activated carbon treatment, pasteurization, and particle filtration as pre/pro-biotic controls on premise plumbing microbiomes</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f2ea#1</id>
+    <title>TAlkEaSy: the Total Alkalinity Earth System Model v1. 0 for exploring climate, redox and ocean chemistry over geologic time</title>
+    <updated>2026-09-18T16:43:07+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Timothy Lenton</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ME Deck, AC Cullom, E Milligan, A Pruden, M Edwards - npj Biofilms and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Biostability control can be viewed as a prebiotic approach in that it entails depleting organic carbon and growthlimiting nutrients, which is ... In this work, we sought to achieve a side-by-side comparison of how hypothetical probiotic and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41522-026-01116-2_reference.pdf"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Chen, TM Lenton - EGUsphere, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Here, we present the TAlkEaSy (Total Alkalinity Earth System) model, a framework for exploring the coupling of changes in the major ion balance of the ocean, biogeochemical cycling and global temperature and for testing hypotheses against ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2949/"/>
+    <published>2026-09-18T16:43:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#4</id>
-    <title>Isolation of Potato Peel Starch &amp; Its Food Application</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f2ea#0</id>
+    <title>High-impact climate events and tipping dynamics: assessing scientific understanding and future challenges</title>
+    <updated>2026-09-18T16:43:07+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Timothy Lenton</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Akram, SF Ali, MB Sadiq&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... As the amylose increases in starch it starts to depict a prebiotic potential. Starch was ... a prebiotic effect that induces a variety of benefits for human health. The findings of the study fully support the notion that modified starches extracted from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://scholarl.com/articles/SCH-2026-845859/isolation-of-potato-peel-starch-its-food-application.pdf"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Hegerl, S Abba Omar, A Al Khourdajie, A Bartsch...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper is motivated by growing concern about tipping dynamics and processes that can cause abrupt, self-amplifying, and irreversible changes across the Earth system and societies. It assesses current scientific understanding of the most severe ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://essopenarchive.org/doi/pdf/10.22541/essoar.15008733"/>
+    <published>2026-09-18T16:43:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#3</id>
-    <title>UV dose rates in Parsamian cometary nebulae: cosmic-ray-induced energetic processing of C2H2, H2CO, and CH3OH</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f25c#1</id>
+    <title>Intracranial recordings in humans reveal differential contributions of medial and lateral orbitofrontal cortex to approach–avoidance decision-making</title>
+    <updated>2026-09-18T16:43:07+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Edward F Chang</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Yeghikyan, M Rah, L Darbinyan, M Alizadeh... - Astrophysics and Space ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Third, we evaluate whether the resulting C2H2/CH3OH abundance ratio places the chemistry in the isoprene ( prebiotic ) or the PAH (... Section 6 discusses the pathway diagnostic, prebiotic implications, and application to Parsamian Pa13 and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s10509-026-04636-7"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CK Starkweather, EH Willbrand, K Sellers, PW Hullett... - Nature Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Approach–avoidance refers to the psychological conflict in which deciding to approach a reward also carries potential punishment. The orbitofrontal cortex (OFC) is proposed to arbitrate approach–avoidance decisions, yet little is known ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
+    <link href="https://www.nature.com/articles/s41593-026-02444-4"/>
+    <published>2026-09-18T16:43:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#2</id>
-    <title>Investigating the 'Water Paradox': Theoretical Evidence for Electric Field-Mediated Catalysis of Peptide Bond Formation</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f25c#0</id>
+    <title>Simultaneous speech and gesture decoding for multimodal communication in paralysis</title>
+    <updated>2026-09-18T16:43:07+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Edward F Chang</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Herriman, GA DiLabio&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... that interfacial electric fields could play a central role in prebiotic peptide synthesis. ... reactions and are central to understanding the origins of life . However, these reactions are ... This concept has been extensively explored in prebiotic chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15008753"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SC Brosler, JR Liu, AB Silva, IP Hallinan... - Nature Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Stroke and neurodegenerative diseases can impair speech and nonverbal gestures, limiting natural communication. Brain–computer interfaces (BCIs) aim to restore these functions by translating neural activity into commands for external devices ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
+    <link href="https://www.nature.com/articles/s41593-026-02446-2"/>
+    <published>2026-09-18T16:43:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#1</id>
-    <title>Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f153#0</id>
+    <title>Two-dimensional billiards are Turing complete</title>
+    <updated>2026-09-18T16:43:09+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Eva Miranda</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Charumathi, S Kim, H Shin - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Drawing on mechanistic evidence from in vivo studies and insights from in vitro host–microbe fermentation models, this review critically examines how prebiotic dietary fibers have influenced the human gut microbial ecosystem, fermentation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1927734/full"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Miranda, I Ramos - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We show that two-dimensional billiard systems can simulate universal Turing machines. Billiards serve as idealized models of particle motion with elastic reflections and arise naturally as limits of smooth Hamiltonian systems under steep ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eva Miranda (author alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2614500123"/>
+    <published>2026-09-18T16:43:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e316fab#0</id>
-    <title>Mechanistic insights into prebiotic modulation of the infant gut microbiome and its impact on intestinal motility</title>
-    <updated>2026-09-17T13:29:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d00f0fa#0</id>
+    <title>(How) Do MLLMs Report Bistable Images Like Humans?</title>
+    <updated>2026-09-18T16:43:09+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Anil Seth</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Schwalbe&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Our digestive system is inhabited by millions of microbes, called the gut microbiome, which help us digest our food and support many aspects of our health. These microbes begin colonising the gut immediately after birth, and the types of bacteria ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://research.rug.nl/en/publications/mechanistic-insights-into-prebiotic-modulation-of-the-infant-gut-/"/>
-    <published>2026-09-17T13:29:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Takatsuki, A Watahiki, AK Seth, H Yanaka - arXiv preprint arXiv:2609.13254, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Bistable images such as the duck-rabbit are classic stimuli in which one image supports multiple mutually incompatible interpretations, typically reported one at a time in humans. We ask whether multimodal large language models (MLLMs) show ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, Birds&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.13254"/>
+    <published>2026-09-18T16:43:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#7</id>
-    <title>Self-Gravitation of Mode Quanta in a Causal Resonator: One-Loop Finiteness in Linearized Quantum Gravity and the Emergence of the Dark-Energy Scale</title>
-    <updated>2026-09-17T13:47:21+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d064567#1</id>
+    <title>Height-dependent thermal properties of extreme-ultraviolet campfires in the quiet Sun</title>
+    <updated>2026-09-18T17:00:10+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Astrid Veronig</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Rembe -arXivpreprintarXiv:2609.14650, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Perturbative quantum gravity is ultraviolet divergent and, as shown by 't Hooft and Veltman, non-renormalizable. A recent object-relative, Lorentz-invariant weighting of internal electromagnetic modes renders selected one-loop contributions of quantum ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.14650"/>
-    <published>2026-09-17T13:47:21+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Podladchikova, A Warmuth, L Harra, C Verbeeck...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Context. Small-scale impulsive energy-release events are widely considered a key ingredient of quiet-Sun coronal heating. The discovery of extreme ultraviolet (EUV) campfires by Solar Orbiter has opened a new observational window at ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://www.aanda.org/articles/aa/pdf/forth/aa62069-26.pdf"/>
+    <published>2026-09-18T17:00:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#6</id>
-    <title>Ab Initio Emergence and Collapse of Nuclear Collectivity near N= Z= 40</title>
-    <updated>2026-09-17T13:47:21+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d064567#0</id>
+    <title>A filament wrapped around its reconnection-heated component: An erupting hot channel</title>
+    <updated>2026-09-18T17:00:10+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Astrid Veronig</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; XC Cao, CF Jiao, RZ Hu -arXivpreprintarXiv:2609.15774, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present an \textit{ab initio} description of the emergence and collapse of enhanced quadrupole collectivity in nuclei near $N=Z=40$ using multi-shell valence-space Hamiltonians derived from chiral two- and three-nucleon forces with the in-medium ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.15774"/>
-    <published>2026-09-17T13:47:21+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Teng, Y Su, AM Veronig, Y Qiu, Y Su, Y Ou, Z Tian...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ABSTRACT Aims. Solar hot channels (HCs) are coherently elongated high- temperature structures observed in the solar corona, and they are believed to represent magnetic flux ropes during solar eruptions. Filaments supported by the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://www.aanda.org/articles/aa/pdf/forth/aa60866-26.pdf"/>
+    <published>2026-09-18T17:00:10+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#5</id>
-    <title>Measuring Time-Horizon Engagement Effectiveness: Persistence, Recency, and Re- Emergence</title>
-    <updated>2026-09-17T13:47:21+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767d06444c#0</id>
+    <title>The Desire-Paradox of Suspense</title>
+    <updated>2026-09-18T17:00:11+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Edgar Onea</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Rushing, E Anderson, W Hersch, S Xu -arXivpreprintarXiv:2609.14474, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Online attention is commonly summarized using cumulative volume, peak activity, or arithmetic averages, but such measures can obscure differences between activity that is sustained over time, concentrated near the present, or renewed after ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.14474"/>
-    <published>2026-09-17T13:47:21+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#4</id>
-    <title>Why LLM Agents Collapse Without Oversight: The Enforcement Gap as the Mechanism Behind Emergence World Failures</title>
-    <updated>2026-09-17T13:47:21+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Wang -arXivpreprintarXiv:2609.15293, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... a complete three-part taxonomy that explains every collapse pattern in Emergence World. ... , audit ambiguity) that maps onto every Emergence World collapse pattern, and rank four defense ... at the end of this section is a direct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.15293"/>
-    <published>2026-09-17T13:47:21+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#3</id>
-    <title>Hierarchical emergence of network bursting in a four-cell central pattern generator model</title>
-    <updated>2026-09-17T13:47:21+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Pusuluri, H Wu, AL Shilnikov -arXivpreprintarXiv:2609.13858, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How can a neural circuit rhythmically burst when none of its constituent neurons can endogenously do so? We address this question through a bottom-up reconstruction of a 4-cell neural circuit modeled after the swim central pattern generator (CPG) of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.13858"/>
-    <published>2026-09-17T13:47:21+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#2</id>
-    <title>Emergence of Subdominant Quadrupolar Order in the 5$ d^ 2$ Multipolar Mott Insulator Ba $ _2 $ CaOsO $ _6$</title>
-    <updated>2026-09-17T13:47:21+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IK Nikolov, G Allodi, G Corsale, A Kataria, C Foster... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Relativistic $5d$ Mott insulators host a rich variety of exotic hidden multipolar order, whose microscopic nature remains heavily debated. A broken local point-symmetry (BLPS) phase followed by antiferromagnetism was previously observed in the doped ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.14223"/>
-    <published>2026-09-17T13:47:21+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#1</id>
-    <title>Convergent Emergence of In-Context Learning Across Modalities</title>
-    <updated>2026-09-17T13:47:21+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Breslow, S Han, DH Lee, A Mishra, A Liu... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the same task suite in a variety of modalities to test what we call the Convergent Emergence Hypothesis: the idea that few-shot ICL, when it emerges, shares a ... Together, these results provide support for the Convergent Emergence Hypothesis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.14011"/>
-    <published>2026-09-17T13:47:21+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767e3695dd#0</id>
-    <title>Hierarchical Prototype Emergence in Modern Hopfield Models</title>
-    <updated>2026-09-17T13:47:21+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Cowsik, A Sriram -arXivpreprintarXiv:2609.12079, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hierarchical correlations are a universal feature of any realistic model of data, and the question of how associative memory models may learn these correlations and generalize beyond them to construct new sensible images is an important step ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.12079"/>
-    <published>2026-09-17T13:47:21+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Finkendey, T Köppe, E Onea - Estetika: The European Journal of Aesthetics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We analyse suspense as a particular mode of narrative artwork reception. Our central claim is that the psychology of narrative suspense involves different layers of desire. In turn, this account helps explain the experience of 'urge'and tension as well ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edgar Onea (author alert)</content>
+    <link href="https://estetikajournal.org/en/articles/10.33134/eeja.694"/>
+    <published>2026-09-18T17:00:11+00:00</published>
   </entry>
 </feed>
