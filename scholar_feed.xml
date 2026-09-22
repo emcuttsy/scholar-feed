@@ -2,173 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-21T12:07:02.989765+00:00</updated>
+  <updated>2026-09-22T11:02:22.121249+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c49d9b3#0</id>
-    <title>Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer</title>
-    <updated>2026-09-21T02:25:13+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76730c7ada#0</id>
+    <title>Finding Common Ground: Graded Communal Knowledge in Bluesky Starter Packs</title>
+    <updated>2026-09-22T06:59:30+00:00</updated>
     <author>
-      <name>Edward F Chang</name>
+      <name>Brooke Foucault Welles</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Dey, J Baddour, F Muller, CC Wu, H Wang, WT Liao... - Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In the version of this article initially published, the total AMPKα immunoblot shown in Extended Data Fig. 8b, which presents a doxycycline concentration course, was inadvertently duplicated from Fig. 4f, which presents a doxycycline time course. The ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Edward F Chang (author alert)</content>
-    <link href="https://www.nature.com/articles/s41586-026-11134-x"/>
-    <published>2026-09-21T02:25:13+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kumar, LSX Prince, J Mendelsohn, BF Welles... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Communication is made possible by common ground---the unspoken knowledge that people share and presuppose of one another, whether that be online or offline. In his conception of common ground, Clark (1996) distinguishes between personal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Brooke Foucault Welles (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.19549"/>
+    <published>2026-09-22T06:59:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c49d933#0</id>
-    <title>Thermal Evolution of Lava Planets Across System Ages: Predictions for Hell of a Survey</title>
-    <updated>2026-09-21T02:25:14+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76730c7a63#0</id>
+    <title>Hitting and missing on consciousness</title>
+    <updated>2026-09-22T06:59:32+00:00</updated>
     <author>
-      <name>Lisa Dang</name>
+      <name>Matthias Michel</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Sastre, T Lichtenberg, L Dang, A Piette, HS Wang... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ultra-short-period (USP) rocky exoplanets can have dayside temperatures high enough to maintain permanent magma oceans, sitting at the intersection of interior geophysics and atmospheric chemistry. Coupled feedbacks between the molten ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.20155"/>
-    <published>2026-09-21T02:25:14+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Nakamura, M Michel, H Lau - Psychiatry and Clinical Neurosciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Disturbances of conscious experience are central features of many psychiatric and mental health disorders. Experimental studies of conscious perception are therefore increasingly cited in clinical and translational work under the assumption that they ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Matthias Michel (author alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/pcn.70136"/>
+    <published>2026-09-22T06:59:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c49d8bd#0</id>
-    <title>Thermal Evolution of Lava Planets Across System Ages: Predictions for Hell of a Survey</title>
-    <updated>2026-09-21T02:25:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76730c79c8#0</id>
+    <title>www. nature. com/scientificreports</title>
+    <updated>2026-09-22T06:59:33+00:00</updated>
     <author>
-      <name>Raymond Pierrehumbert</name>
+      <name>Chiara Cirelli</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Sastre, T Lichtenberg, L Dang, A Piette, HS Wang... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ultra-short-period (USP) rocky exoplanets can have dayside temperatures high enough to maintain permanent magma oceans, sitting at the intersection of interior geophysics and atmospheric chemistry. Coupled feedbacks between the molten ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Raymond Pierrehumbert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.20155"/>
-    <published>2026-09-21T02:25:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Bourdon, GM Spano, W Marshall, M Bellesi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1SCIENTIfIC REPorTS | (2018) 8:11225 | DOI:10.1038/s41598-018-29511-6 www.nature.com/scientificreports Metabolomic analysis of mouse prefrontal cortex reveals upregulated analytes during wakefulness compared to sleep Allen K. Bourdon 1, Giovanna Maria Spano2 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chiara Cirelli (author alert)</content>
+    <link href="https://trace.tennessee.edu/server/api/core/bitstreams/79ef6900-5415-4646-bdfa-ea057a2e27ca/content"/>
+    <published>2026-09-22T06:59:33+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c49d85d#0</id>
-    <title>Thermal Evolution of Lava Planets Across System Ages: Predictions for Hell of a Survey</title>
-    <updated>2026-09-21T02:25:17+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76730c79b4#0</id>
+    <title>www. nature. com/scientificreports</title>
+    <updated>2026-09-22T06:59:33+00:00</updated>
     <author>
-      <name>Tim Lichtenberg</name>
+      <name>Giulio Tononi</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Sastre, T Lichtenberg, L Dang, A Piette, HS Wang... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ultra-short-period (USP) rocky exoplanets can have dayside temperatures high enough to maintain permanent magma oceans, sitting at the intersection of interior geophysics and atmospheric chemistry. Coupled feedbacks between the molten ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tim Lichtenberg (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.20155"/>
-    <published>2026-09-21T02:25:17+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Bourdon, GM Spano, W Marshall, M Bellesi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1SCIENTIfIC REPorTS | (2018) 8:11225 | DOI:10.1038/s41598-018-29511-6 www.nature.com/scientificreports Metabolomic analysis of mouse prefrontal cortex reveals upregulated analytes during wakefulness compared to sleep Allen K. Bourdon 1, Giovanna Maria Spano2 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
+    <link href="https://trace.tennessee.edu/server/api/core/bitstreams/79ef6900-5415-4646-bdfa-ea057a2e27ca/content"/>
+    <published>2026-09-22T06:59:33+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c5563f5#0</id>
-    <title>How to Build a Space Station: The architecture of low Earth orbit, the Moon and Mars</title>
-    <updated>2026-09-21T07:20:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76730c7957#0</id>
+    <title>Erratum:"JWST/NIRSpec Spectral Standards for M, L, and T Dwarfs and Subdwarfs"(2026, RNAAS, 10, 144)</title>
+    <updated>2026-09-22T06:59:34+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Adam J. Burgasser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Morrison&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in terms of not only engineering but habitability . With atypical foresight, NASA recruited the famous ... space, engaging with alien cultures and surviving bizarre planetary environments, not least ... Verne, in particular, was fascinated by how ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=YN4NEgAAQBAJ&amp;oi=fnd&amp;pg=PT6&amp;dq=(habitable%7Chabitability+planet%7Cplanetary%7Cworld%7Cexoplanet)%7C%22habitale+zone%22%7Cbiosignature%7Castrobiology%7Ctechnosignature%7C(%22search+for%22+~alien%7Cextraterrestrial+life)%7CSETI%7C%22biosignature+detection%22&amp;ots=p12NxxNAjF&amp;sig=O18AoCPEOHwMX3Hy1xqH92YBiCg"/>
-    <published>2026-09-21T07:20:30+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#9</id>
-    <title>Fiber Forward: A Simple Everyday Plan for Eating More, Feeling Fuller, and Building Meals That Satisfy</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; XB Carter&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... fibers are fermentable, but not every fermentable fiber meets every scientific definition of a prebiotic . For everyday eating, the useful ... The practical advantage comes from eating a variety of plant foods rather than trying to obtain one named ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=otsMEgAAQBAJ&amp;oi=fnd&amp;pg=PT1&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=55fTqiTHBZ&amp;sig=OL4fzHX52uul50OGqducP-u4P-k"/>
-    <published>2026-09-21T07:20:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#8</id>
-    <title>White hyacinth bean polysaccharide mitigates high-fat diet-induced myocardial injury by modulating the gut microbiota-phenylalanine-heart axis in mice</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Chen, Y Gui, S Lu, Y Li, X Chen, X Peng, W Li - Journal of Functional Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study aimed to investigate whether white hyacinth bean polysaccharide (WHBP), a potential prebiotic functional food ingredient, alleviated HFD-induced myocardial injury and elucidated underlying mechanisms. Here, an obese mice model was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S175646462600366X"/>
-    <published>2026-09-21T07:20:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#7</id>
-    <title>On Serine Octamer Substitution Reactions</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BA Shira, AKE Thomas, RG Cooks - Rapid Communications in Mass Spectrometry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... produce Ser 8 H + , which undergoes enantiospecific substitution reactions perhaps gives this topic relevance to origins of life chemistry. ... Findings from simulated prebiotic chemistry and meteorites have resulted in a consensus view that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13583542/"/>
-    <published>2026-09-21T07:20:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#6</id>
-    <title>PrimeBiome Reviews: What's In It, How Long It Takes, and What It Costs Per Day</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Souza&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It's a prebiotic fiber — food for the bacteria you just took — and it meets the formal scientific definition of a prebiotic set out by the International Scientific Association for ... Pairing the two is a deliberate choice and a good one: a probiotic without a prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://onefairnote.com/primebiome-reviews/"/>
-    <published>2026-09-21T07:20:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#5</id>
-    <title>Non-Equilibrium Stochastic Thermodynamics of Astrobiological Chirality and Quantum Enzyme Tunneling within the Hamouda Informational Gravity Model (HIGM)</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Hamouda&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... By extending this principle to non-equilibrium stochastic thermodynamics in aqueous prebiotic environments, we formulate a comprehensive mathematical and computational framework linking cosmological infrared backgrounds directly to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Samir-Hamouda/publication/414324778_Non-Equilibrium_Stochastic_Thermodynamics_of_Astrobiological_Chirality_and_Quantum_Enzyme_Tunneling_within_the_Hamouda_Informational_Gravity_Model_HIGM/links/6aa92660b8b306746a9a571d/Non-Equilibrium-Stochastic-Thermodynamics-of-Astrobiological-Chirality-and-Quantum-Enzyme-Tunneling-within-the-Hamouda-Informational-Gravity-Model-HIGM.pdf"/>
-    <published>2026-09-21T07:20:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#4</id>
-    <title>Starch-derived oligosaccharides as prebiotics in innovative functional foods</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Liu, J Tang, X Song, X Jia, W Deng, M Tang, A Li... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... as prominent functional carbohydrates, with selected SDO fractions exhibiting prebiotic properties. Their digestive behavior and gut microbial ... Herein, the structural characteristics, underlying prebiotic mechanisms, and traditional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926025548"/>
-    <published>2026-09-21T07:20:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#3</id>
-    <title>Origin - of - life chemistry is a problem of chemical composability</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Xu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Life is usually described by biological functions such as metabolism, replication and evolution. A complementary chemical question lies upstream: what properties of a chemical world make such functions physically realizable? No single interaction ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009041"/>
-    <published>2026-09-21T07:20:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#2</id>
-    <title>Evaluation of prebiotic utilisation and thermal tolerance of Bacillus clausii VTT and DP strains: Potential applications in the food industry</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PT Nguyen, HN Doan, TT Nguyen, TD Pham... - Vietnam Journal of Science ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These results demonstrate strainspecific differences in prebiotic responsiveness in B. clausii and identify FOS as an effective prebiotic for combination with B. clausii VTT, supporting the potential use of this combination in synbiotic formulations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://vietnamscience.vjst.vn/index.php/vjste/article/download/1365/604"/>
-    <published>2026-09-21T07:20:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#1</id>
-    <title>A Potential Emergence of Amino-Modified Xenonucleic Acids on Prebiotic Earth</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Sammons&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... ribonucleotide system, their prebiotic synthesis remains relatively unknown. The work in this thesis presents prebiotic chemistry to directly support their relevance as products of early Earth, and a potential place in the pre- RNA world . Chapter II ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://atrium.lib.uoguelph.ca/items/55552799-b49b-42a1-a7d3-dcfd4a503be3"/>
-    <published>2026-09-21T07:20:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767c556297#0</id>
-    <title>Reversible Cystine Disulfide Scaffolding Enables Carbonyl Sulfide‐Mediated Intramolecular Peptide Bond Formation via Cyclocystine: Implications for Prebiotic ...</title>
-    <updated>2026-09-21T07:20:32+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AV Dass, A Srayeddin, A Rullo, J Stone... - Chemistry–A European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Our results demonstrate the plausibility of the proposed prebiotic process (Scheme 1), in which cysteine undergoes reversible oxidation to cystine, followed by intramolecular peptide bond formation to form cyclocystine. The absence of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/chem.71684"/>
-    <published>2026-09-21T07:20:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Pritchard, M Loritsch, J Haynes, S Morrissey... - Research Notes of the AAS, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Erratum: "JWST/NIRSpec Spectral Standards for M, L, and T Dwarfs and Subdwarfs" (2026, RNAAS, 10, 144) Page 1 AAS-PROVIDED PDF • OPEN ACCESS Erratum: "JWST/NIRSpec Spectral Standards for M, L, and T Dwarfs and Subdwarfs" (2026, RNAAS, 10, 144) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://iopscience.iop.org/article/10.3847/2515-5172/aea78f/meta"/>
+    <published>2026-09-22T06:59:34+00:00</published>
   </entry>
 </feed>
