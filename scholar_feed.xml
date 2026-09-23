@@ -2,63 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-22T11:02:22.121249+00:00</updated>
+  <updated>2026-09-23T10:51:47.023418+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76730c7ada#0</id>
-    <title>Finding Common Ground: Graded Communal Knowledge in Bluesky Starter Packs</title>
-    <updated>2026-09-22T06:59:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76737c598c#2</id>
+    <title>Next-generation fermented foods from non-conventional proteins: Linking fermentation dynamics, flavor chemistry, and gut microbiome modulation</title>
+    <updated>2026-09-22T19:31:27+00:00</updated>
     <author>
-      <name>Brooke Foucault Welles</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kumar, LSX Prince, J Mendelsohn, BF Welles... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Communication is made possible by common ground---the unspoken knowledge that people share and presuppose of one another, whether that be online or offline. In his conception of common ground, Clark (1996) distinguishes between personal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Brooke Foucault Welles (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.19549"/>
-    <published>2026-09-22T06:59:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Zhao, M Duan, P Cui, X Xiong, P Miao, D Wang... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We explore the prebiotic and probiotic potential of the resulting ferments, with preliminary evidence for gut microbial restructuring, short-chain fatty acid enhancement, and intestinal barrier reinforcement. From these interdependencies ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0168160526004575"/>
+    <published>2026-09-22T19:31:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76730c7a63#0</id>
-    <title>Hitting and missing on consciousness</title>
-    <updated>2026-09-22T06:59:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76737c598c#1</id>
+    <title>Watermelon rind pectin structure influences digestibility and impacts on gut microbiota: a comparative in vitro study</title>
+    <updated>2026-09-22T19:31:27+00:00</updated>
     <author>
-      <name>Matthias Michel</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Nakamura, M Michel, H Lau - Psychiatry and Clinical Neurosciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Disturbances of conscious experience are central features of many psychiatric and mental health disorders. Experimental studies of conscious perception are therefore increasingly cited in clinical and translational work under the assumption that they ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Matthias Michel (author alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/pcn.70136"/>
-    <published>2026-09-22T06:59:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Méndez-Reyes, A Enríquez-Belenguer...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The results put forward the potential of watermelon pectin sources as novel alternative prebiotic ingredients. ... Pectin, Valorisation, Citrullus lanatus, Galactan, Short chain fatty acids (SCFA), Colonic fermentation, Prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://riunet.upv.es/entities/publication/c368a65d-c6f6-4c30-86db-630775bf2be0"/>
+    <published>2026-09-22T19:31:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76730c79c8#0</id>
-    <title>www. nature. com/scientificreports</title>
-    <updated>2026-09-22T06:59:33+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76737c598c#0</id>
+    <title>Simultaneous formation of peptides and RNA via prebiotic cross-catalytic enhancement</title>
+    <updated>2026-09-22T19:31:27+00:00</updated>
     <author>
-      <name>Chiara Cirelli</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Bourdon, GM Spano, W Marshall, M Bellesi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1SCIENTIfIC REPorTS | (2018) 8:11225 | DOI:10.1038/s41598-018-29511-6 www.nature.com/scientificreports Metabolomic analysis of mouse prefrontal cortex reveals upregulated analytes during wakefulness compared to sleep Allen K. Bourdon 1, Giovanna Maria Spano2 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chiara Cirelli (author alert)</content>
-    <link href="https://trace.tennessee.edu/server/api/core/bitstreams/79ef6900-5415-4646-bdfa-ea057a2e27ca/content"/>
-    <published>2026-09-22T06:59:33+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Roy, AA Sawant, S Rajamani - Communications Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Nucleoside triphosphates, cyclic monophosphates and amino acids are hypothesized to have been present together in the prebiotic milieu. Earlier studies have demonstrated the importance of their phosphorylation to result in oligomers. In ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s42004-026-02212-2"/>
+    <published>2026-09-22T19:31:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76730c79b4#0</id>
-    <title>www. nature. com/scientificreports</title>
-    <updated>2026-09-22T06:59:33+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76737c5984#0</id>
+    <title>Constraining the Parameter Space of Rocky Planet Interiors and Atmospheres Using Parameterized Mantle Convection Models</title>
+    <updated>2026-09-22T19:31:27+00:00</updated>
     <author>
-      <name>Giulio Tononi</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Bourdon, GM Spano, W Marshall, M Bellesi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1SCIENTIfIC REPorTS | (2018) 8:11225 | DOI:10.1038/s41598-018-29511-6 www.nature.com/scientificreports Metabolomic analysis of mouse prefrontal cortex reveals upregulated analytes during wakefulness compared to sleep Allen K. Bourdon 1, Giovanna Maria Spano2 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
-    <link href="https://trace.tennessee.edu/server/api/core/bitstreams/79ef6900-5415-4646-bdfa-ea057a2e27ca/content"/>
-    <published>2026-09-22T06:59:33+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76730c7957#0</id>
-    <title>Erratum:"JWST/NIRSpec Spectral Standards for M, L, and T Dwarfs and Subdwarfs"(2026, RNAAS, 10, 144)</title>
-    <updated>2026-09-22T06:59:34+00:00</updated>
-    <author>
-      <name>Adam J. Burgasser</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Pritchard, M Loritsch, J Haynes, S Morrissey... - Research Notes of the AAS, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Erratum: "JWST/NIRSpec Spectral Standards for M, L, and T Dwarfs and Subdwarfs" (2026, RNAAS, 10, 144) Page 1 AAS-PROVIDED PDF • OPEN ACCESS Erratum: "JWST/NIRSpec Spectral Standards for M, L, and T Dwarfs and Subdwarfs" (2026, RNAAS, 10, 144) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/2515-5172/aea78f/meta"/>
-    <published>2026-09-22T06:59:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Garcia&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to define biosignatures , we might think that the detection of oxygen in an exoplanet 's atmosphere might be proof of photosynthetic life on ... the mantle's thermal evolution and we can see that both Mars and Venus appear to be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://search.proquest.com/openview/1329c300f5f5ff78fe727bbcfe2dc08e/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
+    <published>2026-09-22T19:31:27+00:00</published>
   </entry>
 </feed>
