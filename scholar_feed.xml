@@ -2,52 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-23T10:51:47.023418+00:00</updated>
+  <updated>2026-09-24T11:11:25.886800+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76737c598c#2</id>
-    <title>Next-generation fermented foods from non-conventional proteins: Linking fermentation dynamics, flavor chemistry, and gut microbiome modulation</title>
-    <updated>2026-09-22T19:31:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76728e621f#0</id>
+    <title>Bistability of compartmentalized autocatalytic systems at the dawn of hereditary variation</title>
+    <updated>2026-09-24T09:04:02+00:00</updated>
+    <author>
+      <name>Eörs Szathmáry</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Iván, A Szilágyi, ESzathmáry- Proceedings of the National Academy of Sciences of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Inheritance is central to life, but its first chemical basis may have preceded the complex molecules that store genetic information in modern organisms. Molecules in autocatalytic chemical networks facilitate the formation of more instances of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42766742/"/>
+    <published>2026-09-24T09:04:02+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76728e61dc#0</id>
+    <title>Bistability of compartmentalized autocatalytic systems at the dawn of hereditary variation</title>
+    <updated>2026-09-24T09:04:02+00:00</updated>
+    <author>
+      <name>Eörs Szathmáry</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Iván, A Szilágyi, E Szathmáry - Proceedings of the National Academy of Sciences of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Inheritance is central to life, but its first chemical basis may have preceded the complex molecules that store genetic information in modern organisms. Molecules in autocatalytic chemical networks facilitate the formation of more instances of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42766742/"/>
+    <published>2026-09-24T09:04:02+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#9</id>
+    <title>PLANT FOODS, GUT MICROBIOTA, AND OBESITY: ADVANCES IN MICROBIOME-TARGETED NUTRITION AND THERAPEUTIC STRATEGIES</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Zhao, M Duan, P Cui, X Xiong, P Miao, D Wang... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We explore the prebiotic and probiotic potential of the resulting ferments, with preliminary evidence for gut microbial restructuring, short-chain fatty acid enhancement, and intestinal barrier reinforcement. From these interdependencies ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0168160526004575"/>
-    <published>2026-09-22T19:31:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MA Oladosu, MA Abah, AO Okin, CD Udeka...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Dietary fibre constitutes the primary prebiotic substrate driving microbial fermentation in the colon. Soluble fibres, including inulin-type fructans (ITF), beta-glucans, pectins, and arabinoxylan, are selectively fermented by anaerobic bacteria ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Abidemi-Okin/publication/414503924_PLANT_FOODS_GUT_MICROBIOTA_AND_OBESITY_ADVANCES_IN_MICROBIOME-TARGETED_NUTRITION_AND_THERAPEUTIC_STRATEGIES/links/6aaeda8f4b53e25e421f0893/PLANT-FOODS-GUT-MICROBIOTA-AND-OBESITY-ADVANCES-IN-MICROBIOME-TARGETED-NUTRITION-AND-THERAPEUTIC-STRATEGIES.pdf"/>
+    <published>2026-09-24T09:46:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76737c598c#1</id>
-    <title>Watermelon rind pectin structure influences digestibility and impacts on gut microbiota: a comparative in vitro study</title>
-    <updated>2026-09-22T19:31:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#8</id>
+    <title>Resistance of Florentero Complex®(Candioli Srl) to Simulated Gastrointestinal Digestion</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Méndez-Reyes, A Enríquez-Belenguer...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The results put forward the potential of watermelon pectin sources as novel alternative prebiotic ingredients. ... Pectin, Valorisation, Citrullus lanatus, Galactan, Short chain fatty acids (SCFA), Colonic fermentation, Prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://riunet.upv.es/entities/publication/c368a65d-c6f6-4c30-86db-630775bf2be0"/>
-    <published>2026-09-22T19:31:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Bruni, F Perondi, A Costale, E Martello&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The results demonstrate that Florentero Complex®, due to its distinctive formulation and the presence of functional prebiotic ingredients, not only protects the microorganisms during simulated gastrointestinal transit but also promotes a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://jbiochemtech.com/storage/files/article/3d92cd00-788c-465c-83a5-60838d89e7d8-4QPW73g5VTpB7qqD/1aG6CRClVnmKoXG.pdf"/>
+    <published>2026-09-24T09:46:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76737c598c#0</id>
-    <title>Simultaneous formation of peptides and RNA via prebiotic cross-catalytic enhancement</title>
-    <updated>2026-09-22T19:31:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#7</id>
+    <title>A Potential Energetic Driver for Phosphorylation on Europa</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Roy, AA Sawant, S Rajamani - Communications Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Nucleoside triphosphates, cyclic monophosphates and amino acids are hypothesized to have been present together in the prebiotic milieu. Earlier studies have demonstrated the importance of their phosphorylation to result in oligomers. In ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s42004-026-02212-2"/>
-    <published>2026-09-22T19:31:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Omran, KA Dzurilla, LE Rodriguez, T Feng... - ChemSystemsChem, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The free energy in this system could have rivalled modern energy transfer molecules such as acetyl‐phosphate and ATP, especially as a precursor to these evolved molecules; therefore, Europa may have a potential prebiotic driver for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/syst.70054"/>
+    <published>2026-09-24T09:46:20+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76737c5984#0</id>
-    <title>Constraining the Parameter Space of Rocky Planet Interiors and Atmospheres Using Parameterized Mantle Convection Models</title>
-    <updated>2026-09-22T19:31:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#6</id>
+    <title>Adsorption of Meteoritic Sugars on Forsterite Surfaces: A First-Principles Study</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RA Garcia&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to define biosignatures , we might think that the detection of oxygen in an exoplanet 's atmosphere might be proof of photosynthetic life on ... the mantle's thermal evolution and we can see that both Mars and Venus appear to be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/1329c300f5f5ff78fe727bbcfe2dc08e/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
-    <published>2026-09-22T19:31:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Asaduzzaman - ACS Earth and Space Chemistry&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... key insight into the extraterrestrial inventory of prebiotic compounds. Here, density functional ... surfaces as both stabilizing substrates and reactive platforms in prebiotic chemical evolution. ... , given the chemical fragility of ribose and its central ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/aesccq/article/doi/10.1021/acsearthspacechem.6c00225/5431730"/>
+    <published>2026-09-24T09:46:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#5</id>
+    <title>Islamic Theology in The Origin of Life</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Rochmyaningsih&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Islamic theology, an underrepresented system of knowledge in science and religion discourse, provides a novel approach to see how the science of the origin of life interplays with religion. Under metaphysical framework, both worldviews converge ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philpapers.org/rec/ROCITI"/>
+    <published>2026-09-24T09:46:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#4</id>
+    <title>An Information-Theoretic Explanation of Two Core Challenges in the RNA World : The Error Threshold Paradox and the Transition to Protocells</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Fuyuan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The RNA world hypothesis faces two long-unresolved core challenges: first, the error threshold paradox—the contradiction between the sequence length required for RNA replication and its replication fidelity; second, the transition from free RNA to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Fuyuan-Zhang-6/publication/414490609_An_Information-Theoretic_Explanation_of_Two_Core_Challenges_in_the_RNA_World_The_Error_Threshold_Paradox_and_the_Transition_to_Protocells/links/6aae3a3e756a0b12f4f2ba77/An-Information-Theoretic-Explanation-of-Two-Core-Challenges-in-the-RNA-World-The-Error-Threshold-Paradox-and-the-Transition-to-Protocells.pdf"/>
+    <published>2026-09-24T09:46:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#3</id>
+    <title>Galactooligosaccharides: A Potent Prebiotic for Gut Health</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DRCNON ENGLISH&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The gut-health aisle is crowded with promises. Inulin, resistant starch, psyllium, fructooligosaccharides, and dozens of probiotic products all claim to support a healthier microbiome. Yet one prebiotic deserves particular attention ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://drclarkstore.com/blogs/news/galactooligosaccharides-could-this-be-the-best-prebiotic-for-gut-health"/>
+    <published>2026-09-24T09:46:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#2</id>
+    <title>Two Experimental Protocols for Verifying the Dominance of Internal Information in RNA: From the Error Threshold to Protocell Construction</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Fuyuan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The RNA world hypothesis faces two core challenges: first, the error threshold paradox—the contradiction between the length required for RNA replication and its fidelity; second, the transition from free RNA to a primitive cell (membrane-encapsulated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Fuyuan-Zhang-6/publication/414499116_Two_Experimental_Protocols_for_Verifying_the_Dominance_of_Internal_Information_in_RNA_From_the_Error_Threshold_to_Protocell_Construction/links/6aae611f799bef11c4aefa94/Two-Experimental-Protocols-for-Verifying-the-Dominance-of-Internal-Information-in-RNA-From-the-Error-Threshold-to-Protocell-Construction.pdf"/>
+    <published>2026-09-24T09:46:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#1</id>
+    <title>Rapidly Fermentable Prebiotic Substrates: Benefits, FODMAP Effects and Host Tolerance</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Ibrahim - Clinical Nutrition ESPEN, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Simultaneously, these prebiotic substrates occupy a more complicated position in 55 human nutrition than the term " prebiotic " alone suggests. ... by comparing rapidly fermentable low molecular weight 66 prebiotic substrates with structurally complex ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.clinicalnutritionespen.com/article/S2405-4577(26)02227-8/pdf"/>
+    <published>2026-09-24T09:46:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767287f39c#0</id>
+    <title>Enzymatic tailoring of prebiotic oligosaccharides, flavonoids, and terpenoids for enhanced physiological effects</title>
+    <updated>2026-09-24T09:46:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DG Han, BS Kim, UT Bornscheuer, IJ Kim - Current Opinion in Biotechnology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this review, we overview enzymatic approaches for developing degree-of-polymerization-controlled prebiotic OSs and for modifying flavonoids and terpenoids to enhance their biological activities with brief perspectives on structure–activity relationships for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0958166926001497"/>
+    <published>2026-09-24T09:46:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767287f279#0</id>
+    <title>Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum</title>
+    <updated>2026-09-24T09:46:22+00:00</updated>
+    <author>
+      <name>JL bean</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., M Radica, M Zhang, EMR Kempton,JL Bean... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent JWST observations have revealed that the morning and evening limbs of the hot Jupiter WASP-94Ab have very different transmission spectra. An analysis of these resolved limb spectra yielded a metallicity more than an order of magnitude ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.20923"/>
+    <published>2026-09-24T09:46:22+00:00</published>
   </entry>
 </feed>
