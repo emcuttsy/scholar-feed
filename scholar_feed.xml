@@ -2,30 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-24T18:00:57.103317+00:00</updated>
+  <updated>2026-09-26T10:53:01.880416+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767296997b#1</id>
-    <title>Quantum Tunneling and the Emergence of Classical Spacetime in Einstein-{\AE} ther Quantum Cosmology</title>
-    <updated>2026-09-24T11:40:54+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7671cd9a9f#0</id>
+    <title>Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks</title>
+    <updated>2026-09-26T05:23:53+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Melanie Mitchell</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GA Monerat, AOC Junior, EVC Silva, GO Neto -arXivpreprintarXiv:2609.21814, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We investigate a quantum cosmological model within the framework of Einstein-{\AE}ther gravity. The model consists of a positively curved FLRW Universe whose matter content is described by pressureless dust, in the presence of a positive cosmological ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.21814"/>
-    <published>2026-09-24T11:40:54+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Deliège, C Beger, M Van Droogenbroeck, M Mitchell - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on shortcuts. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Mitchell (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.21181"/>
+    <published>2026-09-26T05:23:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767296997b#0</id>
-    <title>Staged emergence of anomalous Hall transport in a correlated uranium Weyl semimetal</title>
-    <updated>2026-09-24T11:40:54+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7671cd9a5f#0</id>
+    <title>CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition</title>
+    <updated>2026-09-26T05:23:54+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Evelina (Ev) Fedorenko</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Regmi, S Zhou, CK Singh, A Fedorov, J Denlinger... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how electronic correlations reshape topological states remains a central challenge in quantum materials. Here we investigate the uranium ferromagnet UPS using magnetotransport, angle-resolved photoemission ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.24897"/>
-    <published>2026-09-24T11:40:54+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Ying, J Wu, YS Wang, S Aarya, LMS Buschoff... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding and modeling human intelligence are parallel goals shared by artificial intelligence (AI) and cognitive science. As AI systems grow increasingly capable, in what ways do model responses resemble human responses, and where ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.21259"/>
+    <published>2026-09-26T05:23:54+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7671cd99f7#1</id>
+    <title>Genome-wide analysis of social behaviour across social domains, reporters and developmental stages: a meta-regression approach</title>
+    <updated>2026-09-26T05:23:55+00:00</updated>
+    <author>
+      <name>Varun Warrier</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L de Hoyos, F Schlag, S Jahagirdar, EC Corfield... - Nature Human Behaviour, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Social behaviour is a heritable trait linked to well-being and mental health, yet it varies across social context, including social domains, informants and development, which may shape its underlying genomic architecture. Here, we conducted a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.nature.com/articles/s41562-026-02551-z"/>
+    <published>2026-09-26T05:23:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7671cd99f7#0</id>
+    <title>F99. POLYGENIC INFLUENCES ASSOCIATED WITH AUTISM DIAGNOSTIC TIMING INDEX DEVELOPMENTAL VARIATION IN THE GENERAL POPULATION</title>
+    <updated>2026-09-26T05:23:55+00:00</updated>
+    <author>
+      <name>Varun Warrier</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M de Wit, S Begeer, V Warrier, J Grove, A Abdellaoui... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Autism shows considerable variation in developmental trajectories and timing of diagnosis. Recent work suggests that early-and late-diagnosed autism may be partly genetically distinct, with a genetic correlation of. 38 (Zhang et al. 2025), and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26007352"/>
+    <published>2026-09-26T05:23:55+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7671cd9922#0</id>
+    <title>Upside down: GJ 3090 b the first retrograde exoplanet around an M dwarf detected with NIRPS</title>
+    <updated>2026-09-26T05:23:58+00:00</updated>
+    <author>
+      <name>Lisa Dang</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Carteret, V Bourrier, L Parc, A Winter, R Allart... - Astronomy &amp; Astrophysics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The angle between stellar spin axis and planetary orbital plane can provide key insights into the formation and dynamical evolution of planetary systems. In particular, this measurement in multi-planet systems can be used to further ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
+    <link href="https://www.aanda.org/articles/aa/pdf/2026/09/aa61989-26.pdf"/>
+    <published>2026-09-26T05:23:58+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7671cd98e7#0</id>
+    <title>Genome-wide analysis of social behaviour across social domains, reporters and developmental stages: a meta-regression approach</title>
+    <updated>2026-09-26T05:24:00+00:00</updated>
+    <author>
+      <name>Simon E. Fisher</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L de Hoyos, F Schlag, S Jahagirdar, EC Corfield... - Nature Human Behaviour, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Social behaviour is a heritable trait linked to well-being and mental health, yet it varies across social context, including social domains, informants and development, which may shape its underlying genomic architecture. Here, we conducted a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Simon E. Fisher (author alert)</content>
+    <link href="https://www.nature.com/articles/s41562-026-02551-z"/>
+    <published>2026-09-26T05:24:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7671cd980a#0</id>
+    <title>Upside down: GJ 3090 b the first retrograde exoplanet around an M dwarf detected with NIRPS</title>
+    <updated>2026-09-26T05:24:03+00:00</updated>
+    <author>
+      <name>Björn Benneke</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Carteret, V Bourrier, L Parc, A Winter, R Allart... - Astronomy &amp; Astrophysics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The angle between stellar spin axis and planetary orbital plane can provide key insights into the formation and dynamical evolution of planetary systems. In particular, this measurement in multi-planet systems can be used to further ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://www.aanda.org/articles/aa/pdf/2026/09/aa61989-26.pdf"/>
+    <published>2026-09-26T05:24:03+00:00</published>
   </entry>
 </feed>
