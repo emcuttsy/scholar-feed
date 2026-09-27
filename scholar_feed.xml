@@ -2,217 +2,316 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-26T17:26:56.730610+00:00</updated>
+  <updated>2026-09-27T11:29:33.400115+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e10164#1</id>
-    <title>Hypervelocity impact mass spectrometry enables membrane phospholipid detection in ocean- world plumes</title>
-    <updated>2026-09-26T11:55:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7670517524#1</id>
+    <title>W8. HERITABILITY OF ACCELEROMETRY-DERIVED FEATURES OF PHYSICAL ACTIVITY, SLEEP AND CIRCADIAN RHYTHMICITY AND THEIR JOINT ...</title>
+    <updated>2026-09-27T10:40:58+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Spesyvyi, C Wang, A Charvat, HO Barragán Mayet...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... world missions, including Europa Clipper and proposed Enceladus missions, and highlight the 29 scientific value of high-resolution negative-ion impact mass spectrometry for the search for 30 extraterrestrial life ... indicators of habitability but ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009243"/>
-    <published>2026-09-26T11:55:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Merikangas, W Guo, J Crouse, J Carpenter, L Cui... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Dysregulation of motor activity and sleep are key components of several mental disorders, particularly mood disorders and attention deficit hyperactivity disorder (ADHD). There is growing evidence that profiles of 24-hour activity patterns ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26003676"/>
+    <published>2026-09-27T10:40:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e10164#0</id>
-    <title>Is uniformitarianism still necessary for studying Earth-like planets ?</title>
-    <updated>2026-09-26T11:55:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7670517524#0</id>
+    <title>F48. BEYOND A SINGLE SCORE: A MULTIVARIATE POLYGENIC RISK PROFILE APPROACH TO PSYCHIATRIC RISK</title>
+    <updated>2026-09-27T10:40:58+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CR Walton - Geological Society, London, Special Publications, 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In summary, the assumption that an exoplanet in the habitable zone will possess a green, aerobic, highly productive biosphere as long as it ... to constrain our search for life to a mirror image of ourselves, potentially blinding us when we stumble upon ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.lyellcollection.org/doi/pdf/10.1144/gslspecpub2026-34"/>
-    <published>2026-09-26T11:55:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Ferreira, PA Lind, H Moody, IB Hickie, C Olsen... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Polygenic risk scores (PRS) have emerged as promising tools for risk stratification and the interpretation of polygenic liability in psychiatric research. Their application has predominantly focused on single disorder prediction, despite ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X2600684X"/>
+    <published>2026-09-27T10:40:58+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e10121#1</id>
+    <id>http://www.inoreader.com/article/3a9c6e76705174c1#0</id>
+    <title>Sharp and smooth state transitions during resting state brain dynamics</title>
+    <updated>2026-09-27T10:41:00+00:00</updated>
+    <author>
+      <name>Luiz Pessoa</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Pessoa, X Zhou - bioRxiv, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Resting-state fMRI is routinely described in terms of a small set of recurring whole- brain states. Far less is known about what happens between them. Two pictures compete. In one, the brain toggles: it switches between qualitatively distinct regimes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Luiz Pessoa (author alert)</content>
+    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13596141/"/>
+    <published>2026-09-27T10:41:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767051746d#0</id>
+    <title>Double Descent and Malign Overfitting in Diffusion Models</title>
+    <updated>2026-09-27T10:41:01+00:00</updated>
+    <author>
+      <name>Marc Mezard</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Urfin, T Bonnaire, G Biroli, M Mézard - arXiv preprint arXiv:2609.26392, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Conventional wisdom in deep learning holds that overparameterization---having more parameters $ p $ than training samples $ n $---is benign: larger models generalize better and, even without regularization, interpolating models generalize ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Marc Mezard (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.26392"/>
+    <published>2026-09-27T10:41:01+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76705173e6#0</id>
     <title>The Science Potential of Characterizing Gas Giant Exoplanets with HWO</title>
-    <updated>2026-09-26T11:55:02+00:00</updated>
+    <updated>2026-09-27T10:41:02+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Renyu Hu</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Dacus, JB Ruffio, Q Konopacky, R Hu, TD Robinson... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... model HWO observations of Jupiter radius gas giants at Earth-like and Jupiter -like instellations ... exist, represent additional habitable worlds that HWO could investigate for biosignatures . ... We therefore assume that shorter wavelengths will ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Dacus, JB Ruffio, Q Konopacky, R Hu, TD Robinson... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; With the ability to directly image Earth-like exoplanets and search their atmospheres for biosignatures, the upcoming Habitable Worlds Observatory (HWO) will also collect high signal-to-noise ratio (S/N) reflected-light photometry and spectra of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
     <link href="https://arxiv.org/pdf/2609.22653"/>
-    <published>2026-09-26T11:55:02+00:00</published>
+    <published>2026-09-27T10:41:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e10121#0</id>
-    <title>and work on the study of exoplanet climates</title>
-    <updated>2026-09-26T11:55:02+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767051733e#0</id>
+    <title>Quantum Biology 2.0: Traversing and harnessing protein superhighway networks of light and life</title>
+    <updated>2026-09-27T10:41:03+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>P. Kurian</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Planchon&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Due to its higher eccentricity (0.093) than that of Earth (0.017), the planet Mars at perihelion receives about 40% more solar energy than at aphelion. The warming of the surface of Mars and the temperature differences are therefore favorable to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Olivier-Planchon-3/publication/414498810_The_diversity_of_planetary_climates_in_the_Solar_System_as_a_basis_for_reflection_and_work_on_the_study_of_exoplanet_climates/links/6aae8226799bef11c4aefd54/The-diversity-of-planetary-climates-in-the-Solar-System-as-a-basis-for-reflection-and-work-on-the-study-of-exoplanet-climates.pdf"/>
-    <published>2026-09-26T11:55:02+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Christ, M Izadyari, J Murray, S Bajpai, J Torres... - Protein Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As an emergent field stimulated by insights from the biological, chemical, physical, and quantum sciences, quantum biology explores how quantum phenomena such as superradiance, tunneling, and entanglement can be leveraged to enhance ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; P. Kurian (author alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.70759"/>
+    <published>2026-09-27T10:41:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#9</id>
-    <title>Food Fermentation: Bioaccessibility and Functionality of Xanthophylls and Dietary Fibre on Gut Modulation: An In Vitro Study Using Caco-2 Cells and a Robogut</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7670517336#2</id>
+    <title>W35. INVESTIGATING THE JOINT GENETIC ARCHITECTURE OF ANOREXIA NERVOSA, METABOLIC, AND ANTHROPOMETRIC TRAITS</title>
+    <updated>2026-09-27T10:41:03+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Michelle Luciano</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Sutharsan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... in fruits and vegetables, and (ii) assess the prebiotic potential of fermented vegetables modulating the gut microbiota through in vitro ... The prebiotic potential of the fermented kale and corn was evaluated in terms of their role in modulating the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://unsworks.unsw.edu.au/entities/publication/2873ac97-d598-442f-861c-ec7929a7137a"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Chowdhury, M Luciano, F Huntley, H Sharpe - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Anorexia nervosa (AN) is a severe condition characterised by restrictive eating patterns and low body mass index (BMI), with one of the highest mortality rates of psychiatric disorders. While traditionally low BMI has been considered a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michelle Luciano (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26003949"/>
+    <published>2026-09-27T10:41:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#8</id>
-    <title>The influence of ribose on borate mineral solubility</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7670517336#1</id>
+    <title>T82. A LATENT GENOMIC STRUCTURE FOR MULTIPLE PAINFUL CONDITIONS AND THEIR ASSOCIATION WITH FRAILTY</title>
+    <updated>2026-09-27T10:41:03+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Michelle Luciano</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LH Steller, DC Chauhan, MJ Van Kranendonk... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic synthesis of ribose is thought to have played a key role in origin - of - life scenarios based on the RNA world hypothesis. As ribose ... Prebiotic laboratory experiments exploring ribose-borate complexes, however, generally use high borate ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-70700-5_reference.pdf"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Andres, C Torsney, L Stirland, M Luciano - European Neuropsychopharmacology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Frailty, a state of vulnerability and increased risk of adverse outcomes, is often used as a marker for ill-health in older age. This syndrome has frequently been found in association with pain and a small number of genomic studies have shown a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michelle Luciano (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26005808"/>
+    <published>2026-09-27T10:41:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#7</id>
-    <title>How can RNAs form catalytic complexes with non-specific DNA cofactors for the origin of life ?</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7670517336#0</id>
+    <title>W83. READING, SPELLING, AND LANGUAGE PHENOTYPES IN GENERATION SCOTLAND: A RESOURCE FOR GENETIC DISCOVERY</title>
+    <updated>2026-09-27T10:41:03+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Michelle Luciano</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Frank&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction: The RNA world hypothesis proposes that RNAs once functioned as both genetic carriers and the first genomically encoded ... The results help to understand how the earliest catalysts could have tolerated sequence variation in a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://escholarship.org/uc/item/1kb6r0qk"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Mountford, H Whalley, R Marioni, M Luciano - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Successful acquisition of literacy skill is essential to child development and associated with positive socio-economic and wellbeing outcomes later in life. Research into communication skills has primarily focussed on early development ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michelle Luciano (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26004426"/>
+    <published>2026-09-27T10:41:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#6</id>
-    <title>Correction: Effects of Aspergillus oryzae prebiotic on ruminal fermentation and prokaryotic and fungal microbiotas</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767051727c#0</id>
+    <title>Super-Earth Interiors Shrink by About 10% as They Crystallise</title>
+    <updated>2026-09-27T10:41:05+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Lisa Dang</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Wang, F Bargo, I Ipharraguerre, TW Alexander... - Frontiers in Animal Science&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Correction on: Wang Y, Bargo F, Ipharraguerre I, Alexander TW, Waldner M and McAllister TA (2026) Effects of Aspergillus oryzae prebiotic on ruminal ... Aspergillus oryzae prebiotic , bacterial and fungal microbiota, methane production, Rumen ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/animal-science/articles/10.3389/fanim.2026.2003293/full"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Lichtenberg, M Attia, H Nicholls, M Sastre, DJ Bower... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Super-Earth exoplanets are among the most abundant planets known, yet their bulk densities leave the interior state degenerate. The static structure models used to interpret them, and the interior retrievals built on them, typically describe the cold ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lisa Dang (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.23091"/>
+    <published>2026-09-27T10:41:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#5</id>
-    <title>PREBIOTIC POTENTIAL OF BROWN SEAWEED POLYSACCHARIDES IN IN VITRO HINDGUT FERMENTATION MODELS OF FRESHWATER AND MARINE FISH</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76705171f3#0</id>
+    <title>Probing Exoplanetary Rings with Asterodensity Profiling: A PhotoRing Analysis of Kepler-51</title>
+    <updated>2026-09-27T10:41:06+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>David Kipping</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Ruiz, I Pafitis, MAJ Nederlof, F Kokou - Aquaculture, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Despite the proposed microbiota-mediated mechanism, comparative evidence of their direct prebiotic effects across freshwater and marine fish microbiomes remains scarce. Therefore, this study aimed to evaluate the prebiotic potential of laminarin ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://aquaeas.org/Program/PaperDetail/43540"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JI Zuluaga, S Numpaque, DM Kipping... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Kepler-51 system hosts transiting super-puff planets whose extremely low bulk densities challenge structural models, possibly because unresolved rings inflate their inferred radii. We test this hypothesis by combining asterodensity profiling with TTV ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.25234"/>
+    <published>2026-09-27T10:41:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#4</id>
-    <title>Early Hadean Earth conditions were ideal for prebiotic chemistry</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767051715d#2</id>
+    <title>T99. A META-ANALYSIS GWAS FOR MATHEMATICAL ABILITIES USING STANDARDISED EDUCATIONAL AND PSYCHOMETRIC MEASURES</title>
+    <updated>2026-09-27T10:41:07+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Simon E. Fisher</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Loth, J Bastias-Silva, C Antoine, D Ehrenreich...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The time at which surface conditions favorable for prebiotic chemistry were established on Earth remains debated. Following magma-ocean solidification, high atmospheric pressure modulated the release of water from Earth's primary crust ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://eartharxiv.org/repository/object/15138/download/26260/"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Paracchini, K Marianski, F Abbondanza, A Gialluisi... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Mathematical abilities (MA) are core skills presenting robust correlations with other cognitive traits, such as reading abilities. MA present substantial twin- based heritabilities (∼ 60%). The largest genome-wide association study (GWAS) so ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Simon E. Fisher (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26005973"/>
+    <published>2026-09-27T10:41:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#3</id>
-    <title>Effect of postnatal prebiotic fiber intake on obesity risk and insulin resistance in rat offspring exposed to a maternal obesogenic diet and low-dose aspartame</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767051715d#1</id>
+    <title>F103. SEX-STRATIFIED GENOME-WIDE ASSOCIATION STUDY OF WHITE MATTER MICROSTRUCTURE USING DIFFUSION TENSOR IMAGING IN THE UK ...</title>
+    <updated>2026-09-27T10:41:07+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Simon E. Fisher</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GAV Silva, EWN Tuplin, VM Kumar, MR Chow... - Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The objective of this study was to examine whether offspring postnatal prebiotic fiber (Pre) intake could mitigate metabolic risks associated ... a supportive role of prebiotic fiber for attenuating metabolic risk [17]. Similarly, postnatal intake of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S089990072600345X"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NR Mota, GAM Blokland, SI Thomopoulos, E Haddad... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Psychiatric conditions are often characterized by significant sex differences in prevalence and/or symptom patterns. While altered brain connectivity has been linked to neurodevelopment and psychiatric risk, the connectivity ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Simon E. Fisher (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X2600739X"/>
+    <published>2026-09-27T10:41:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#2</id>
-    <title>Niacinamide, Prebiotic , and Postbiotic Emollient Versus Urea 10% Cream for EGFR Inhibitor-Induced Xerosis and Pruritus: A Double-Blind Randomized Trial</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767051715d#0</id>
+    <title>11. A GWAS META-ANALYSIS OF MUSICAL ACHIEVEMENT AND PRACTICE IN∼ 100,000 INDIVIDUALS REVEALS SHARED GENETIC ARCHITECTURE WITH ...</title>
+    <updated>2026-09-27T10:41:07+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Simon E. Fisher</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DO Traini, G Palmisano, A Di Stefani, M Di Ciurcio... - Cosmetics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... When incorporated into topical formulations, selected prebiotic substrates may preferentially ... Oligosaccharides represent one of the most extensively investigated classes of topical prebiotic ... The prebiotic α-glucan oligosaccharide ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2079-9284/13/5/255"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Wesseldijk, P Xia, TR du Mérac, TL Henechowicz... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Mental health and musicality is a double-edged sword. Music has beneficial effects on emotional regulation, but psychiatric problems are prevalent in musicians and other creative individuals. We examined the link between musical and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Language, Numeracy, and Musicality, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Simon E. Fisher (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26002798"/>
+    <published>2026-09-27T10:41:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#1</id>
-    <title>Coffee-based matrices as sustainable resources with promising prebiotic and postbiotic properties for the probiotication of the emerging products</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76705170f9#0</id>
+    <title>Linguistic information may compensate for age-related decline in attentional filtering</title>
+    <updated>2026-09-27T10:41:08+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Jonas Obleser</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Sadeghi, F Maleki, M Ebrahimi, E Assadpour... - Future Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Coffee and coffee-derived matrices have attracted increasing attention as sustainable resources for the development of next-generation functional foods because they combine abundant bioactive compounds with opportunities for the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2666833526002959"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AV Barchet, A Bruera, JM Rimmele, J Obleser... - Communications Biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As we age, understanding speech in social situations imposes an increasingly difficult challenge to the auditory system. However, the attentional mechanisms underlying age-related speech comprehension difficulties in multitalker situations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jonas Obleser (author alert)</content>
+    <link href="https://www.nature.com/articles/s42003-026-10999-y"/>
+    <published>2026-09-27T10:41:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671e1001f#0</id>
-    <title>A Hadean timeline for the emergence of the RNA World</title>
-    <updated>2026-09-26T11:55:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7670516fda#0</id>
+    <title>The case for extant life on Mars: A Technical Reanalysis of the Viking Carbon Assimilation–Pyrolytic Release Experiment</title>
+    <updated>2026-09-27T10:41:11+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Steven A. Benner</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Abramov, A Medvegy, B Kremer, SJ Mojzsis - Nature Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Here, we conclude that a proposed early stage of life – the RNA World – appeared at ca. 4.33 Ga by tracking the near-surface thermal stability ... for the RNA World that dovetails with the emergence of the Last Universal Common Ancestor (LUCA) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41467-026-76978-3"/>
-    <published>2026-09-26T11:55:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Spacek, CA Abraham, SA Benner&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The 1976 Viking Carbon Assimilation–Pyrolytic Release (CAPyR) experiment operationally tested whether carbon supplied as 14 CO 2 and 14 CO would, during a 120-hour incubation, enter Martian soil in a form where radiolabel ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Steven A. Benner (author alert)</content>
+    <link href="https://primordialscoop.org/2026/09/15/capyr/"/>
+    <published>2026-09-27T10:41:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671fb7084#4</id>
-    <title>Unraveling the Emergence of Slow Dynamics in U (1) Lattice Gauge Theories</title>
-    <updated>2026-09-26T12:53:20+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7670514d0c#0</id>
+    <title>Super-Earth Interiors Shrink by About 10% as They Crystallise</title>
+    <updated>2026-09-27T10:42:38+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Tim Lichtenberg</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Andreoni, Z Lenarčič, Z Bacciconi, A Scardicchio... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... To gain further insight into the emergence of the nonthermal dynamics, we first fix R = 6, which, as discussed above, corresponds to a weakly deformed version of the unconstrained, integrable XX model (R = ∞). In Fig. 2(b), we plot the dynamics of Od(t) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.26599"/>
-    <published>2026-09-26T12:53:20+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Lichtenberg, M Attia, H Nicholls, M Sastre, DJ Bower... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Super-Earth exoplanets are among the most abundant planets known, yet their bulk densities leave the interior state degenerate. The static structure models used to interpret them, and the interior retrievals built on them, typically describe the cold ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tim Lichtenberg (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.23091"/>
+    <published>2026-09-27T10:42:38+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671fb7084#3</id>
-    <title>Current Sheet Fragmentation in the Course of Repeated Eruptive Magnetic Flux Emergence</title>
-    <updated>2026-09-26T12:53:20+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#9</id>
+    <title>T104. GENETIC AND CELLULAR DETERMINANTS OF HUMAN BRAIN STRUCTURE</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Varun Warrier</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Karantanis, L Vlahos, H Isliker, A Giannis... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We use three-dimensional resistive-MHD simulations of eruptive flux emergence to investigate ... These results demonstrate that eruptive flux emergence can selfconsistently transform a ... INTRODUCTION The emergence of magnetic flux is among the most ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.25480"/>
-    <published>2026-09-26T12:53:20+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Gu, A Ebneabassi, Y He, C Pecci-Terroba... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Alterations in brain structure are thought to underlie psychiatric and neurodevelopmental conditions. The structure of the brain, measured using structural and diffusion MRI, is heritable, with numerous genetic variants identified. However ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26006024"/>
+    <published>2026-09-27T10:42:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671fb7084#2</id>
-    <title>Evidence for the emergence of stellar magnetic fields during rapid mass transfer</title>
-    <updated>2026-09-26T12:53:20+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#8</id>
+    <title>F98. RE-EXAMINING THE GENETICS OF SEX DIFFERENCES IN AUTISM AND AUTISTIC TRAITS: CLINICAL AND GENERAL POPULATIONS</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Varun Warrier</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GA Wade, T Shenar, P Marchant, M Abdul-Masih... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Binary interaction fundamentally alters the evolution of massive stars, yet the physical consequences of mass transfer remain poorly constrained. Here we present high-resolution spectroscopic observations of Plaskett's Star (HD 47129) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.25526"/>
-    <published>2026-09-26T12:53:20+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Alhadeff, L Perry, X Zhang, Q Ma, R Ghamari, Y Gu... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Autism is more commonly diagnosed in males, but the sex difference attenuates with increasing age at diagnosis (AaD) and with the presence of intellectual disability. One explanation for the striking sex ratio is that autistic females ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26007340"/>
+    <published>2026-09-27T10:42:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671fb7084#1</id>
-    <title>Gravity-driven Emergence of Multi-fractal Density Structure in the Orion A Integral Shaped Filament</title>
-    <updated>2026-09-26T12:53:20+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#7</id>
+    <title>W93. POTENTIAL AXES OF HETEROGENEITY IN AUTISM</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Varun Warrier</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Zhao, GX Li, K Qiu, G Zeng -arXivpreprintarXiv:2609.24319, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Molecular clouds are often described as self-similar structures, although spatially averaged measures do not retain local variations in density scaling. We use the density exponent $\kappa_\rho$ ($\rho \propto r^{\kappa_\rho}$) to characterize the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.24319"/>
-    <published>2026-09-26T12:53:20+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Ma, X Zhang, A Alhadeff, J Grove, A Børglum... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Heterogeneity in autism is widely acknowledged. Recent work has identified age at diagnosis (AaD) as an important axis of heterogeneity. It is unclear whether additional axes of heterogeneity exist (for example, sex, co-occurring ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26004529"/>
+    <published>2026-09-27T10:42:46+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7671fb7084#0</id>
-    <title>Behavior is Not Enough: A Mechanism-Based Evaluation of Social Norm Emergence in LLM Societies</title>
-    <updated>2026-09-26T12:53:20+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#6</id>
+    <title>T26. ASSOCIATIONS OF 1,910 GENETICALLY PREDICTED PLASMA PROTEIN LEVELS ACROSS MULTIPLE PSYCHIATRIC DISORDERS AND TREATMENT ...</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Varun Warrier</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Muralidharan, H Kwak, J An -arXivpreprintarXiv:2609.26481, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Through our simulations, we show that norm emergence in LLM multi-agent systems is diagnostically richer than behavioral convergence alone. Our results show that similar cooperative outcomes can rest on different combinations of shared ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.26481"/>
-    <published>2026-09-26T12:53:20+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Noordeen, B Chidiac, K Zhang, V Zhao, V Warrier... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Altered plasma protein levels are increasingly associated with psychiatric disorders, however, distinguishing true causal relationships from confounding associations remains a major challenge in understanding illness onset ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26005249"/>
+    <published>2026-09-27T10:42:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#5</id>
+    <title>THE SHARED GENETICS BETWEEN BRAIN STRUCTURE AND PSYCHIATRIC DISORDERS: FROM GWAS TO DEVELOPMENTAL MECHANISMS</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
+    <author>
+      <name>Varun Warrier</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y He, A Ebneabassi, Y Gu, C Riegis, B Pearson... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Structural brain abnormalities at both macro-and micro-scale are highly heritable and have been commonly observed in neuropsychiatric conditions, and theorised to be endophenotypes. However, it is unclear to what extent they are attributable to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26002191"/>
+    <published>2026-09-27T10:42:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#4</id>
+    <title>W94. POLYGENIC ARCHITECTURE OF ATTENTION-DEFICIT/HYPERACTIVITY DISORDER TRAITS IN ADULTS AND LINKS TO CLINICAL DIAGNOSES</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
+    <author>
+      <name>Varun Warrier</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Peroche, L Perry, A Alhadeff, D Boomsma... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Attention-deficit/hyperactivity disorder (ADHD) traits can be measured quantitatively in population cohorts, but their genetic relationship with clinical ADHD diagnosis may vary based on age. Child ADHD traits show substantial genetic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26004530"/>
+    <published>2026-09-27T10:42:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#3</id>
+    <title>F93. CODING VARIANTS AND NEURODEVELOPMENTAL TRAITS ACROSS THE LIFESPAN: GENE-BASED AND SINGLE-VARIANT EVIDENCE FROM BIRTH AND ...</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
+    <author>
+      <name>Varun Warrier</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Ghamari, O Wootton, K Walter, L Perry... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Neurodevelopmental conditions like Attention-Deficit/Hyperactivity Disorder (ADHD) and autism may be the extreme ends of dimensions of traits in the general population. Although the impact of rare genetic variants in those with a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26007297"/>
+    <published>2026-09-27T10:42:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#2</id>
+    <title>LEVERAGING NEUROIMAGING AND PSYCHIATRIC GENETICS FOR ASSOCIATIONS, CAUSAL RELATIONSHIPS, MECHANISMS, AND CLINICAL INSIGHTS</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
+    <author>
+      <name>Varun Warrier</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S O'Connell, N Parker, V Warrier - European Neuropsychopharmacology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Overall Abstract Neuroimaging facilitates minimally-invasive measurement of various brain tissues at the structural and functional levels. In recent years, identifying neuroimaging correlates of psychiatric conditions has become a major research ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26002178"/>
+    <published>2026-09-27T10:42:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#1</id>
+    <title>T28. TIMING OF AUTISM DIAGNOSIS AND CO-OCCURRING MENTAL HEALTH CONDITIONS: EVIDENCE FROM POPULATION-AND FAMILY-BASED COHORTS</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
+    <author>
+      <name>Varun Warrier</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Zhang, S Neufeld, E Weir, J Grove, A Børglum... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Initial studies suggest autistic individuals diagnosed later have elevated rates of mental health conditions and differ genetically from those diagnosed earlier. Yet it remains unclear whether this reflects shared family environmental or genetic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26005262"/>
+    <published>2026-09-27T10:42:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767051491c#0</id>
+    <title>W87. GWAS OF AUTISTIC TRAITS AND THEIR RELATIONSHIP WITH CLINICAL PHENOTYPES</title>
+    <updated>2026-09-27T10:42:46+00:00</updated>
+    <author>
+      <name>Varun Warrier</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Perry, R Ghamari, A Alhadeff, Q Ma, Y Gu, H Martin... - European ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background Traits associated with autism-spectrum conditions have been found to display a continuous distribution within the general population, rather than being specific to clinical populations. This raises the possibility that autistic traits and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924977X26004463"/>
+    <published>2026-09-27T10:42:46+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76705143f3#0</id>
+    <title>NGTS clusters survey-VII. An Enigmatic Short-Period Circumsecondary Disk Candidate in Orion</title>
+    <updated>2026-09-27T10:42:58+00:00</updated>
+    <author>
+      <name>Elsa Ducrot</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Mallaghan, EJW de Mooij, CA Watson, E Gillen... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Young stellar systems provide key insights into the processes governing star/planet formation, often exhibiting complex and evolving photometric variability. In this paper, we present an analysis of the object around NOI 105872, observed by the Next ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Elsa Ducrot (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.26447"/>
+    <published>2026-09-27T10:42:58+00:00</published>
   </entry>
 </feed>
