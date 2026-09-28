@@ -2,140 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-27T17:57:42.646351+00:00</updated>
+  <updated>2026-09-28T13:02:30.340710+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767066fd47#0</id>
-    <title>A hybrid Maxwell solver for nanophotonics simulations</title>
-    <updated>2026-09-27T13:48:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767081db1b#0</id>
+    <title>Scientific mobility, prestige and topic alignment in research institutions</title>
+    <updated>2026-09-27T18:40:53+00:00</updated>
     <author>
-      <name>Ulrich Hohenester</name>
+      <name>Stefan Thurner</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Huber, U Hohenester - Computer Physics Communications, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent years have seen a reawakened interest in simplified solution schemes for nanophotonic scatterers, as they allow for significantly faster and more efficient simulations of nanoparticle clusters and arrays when compared to full Maxwell ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Ulrich Hohenester (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0010465526004030"/>
-    <published>2026-09-27T13:48:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MR Ferreira, R Costas, VDP Servedio, S Thurner - Scientometrics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Research institutions are crucial in driving intellectual, social, and technological progress. Their ability to innovate depends mainly on their ability to attract, retain, and nurture scientific talent, ultimately making it available to other organizations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s11192-026-05815-7"/>
+    <published>2026-09-27T18:40:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2c2a#0</id>
-    <title>c© Copyright 2018 Matthew Alan Tilley</title>
-    <updated>2026-09-27T17:10:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767081db0d#1</id>
+    <title>Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence</title>
+    <updated>2026-09-27T18:40:53+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MA Tilley, EM Harnett, RM Winglee, V Meadows&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... model by implementing a full treatment of pressure anisotropy at Saturn , with a focus on ... Titan , and the predicted density alterations could have effect on observations for Saturn -like ... of an icy moon can drive the formation of organic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/608fb91c-b813-4ce4-a0cf-5f37c494f12c/content"/>
-    <published>2026-09-27T17:10:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Wang -arXivpreprintarXiv:2609.27664, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cooperation emergence is a central problem in multi-agent systems because decentralized agents must coordinate while adapting to the changing behavior of others. Evolutionary game theory identifies strategically stable outcomes, but ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.27664"/>
+    <published>2026-09-27T18:40:53+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#9</id>
-    <title>Studies of Model Proto-Nucleotide Assembly and Oligomerization</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767081db0d#0</id>
+    <title>Two Global Crops Suffice: Locating Semantic Emergence in DINO-Style Self-Supervised Learning</title>
+    <updated>2026-09-27T18:40:53+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BN Lindgren&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... While the RNA World is an attractive model—creating a clear target for prebiotic synthesis and providing the most direct route from prebiotic ... In response to these issues associated with the RNA world , our laboratory has pursued the synthesis of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://repository.gatech.edu/bitstreams/398f3a2a-1a88-4559-91e3-ec888852bad3/download"/>
-    <published>2026-09-27T17:10:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#8</id>
-    <title>Soluble prebiotic fiber and glucono-δ-lactone blends integrate compatible effects to modulate microbiota composition and metabolism ex vivo</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Truffin, C PERREAU, LJ Sánchez, J Heyse, A Baudot... - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction: Prebiotics modulate the gut microbiome toward health-associated states. Because distinct candidate prebiotic compounds selectively stimulate microbial taxa and metabolic pathways, combining complementary ingredients may broaden or ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1923298/full"/>
-    <published>2026-09-27T17:10:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#7</id>
-    <title>Fractal Colonization of Prebiotic Niches: Mechanical Budding of Nano-vesicles and Kinetic Resource Depletion as an Oncological Atavism</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Mikuláš&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Periodic mechanical forcing of the early Earth, from lunar tides (period of about 10 h) and radiogenic geysers (about 15 min) to von Kármán vortex shedding (about 1 s), may have loaded fatty-acid protocell membranes on time scales comparable to their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009389"/>
-    <published>2026-09-27T17:10:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#6</id>
-    <title>Association of Prebiotic Fiber Intake with Colorectal Cancer Risk in an Italian Case-Control Study</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Natale, F Fiori, M Parpinel, F Turati, C La Vecchia... - ... , Biostatistics, and Public ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiotic fibers are a subgroup of dietary fibers defined as non-digestible compounds selectively utilized by the gut microbiota, potentially ... specific prebiotic fibers and CRC risk remain limited. OBJECTIVESTo investigate the association ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://riviste.unimi.it/index.php/ebph/article/view/32070"/>
-    <published>2026-09-27T17:10:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#5</id>
-    <title>Development and Evaluation of Prebiotic -Enriched Instant Dosa Mix: Acceptability, Physical Characteristics and Storage Stability</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Moulika, JS Puskuri, T Kamalaja, VK Kiran - Journal of Advances in Biology &amp; ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prebiotic -enriched instant foods offer a promising approach to improve dietary fibre intake while providing convenient and acceptable alternatives to traditional fermented products. The present study was undertaken to standardise a prebiotic -enriched ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://hal.science/hal-05760067/"/>
-    <published>2026-09-27T17:10:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#4</id>
-    <title>Prebiotic -like and antioxidant activities of Aesculus hippocastanum L. ethanolic extract: Effects on probiotic lactobacilli and lipid peroxidation</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Asatryan, M Alkhazyan, H Karayan, M Sahradyan... - Bioactive Compounds in ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... compatibility with selected probiotic lactobacilli, and prebiotic -like growth-supporting effects, ... Novelty: The novelty of this study lies in demonstrating the prebiotic -like activity of horse ... These findings are described as prebiotic -like activity rather than ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ffhdj.com/index.php/BioactiveCompounds/article/view/2101"/>
-    <published>2026-09-27T17:10:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#3</id>
-    <title>Polysaccharides Extracted from Morchella Esculenta: Cholesterol and Bile Salt Binding Capacities, Pancreatic Lipase Inhibition Mechanisms and Prebiotic Properties</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Zhang, X Zhang, X Zhang, Y Cui, X Zhang, T Li - Food Biophysics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Currently, although the potential prebiotic properties of polysaccharides are widely reported, not all polysaccharides exhibit the same prebiotic effects. MEP‑1, as the ... Our findings provide a theoretical foundation for the development of MEP‑1 as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s11483-026-10224-7"/>
-    <published>2026-09-27T17:10:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#2</id>
-    <title>A Novel GH26 β-Mannanase from Bacillus subtilis HM7 Producing Manno-Oligosaccharides with Strain-Specific Prebiotic Activity</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Chumnankul, N Apaphant, N Tribamrung... - Applied Biochemistry and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Mannan-oligosaccharide (MOS) produced from the hydrolysis of mannan by β-mannanase, demonstrate several beneficial properties, such as prebiotic and modulation of tight junction activity. In this study, two novel GH26 β-mannanases, MAN26HM7/A and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s12010-026-05934-0"/>
-    <published>2026-09-27T17:10:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#1</id>
-    <title>... ) by Natural Deep Eutectic Solvents Coupled with Ultrasound and Enzyme and Ultrasound-Assisted Interaction of EPPs/Oak Protein Isolate as a Potential Prebiotic</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Hemati-Farsani, S Soleimanian-Zad, S Ahmadi - Food and Bioprocess Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The EPP/OPI complex derived from 450-W ultrasound exhibited enhanced rheological, thermal, and prebiotic properties, establishing 450 ... crystalline state (XRD), and prebiotic potential of these interactions for L. plantarum PTCC 1896 and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s11947-026-04560-2"/>
-    <published>2026-09-27T17:10:43+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76708a2bb4#0</id>
-    <title>Microbial transformation and cordycepin co-administration enhanced incretin-related and prebiotic potentials of galactomannans from two herbs</title>
-    <updated>2026-09-27T17:10:43+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CY Lu, FH Yang, WY Hsieh, CH Chao, HK Liu, MK Lu... - International Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Regulation of gut microbiota composition by polysaccharides has been regarded as a potential therapeutic strategy. Accordingly, to evaluate the interaction between a specific type of polysaccharides (galactomannans) and intestinal bacteria and their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0141813026045617"/>
-    <published>2026-09-27T17:10:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Sunagad, A Jesslen, A Kortylewski -arXivpreprintarXiv:2609.28187, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Self-supervised vision transformers trained with DINO-style objectives exhibit striking emergent semantic representation quality across visual tasks, yet the mechanisms underlying this behavior remain unclear. We present a systematic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/abs/2609.28187"/>
+    <published>2026-09-27T18:40:53+00:00</published>
   </entry>
 </feed>
