@@ -2,41 +2,272 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-09-28T13:02:30.340710+00:00</updated>
+  <updated>2026-09-29T12:13:09.701978+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767081db1b#0</id>
+    <id>http://www.inoreader.com/article/3a9c6e76773012a6#0</id>
+    <title>Tracing magnetic flux rope footpoints in AR 12975 with coronal dimmings and data-driven magnetofrictional simulations</title>
+    <updated>2026-09-28T20:18:33+00:00</updated>
+    <author>
+      <name>Astrid Veronig</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Wagner, A Razquin, AM Veronig, EKJ Kilpua... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Coronal mass ejections (CMEs) are driven by the eruption of magnetic flux ropes (MFRs) whose footpoints are often observed indirectly as coronal dimming regions. However, the relationship between observed dimmings and true MFR footpoint ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://arxiv.org/abs/2609.27521"/>
+    <published>2026-09-28T20:18:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76774a8c62#0</id>
+    <title>PotARCin: Multi-Dimensional Evaluation of Skill Acquisition in Abstract Reasoning Tasks</title>
+    <updated>2026-09-28T21:07:41+00:00</updated>
+    <author>
+      <name>Melanie Mitchell</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Beger, R Yi, M Mitchell - arXiv preprint arXiv:2609.27288, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Abstraction and Reasoning Corpus (ARC) has become a prominent benchmark for evaluating general abstract reasoning and fluid intelligence in AI models. Yet standard ARC evaluation considers only a single capability: producing the correct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Melanie Mitchell (author alert)</content>
+    <link href="https://arxiv.org/abs/2609.27288"/>
+    <published>2026-09-28T21:07:41+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76774a8b83#0</id>
+    <title>Can Depression Polygenic Risk Score Predict Postinfective Fatigue Syndrome (PIFS) in the Dubbo Infection Outcomes Study (DIOS)?</title>
+    <updated>2026-09-28T21:07:42+00:00</updated>
+    <author>
+      <name>Nick Martin</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AG Ruseva, BM Valencia, SD Gordon, A Lloyd... - ... genetics: the official journal of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prospective cohorts show that a postinfective fatigue syndrome (PIFS) meeting criteria for chronic fatigue syndrome (CFS) develops in roughly 1 in 10 people after diverse acute infections, independent of the triggering pathogen. Whether ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42773889/"/>
+    <published>2026-09-28T21:07:42+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76774a8b78#0</id>
+    <title>Minimal representations of topology-preserving quantum-like states</title>
+    <updated>2026-09-28T21:07:43+00:00</updated>
+    <author>
+      <name>Gregory Scholes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Horvat, D Saha, N Gigena, P Narang, GD Scholes - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We provide an equitable partition that gives an exact, minimal representation for the graph Cartesian product formed from quantum-like bits that preserves the relevant spectral and topological properties. We show that this result follows from the fact that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.27318"/>
+    <published>2026-09-28T21:07:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76774a8ab7#0</id>
+    <title>Reference genomes and fossils revise bat family phylogeny and biogeography</title>
+    <updated>2026-09-28T21:07:44+00:00</updated>
+    <author>
+      <name>Constance Scharff</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AE Morales, Y Liang, WR Thomas, EV Leushkin... - Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Bats are extraordinary among mammals, having uniquely evolved powered flight and laryngeal echolocation, along with disease resistance, extended healthspans and the ability to hibernate. However, the evolutionary history of bats and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Constance Scharff (author alert)</content>
+    <link href="https://www.nature.com/articles/s41586-026-11007-3"/>
+    <published>2026-09-28T21:07:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76774a895e#0</id>
+    <title>GEMS JWST</title>
+    <updated>2026-09-28T21:07:48+00:00</updated>
+    <author>
+      <name>Jacob Lustig-Yaeger</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kanodia, CI Cañas, J Lustig-Yaeger, GG Caloca... - Astrophysical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The growing sample of giant exoplanets around M dwarf stars (GEMS) helps probe the extremes of giant planet formation. Comparing the properties of this sample with their FGK counterparts can help us understand how planet formation and migration ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
+    <link href="https://dare.uva.nl/id/86b81feb-807e-4c36-9146-20cd8153c247"/>
+    <published>2026-09-28T21:07:48+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76774a88c3#0</id>
     <title>Scientific mobility, prestige and topic alignment in research institutions</title>
-    <updated>2026-09-27T18:40:53+00:00</updated>
+    <updated>2026-09-28T21:07:49+00:00</updated>
     <author>
-      <name>Stefan Thurner</name>
+      <name>Vito DP Servedio</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MR Ferreira, R Costas, VDP Servedio, S Thurner - Scientometrics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Research institutions are crucial in driving intellectual, social, and technological progress. Their ability to innovate depends mainly on their ability to attract, retain, and nurture scientific talent, ultimately making it available to other organizations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MR Ferreira, R Costas, VDP Servedio, S Thurner - Scientometrics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Research institutions are crucial in driving intellectual, social, and technological progress. Their ability to innovate depends mainly on their ability to attract, retain, and nurture scientific talent, ultimately making it available to other organizations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Vito DP Servedio (author alert)</content>
     <link href="https://link.springer.com/article/10.1007/s11192-026-05815-7"/>
-    <published>2026-09-27T18:40:53+00:00</published>
+    <published>2026-09-28T21:07:49+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767081db0d#1</id>
-    <title>Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence</title>
-    <updated>2026-09-27T18:40:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76774a8875#0</id>
+    <title>Reference genomes and fossils revise bat family phylogeny and biogeography</title>
+    <updated>2026-09-28T21:07:50+00:00</updated>
+    <author>
+      <name>Sonja Vernes</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AE Morales, Y Liang, WR Thomas, EV Leushkin... - Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Bats are extraordinary among mammals, having uniquely evolved powered flight and laryngeal echolocation, along with disease resistance, extended healthspans and the ability to hibernate. However, the evolutionary history of bats and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sonja Vernes (author alert)</content>
+    <link href="https://www.nature.com/articles/s41586-026-11007-3"/>
+    <published>2026-09-28T21:07:50+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76774a87f6#1</id>
+    <title>First Pre-peak Ultraviolet Spectrum of a Tidal Disruption Event: A Fast Outflow Revealed Prior to Maximum Light in TDE2025aarm</title>
+    <updated>2026-09-28T21:07:51+00:00</updated>
+    <author>
+      <name>Adam J. Burgasser</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Hammerstein, R Chornock, J Somalwar, R Margutti... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The tidal disruption and eventual accretion of a star by a massive black hole can lead to the launching of outflows and winds that encode important information about the tidal disruption and accretion processes. However, little is known about the existence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/abs/2609.28460"/>
+    <published>2026-09-28T21:07:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76774a87f6#0</id>
+    <title>JWST Observations of the Metal-poor T Dwarf WISEA J155349. 96+ 693355.2: The First Brown Dwarf Associated with the Gaia-Enceladus Milky Way Substructure</title>
+    <updated>2026-09-28T21:07:51+00:00</updated>
+    <author>
+      <name>Adam J. Burgasser</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AM Meisner, AJ Burgasser, CC Hsu, SA Merchan... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present JWST NIRSpec and MIRI observations of the metal-poor T dwarf WISEA J155349. 96+ 693355.2. The combined NIRSpec/prism plus MIRI/LRS spectrum (R~ 100) provides 0.6-12$\mu $ m spectroscopic coverage that reveals the presence of H ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
+    <link href="https://arxiv.org/abs/2609.29365"/>
+    <published>2026-09-28T21:07:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76774a8773#0</id>
+    <title>Reference genomes and fossils revise bat family phylogeny and biogeography</title>
+    <updated>2026-09-28T21:07:53+00:00</updated>
+    <author>
+      <name>Erich Jarvis</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AE Morales, Y Liang, WR Thomas, EV Leushkin... - Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Bats are extraordinary among mammals, having uniquely evolved powered flight and laryngeal echolocation, along with disease resistance, extended healthspans and the ability to hibernate. However, the evolutionary history of bats and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
+    <link href="https://www.nature.com/articles/s41586-026-11007-3"/>
+    <published>2026-09-28T21:07:53+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778dbab9#0</id>
+    <title>Knowing Many More Worlds: The Epistemology and Methodology of Exoplanet and Planet Science</title>
+    <updated>2026-09-29T08:17:17+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Yao&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This concerns the emergence and survival of Earthly or other life forms. The study of habitability involves determining what constitutes the ... (about 2-10 Earth-mass), mini-Neptunes (less massive than Neptune but with a similar atmosphere), Neptune -like ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/YAOKMM"/>
+    <published>2026-09-29T08:17:17+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#9</id>
+    <title>A critical approach to probiotic effectiveness and technological challenges when incorporated as viable or nonviable (postbiotic)</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Misra, SB Murmu, A Pradhan, P Sivamma... - Evaluating Oral Probiotics ..., 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The chapter discusses about the importance of probiotic, prebiotic , and synbiotic products alongwith the solutions to technical challenges ... Its benefits are: providing better physical structure to probiotics, improving the survivability of probiotics by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443298356000034"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#8</id>
+    <title>The economy of prebiotics in drugs, supplements, and foods, and the future trend</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Keyvan, E Şen, N Keyvan, M Goncuoglu - Evaluating Oral Probiotics and Prebiotics, 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The global prebiotic market is experiencing rapid growth due to increasing awareness of gut health and the rising demand for functional foods. Prebiotics, nondigestible compounds that stimulate beneficial gut microorganisms, are driving ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443298356000186"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#7</id>
+    <title>Prebiotics in Food Fermentation and Bioprocessing: Advances and Applications</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Dash, S Dutta, P Dash, J Halder, C Das, G Ghosh... - Current pharmaceutical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review summarizes recent developments in prebiotic production and application, with emphasis on biotechnological approaches such as microbial fermentation, enzymatic synthesis, and strain improvement techniques, based on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42786825/"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#6</id>
+    <title>Role of exopolysaccharides as prebiotics in health-promoting nutraceutical formulation development</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Khatun, S Chatterjee, M Tudu, S Garai, PK Shit... - Microbial ..., 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It also highlights the mechanism of action by which EPS displays prebiotic activities, which include fermentation by gut microbiota and the ... The most recent studies are further integrated, taking into consideration EPS as a prebiotic to convey ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B978044336619200005X"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#5</id>
+    <title>Incorporation of prebiotics in medicine, supplement, and food product: health effectiveness, technological challenges, consumer perspectives, and future trends</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Jafari, E Karimzadeh-Soureshjani... - Evaluating Oral Probiotics ..., 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prebiotics represent a transformative class of functional ingredients that selectively stimulate beneficial gut microorganisms, offering significant advantages over traditional probiotics in industrial applications. This chapter provides a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443298356000046"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#4</id>
+    <title>Development of a synbiotic system using biofilm-derived prebiotics and biofilm-assisted polymeric encapsulation</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Zhao&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... and bioactive extracellular matrices that can be further exploited for prebiotic and encapsulation applications. The specific aims were to ... Its prebiotic potential was confirmed by its ability to promote the growth of probiotic species such as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://dr.ntu.edu.sg/entities/publication/f64e7080-77ac-4b01-b19e-3c645d3e5851"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#3</id>
+    <title>The health effectiveness, technological challenges, and market of synbiotic solutions over self probiotic or self prebiotic approaches</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Afzaal, F Saeed, R Gulzar, A Raza, H Abdullah... - Evaluating Oral Probiotics ..., 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Symbiosis is an association between two distinct living organisms that coexist and benefit one another in equal measure. The gastrointestinal tract of a healthy individual maintains a synbiotic relationship with the gastrointestinal microbiome ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443298356000022"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#2</id>
+    <title>Critical approach on effectiveness of prebiotic against probiotic in enhancing and promoting the native probiotic microflora in human body</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RM Althnaibat, M Alu'datt, D Alhaddad - Evaluating Oral Probiotics and Prebiotics, 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The native probiotic microflora in the human body is an important section in human health and digestion process. In the last decades, the microflora in the gastrointestinal tract has gained a lot of attention from researchers and scientists ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B978044329835600006X"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#1</id>
+    <title>Probiotic, prebiotic , and synbiotic product development: principles, challenges, market, and trends</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Homayouni-Rad, N Hosseinzadeh, SK Moghadam... - Evaluating Oral Probiotics ..., 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This chapter reviews the advancements in probiotic, prebiotic , and synbiotic products driven by the growing interest in gut health. We outline the formulation principles and mechanisms of health benefits, while addressing challenges such as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443298356000162"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76778db926#0</id>
+    <title>Regulations associated with the industrial prebiotic products: drugs, supplements, and food products</title>
+    <updated>2026-09-29T08:17:20+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SM Aravind, S Chakkaravarthi - Evaluating Oral Probiotics and Prebiotics, 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... and specifications governing prebiotic items in the leading markets of the US, EU, and Asia-Pacific. Prebiotic classification, allowable ... to guarantee compliance and expedite market access for pioneering prebiotic products. Recommendations to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443298356000204"/>
+    <published>2026-09-29T08:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e767782e559#1</id>
+    <title>Emergence of Horndeski gravity from asymptotic safety?</title>
+    <updated>2026-09-29T08:36:57+00:00</updated>
     <author>
       <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Wang -arXivpreprintarXiv:2609.27664, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cooperation emergence is a central problem in multi-agent systems because decentralized agents must coordinate while adapting to the changing behavior of others. Evolutionary game theory identifies strategically stable outcomes, but ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2609.27664"/>
-    <published>2026-09-27T18:40:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Eichhorn, PGS Fernandes, F Willaschek -arXivpreprintarXiv:2609.29369, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; There are strong motivations to modify gravity in the ultraviolet as well as the infrared. Such modifications are usually pursued independently from one another. Using the predictive power of asymptotically safe quantum gravity, we can constrain the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.29369"/>
+    <published>2026-09-29T08:36:57+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e767081db0d#0</id>
-    <title>Two Global Crops Suffice: Locating Semantic Emergence in DINO-Style Self-Supervised Learning</title>
-    <updated>2026-09-27T18:40:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e767782e559#0</id>
+    <title>Emergence of Chiral Dynamical Multiferroicity in a Ferroelectric Lattice Nonadiabatically Driven by Ultrafast Achiral Electric Fields</title>
+    <updated>2026-09-29T08:36:57+00:00</updated>
     <author>
       <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Sunagad, A Jesslen, A Kortylewski -arXivpreprintarXiv:2609.28187, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Self-supervised vision transformers trained with DINO-style objectives exhibit striking emergent semantic representation quality across visual tasks, yet the mechanisms underlying this behavior remain unclear. We present a systematic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/abs/2609.28187"/>
-    <published>2026-09-27T18:40:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Zhang, Z Ding, P Cui, Z Zhang -arXivpreprintarXiv:2609.27592, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; It has been shown recently that chiral dynamical multiferroicity can be generated on a ferroelectric lattice whose electric dipoles respond masslessly under chiral optical pumping. Here we demonstrate that, when driven by ultrafast electric pulses, chiral ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.27592"/>
+    <published>2026-09-29T08:36:57+00:00</published>
   </entry>
 </feed>
