@@ -2,107 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-04T11:50:50.557811+00:00</updated>
+  <updated>2026-10-04T17:53:31.097564+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7674cb7b96#0</id>
-    <title>Shared circuits predict whether LLMs generalize across formats in arithmetic reasoning</title>
-    <updated>2026-10-04T06:30:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#9</id>
+    <title>High-energy astrochemistry: Unifying cosmic-ray and X-ray chemistry</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
     <author>
-      <name>Evelina (Ev) Fedorenko</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Gregor de Varda, S Pandey, P Han, J Andreas... - arXiv e-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In many forms of reasoning, including arithmetic reasoning, generalizing across superficial changes in input format is effortless for humans: anyone who can solve 2+ 5 can also solve'two plus five'. In contrast, LLMs are more brittle to surface variations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Evelina (Ev) Fedorenko (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260904463G/abstract"/>
-    <published>2026-10-04T06:30:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Gaches, S Viti - 46th COSPAR Scientific Assembly. Held 1-9 August, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... I will also review observational and laboratory studies that have demonstrated that low-energy electrons produced by high-energy radiation processes simple ice mixtures to form complex organics and prebiotic molecules. During the talk, I will ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026cosp...46.2605G/abstract"/>
+    <published>2026-10-04T12:55:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7674cb7b24#2</id>
-    <title>Parallel algebraic surgery for qLDPC codes with constant shuttling depth</title>
-    <updated>2026-10-04T06:30:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#8</id>
+    <title>In Vitro Digestion and Fermentation Characteristics of Cordyceps militaris Mycelial Polysaccharide and Its Regulatory Effects on the Intestinal Environment</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TG Zhou, B Gu, J Eisert, C Zhao - arXiv preprint arXiv:2609.39874, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Reconfigurable atom arrays provide a promising platform for high-rate quantum low- density parity-check codes, but their computational advantage depends on whether logical operations can be implemented without incurring prohibitive shuttling and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.39874"/>
-    <published>2026-10-04T06:30:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NY Wang, XY Bi, ZG Yang, GL Dou, SH Li, SR Lu... - Journal of food science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cordyceps militaris mycelial polysaccharides (IPS) possess diverse metabolic and bioactive properties, yet existing studies on their gastrointestinal digestion and prebiotic potential remain scarce. This study aims to investigate the changes of IPS ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42817792/"/>
+    <published>2026-10-04T12:55:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7674cb7b24#1</id>
-    <title>Testing quantum Gaussianity with constant sample complexity</title>
-    <updated>2026-10-04T06:30:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#7</id>
+    <title>Planetary eccentricity enhances inward comet transport but suppresses gentle impacts</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MY Rad, R Puig, S Hassanandani, L Coffman, J Eisert... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Efficiently testing whether a quantum state possesses a given structure is both a fundamental and a practical task in quantum information. Among the most important structured families are Gaussian states, which underpin quantum optics and many ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.40270"/>
-    <published>2026-10-04T06:30:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Jiang - arXiv preprint arXiv:2610.01053, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Comets can supply volatile and prebiotic material to rocky planets, but survival of fragile molecules depends on atmospheric entry and impact. Compact planet chains can transfer comets inward at low velocity. We test whether modest planetary ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.01053"/>
+    <published>2026-10-04T12:55:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7674cb7b24#0</id>
-    <title>Exact Operator Complexity Measures from Random Matchgate Unitaries</title>
-    <updated>2026-10-04T06:30:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#6</id>
+    <title>Limited Microbiota-Modulating Effects of Dietary Xylo-Oligosaccharide Supplementation in Apis mellifera</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GAL White, J Eisert, N Dowling - arXiv preprint arXiv:2609.38300, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Matchgate circuits describe classically tractable dynamics in a physically relevant setting while nonetheless exhibiting features characteristic of complex quantum systems, such as high amounts of magic. This invites the broader question: to what ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.38300"/>
-    <published>2026-10-04T06:30:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Yin, H Fu, P Liu, K Wang - Microorganisms, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Xylo-oligosaccharides (XOS) are recognized as potential prebiotic substrates in humans and livestock, ... prebiotic responses observed in mammalian systems may not be directly applicable to honey bees. These results highlight the importance of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2076-2607/14/10/2208"/>
+    <published>2026-10-04T12:55:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7674cb7a5e#0</id>
-    <title>Cognitive and autistic traits in individuals with polyendocrine metabolic ovarian syndrome</title>
-    <updated>2026-10-04T06:30:33+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#5</id>
+    <title>Polysaccharides from Chinese Baijiu by-products: Structural remodeling, cascade valorization, and functional food applications: A review</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
     <author>
-      <name>Varun Warrier</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Fiennes, A Tsompanidis, C Allison, JP Del Rio...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The sex steroid theory of autism proposes that exposure to elevated prenatal androgens and oestrogens interacts with genetic predisposition to contribute to the development of autism. In line with this theory, several studies report increased rates ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Varun Warrier (author alert)</content>
-    <link href="https://www.repository.cam.ac.uk/items/490b3ce0-6e19-42ad-b60e-f8517874a972"/>
-    <published>2026-10-04T06:30:33+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Feng, K Suo, Z Yang, C Wen, J Zhang - International Journal of Biological ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... -order conformation, are associated with antioxidant, immunomodulatory, prebiotic , and hepatoprotective activities through emerging structure-activity relationships. Feruloylated arabinoxylans exhibit a dual prebiotic -antioxidant function, whereas ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0141813026046623"/>
+    <published>2026-10-04T12:55:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7674cb7982#0</id>
-    <title>NEXUS: Discovery of a Luminous Young Transient at $ z= 5$</title>
-    <updated>2026-10-04T06:30:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#4</id>
+    <title>Chemical complexity from molecular clouds to star-forming cores</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MY Zhuang, Y Shen, L Hu, JDR Pierel, Z Pan, Z Stone... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We report the discovery of AT 2026abck, a young transient in a star-forming galaxy at $ z= 5.017\pm0. 001$, identified from Year-2 observations of the NEXUS JWST treasury program. AT 2026abck was detected on 2026 Aug 7 in NIRCam F200W ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://arxiv.org/pdf/2609.38373"/>
-    <published>2026-10-04T06:30:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Schilke - Expanding Horizons 2026, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... natal clouds, and its potential to provide ingredients for the emergence of life . The chemical composition gives important insights into the ... us to capture the true extent of chemical diversity (complex prebiotic molecules and rare isotopologues) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026exho.confE..47S/abstract"/>
+    <published>2026-10-04T12:55:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7674cb77ff#0</id>
-    <title>Abundant Chemical Diversity in Space, insight from natural extraterrestrial primitive bodies and laboratory experiments, implication for life chemistry</title>
-    <updated>2026-10-04T06:30:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#3</id>
+    <title>VUV Photoionization of a grandPAH cation: Linking interstellar dust and origins of life</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
     <author>
-      <name>Robert PASCAL – de nouveaux articles sont disponibles</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Vinogradoff, G Danger, R Pascal, AP Team - ... Scientific Assembly. Held 1-9 August, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In recent decades, there has been mounting evidence of the prevalence of organic molecules in extraterrestrial objects. A multitude of compounds have been observed in primitive bodies (carbonaceous chondrites), including in the pristine samples ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Robert PASCAL – de nouveaux articles sont disponibles (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026cosp...46.2618V/abstract"/>
-    <published>2026-10-04T06:30:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Hrodmarsson - 46th COSPAR Scientific Assembly. Held 1-9 August, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The term" grandPAH" refers to very large polycyclic aromatic hydrocarbons (PAHs) which are believed to reach a certain size that affords them immense stability toward photodissociation under interstellar radiation fields. However, experimenting on their ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026cosp...46.2566H/abstract"/>
+    <published>2026-10-04T12:55:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7674cfc842#1</id>
-    <title>Large-scale coronal waves during the May 2024 events, and their relevance for solar energetic particle (SEP) production</title>
-    <updated>2026-10-04T07:15:51+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#2</id>
+    <title>Unveiling Organic Molecule Incorporation in Ice: Implications for Fundamental Processes to Origin of Life</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Baumgartner-Steinleitner, A Veronig, K Dissauer... - 46th COSPAR Scientific ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Large-scale coronal waves are large-amplitude or shocked fast magnetosonic waves, most probably caused by the rapid lateral expansion of the flanks of a coronal mass ejection (CME). These waves can be observed in soft X-ray and extreme ultra ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026cosp...46.2274B/abstract"/>
-    <published>2026-10-04T07:15:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Pokroy, I Polishchuk, H Shaked, J Sklar - European Synchrotron Radiation Facility ..., 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Ice in glaciers, sea ice, and permafrost plays a crucial role in climate, sea-level, and scientific research. Recent discoveries have revealed the potential for various organic molecules to become trapped in ice, leading to unique chemical reactions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2027esrf.data..887P/abstract"/>
+    <published>2026-10-04T12:55:15+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7674cfc842#0</id>
-    <title>Post-flare coronal dimmings on the fast-rotating K dwarf AB Dor</title>
-    <updated>2026-10-04T07:15:51+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#1</id>
+    <title>Haze formation in Planetary Atmospheres by Solar Energetic Particles and Its Relevance to Prebiotic Synthesis of Biomolecules</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Odert, M Leitzinger, A Veronig, T Fox, K Dissauer - 46th COSPAR Scientific ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; On the Sun, coronal dimmings are routinely observed in EUV and X-rays. They are closely related with coronal mass ejections (CMEs), resulting from a removal of coronal plasma caused by the eruption of the CME. On other stars, post-flare coronal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026cosp...46.2151O/abstract"/>
-    <published>2026-10-04T07:15:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Kobayashi, V Airapetian, Y Kajikiya, K Nakajima... - 46th COSPAR Scientific ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Direct formation of molecules with large molecules including amino acid precursors imply another possibility than step-by-step formation from small molecules to larger molecules in prebiotic synthesis. Haze formation in planetary ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026cosp...46.2624K/abstract"/>
+    <published>2026-10-04T12:55:15+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7674eebf3c#0</id>
+    <title>Prebiotic potential and modulation on fecal microbiota of konjac oligo-glucomannan prepared by Pediococcus acidilactici mannanase</title>
+    <updated>2026-10-04T12:55:15+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Yang, X Chen, Z Li, R Yang, D Zhao - Food &amp; Function, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this study, konjac oligo-glucomannan (KOGM) was prepared from konjac glucomannan (KGM) by enzymatic hydrolysis using β-mannanase derived from Pediococcus acidilactici HDM2. The prepared KOGM had an average molecular ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.rsc.org/fo/article-abstract/doi/10.1039/D6FO02824A/1364471"/>
+    <published>2026-10-04T12:55:15+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7674ee8e5e#5</id>
+    <title>Emergence of cuspons through wave breaking</title>
+    <updated>2026-10-04T12:57:05+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Kim, B Kwon -arXivpreprintarXiv:2610.01109, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study the emergence of cuspons through wave breaking, with the Camassa--Holm equation as a principal model. For a broad open class of smooth initial data, the first singularity occurs at a unique point and has the sharp local H\"older regularity \(C^{3/5}\) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.01109"/>
+    <published>2026-10-04T12:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7674ee8e5e#4</id>
+    <title>Early Emergence of SSS emission in RS Oph</title>
+    <updated>2026-10-04T12:57:05+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JU Ness, JP Osborne, M Orio, S Starrfield, S Mitrani... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We examine their relation to the emergence of observable SSS emission, compare their properties with the SSa and SSe spectral phenomenology, and discuss possible physical mechanisms responsible for the observed emission ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.00762"/>
+    <published>2026-10-04T12:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7674ee8e5e#3</id>
+    <title>Emergence of the nuclear halo in $^{22} $ C: Bridging shape and shell</title>
+    <updated>2026-10-04T12:57:05+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; XX Sun -arXivpreprintarXiv:2609.39753, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The structure of $^{22}$C remains unsettled more than a decade after the 2010 reaction-cross-section measurement. The nucleus sits at $N=16$, where the spherical closure of $^{24}$O competes with the deformation of $^{20}$C. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2609.39753"/>
+    <published>2026-10-04T12:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7674ee8e5e#2</id>
+    <title>Learning and Predicting Patent Technology Reuse Trajectories from Emergence -Time Signals</title>
+    <updated>2026-10-04T12:57:05+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Yousef, Q Ye, Q Cheng -arXivpreprintarXiv:2610.00806, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We retain the emergence -time perspective but change the target of prediction: we use emergence -time descriptors of a newly appeared technology to predict the shape of its reuse over the following twenty years, so that the distinction between the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.00806"/>
+    <published>2026-10-04T12:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7674ee8e5e#1</id>
+    <title>AI agents in Algorithmic Electricity Markets: On the Emergence of Tacit Collusion</title>
+    <updated>2026-10-04T12:57:05+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Seredyński, G Tsaousoglou -arXive-prints, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; As electricity market participants increasingly adopt learning-based agents for their bidding strategies, electricity markets are becoming algorithmic. Evidence from algorithmic markets in other domains shows that tacit collusion can arise purely ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://ui.adsabs.harvard.edu/abs/2026arXiv260826896S/abstract"/>
+    <published>2026-10-04T12:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7674ee8e5e#0</id>
+    <title>Emergence of electronic modes and triplet pairing from spin-1 antiferromagnetic insulators in the Kanamori-Hubbard model</title>
+    <updated>2026-10-04T12:57:05+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Kohno -arXivpreprintarXiv:2610.00110, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Moreover, the emergence and characteristics of electronic modes in nonequilibrium states by spin or ... arXivLabs is a framework that allows collaborators to develop and share new arXiv features ... arXiv is committed to these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/abs/2610.00110"/>
+    <published>2026-10-04T12:57:05+00:00</published>
   </entry>
 </feed>
