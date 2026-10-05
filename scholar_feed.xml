@@ -2,74 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-05T13:44:34.953273+00:00</updated>
+  <updated>2026-10-05T21:20:47.087204+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766b41b8f4#0</id>
-    <title>From trends to optimized forecasts: Quantifying the skill and advancing the utility of dynamics-based early warnings for tipping events</title>
-    <updated>2026-10-05T07:46:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#9</id>
+    <title>Sustainable production of pure nanocrystalline cellulose (NCCs) as a binder for enhanced aspirin tablets: Valorization of palm kernel waste</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
     <author>
-      <name>Timothy Lenton</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FD Plessis, V Volodina, CA Boulton, M Fadera... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper we explore and extend the state of the art for understanding the skill and utility of early warnings of critical transitions (tipping points) in forced nonlinear systems. We highlight some of the challenges and opportunities of transforming ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.01677"/>
-    <published>2026-10-05T07:46:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FM Alminderej, WA El-Sayed, TIM Ragab - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... On the other hand, the prebiotic activity of NCC was also investigated. The goal of prebiotic activity is to promote the growth of intestinal microflora. The investigation was based on evaluating the densities ... The results also recorded prebiotic activity ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41598-026-59576-7"/>
+    <published>2026-10-05T20:06:51+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766b41b825#0</id>
-    <title>VizieR Online Data Catalog: NIRSpec &amp; MIRI spectra of K2-18b from JWST (Stevenson+, 2025)</title>
-    <updated>2026-10-05T07:46:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#8</id>
+    <title>Byproducts of Caatinga passion fruit (Passiflora cincinnata): industrial potential, bioactive composition, and health benefits</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
     <author>
-      <name>Jacob Lustig-Yaeger</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KB Stevenson, J Lustig-Yaeger, EM May... - VizieR Online Data Catalog, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The JWST Mid-Infrared Instrument (MIRI) provides imaging and spectroscopic observing modes from 4.9 to 27.9 um. MIRI's Low-Resolution Spectrometer (LRS) offers both fixed slit and slitless spectroscopy from 5 to 14um ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://ui.adsabs.harvard.edu/abs/2026yCat..51700257S/abstract"/>
-    <published>2026-10-05T07:46:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DAD da Silva, RF Almeida, RP do Nascimento... - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Growing demand for sustainable food systems has driven interest in byproduct valorization as a source of functional ingredients and bioactive compounds. Although Passiflora cincinnata Mast., native to the Brazilian semiarid, remains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926025792"/>
+    <published>2026-10-05T20:06:51+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766b41b7d3#3</id>
-    <title>A provable quantum advantage for approximate optimization via decoded quantum interferometry</title>
-    <updated>2026-10-05T07:46:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#7</id>
+    <title>Carob (Ceratonia siliqua L.) as a functional synbiotic matrix: biochemical composition, probiotic compatibility, and gut microbiota modulation in food systems</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MJ Kramer, E Gil-Fuster, BDM Jones, J Eisert... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Decoded quantum interferometry (DQI) is a novel paradigm for tackling approximate optimization problems on quantum computers. This framework comes with strong performance guarantees and exploits a well-established duality between ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.02145"/>
-    <published>2026-10-05T07:46:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Britel, M El Yadini, H MOUMMOU, M Taghouti, G Diria... - Frontiers in Nutrition&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Mechanistic work and in vitro fermentation converge on the same picture: carob belongs among differentiated prebiotic ingredients, not among substitutes for inulin, galacto-oligosaccharides (GOS) or β-glucans. Four problems still block clinical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1959688/full"/>
+    <published>2026-10-05T20:06:51+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766b41b7d3#2</id>
-    <title>Efficient certification of time-reversal symmetry requires entanglement</title>
-    <updated>2026-10-05T07:46:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#6</id>
+    <title>Gut Microbiome and Cognitive Frailty in Older Adults: Human Evidence, Biomarker Validity, and Prospects for Clinical Translation</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Liu, Z Du, Y Tang, ZW Liu, J Eisert, I Roth - arXiv preprint arXiv:2610.01555, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Time-reversal symmetry is a fundamental principle of physics describing the invariance of physical laws under reversal of the direction of time. We formulate a Bell-inequality-like test of this antiunitary symmetry using only forward access and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.01555"/>
-    <published>2026-10-05T07:46:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CR Nuță, L Băjenaru, AM Moiceanu Sovarel... - Applied Biosciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Dietary, prebiotic , and probiotic trials demonstrate microbiome target engagement and report selected physical or cognitive benefits, but these outcomes are inconsistent, rarely assessed together, and not established as microbiome-mediated; ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2813-0464/5/4/89"/>
+    <published>2026-10-05T20:06:51+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766b41b7d3#1</id>
-    <title>Approximation theorems for fermionic Gaussian states</title>
-    <updated>2026-10-05T07:46:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#5</id>
+    <title>Pectic oligosaccharide production from passion fruit peel pectin using polygalacturonase from Aureobasidium melanogenum PBUAP44</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AR Negari, F Salek, Z Zimborás, A Harrow, P Hayden... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A recurring principle in many-body physics is that sufficiently distributed interactions or correlations lead to an effectively mean-field description. For fermionic Gaussian states, we establish a quantitative version of this principle directly at the level of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.01860"/>
-    <published>2026-10-05T07:46:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Pimisa, W Bankeeree, P Lotrakul, N Hwanhlem... - Biocatalysis and Agricultural ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of probiotic bacteria, Levilactobacillus brevis, demonstrating their potential as a functional food ingredient with in vitro prebiotic properties. ... melanogenum for prebiotic POS production. Passion fruit peel powder was utilized as a low-cost solid ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1878818126003555"/>
+    <published>2026-10-05T20:06:51+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766b41b7d3#0</id>
-    <title>Adaptivity is all you need: Optimal stabilizer learning using just single-copy measurements</title>
-    <updated>2026-10-05T07:46:06+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#4</id>
+    <title>Intrinsic Particle Handedness and the Origin of Biological Homochirality in Stein Theory</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Bittel, J Eisert, W Gong, AA Mele, L Schatzki - arXiv preprint arXiv:2610.02031, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Stabilizer states are central to quantum computing, underlying quantum error correction, benchmarking, and efficient classical simulation. Yet their learnability exhibits a striking gap: an $ n $-qubit stabilizer state can be learned from $\Theta (n) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.02031"/>
-    <published>2026-10-05T07:46:06+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Pearson&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biological homochirality is usually framed as a symmetry-breaking problem: prebiotic chemistry can in principle generate both molecular enantiomers, yet terrestrial proteins overwhelmingly use L-amino acids and biologically important ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/I-Pearson/publication/415123854_Intrinsic_Particle_Handedness_and_the_Origin_of_Biological_Homochirality_in_Stein_Theory/links/6abeb907799bef11c4b02ab8/Intrinsic-Particle-Handedness-and-the-Origin-of-Biological-Homochirality-in-Stein-Theory.pdf"/>
+    <published>2026-10-05T20:06:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#3</id>
+    <title>Prime Biome Reviews: Launches Ten-Ingredient Daily Probiotic Gummy Supplement for Skin and Gut Wellness in the US</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T HAUTE&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Inulin is a naturally occurring polysaccharide classified as a prebiotic dietary fiber, found in ... According to the National Institutes of Health Office of Dietary Supplements, prebiotic fibers ... Its inclusion in Prime Biome reflects its established ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://signalnewsterrehaute.com/press-releases/11796/prime-biome-reviews-launches-ten-ingredient-daily-probiotic-gummy-supplement-for-skin-and-gut-wellness-in-the-u-s/"/>
+    <published>2026-10-05T20:06:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#2</id>
+    <title>The Architect Hypothesis: Directed Panspermia , Catalytic Intervention, and the Teleological Convergence of Human Evolution Toward Divine Posthumanity</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Christian&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper proposes the Architect Hypothesis, a radical interdisciplinary framework arguing that the evolutionary trajectory of Homo sapiens has not been a blind, undirected process but rather a catalyzed, teleologically oriented progression ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.academia.edu/download/134275955/POWER.pdf"/>
+    <published>2026-10-05T20:06:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#1</id>
+    <title>Origin of eukaryotic genomes from a prebiotic pool of split genes: a hypothesis supported by comparative genome data</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Senapathy - Frontiers in Genetics&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This article presents a novel hypothesis, which suggests that multiple eukaryotic genomes originated from a prebiotic pool of split genes. A vast number of split genes could have occurred in random nucleotide sequences within prebiotic chemistry due ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1732957/full"/>
+    <published>2026-10-05T20:06:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766bbcee66#0</id>
+    <title>Preparation, Structural Elucidation, and In Silico Prebiotic Evaluation of Pectin Oligosaccharides from Apple Pectin</title>
+    <updated>2026-10-05T20:06:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Chi, S Zu, Y Fu, H Liu - Biomolecules, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Conventional prebiotic testing relies on in vitro batch fermentation with pure or fecal cultures ... tested an in silico framework for their prebiotic evaluation. Apple pectin was depolymerized by ... -derived prebiotic candidates and a practical route ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2218-273X/16/10/1436"/>
+    <published>2026-10-05T20:06:51+00:00</published>
   </entry>
 </feed>
