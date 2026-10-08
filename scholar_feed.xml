@@ -2,173 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-07T12:44:17.411992+00:00</updated>
+  <updated>2026-10-08T12:53:33.283631+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766a717e12#0</id>
-    <title>Quantum-Dot-Based Scanning Probe d-Band Hole Spectroscopy of Plasmonic Nanoparticles</title>
-    <updated>2026-10-06T21:40:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766961ca65#0</id>
+    <title>The First Hubble Detection of a Secondary Eclipse from a Rocky Exoplanet: the 5.4-hour planet TOI-2431 b</title>
+    <updated>2026-10-08T06:52:48+00:00</updated>
     <author>
-      <name>Joachim R Krenn</name>
+      <name>Sebastian Zieba</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Küstner, H Ditlbacher, A Hohenau, DN Dirin... - Nano Letters&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Despite intense research efforts, quantitative energy-resolved measurements on hot carriers generated due to plasmon decay in metal nanoparticles are rare. This concerns in particular excitations below the Fermi level, ie, holes. Here, we use a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Joachim R Krenn (author alert)</content>
-    <link href="https://pubs.acs.org/nalefd/article/doi/10.1021/acs.nanolett.6c03990/5443166"/>
-    <published>2026-10-06T21:40:16+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766a709803#0</id>
-    <title>Correction: The body does not keep the score: trauma, predictive coding, and the restoration of metastability</title>
-    <updated>2026-10-06T21:48:13+00:00</updated>
-    <author>
-      <name>Karl Friston</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M MANNINO, S Kotler, K Friston, G Fox - Frontiers in Systems Neuroscience&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1. Geraerts et al.(2007) was described as establishing that suggestion can produce damaging false memories and somatic feelings of trauma. The study examined corroboration of reported memories and did not establish the claim as stated. A ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2026.2015379/full"/>
-    <published>2026-10-06T21:48:13+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766a709713#1</id>
-    <title>The hidden advantage of mask resampling: a theory of masked autoencoders</title>
-    <updated>2026-10-06T21:48:14+00:00</updated>
-    <author>
-      <name>Lenka Zdeborová</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JM Moreira, L Bardone, L Zdeborová - arXiv preprint arXiv:2610.01578, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Why can masked prediction learn useful representations that unmasked reconstruction misses? We study this question in a high-dimensional model of a masked autoencoder (MAE) trained on data with shared latent structure and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenka Zdeborová (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.01578"/>
-    <published>2026-10-06T21:48:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766a709713#0</id>
-    <title>In-context Learning of Single-index Targets: Comparing Kernel and Feature Learners</title>
-    <updated>2026-10-06T21:48:14+00:00</updated>
-    <author>
-      <name>Lenka Zdeborová</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Gu, Y Xu, L Zdeborová - arXiv preprint arXiv:2610.01712, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In-context learning (ICL) enables a pretrained model to infer a task from demonstrations without updating its parameters. While much of the existing theory focuses on linear target functions, in this paper we study nonlinear cases by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Lenka Zdeborová (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.01712"/>
-    <published>2026-10-06T21:48:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8b03f#1</id>
-    <title>14 An Unconventional Journey</title>
-    <updated>2026-10-07T04:51:13+00:00</updated>
-    <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RM Ceballos -Astrobiologyand the People Who Study It: Stories of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... if it were an exoplanet and used environments from Earth's history as proxies for alien , yet inhabitable ... , Habitable Planet , task we simulated how interactions between planet , star, and planetary system could impact the acquisition ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=UaEQEgAAQBAJ&amp;oi=fnd&amp;pg=PT160&amp;dq=(habitable%7Chabitability+planet%7Cplanetary%7Cworld%7Cexoplanet)%7C%22habitale+zone%22%7Cbiosignature%7Castrobiology%7Ctechnosignature%7C(%22search+for%22+~alien%7Cextraterrestrial+life)%7CSETI%7C%22biosignature+detection%22&amp;ots=Kx0DT1uHLP&amp;sig=VhNkwOCcsSReJAZQ0nASvzT5otU"/>
-    <published>2026-10-07T04:51:13+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8b03f#0</id>
-    <title>Directed Panspermia: Conditional Models, Information Constraints and Testable Signatures</title>
-    <updated>2026-10-07T04:51:13+00:00</updated>
-    <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GL Dedenko&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... What civilization and SETI estimates actually constrain A Drake-style decomposition separates habitable - planet inventory from the probability of life , ... The scientific prospects arising from these ideas are directed towards the search for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Grigoriy-Dedenko/publication/395338380_Directed_Panspermia_Conditional_Models_Information_Constraints_and_Testable_Signatures/links/6abfe437db7d3b1c53a0887c/Directed-Panspermia-Conditional-Models-Information-Constraints-and-Testable-Signatures.pdf"/>
-    <published>2026-10-07T04:51:13+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8af74#0</id>
-    <title>14 An Unconventional Journey</title>
-    <updated>2026-10-07T04:51:14+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RM Ceballos - Astrobiology and the People Who Study It: Stories of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... exoplanet can or does support life ?" This key question was supported by five research areas. The first two observed the modern Earth as if it were an exoplanet and used environments from Earth's history as proxies for alien , ... Our results ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=UaEQEgAAQBAJ&amp;oi=fnd&amp;pg=PT160&amp;dq=(~biosignature%7Clife%7Calien%7Corganic)+(Mars%7CVenus%7CEuropa%7CEnceladus%7CTitan%7C%22icy+moon%22%7CJupiter%7CSaturn%7CNeptune%7CPluto%7CAsteroid%7CComet+~exoplanet%7C%22super+Earth%22%7C%22sub+Neptune%22%7C%22rocky+world%22%7C%22terrestrial+planet%22%7CTRAPPIST%7CK2-18b%7CProxima)&amp;ots=Kx0DT1uHLQ&amp;sig=ARDIdVrF2No7M8nHXwVgkenTg6M"/>
-    <published>2026-10-07T04:51:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8ad50#7</id>
-    <title>14 An Unconventional Journey</title>
-    <updated>2026-10-07T04:51:17+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RM Ceballos - Astrobiology and the People Who Study It: Stories of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... After I got familiar with the context of Dave's work, I hit the road running and we set out to delineate how the molecules of a putative RNA world came about [8]. Particularly, Dave wanted to work with starting reactants that were more readily ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=UaEQEgAAQBAJ&amp;oi=fnd&amp;pg=PT160&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=Kx0DT1uHLP&amp;sig=VhNkwOCcsSReJAZQ0nASvzT5otU"/>
-    <published>2026-10-07T04:51:17+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8ad50#6</id>
-    <title>Science Writing in the Romantic Era 1770-1837: Volume I: Human Nature</title>
-    <updated>2026-10-07T04:51:17+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Fulford&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This volume features some of the most controversial and topical science writing of the period. Investigations of the human body led to vexed debates about the nature and origins of life –materialism vs. spiritualism. Anatomical studies demonstrated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=L6AQEgAAQBAJ&amp;oi=fnd&amp;pg=PT8&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=__sOBRrn-u&amp;sig=r0tdSt8tBVOvyb7EJpdMEqKLgw0"/>
-    <published>2026-10-07T04:51:17+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8ad50#5</id>
-    <title>10 A Broad Sweep</title>
-    <updated>2026-10-07T04:51:17+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Whittet - Astrobiology and the People Who Study It: Stories of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... proposal that established a major Center for Origins of Life Studies at Rensselaer. The investigators ... Meanwhile, laboratory analyses of samples that range from prebiotic molecules in ... Amino acids and other prebiotic molecules survive intact ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=UaEQEgAAQBAJ&amp;oi=fnd&amp;pg=PT112&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=Kx0DT1uHLP&amp;sig=kbj5nWKICHwgRmukgkWT4LlNkjM"/>
-    <published>2026-10-07T04:51:17+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8ad50#4</id>
-    <title>Gut Health on Ozempic: What GLP-1 Medications Do to Your Microbiome</title>
-    <updated>2026-10-07T04:51:17+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Planet&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Introduce a prebiotic fiber supplement at half the recommended serving. Your gut bacteria ferment fiber into short-chain fatty acids, and in an animal study (dogs), fermentable fiber increased GLP-1 secretion. Build up to a full serving over 1-2 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.vitalplanet.com/blogs/vital-knowledge/ozempic-glp1-gut-health-probiotics-guide"/>
-    <published>2026-10-07T04:51:17+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8ad50#3</id>
-    <title>13 A Is for Astrobiology</title>
-    <updated>2026-10-07T04:51:17+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JE Elsila, JP Dworkin, D Glavin, JC Aponte - Astrobiology and the People Who Study It ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Searching for their beginnings I found the origin of life in other books. I convinced my 3rd-grade teachers to let my friend and me do a research project on the origin of life . Since I thought research was plagiarizing from three sources [1–3], that's what I ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=UaEQEgAAQBAJ&amp;oi=fnd&amp;pg=PT142&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=Kx0DT1uHLP&amp;sig=9W8fpxWqo_kbVwsw1gVgY5cgnWQ"/>
-    <published>2026-10-07T04:51:17+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8ad50#2</id>
-    <title>11 From Terrestrial Geology to Life in the Universe</title>
-    <updated>2026-10-07T04:51:17+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Westall - Astrobiology and the People Who Study It: Stories of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Since I became head of the astrobiology group at the CNRS, I have added prebiotic chemistry and the origin of life (from my humble, geological viewpoint) to the descriptive. These interests paved the way for me to make an important ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=UaEQEgAAQBAJ&amp;oi=fnd&amp;pg=PT123&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=Kx0DT1uHLP&amp;sig=qEmWrIbOHSIffxK6acEaOnSmHyQ"/>
-    <published>2026-10-07T04:51:17+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8ad50#1</id>
-    <title>A Man of Many (Inter) layers</title>
-    <updated>2026-10-07T04:51:17+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SE Pryor, VS Riggi - Astrobiology and the People Who Study It: Stories of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Ferris, upon which many ongoing researchers lean for support while attempting to advance our collective understanding of prebiotic chemistry, the origin of terrestrial life, and the potential habitability of worlds far beyond our own. His seminal works on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=UaEQEgAAQBAJ&amp;oi=fnd&amp;pg=PT62&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=Kx0DT1uHLP&amp;sig=VT6wNBAbwTOzRpbbiKLl7WfoeNU"/>
-    <published>2026-10-07T04:51:17+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766aa8ad50#0</id>
-    <title>Directed Panspermia : Conditional Models, Information Constraints and Testable Signatures</title>
-    <updated>2026-10-07T04:51:17+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GL Dedenko&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This article examines what information-based origin - of - life arguments can establish about that hypothesis. It brings together a heuristic protocell -complexity model, a model of minimum genome-size trajectories, and mechanistic studies of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Grigoriy-Dedenko/publication/395338380_Directed_Panspermia_Conditional_Models_Information_Constraints_and_Testable_Signatures/links/6abfe437db7d3b1c53a0887c/Directed-Panspermia-Conditional-Models-Information-Constraints-and-Testable-Signatures.pdf"/>
-    <published>2026-10-07T04:51:17+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Zieba, B Edwards, SN Quinn, LJ Janssen, NB Cowan... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We present an HST/WFC3 G141 phase-curve observation of the ultra-short-period rocky planet TOI-2431 b and detect its secondary eclipse in the near infrared. Combined with the TESS optical eclipse, these measurements constrain the planet's ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sebastian Zieba (author alert)</content>
+    <link href="https://arxiv.org/pdf/2609.31966"/>
+    <published>2026-10-08T06:52:48+00:00</published>
   </entry>
 </feed>
