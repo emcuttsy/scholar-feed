@@ -2,118 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-10T11:58:54.922305+00:00</updated>
+  <updated>2026-10-10T18:05:42.223562+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668edfdd1#0</id>
-    <title>A systematic review of fNIRS-based neurovascular coupling research: Methodological landscape and translational considerations for spaceflight</title>
-    <updated>2026-10-10T11:07:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0293db#0</id>
+    <title>Astro-Green Criminology: Entanglement of Quantum Cosmology, Super Intelli gence, and Interstellar/Universe/Multiverse Flourishing</title>
+    <updated>2026-10-10T16:57:09+00:00</updated>
     <author>
-      <name>Guilherme M. de O. Wood</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NG Adam Zary, Malik Nasir Afzal Khan, Hanan ... - NeuroImage, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Guilherme M. de O. Wood (author alert)</content>
-    <link href="https://scholar.google.com/citations?hl=en&amp;view_op=view_citation&amp;citation_for_view=L7WFhmgAAAAJ:Yv3O0rUKnT0C&amp;oi=scholaralrt"/>
-    <published>2026-10-10T11:07:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Takemura - The 15th United Nations Congress on Crime ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Why do we search for extraterrestrial life , super intelligence, and advanced civilizations? While the Earth's supply of non-renewable resources ... Paul Scott Anderson discusses the process by which Mars could be altered to be in habitable by humans ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://www.unodc.org/documents/commissions/Congress/15_Congress/publications/doc/forms/CS/Takemura/Astro-Green_Criminology.pdf"/>
+    <published>2026-10-10T16:57:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668e3efab#0</id>
-    <title>Minimax entropy production for arbitrary processes</title>
-    <updated>2026-10-10T11:27:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#9</id>
+    <title>CARPATHIAN JOURNAL OF FOOD SCIENCE AND TECHNOLOGY</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
     <author>
-      <name>David H. Wolpert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Yousef, B Ansbacher, DH Wolpert - arXiv preprint arXiv:2610.03478, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For any physical process, varying the initial distribution over its states will change the resulting expected entropy production (EP). An initial distribution that minimizes the EP of a particular process is called the prior of that process. Varying the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David H. Wolpert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.03478"/>
-    <published>2026-10-10T11:27:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RZ Kamil, FN Aziz, N Hasniah, HBP Putra&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic properties and its ability to act as a synbiotic when combined with probiotics, this evidence does not universally confirm its prebiotic ... However, the investigation into the role of konjac glucomannan as a prebiotic and synbiotic in this ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="http://chimie-biologie.ubm.ro/carpathian_journal/Papers_SI/CJFST26-SI-FP3.pdf"/>
+    <published>2026-10-10T16:57:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668e3ef22#0</id>
-    <title>Heterarchy in the Brain: Control as a Spectrum, Not a Chain of Command</title>
-    <updated>2026-10-10T11:27:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#8</id>
+    <title>From Chemical Memory to Genetic Machinery: A Synechite Framework for the Coevolution of Heredity and Cellular Organization</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
     <author>
-      <name>Luiz Pessoa</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Pessoa, A Gambarotto - arXiv preprint arXiv:2610.04643, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neuroscience treats the brain as a control hierarchy, with cortical systems governing subcortical mechanisms. We argue that this mistakes a configuration for an architecture. Local asymmetries of influence are real, but control is relational and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Luiz Pessoa (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.04643"/>
-    <published>2026-10-10T11:27:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Moussa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The RNA - world hypothesis addresses part of this problem by proposing that RNA could have performed both informational and catalytic ... through an autonomous RNA world , and both ribonucleotides and deoxyribonucleotides can arise through ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philpapers.org/archive/MOUFCM.pdf"/>
+    <published>2026-10-10T16:57:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668e3ee6b#0</id>
-    <title>Statistical Dark Matter: Synergy is everywhere but is hard to capture</title>
-    <updated>2026-10-10T11:27:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#7</id>
+    <title>Coronal Mass Ejections from the Young Sun: Deceleration-Powered Solar Energetic Particles as a Self-Extinguishing Forcing of the Early Earth</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Liardi, FE Rosas, D Marinazzo, TF Varley... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The information-theoretic construct of synergy refers to the statistical structure that is contained in three or more variables, but not in any subset of them. Here we leverage recent advances in multivariate information theory to show that synergy is far more ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity, Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.03764"/>
-    <published>2026-10-10T11:27:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OA Panasenco - arXiv preprint arXiv:2610.08758, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Counting energy deposited below a survival level near 1 hPa, we find the particles fix ∼4 × 1010–4 × 1011 mol N yr−1, which could supply prebiotic feedstock to surface pools. The largest uncertainties are Eb, the event rate, the survival depth ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.08758"/>
+    <published>2026-10-10T16:57:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668e3ee22#0</id>
-    <title>Generating eukaryotic reference genome assemblies: Earth BioGenome Project quality standards and recommendations</title>
-    <updated>2026-10-10T11:27:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#6</id>
+    <title>Microbiome Based Interventions in Ocular Disease Mechanisms, Clinical Evidence and Research Priorities</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
     <author>
-      <name>Erich Jarvis</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Howe, DR Agius, T Alioto, JM Aury, R Biello... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Reference genome assemblies are foundational resources across the biological sciences as they begin to expose the fundamental building blocks of each species and the molecular toolkits vital for adaptation and survival. High-quality genomes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.03075"/>
-    <published>2026-10-10T11:27:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MI Nkollo¹, FC Okwor, C Chibuogwu, NA Onwukwe...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Because the intervention combined a probiotic and prebiotic , the contribution of either component cannot be isolated. ... Oral live probiotics, combined probiotic- prebiotic preparations, and topical bacterial lysates have different mechanisms and should ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Maduabuchukwu-Nkollo/publication/415258657_Microbiome_Based_Interventions_in_Ocular_Disease_Mechanisms_Clinical_Evidence_and_Research_Priorities/links/6ac413afdb7d3b1c53a0cd8a/Microbiome-Based-Interventions-in-Ocular-Disease-Mechanisms-Clinical-Evidence-and-Research-Priorities.pdf"/>
+    <published>2026-10-10T16:57:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668e3ed49#0</id>
-    <title>Toward Controlling Biology with Language: Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots</title>
-    <updated>2026-10-10T11:27:40+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#5</id>
+    <title>Membraneless microdroplets generate thermodynamically distinct states of water under fully hydrated conditions</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
     <author>
-      <name>Michael Levin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NH Le, D Blackiston, M Levin, J Bongard - arXiv preprint arXiv:2610.02247, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Artificial intelligence increasingly serves as a natural-language interface to complex technical systems, letting people accomplish sophisticated tasks by describing what they want rather than specifying how to do it. Extending this interface to living ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Levin (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.02247"/>
-    <published>2026-10-10T11:27:40+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Chen, S Watanabe, L Sun, K Adachi, P Sharma...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Water is critical for molecular transport and reactivity in prebiotic environments 1,2. Despite its indispensable nature, this aqueous medium ... for the origin of life and the prebiotic synthesis of biopolymers, such as proteins and nucleic acids 2–4 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009972"/>
+    <published>2026-10-10T16:57:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668e3ecd8#0</id>
-    <title>Author Correction: Multilingualism protects against accelerated aging in cross-sectional and longitudinal analyses of 27 European countries</title>
-    <updated>2026-10-10T11:27:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#4</id>
+    <title>Lithopanspermia: A Drake-Like Framework for Transfer, Survival, and Establishment</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
     <author>
-      <name>Manuel Carreiras</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Amoruso, H Hernandez, H Santamaria-Garcia... - Nature Aging, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In the version of the article initially published, a country-label mismatch between the participant-level dataset and the metadata file containing country-level proportions of spoken languages led to the unintended exclusion of the Slovakia subsample from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manuel Carreiras (author alert)</content>
-    <link href="https://www.nature.com/articles/s43587-026-01233-9"/>
-    <published>2026-10-10T11:27:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Keating&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... that panspermia occurred, and it is not to explain the origin of life on Earth. It is to make the hypothesis decomposable enough that Mars can be used as a local constraint on panspermia ... hard- panspermia donor for Earth, extrasolar and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://keating.ai/wp-content/uploads/2026/08/keating-2026-lithopanspermia-framework.pdf"/>
+    <published>2026-10-10T16:57:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668e3ec89#1</id>
-    <title>Nonadditivity in fermionic quantum Shannon theory</title>
-    <updated>2026-10-10T11:27:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#3</id>
+    <title>The jeewanu story: Rebuilding the beginnings of life</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Salek, AR Negari, G Smith, J Eisert, D Leung - arXiv preprint arXiv:2610.06758, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study collective state preparation and channel encoding in fermionic systems under parity superselection and composition governed by the canonical anticommutation relations. For a two-mode Gaussian state $\tau $, we obtain the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.06758"/>
-    <published>2026-10-10T11:27:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MS Jyothish, B Dharmapalan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... protocell is not necessarily alive in the full biological sense. Rather, it is a chemical system that reproduces some of the fundamental characteristics associated with living cells. A genuine protocell ... Haldane, who independently ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="http://eprints.nias.res.in/3471/1/The_Jeewanu_Story-Science_India.pdf"/>
+    <published>2026-10-10T16:57:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668e3ec89#0</id>
-    <title>The magic cost of fermionic randomness</title>
-    <updated>2026-10-10T11:27:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#2</id>
+    <title>Formation of Carbonisocyanatidic Amide in Interstellar Ice Analogs as a Candidate Precursor to Prebiotic Pyrimidines</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Cao, Y Tang, J Eisert - arXiv preprint arXiv:2610.05093, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sampling-based quantum advantage raises a basic resource question: how much non-Gaussianity is needed to reproduce the random-matrix statistics often associated with quantum chaos? Passive fermionic linear optics preserves Gaussian ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.05093"/>
-    <published>2026-10-10T11:27:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Bai, J Lu, B Song, J Yang, Y Pan, Z Li, C Zhu, Z Hu... - The Journal of Physical Chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how pyrimidine nucleobases form in space is central to prebiotic chemistry, yet the pathways assembling these heterocycles remain unresolved. Carbonisocyanatidic amide (H 2 NC (O) NCO), an acyclic intermediate with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/jpclcd/article/doi/10.1021/acs.jpclett.6c02249/5444329"/>
+    <published>2026-10-10T16:57:11+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7668e3eb3d#0</id>
-    <title>Ethical Leadership in Healthcare: A Multilevel Framework for Physician Leaders.</title>
-    <updated>2026-10-10T11:27:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#1</id>
+    <title>Microdroplets as drivers of molecular complexity: from prebiotic to synthetic chemistry</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
     <author>
-      <name>William Martin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Martin - Physician Leadership Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Physician leaders face unprecedented ethical challenges navigating healthcare's transformation--from artificial intelligence implementation to private equity acquisitions, from clinician burnout to organizational pressures prioritizing financial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; William Martin (author alert)</content>
-    <link href="https://openurl.ebsco.com/contentitem/gcd:197246465?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:197246465&amp;crl=c&amp;jrnl=23744030"/>
-    <published>2026-10-10T11:27:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Pryor&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of prebiotic chemical reaction networks, simple systems are unlikely to have existed on the early Earth. Accordingly, chemically diverse mixtures are essential for prebiotic ... Finally, this work extends beyond prebiotic chemistry into synthetic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://dspace.rpi.edu/bitstreams/2e399f9c-06ce-406c-ad3c-77dcec278f45/download"/>
+    <published>2026-10-10T16:57:11+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#0</id>
+    <title>Oral toxicity study of kestose, a key prebiotic component of fructooligosaccharide, in Sprague-Dawley rats: A 90-day repeated dose study</title>
+    <updated>2026-10-10T16:57:11+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Sa, S Park, MH Kim, HY Son, GY Lee, CY Kim, Y Heo... - Toxicology Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Kestose, a major component of short-chain fructooligosaccharide, is a prebiotic modulating intestinal microbiota and regulating immune functions. No toxicological studies have been reported on repeated-dose oral intake of kestose produced from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S221475002600154X"/>
+    <published>2026-10-10T16:57:11+00:00</published>
   </entry>
 </feed>
