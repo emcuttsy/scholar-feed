@@ -2,30 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-11T12:11:14.709489+00:00</updated>
+  <updated>2026-10-11T18:30:06.676554+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f183c3c#1</id>
-    <title>The emergence of rapid oscillations in a fifth-order KdV equation</title>
-    <updated>2026-10-10T18:45:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f725a1b#0</id>
+    <title>Quantum dynamics of spin systems using quantum-like resources</title>
+    <updated>2026-10-11T15:21:37+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Gregory Scholes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CJ Lustri, SJ Chapman, RCP Nicotra -arXivpreprintarXiv:2610.07797, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Abstract We consider the emergence of rapidly propagating, exponentially small-amplitude oscillations in the impulsively started fifth-order ... Stokes curves) that governs their emergence . Such a complex Stokes structure in a temporal boundary layer is a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.07797"/>
-    <published>2026-10-10T18:45:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Saha, E Dickey, W Horvat, S Kais, GD Scholes - arXiv preprint arXiv:2610.07308, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent publications have introduced the concept of quantum-like (QL) bits, along with their associated QL-states and QL-gate operations, emerging from the dynamics of complex synchronized networks. The present work builds on this framework to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
+    <link href="https://arxiv.org/pdf/2610.07308"/>
+    <published>2026-10-11T15:21:37+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f183c3c#0</id>
-    <title>Shape optimization with inradius constraint and emergence of honeycomb structures</title>
-    <updated>2026-10-10T18:45:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f72592b#0</id>
+    <title>Quantifying the energetic costs and growth benefits of phagocytosis</title>
+    <updated>2026-10-11T15:21:38+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Michael Lynch</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Bucur, G Buttazzo, A de Villeroché -arXivpreprintarXiv:2610.08072, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We maximize the average torsional rigidity among open subsets of $\mathbb{R}^2$ with fixed inradius whose complements consist of pairwise disjoint balls of fixed radius $\varepsilon$ with mutual distances bounded below. We prove that, provided ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.08072"/>
-    <published>2026-10-10T18:45:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PE Schavemaker, KS Tam, M Lynch - Cell Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Phagocytosis, the ingestion of cells by other cells, is ubiquitous among eukaryotic life. It is utilized for food uptake and in the immune response in many species. The origin of phagocytosis and its role in the evolution of endomembranes and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Lynch (author alert)</content>
+    <link href="https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01184-8"/>
+    <published>2026-10-11T15:21:38+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f72589a#0</id>
+    <title>Association between polygenic liability to depression and lifetime depression in at-risk adolescents</title>
+    <updated>2026-10-11T15:21:39+00:00</updated>
+    <author>
+      <name>Nick Martin</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EM Byrne, NA Gillespie, JM Najman, AK Henders... - Molecular Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Internalising symptoms including depression, anxiety and somatic symptoms in adolescence are common. They can be transient, but they can also persist and progress to major depressive disorder (MDD) Polygenic risk scores for major ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://www.nature.com/articles/s41380-026-03917-5"/>
+    <published>2026-10-11T15:21:39+00:00</published>
   </entry>
 </feed>
