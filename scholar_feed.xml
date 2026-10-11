@@ -2,129 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-10T18:05:42.223562+00:00</updated>
+  <updated>2026-10-11T12:11:14.709489+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0293db#0</id>
-    <title>Astro-Green Criminology: Entanglement of Quantum Cosmology, Super Intelli gence, and Interstellar/Universe/Multiverse Flourishing</title>
-    <updated>2026-10-10T16:57:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f183c3c#1</id>
+    <title>The emergence of rapid oscillations in a fifth-order KdV equation</title>
+    <updated>2026-10-10T18:45:27+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Takemura - The 15th United Nations Congress on Crime ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Why do we search for extraterrestrial life , super intelligence, and advanced civilizations? While the Earth's supply of non-renewable resources ... Paul Scott Anderson discusses the process by which Mars could be altered to be in habitable by humans ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.unodc.org/documents/commissions/Congress/15_Congress/publications/doc/forms/CS/Takemura/Astro-Green_Criminology.pdf"/>
-    <published>2026-10-10T16:57:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CJ Lustri, SJ Chapman, RCP Nicotra -arXivpreprintarXiv:2610.07797, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Abstract We consider the emergence of rapidly propagating, exponentially small-amplitude oscillations in the impulsively started fifth-order ... Stokes curves) that governs their emergence . Such a complex Stokes structure in a temporal boundary layer is a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.07797"/>
+    <published>2026-10-10T18:45:27+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#9</id>
-    <title>CARPATHIAN JOURNAL OF FOOD SCIENCE AND TECHNOLOGY</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f183c3c#0</id>
+    <title>Shape optimization with inradius constraint and emergence of honeycomb structures</title>
+    <updated>2026-10-10T18:45:27+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RZ Kamil, FN Aziz, N Hasniah, HBP Putra&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic properties and its ability to act as a synbiotic when combined with probiotics, this evidence does not universally confirm its prebiotic ... However, the investigation into the role of konjac glucomannan as a prebiotic and synbiotic in this ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="http://chimie-biologie.ubm.ro/carpathian_journal/Papers_SI/CJFST26-SI-FP3.pdf"/>
-    <published>2026-10-10T16:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#8</id>
-    <title>From Chemical Memory to Genetic Machinery: A Synechite Framework for the Coevolution of Heredity and Cellular Organization</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Moussa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The RNA - world hypothesis addresses part of this problem by proposing that RNA could have performed both informational and catalytic ... through an autonomous RNA world , and both ribonucleotides and deoxyribonucleotides can arise through ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philpapers.org/archive/MOUFCM.pdf"/>
-    <published>2026-10-10T16:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#7</id>
-    <title>Coronal Mass Ejections from the Young Sun: Deceleration-Powered Solar Energetic Particles as a Self-Extinguishing Forcing of the Early Earth</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; OA Panasenco - arXiv preprint arXiv:2610.08758, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Counting energy deposited below a survival level near 1 hPa, we find the particles fix ∼4 × 1010–4 × 1011 mol N yr−1, which could supply prebiotic feedstock to surface pools. The largest uncertainties are Eb, the event rate, the survival depth ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.08758"/>
-    <published>2026-10-10T16:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#6</id>
-    <title>Microbiome Based Interventions in Ocular Disease Mechanisms, Clinical Evidence and Research Priorities</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MI Nkollo¹, FC Okwor, C Chibuogwu, NA Onwukwe...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Because the intervention combined a probiotic and prebiotic , the contribution of either component cannot be isolated. ... Oral live probiotics, combined probiotic- prebiotic preparations, and topical bacterial lysates have different mechanisms and should ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Maduabuchukwu-Nkollo/publication/415258657_Microbiome_Based_Interventions_in_Ocular_Disease_Mechanisms_Clinical_Evidence_and_Research_Priorities/links/6ac413afdb7d3b1c53a0cd8a/Microbiome-Based-Interventions-in-Ocular-Disease-Mechanisms-Clinical-Evidence-and-Research-Priorities.pdf"/>
-    <published>2026-10-10T16:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#5</id>
-    <title>Membraneless microdroplets generate thermodynamically distinct states of water under fully hydrated conditions</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Chen, S Watanabe, L Sun, K Adachi, P Sharma...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Water is critical for molecular transport and reactivity in prebiotic environments 1,2. Despite its indispensable nature, this aqueous medium ... for the origin of life and the prebiotic synthesis of biopolymers, such as proteins and nucleic acids 2–4 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009972"/>
-    <published>2026-10-10T16:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#4</id>
-    <title>Lithopanspermia: A Drake-Like Framework for Transfer, Survival, and Establishment</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Keating&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... that panspermia occurred, and it is not to explain the origin of life on Earth. It is to make the hypothesis decomposable enough that Mars can be used as a local constraint on panspermia ... hard- panspermia donor for Earth, extrasolar and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://keating.ai/wp-content/uploads/2026/08/keating-2026-lithopanspermia-framework.pdf"/>
-    <published>2026-10-10T16:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#3</id>
-    <title>The jeewanu story: Rebuilding the beginnings of life</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MS Jyothish, B Dharmapalan&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... protocell is not necessarily alive in the full biological sense. Rather, it is a chemical system that reproduces some of the fundamental characteristics associated with living cells. A genuine protocell ... Haldane, who independently ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="http://eprints.nias.res.in/3471/1/The_Jeewanu_Story-Science_India.pdf"/>
-    <published>2026-10-10T16:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#2</id>
-    <title>Formation of Carbonisocyanatidic Amide in Interstellar Ice Analogs as a Candidate Precursor to Prebiotic Pyrimidines</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Bai, J Lu, B Song, J Yang, Y Pan, Z Li, C Zhu, Z Hu... - The Journal of Physical Chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding how pyrimidine nucleobases form in space is central to prebiotic chemistry, yet the pathways assembling these heterocycles remain unresolved. Carbonisocyanatidic amide (H 2 NC (O) NCO), an acyclic intermediate with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubs.acs.org/jpclcd/article/doi/10.1021/acs.jpclett.6c02249/5444329"/>
-    <published>2026-10-10T16:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#1</id>
-    <title>Microdroplets as drivers of molecular complexity: from prebiotic to synthetic chemistry</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Pryor&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of prebiotic chemical reaction networks, simple systems are unlikely to have existed on the early Earth. Accordingly, chemically diverse mixtures are essential for prebiotic ... Finally, this work extends beyond prebiotic chemistry into synthetic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://dspace.rpi.edu/bitstreams/2e399f9c-06ce-406c-ad3c-77dcec278f45/download"/>
-    <published>2026-10-10T16:57:11+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f0292dd#0</id>
-    <title>Oral toxicity study of kestose, a key prebiotic component of fructooligosaccharide, in Sprague-Dawley rats: A 90-day repeated dose study</title>
-    <updated>2026-10-10T16:57:11+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Sa, S Park, MH Kim, HY Son, GY Lee, CY Kim, Y Heo... - Toxicology Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Kestose, a major component of short-chain fructooligosaccharide, is a prebiotic modulating intestinal microbiota and regulating immune functions. No toxicological studies have been reported on repeated-dose oral intake of kestose produced from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S221475002600154X"/>
-    <published>2026-10-10T16:57:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Bucur, G Buttazzo, A de Villeroché -arXivpreprintarXiv:2610.08072, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We maximize the average torsional rigidity among open subsets of $\mathbb{R}^2$ with fixed inradius whose complements consist of pairwise disjoint balls of fixed radius $\varepsilon$ with mutual distances bounded below. We prove that, provided ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.08072"/>
+    <published>2026-10-10T18:45:27+00:00</published>
   </entry>
 </feed>
