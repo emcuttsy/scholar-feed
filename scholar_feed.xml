@@ -2,41 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-11T18:30:06.676554+00:00</updated>
+  <updated>2026-10-12T14:33:13.471823+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f725a1b#0</id>
-    <title>Quantum dynamics of spin systems using quantum-like resources</title>
-    <updated>2026-10-11T15:21:37+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f95eacb#0</id>
+    <title>Science Writing</title>
+    <updated>2026-10-11T22:11:50+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Saha, E Dickey, W Horvat, S Kais, GD Scholes - arXiv preprint arXiv:2610.07308, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recent publications have introduced the concept of quantum-like (QL) bits, along with their associated QL-states and QL-gate operations, emerging from the dynamics of complex synchronized networks. The present work builds on this framework to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.07308"/>
-    <published>2026-10-11T15:21:37+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Keremane&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... evidence of carbon dioxide on WASP-39 b, a hot exoplanet roughly the size of Jupiter (NASA, 2022). Earlier telescopes had confirmed the ... ability to detect biosignature gases is advancing our understanding of exoplanet habitability, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.oliphantscienceawards.com.au/files/9150_nihal_keremane_james_webb_space_telescope.pdf"/>
+    <published>2026-10-11T22:11:50+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f72592b#0</id>
-    <title>Quantifying the energetic costs and growth benefits of phagocytosis</title>
-    <updated>2026-10-11T15:21:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#9</id>
+    <title>JIPK</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
     <author>
-      <name>Michael Lynch</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PE Schavemaker, KS Tam, M Lynch - Cell Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Phagocytosis, the ingestion of cells by other cells, is ubiquitous among eukaryotic life. It is utilized for food uptake and in the immune response in many species. The origin of phagocytosis and its role in the evolution of endomembranes and the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael Lynch (author alert)</content>
-    <link href="https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01184-8"/>
-    <published>2026-10-11T15:21:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AI Murwantoko, T Herath&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic group showed the highest weight gain, whereas respiratory burst activity and total plasma protein exhibited treatment-dependent ... Taken together, these findings indicate that prebiotic , probiotic, and synbiotic supplementation ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://e-journal.unair.ac.id/JIPK/article/download/86140/40617"/>
+    <published>2026-10-11T22:11:51+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766f72589a#0</id>
-    <title>Association between polygenic liability to depression and lifetime depression in at-risk adolescents</title>
-    <updated>2026-10-11T15:21:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#8</id>
+    <title>Baobab (Adansonia digitata L.) Fruit Pulp in Nutritional Therapeutics: Mechanistic Insights, Clinical Evidence, and Future Research Priorities</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
     <author>
-      <name>Nick Martin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EM Byrne, NA Gillespie, JM Najman, AK Henders... - Molecular Psychiatry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Internalising symptoms including depression, anxiety and somatic symptoms in adolescence are common. They can be transient, but they can also persist and progress to major depressive disorder (MDD) Polygenic risk scores for major ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
-    <link href="https://www.nature.com/articles/s41380-026-03917-5"/>
-    <published>2026-10-11T15:21:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TM Pfukwa, MI Abdulraheem, AO Aremu, OA Fawole - Foods, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... be characterized as having confirmed prebiotic or therapeutic properties. The current evidence supports potential prebiotic and enzyme-inhibitory ... Therefore, we conclude that BFP demonstrates potential prebiotic activity in vitro, but ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2304-8158/15/20/3579"/>
+    <published>2026-10-11T22:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#7</id>
+    <title>Tension-Limited Leaflet-Asymmetry Budding Predicts the Size and Rate of Tumour Ectosome Shedding</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Mikuláš&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... A protocell is tensionless; the plasma membrane of a cancer cell is not, and its apparent tension (σ ∼ 10−5–10−4 Nm−1) imposes an area cost that is absent from the protocell treatment. Replacing the shape-instability criterion with an explicit ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010117"/>
+    <published>2026-10-11T22:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#6</id>
+    <title>Evaluating The Cross-Linking Agents In Modifying Yam Starch For Resistant Starch Type 4 (Rs4) Prebiotic Products in A Succinct Treatise</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BL Nuhu, ET Akinterinwa, A Akinterinwa, PM Dass... - Journal of Natural and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Yam (Dioscorea spp.) is an important staple crop whose starch is widely consumed but is generally susceptible to enzymatic digestion and may contribute to rapid glucose release. Chemical crosslinking offers a potential approach to convert yam ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://cemrj.com/index.php/jnas/article/download/289/325"/>
+    <published>2026-10-11T22:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#5</id>
+    <title>Vesicular Protocells at the Origin of Life : A Critical Review and a Bounded Bio-Inspired Analogy</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HS Bozkurt&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of evolved metabolism are not demonstrated prebiotic building blocks. A publicly posted ... , do not document sterility, and cannot be read as abiogenesis . Even a later, well-controlled ... standards and remain silent on origin - of - life claims; protocell ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/10ca1cb1b6761e0f30244ea20d54223b/download_pub"/>
+    <published>2026-10-11T22:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#4</id>
+    <title>IN VITRO MODELS FOR ASSESSING THE PREBIOTIC POTENTIAL OF GERODIETETIC CEREAL PRODUCTS FOR OLDER ADULTS</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MK Mukhsinovna - Научный Импульс, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic potential has to be characterised in the laboratory. The aim of this work was to analyse the in vitro models used to assess the prebiotic ... In vitro data should be interpreted as evidence of prebiotic potential rather than proof of a health ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://nauchnyimpuls.org/index.php/impuls/article/download/5991/4774"/>
+    <published>2026-10-11T22:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#3</id>
+    <title>Characterization of lentil (Lens culinaris Medik.) core collection for prebiotic carbohydrates, protein content, and antioxidant capacity</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Revanth Ragul, S Gupta, M Aski, P Yadav... - CABI Agriculture and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Lentil (Lens culinaris Medik.) is an important pulse crop with notable functional food properties, characterized by high protein content, low levels of digestible carbohydrates, and a diverse array of bioactive compounds that contribute to human ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/pdf/10.1079/ab.2026.0062"/>
+    <published>2026-10-11T22:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#2</id>
+    <title>Associations of Adjunctive Multistrain Probiotic/ Prebiotic Supplementation with Microbiological Eradication and Semen Parameters in Infertile Men with Male Tract ...</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Grande, A Graziani, R Mazzilli, D Abate, L De Toni... - Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The present study found that adjunctive multistrain probiotic/ prebiotic supplementation was ... Our findings suggest that the multistrain probiotic/ prebiotic intervention may be associated ... This finding suggests that the potential benefit of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2075-1729/16/10/1683"/>
+    <published>2026-10-11T22:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#1</id>
+    <title>Seaweed Polysaccharides as Prebiotic Candidates: Structural Diversity, Gut Microbiome Modulation, and Sustainability Potential</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RK Gopal, PS Ganesh, NN Pathoor - Food Hydrocolloids, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The human gut microbiome represents a dynamic metabolic ecosystem critically linked to health and disease. Dysbiosis, a microbial imbalance, drives metabolic disorders, chronic inflammation, and neurodegeneration, necessitating innovative ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0268005X26010672"/>
+    <published>2026-10-11T22:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766f95ea4f#0</id>
+    <title>Coacervation in soft matter: Physicochemical principles and prebiotic implications</title>
+    <updated>2026-10-11T22:11:51+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Guzmán, A Maestro - Advances in Colloid and Interface Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Coacervation is a liquid-liquid phase separation process in which macromolecular, amphiphilic, macroionic, or colloidal components spontaneously demix into a dense coacervate phase and a dilute surrounding phase. In this review, we use the term in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0001868626002927"/>
+    <published>2026-10-11T22:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766fa8ba39#2</id>
+    <title>The contribution of Soviet scientists to the emergence of high-energy neutrino astrophysics: from the Cherenkov effect to underwater and in-ice telescopes</title>
+    <updated>2026-10-11T23:25:01+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Rizoi -arXivpreprintarXiv:2610.09507, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The 2026 Nobel Prize in Physics was awarded to Francis Halzen @for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin.@ This article examines the Soviet contribution to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.09507"/>
+    <published>2026-10-11T23:25:01+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766fa8ba39#1</id>
+    <title>Direct Numerical Comparison of Data Driving Strategies for Solar Flux Emergence in Magnetohydrodynamics: B-driving vs E-driving</title>
+    <updated>2026-10-11T23:25:01+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KC Tapinou, A Raboonik, DI Pontin, MS Wheatland... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We focus on simulating magnetic flux emergence through the lower z-boundary. We use a relatively simple treatment of the thermodynamic properties (density, velocity, and pressure): this limitation of the present work reflects the limited ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.11182"/>
+    <published>2026-10-11T23:25:01+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766fa8ba39#0</id>
+    <title>Wind-Fed Magnetic Flux and the Emergence of X-ray Coronae in Active Galactic Nuclei</title>
+    <updated>2026-10-11T23:25:01+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Mbarek -arXivpreprintarXiv:2610.10681, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We propose a scenario for the onset of radiatively efficient Active Galactic Nuclei (AGN) in which circumnuclear stellar and supernova-driven winds supply mass and partially ordered magnetic flux to a compact disk reservoir around a supermassive ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.10681"/>
+    <published>2026-10-11T23:25:01+00:00</published>
   </entry>
 </feed>
