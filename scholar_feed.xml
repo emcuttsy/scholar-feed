@@ -2,140 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-13T13:39:08.257128+00:00</updated>
+  <updated>2026-10-14T18:12:12.274231+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e7eb0ec#0</id>
-    <title>Cooperation and Communication</title>
-    <updated>2026-10-13T06:47:51+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766d630580#0</id>
+    <title>Elimination of Alignment and Manufacturing Tolerances Using an Antisymmetric Metamaterial Approach</title>
+    <updated>2026-10-14T12:34:05+00:00</updated>
     <author>
-      <name>Eörs Szathmáry</name>
+      <name>Peter Banzer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ESzathmáry, JM Smith&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; TOGETHERNESS creatures. As we saw in the previous chapter, many of the capacities that enable human caring for others are shared with other animals. Emotional infection, motor mimicry, immediate concern for others who are suffering ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=yooXEgAAQBAJ&amp;oi=fnd&amp;pg=PA168&amp;dq=E%C3%B6rs+Szathm%C3%A1ry&amp;ots=mmFXyncyBB&amp;sig=iUAZMaEUPeQQo8k9Mk1WKeFP2Xs"/>
-    <published>2026-10-13T06:47:51+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Töfferl, A Schossmann, J Eismann, P Banzer... - 2026 Twentieth International ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this work we propose an antisymmetric dual-layer metamaterial approach to compensate for material thickness variations which have a parasitic influence on an in-plane shift-based sensor effect. The manufacturing of millimeter-wave ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Peter Banzer (author alert)</content>
+    <link href="https://ieeexplore.ieee.org/abstract/document/11718714/"/>
+    <published>2026-10-14T12:34:05+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e7eb005#0</id>
-    <title>Cooperation and Communication</title>
-    <updated>2026-10-13T06:47:52+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766dab72f4#0</id>
+    <title>The value of information and the emergence of communication in evolved e-puck robots</title>
+    <updated>2026-10-14T18:07:48+00:00</updated>
     <author>
-      <name>Eörs Szathmáry</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Szathmáry, JM Smith&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; TOGETHERNESS creatures. As we saw in the previous chapter, many of the capacities that enable human caring for others are shared with other animals. Emotional infection, motor mimicry, immediate concern for others who are suffering ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=yooXEgAAQBAJ&amp;oi=fnd&amp;pg=PA168&amp;dq=%22E%C3%B6rs+Szathm%C3%A1ry%22&amp;ots=mmFXyncyBB&amp;sig=iUAZMaEUPeQQo8k9Mk1WKeFP2Xs"/>
-    <published>2026-10-13T06:47:52+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#9</id>
-    <title>First-Principles Discovery of Reaction Mechanisms and High-Performance Computational Tools for Minimum Energy Pathway Tracing</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Park&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The exploration of potential energy surfaces (PESs) is essential for understanding chemical reaction mechanisms, yet the high dimensionality and complexity of PESs make locating minimum-energy pathways (MEPs) challenging. This thesis develops ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://search.proquest.com/openview/bb209ad9987900a12f24d89d265da0e3/1?pq-origsite=gscholar&amp;cbl=18750&amp;diss=y"/>
-    <published>2026-10-13T07:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#8</id>
-    <title>Gut-Derived Bacillus subtilis UBA1 from Hemibagrus nemurus: Improvement Insights in Growth, Nutrient Utilization, Intestinal Structure, Microbial Composition, and ...</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Mujtahidah, SSQ Tartila, M Azril, AHC Haditomo... - Aquaculture Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... subtilis UBA1 may be further enhanced by combining it with molasses, a low-cost carbon source recognized as a potential prebiotic in aquaculture. Dietary supplementation with molasses at 10–20 mL·kg−1 diet has been reported to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2673-9496/6/4/47"/>
-    <published>2026-10-13T07:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#7</id>
-    <title>Enzyme-Based Technologies for the Generation of Emerging</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Simović, M Ćorović, A Milivojević - ... Roles, and Disease Prevention Potential: Health ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The first evidence of enzymatic prebiotic synthesis dates back to Wallenfels and Malhotra, who described the β -galactosidase-catalyzed transglycosylation producing GOS from lactose–long before the prebiotic concept was defined [8] ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=ITwZEgAAQBAJ&amp;oi=fnd&amp;pg=PA201&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=5-wouWxlxy&amp;sig=KB2cWb50NOPSzwGNGj4K5bODLWU"/>
-    <published>2026-10-13T07:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#6</id>
-    <title>Probiotics Synergy: Toward an Integrated Nutritional Approach</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Moummou, I Britel, A Hanbali, MN Zniber, OA Youne - ... , Therapeutic Roles, and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Garlic-derived compounds serve as prebiotic substrates enhancing probiotic activity, while probiotics improve the absorption and bioactivity of garlic metabolites. Evidence from experimental and early clinical studies indicates benefits such as ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=ITwZEgAAQBAJ&amp;oi=fnd&amp;pg=PA129&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=5-wouWxlxy&amp;sig=37M4ibO7XfyqGETbfjkDWaFqLYs"/>
-    <published>2026-10-13T07:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#5</id>
-    <title>Switching ATP‐Forming Phosphoryl‐Transfer Chemistry With a Restricted Set of Amino Acids</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Yagi, S Dasgupta, S Tagami, S Akanuma - Angewandte Chemie, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the emergence of functional enzymatic chemistry from prebiotic systems. The plausibility of primitive protein synthesis using the prebiotic set of amino acids has been supported by multiple lines of evidence. The set of prebiotic amino acids have ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/ange.2166480"/>
-    <published>2026-10-13T07:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#4</id>
-    <title>The Skinny Coffee Formula Explained</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EUR Austria, EUR Belgium, EUR Bulgaria...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It combines real instant coffee and guarana for energy, a prebiotic fibre and a viscous fibre ... A controlled study in healthy adults found that consuming a prebiotic mix including inulin-type ... A broader review of the health effects of prebiotic fibres ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://smoots.co/pages/skinny-coffee-formula-explained"/>
-    <published>2026-10-13T07:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#3</id>
-    <title>The combination of yeast cell wall and Heyndrickxia coagulans SANK70258 maximized butyrate production in an in vitro gut model</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Noda, M Aida, A Sakamoto, S Yokoi, M Miyago... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Based on the results presented, we suggest that the simultaneous supplementation with YCW as a prebiotic and COA as a probiotic in a synbiotic formulation may result in relevant benefits for human gut health. The two additives ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-74909-2_reference.pdf"/>
-    <published>2026-10-13T07:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#2</id>
-    <title>Constipation and the gut: what the research actually says</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Calculator, T Winnow&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic is doing most of the work; the probiotic adds to it. ... effects in constipation are small, strain-specific, and often require a prebiotic partner to show up robustly. ... constipation, synbiotic formulations with a well-matched prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://journal.winnowlabs.com/health/constipation-and-the-gut-what-the-research-actually-says"/>
-    <published>2026-10-13T07:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#1</id>
-    <title>Unified Thermodynamic and Information-Theoretic Resolution of the Three Grand Mysteries of Natural Science: An Extension of the Hamouda Informational Gravity ...</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Hamouda&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Finally, we model prebiotic polymer configuration as an optimization of localized bit-density, providing a fundamental thermodynamic mechanism for the asymmetric autocatalytic symmetry breaking validated by the 2026 Nobel Prize in Chemistry (Kagan ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Samir-Hamouda/publication/415394009_Unified_Thermodynamic_and_Information-Theoretic_Resolution_of_the_Three_Grand_Mysteries_of_Natural_Science_An_Extension_of_the_Hamouda_Informational_Gravity_Model_HIGM/links/6ac7683cb43d142169d0cf0f/Unified-Thermodynamic-and-Information-Theoretic-Resolution-of-the-Three-Grand-Mysteries-of-Natural-Science-An-Extension-of-the-Hamouda-Informational-Gravity-Model-HIGM.pdf"/>
-    <published>2026-10-13T07:58:08+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766e74e278#0</id>
-    <title>Temperature-dependent Hydrocarbon Chain Packing in Fatty Acid Protocell Membranes at Mineral Interfaces</title>
-    <updated>2026-10-13T07:58:08+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Harada, Y Murakami, HE Lee, Y Li, A Cooney...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Fatty acid vesicles generated through water-rock interactions have been proposed as plausible models of protocells on early Earth. However, how mineral surfaces influence membrane properties over a wide range of temperatures remains unclear ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010154"/>
-    <published>2026-10-13T07:58:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Montes-Gonzalez -arXivpreprintarXiv:2610.13118, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study when communication emerges between autonomous agents and what role an innate action selection architecture plays. Two e-puck robots, reconstructed in PyBullet from their Webots model and validated against it, must find a feeding ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.13118"/>
+    <published>2026-10-14T18:07:48+00:00</published>
   </entry>
 </feed>
