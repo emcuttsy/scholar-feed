@@ -2,30 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-14T18:12:12.274231+00:00</updated>
+  <updated>2026-10-15T10:55:51.832460+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766d630580#0</id>
-    <title>Elimination of Alignment and Manufacturing Tolerances Using an Antisymmetric Metamaterial Approach</title>
-    <updated>2026-10-14T12:34:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#9</id>
+    <title>Microalgae-based probiotic vesicles delivery system for the treatment of inflammatory bowel disease</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
     <author>
-      <name>Peter Banzer</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Töfferl, A Schossmann, J Eismann, P Banzer... - 2026 Twentieth International ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this work we propose an antisymmetric dual-layer metamaterial approach to compensate for material thickness variations which have a parasitic influence on an in-plane shift-based sensor effect. The manufacturing of millimeter-wave ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Peter Banzer (author alert)</content>
-    <link href="https://ieeexplore.ieee.org/abstract/document/11718714/"/>
-    <published>2026-10-14T12:34:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Yang, M Zhao, Y Li, X Lu, T Pei, T Tian, B Xue... - Chemical Engineering ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Disruption of the intestinal barrier causes imbalances in gut immunity and microbiota homeostasis, is a core cause of the initiation and progression of inflammatory bowel disease (IBD). This study introduced Akkermansia muciniphila outer membrane ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1385894726104872"/>
+    <published>2026-10-14T20:19:26+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dab72f4#0</id>
-    <title>The value of information and the emergence of communication in evolved e-puck robots</title>
-    <updated>2026-10-14T18:07:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#8</id>
+    <title>High-pressure processing and thermal pasteurization of blueberry purée-based baby food differentially modulate polyphenol bioaccessibility and intestinal cell ...</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Montes-Gonzalez -arXivpreprintarXiv:2610.13118, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We study when communication emerges between autonomous agents and what role an innate action selection architecture plays. Two e-puck robots, reconstructed in PyBullet from their Webots model and validated against it, must find a feeding ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.13118"/>
-    <published>2026-10-14T18:07:48+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Mazurkiewicz, M Matusiewicz, E Wojcik-Gront... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Proper processing of baby foods, ensuring both safety and the highest possible nutrient retention and bioaccessibility, is of particular importance for the health and development of infants and young children. In this study, blueberry purée-based ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41598-026-74122-1"/>
+    <published>2026-10-14T20:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#7</id>
+    <title>Isomerization and Fragmentation in the C 4 H 4 N System in Titan's Atmosphere</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NM Azyazov, LI Krikunova, IO Antonov, VN Azyazov - Astronomy Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this study, optimized geometries and energies of compounds on the potential energy surface (PES) of the C 4 H 4 N molecular system are found using electronic structure calculations at the ωB97X-D density functional theory level with the cc-pVTZ ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journals.rcsi.science/0004-6299/article/view/477707"/>
+    <published>2026-10-14T20:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#6</id>
+    <title>What Is Nothing? The Underivability of Generators, and the Window Between Two Silences</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Gupta - Founder's Notebook, Earth5R, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Read forward, it becomes the story of where the substance of life came from (the interiors of dead stars), why stars and planets look dead while Earth is alive (life is dissipation plus heritable memory; dissipation is everywhere, memory is rare), how ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://earth5r.org/what-is-nothing/"/>
+    <published>2026-10-14T20:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#5</id>
+    <title>Real Operations Beyond the Search for Minimal Life Observation, Generation, Reconfiguration, Extraterrestrial Configurations, and Xenoscience</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Fujie&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper investigates real operational configurations beyond the search for a universally minimal form of life. It examines how material processes emerge, persist, branch, recombine, terminate, and alter subsequent possibilities across ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philpapers.org/rec/FUJROB"/>
+    <published>2026-10-14T20:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#4</id>
+    <title>7th ELSI Symposium on" Comparative Emergence" from 8-11 January 2019 at the Tokyo Institute of Technology.</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Utama, W Unisba&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Two of the characteristic features of life are (1) self-replication and (2) homochirality of the components such as L-amino acids and D-sugars. Both (1) and (2) are not just branch aspects villanova basketball of the origin of life but are prerequisites for the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://media.unisba.ac.id/7565350a/e1dbe421A2T_b0j7FMQ"/>
+    <published>2026-10-14T20:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#3</id>
+    <title>Feeding Effect and Antioxidant Capacity of Fermentation Broths Based on Strain‐Specific Utilization of Poria cocos Polysaccharide Derivatives</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Li, P Yan, J Luo, X Peng - Journal of Food Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study investigated the prebiotic properties of the supernatant from gluconic acid-hydrolyzed alkali-soluble Poria cocos polysaccharide (s-GA-PCP). s-GA-PCP directly promoted the proliferation of Bifidobacterium and Lactobacillus strains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.71567"/>
+    <published>2026-10-14T20:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#2</id>
+    <title>What Came Before Cells? The Chemistry Behind Life's Origins</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MRB Ferrari&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Different origin - of - life hypotheses place different emphasis on these ingredients. Metabolism - first models explore how networks of chemical ... It does not establish that all metabolism - first scenarios are impossible, or prove that an RNA world was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://enzymenews.com/origin-puzzle-cells-or-enzymes-first/"/>
+    <published>2026-10-14T20:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#1</id>
+    <title>Prebiotic -supplemented partially hydrolysed cow's milk formula for the prevention of eczema in high risk infants: a randomised controlled trial RJ Boyle1, 2*, M. LK ...</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Warner - METHODS&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... . There are differences between our trial and the previous successful prebiotic trials. First the use of partially hydrolysed formula, which itself may have immune effects and therefore interact with prebiotic effects and this may alter any effect of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/0b01502b-2e76-49ae-81a9-8f9846491659/content"/>
+    <published>2026-10-14T20:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766dba5033#0</id>
+    <title>Anti‐Browning and Prebiotic Effects of White Tea Extract on Fresh‐Cut Lotus Root</title>
+    <updated>2026-10-14T20:19:26+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Li, C Xing, F Jiang, X Liu - Food Science &amp; Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The enzymatic browning of fresh‐cut lotus root, mediated by polyphenol oxidase (PPO), severely limits its shelf life and commercial value. This study investigated the molecular mechanism of lotus root browning and evaluated the prebiotic potential of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/fsn3.72464"/>
+    <published>2026-10-14T20:19:26+00:00</published>
   </entry>
 </feed>
