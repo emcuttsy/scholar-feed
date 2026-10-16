@@ -2,118 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-15T10:55:51.832460+00:00</updated>
+  <updated>2026-10-16T10:47:55.323071+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#9</id>
-    <title>Microalgae-based probiotic vesicles delivery system for the treatment of inflammatory bowel disease</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c6139b0#0</id>
+    <title>Compositions of fluorinated fluids and fluorinated surfactants with densities near unity</title>
+    <updated>2026-10-15T19:24:54+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Steven A. Benner</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Yang, M Zhao, Y Li, X Lu, T Pei, T Tian, B Xue... - Chemical Engineering ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Disruption of the intestinal barrier causes imbalances in gut immunity and microbiota homeostasis, is a core cause of the initiation and progression of inflammatory bowel disease (IBD). This study introduced Akkermansia muciniphila outer membrane ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1385894726104872"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Laos, S Benner - US Patent 12,698,363, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; US12698363B1 - Compositions of fluorinated fluids and fluorinated surfactants with densities near unity - Google Patents US12698363B1 - Compositions of fluorinated fluids and fluorinated surfactants with densities near unity - Google Patents Compositions of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Steven A. Benner (author alert)</content>
+    <link href="https://patents.google.com/patent/US12698363B1/en"/>
+    <published>2026-10-15T19:24:54+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#8</id>
-    <title>High-pressure processing and thermal pasteurization of blueberry purée-based baby food differentially modulate polyphenol bioaccessibility and intestinal cell ...</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c61397b#0</id>
+    <title>Some remarks on the connection between generative diffusion and optimal transport</title>
+    <updated>2026-10-15T19:24:54+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Marc Mezard</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Mazurkiewicz, M Matusiewicz, E Wojcik-Gront... - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Proper processing of baby foods, ensuring both safety and the highest possible nutrient retention and bioaccessibility, is of particular importance for the health and development of infants and young children. In this study, blueberry purée-based ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-74122-1"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G Biroli, M Mézard - arXiv preprint arXiv:2610.13614, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We discuss three simple connections between generative diffusion and optimal transport. First, the joint law of the data and of their Ornstein-Uhlenbeck noising is, at every time, the solution of an entropic optimal-transport problem, at a temperature set ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Marc Mezard (author alert)</content>
+    <link href="https://arxiv.org/pdf/2610.13614"/>
+    <published>2026-10-15T19:24:54+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#7</id>
-    <title>Isomerization and Fragmentation in the C 4 H 4 N System in Titan's Atmosphere</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c613895#0</id>
+    <title>Exploring tumorigenesis as a process of phenotypic state-space exploration and selective funneling</title>
+    <updated>2026-10-15T19:24:56+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Michael L Wong</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NM Azyazov, LI Krikunova, IO Antonov, VN Azyazov - Astronomy Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this study, optimized geometries and energies of compounds on the potential energy surface (PES) of the C 4 H 4 N molecular system are found using electronic structure calculations at the ωB97X-D density functional theory level with the cc-pVTZ ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://journals.rcsi.science/0004-6299/article/view/477707"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Thomas, ML Wong, RM Hazen, AM Dujon, K Asselin... - Evolution, Medicine, and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Tumorigenesis is widely studied within evolutionary frameworks, yet integrating genetic, non-genetic, spatial, and collective tumor-level dynamics into a unified description remains challenging. Here, we propose that tumorigenesis can be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michael L Wong (author alert)</content>
+    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13623535/"/>
+    <published>2026-10-15T19:24:56+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#6</id>
-    <title>What Is Nothing? The Underivability of Generators, and the Window Between Two Silences</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c933aa3#0</id>
+    <title>Mitochondrial Psychobiology</title>
+    <updated>2026-10-16T02:45:07+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Chris Kempes</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Gupta - Founder's Notebook, Earth5R, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Read forward, it becomes the story of where the substance of life came from (the interiors of dead stars), why stars and planets look dead while Earth is alive (life is dissipation plus heritable memory; dissipation is everywhere, memory is rare), how ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://earth5r.org/what-is-nothing/"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., M Hirano, F Hollis, DP Kelly, CKempes... - ... &amp; Biobehavioral Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A field that uses mitochondria to unify biological and psychological sciences and to better understand the basis of health has emerged— Mitochondrial Psychobiology . Mitochondria are the body's cellular hubs for energy transformation and signaling ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Chris Kempes (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S014976342600494X"/>
+    <published>2026-10-16T02:45:07+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#5</id>
-    <title>Real Operations Beyond the Search for Minimal Life Observation, Generation, Reconfiguration, Extraterrestrial Configurations, and Xenoscience</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#9</id>
+    <title>Extraction, characterization, and toxicity evaluation of levan from marine bacterium Priestia aryabhattai LEV207 using brine shrimp model</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Fujie&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper investigates real operational configurations beyond the search for a universally minimal form of life. It examines how material processes emerge, persist, branch, recombine, terminate, and alter subsequent possibilities across ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philpapers.org/rec/FUJROB"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PO Prakash, K Rayasam, KV Chaitanya - Archives of Microbiology, 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... EPSPAL207 promoted the growth of Lactobacillus rhamnosus, a probiotic microorganism, suggesting potential prebiotic activity. The brine ... They are commonly used as thickeners, prebiotic substrates, fat replacers, and texture ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s00203-026-05246-1"/>
+    <published>2026-10-16T02:45:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#4</id>
-    <title>7th ELSI Symposium on" Comparative Emergence" from 8-11 January 2019 at the Tokyo Institute of Technology.</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#8</id>
+    <title>Safety evaluation of a β-fructofuranosidase enzyme preparation from Aspergillus fijiensis SYG-K1 for the production of 1-kestose-enriched short-chain ...</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Utama, W Unisba&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Two of the characteristic features of life are (1) self-replication and (2) homochirality of the components such as L-amino acids and D-sugars. Both (1) and (2) are not just branch aspects villanova basketball of the origin of life but are prerequisites for the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://media.unisba.ac.id/7565350a/e1dbe421A2T_b0j7FMQ"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Lee, S Ahn, J Kim, S Lim, BS Park, D Kim - Food Additives &amp; Contaminants: Part A, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Short-chain fructooligosaccharides (scFOS) are prebiotic food ingredients, and 1-kestose-enriched preparations are of interest because of their defined short-chain composition. This study evaluated a β-fructofuranosidase preparation from Aspergillus fijiensis SYG-K1 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.tandfonline.com/doi/abs/10.1080/19440049.2026.2747799"/>
+    <published>2026-10-16T02:45:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#3</id>
-    <title>Feeding Effect and Antioxidant Capacity of Fermentation Broths Based on Strain‐Specific Utilization of Poria cocos Polysaccharide Derivatives</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#7</id>
+    <title>Is Life Organized Energy? A Quantitative and Falsifiable Probe of Biological Organization</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Li, P Yan, J Luo, X Peng - Journal of Food Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study investigated the prebiotic properties of the supernatant from gluconic acid-hydrolyzed alkali-soluble Poria cocos polysaccharide (s-GA-PCP). s-GA-PCP directly promoted the proliferation of Bifidobacterium and Lactobacillus strains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.71567"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Quiroga&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of which would refute its central premise, and by discussing consequences for origin - of - life research and astrobiological biosignature interpretation. ... Section 12 discusses astrobiological and origin - of - life implications, Section 13 addresses ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Elio-Quiroga/publication/415561275_Is_Life_Organized_Energy_A_Quantitative_and_Falsifiable_Probe_of_Biological_Organization_From_Arthur_C_Clarke's_Aphorism_to_a_Testable_Nonequilibrium_Framework/links/6acbb8caf9097a6998ab51b1/Is-Life-Organized-Energy-A-Quantitative-and-Falsifiable-Probe-of-Biological-Organization-From-Arthur-C-Clarkes-Aphorism-to-a-Testable-Nonequilibrium-Framework.pdf"/>
+    <published>2026-10-16T02:45:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#2</id>
-    <title>What Came Before Cells? The Chemistry Behind Life's Origins</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#6</id>
+    <title>Evaluation of Vitamin C Content and Antioxidant Activities of Kombucha Fermented with Different Herbal Substrates</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MRB Ferrari&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Different origin - of - life hypotheses place different emphasis on these ingredients. Metabolism - first models explore how networks of chemical ... It does not establish that all metabolism - first scenarios are impossible, or prove that an RNA world was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://enzymenews.com/origin-puzzle-cells-or-enzymes-first/"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Kholifah, S Aini, S Kurniasih, AW Janah, MS Bikri... - Annales Bogorienses, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Kombucha is a prebiotic of non-dairy products. It is made from fermented plant-based infusion using symbiotic culture of bacteria and yeast (SCOBY). During the fermentation process, ... This resut indicated that kombucha has potency to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://ejournal.brin.go.id/annales/article/download/16860/13258"/>
+    <published>2026-10-16T02:45:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#1</id>
-    <title>Prebiotic -supplemented partially hydrolysed cow's milk formula for the prevention of eczema in high risk infants: a randomised controlled trial RJ Boyle1, 2*, M. LK ...</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#5</id>
+    <title>CHEMICAL COMPOSITION AND BIOLOGICAL ACTIVITIES OF PHLOMOIDES ISOCHILA AND PHLOMOIDES CANESCENS: PHYTOCHEMICAL ANALYSIS AND ...</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Warner - METHODS&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... . There are differences between our trial and the previous successful prebiotic trials. First the use of partially hydrolysed formula, which itself may have immune effects and therefore interact with prebiotic effects and this may alter any effect of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/0b01502b-2e76-49ae-81a9-8f9846491659/content"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Akbarali o'g'li - Arabian journal of science., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This article reviews the chemical composition, biologically active compounds, and pharmacological research prospects of Phlomoides isochila and Phlomoides canescens, members of the Lamiaceae family, on the basis of available scientific ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="http://www.arabianjournalofscience.com/index.php/AJSI/article/view/1232"/>
+    <published>2026-10-16T02:45:08+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766dba5033#0</id>
-    <title>Anti‐Browning and Prebiotic Effects of White Tea Extract on Fresh‐Cut Lotus Root</title>
-    <updated>2026-10-14T20:19:26+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#4</id>
+    <title>Interfacial microenvironments enable abiotic ribonucleoside formation in micro-and nanoscale compartments</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Li, C Xing, F Jiang, X Liu - Food Science &amp; Nutrition, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The enzymatic browning of fresh‐cut lotus root, mediated by polyphenol oxidase (PPO), severely limits its shelf life and commercial value. This study investigated the molecular mechanism of lotus root browning and evaluated the prebiotic potential of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/fsn3.72464"/>
-    <published>2026-10-14T20:19:26+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Q Liu, X Zhao, JK Lee, RN Zare - Proceedings of the National Academy of Sciences, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... By linking G/O/W or G/W bubbles, liposomes, and microemulsions through a common principle of interfacial organization, this work suggests that diverse prebiotic interfaces could have provided permissive reaction spaces for the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2624803123"/>
+    <published>2026-10-16T02:45:08+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#3</id>
+    <title>The RNA/Protein Symmetry Hypothesis: Implications for the Origin of the Genetic Code</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Nashimoto&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In 2001, I have proposed the RNA/protein symmetry theory for the origin of life , in which both RNAs and proteins coevolved forming a stable metabolic complex from the very beginning of the origin of life . In this theory, the genetic information can be ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.preprints.org/manuscript/202610.1258"/>
+    <published>2026-10-16T02:45:08+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#2</id>
+    <title>Estimates for the Prebiotic Reaction Volume Necessary for the Origin of Life</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Juckett - Life, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... size necessary for successful prebiotic chemistry. Reaction and memory volumes have received little attention in the origin - of - life field. This may ... Because of their small volumes, each of these environments must embody the implicit assumption ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2075-1729/16/10/1708"/>
+    <published>2026-10-16T02:45:08+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#1</id>
+    <title>Macromolecular and microstructural evolution of enzymatically purified banana albedo dietary fiber during ripening: Targeted valorization for functional and prebiotic ...</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Sangkasanya, JJB Ramirez, CDG Inocencio... - Food Chemistry: X, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The macromolecular and microstructural properties of enzymatically purified dietary fiber (EPDF) from banana albedo were affected by ripening. EPDF samples at mature green (MG), yellow green (YG), and fully yellow (FY) stages were compared ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2590157526011454"/>
+    <published>2026-10-16T02:45:08+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766c933a55#0</id>
+    <title>Multi-omics comparison of Rhodotus palmatus and Armillaria mellea reveals distinct metabolomic profiles and prebiotic potential of their polysaccharides</title>
+    <updated>2026-10-16T02:45:08+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Gao, M Shan, T Wang, Y Wang, Y Liu, X Wang - Food Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... prebiotic effectiveness of RP-CP and AM-CP compared to established prebiotic standards (eg, inulin or fructooligosaccharides) was not evaluated in this study, as no positive prebiotic ... Future comparative studies against recognized prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0308814626036113"/>
+    <published>2026-10-16T02:45:08+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766c914e8e#0</id>
+    <title>Re- emergence of fingering in solidifying liquid-metal drops</title>
+    <updated>2026-10-16T03:06:23+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Zhang, F Wang, Y Ma, H Jiang, KL Chong, Q Zhou... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Solidification is expected to suppress fingering by removing mobile liquid. Here we report an unexpected re- emergence of fingering in impacting molten-tin drops: cooling first weakens peripheral fingers, but stronger undercooling restores them. At ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.13533"/>
+    <published>2026-10-16T03:06:23+00:00</published>
   </entry>
 </feed>
