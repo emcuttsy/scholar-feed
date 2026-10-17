@@ -2,195 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-17T10:13:14.699779+00:00</updated>
+  <updated>2026-10-17T16:42:51.758220+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76635fb912#0</id>
-    <title>Top-down and bottom-up neuroscience: Overcoming the clash of research cultures in neuroscience</title>
-    <updated>2026-10-17T04:18:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76637680df#4</id>
+    <title>Spectral signatures of spin textures and the emergence of a pseudogap</title>
+    <updated>2026-10-17T11:29:09+00:00</updated>
     <author>
-      <name>Luiz Pessoa</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FE Rosas, AI Luppi, PAM Mediano, ML Kringelbach...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; What should neuroscientific progress look like? As scientists, we want solid answers, but we also want to answer questions that matter. However, the inherent complexity of the brain forces a trade-off between these desiderata, bringing about two distinct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Luiz Pessoa (author alert)</content>
-    <link href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/4d79a052-1be8-4f4a-b61f-b23cadd404eb/content"/>
-    <published>2026-10-17T04:18:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Quinzi, A Pintus, T Chiarotti, M Capone, N Marzari -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Periodic solids with strongly interacting electrons display phenomena -- from Mott localization to high-temperature superconductivity -- that escape conventional band theory. Efforts to address this unconventional physics have been typically cast in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.19269"/>
+    <published>2026-10-17T11:29:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76635fb884#0</id>
-    <title>Devaluation underlies gendered US faculty departures across disciplines and institutions</title>
-    <updated>2026-10-17T04:18:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76637680df#3</id>
+    <title>Emergence of quantum transport in SnTe films upon structural refinement</title>
+    <updated>2026-10-17T11:29:09+00:00</updated>
     <author>
-      <name>Aaron Clauset</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Spoon, J Mendy, M Martinez, M Galesic... - PNAS Nexus, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Women faculty experience academia differently from men in many ways, which can lead them to consider leaving their positions. Using a large-scale survey of both current and former tenure-line faculty across nearly all US PhD-granting institutions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Aaron Clauset (author alert)</content>
-    <link href="https://academic.oup.com/pnasnexus/article/5/10/pgag306/8907487"/>
-    <published>2026-10-17T04:18:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Sharma, R Basnet, T Parker, A Akinfaderin... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Topological crystalline insulators are distinguished from the conventional Z2 topological insulators by crystalline symmetry protection of the surface states. Quantitative characterization of these states requires magneto-transport ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.14233"/>
+    <published>2026-10-17T11:29:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76635fb87c#0</id>
-    <title>Mitochondrial Psychobiology</title>
-    <updated>2026-10-17T04:18:29+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76637680df#2</id>
+    <title>From Policy Evaluation to Off-Policy Control: Provable Emergence of In-Context Q-Learning</title>
+    <updated>2026-10-17T11:29:09+00:00</updated>
     <author>
-      <name>Nick Lane</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AC Andreazza, A Behnke, JP Bolanos, J de Juan-Sanz... - ... &amp; Biobehavioral Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A field that uses mitochondria to unify biological and psychological sciences and to better understand the basis of health has emerged—Mitochondrial Psychobiology. Mitochondria are the body's cellular hubs for energy transformation and signaling ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Lane (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S014976342600494X"/>
-    <published>2026-10-17T04:18:29+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Mo, Y Zhao, F Kong -arXivpreprintarXiv:2610.18057, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Transformers can implement reinforcement-learning algorithms in context, yet how off-policy control emerges within Transformers remains poorly understood. We study Q-learning, a foundational model-free control algorithm that combines off-policy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.18057"/>
+    <published>2026-10-17T11:29:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76635fb818#1</id>
-    <title>Stability and change in attention problems across development: The emerging role of impulsivity in adulthood in a longitudinal twin study</title>
-    <updated>2026-10-17T04:18:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76637680df#1</id>
+    <title>Emergence of Nonlocal Hydrodynamics in Many-Body Radiative Heat Transport</title>
+    <updated>2026-10-17T11:29:09+00:00</updated>
     <author>
-      <name>Erik Willcutt</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CA McGhee-Deakin, DE Gustavson, CA Reynolds... - Development and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Attention problems (AP) remain relatively stable across childhood and adolescence, but shift in adulthood, with declining hyperactivity but persisting impulsivity. This pattern suggests that adult AP reflect both continuity of earlier symptoms and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erik Willcutt (author alert)</content>
-    <link href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3A4E8FAD575D0C0CB1DBF44EC37F248A/S0954579426101989a.pdf/div-class-title-stability-and-change-in-attention-problems-across-development-the-emerging-role-of-impulsivity-in-adulthood-in-a-longitudinal-twin-study-div.pdf"/>
-    <published>2026-10-17T04:18:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MG Viloria, F Herz, R Messina, P Ben-Abdallah -arXivpreprintarXiv:2610.16488, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We develop a nonlocal hydrodynamic theory of radiative heat transport in many-body systems by coarse graining their microscopic electrodynamic interactions. Long-range radiative exchange naturally generates a spatially nonlocal constitutive relation in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.16488"/>
+    <published>2026-10-17T11:29:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76635fb818#0</id>
-    <title>Does ADHD Moderate Classroom-Level Effects on Early Literacy?</title>
-    <updated>2026-10-17T04:18:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76637680df#0</id>
+    <title>Emergence of high-mass stars in complex fiber networks (EMERGE) VII. Multi-Tracer Column Density Synthesis</title>
+    <updated>2026-10-17T11:29:09+00:00</updated>
     <author>
-      <name>Erik Willcutt</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Coventry, E Cooper, B Byrne, R Olson, E Willcutt... - Twin Research and Human ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Prior literature using twin pairs in the same or different classes found classroom effects accounted for between 8% and 2− 3% of the variability in literacy achievement depending on the method, grade, or measure used. The current study ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Neurodiversity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erik Willcutt (author alert)</content>
-    <link href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4AC794C460E10F14CBDCE96749A9F76D/S1832427426100978a.pdf/does_adhd_moderate_classroomlevel_effects_on_early_literacy.pdf"/>
-    <published>2026-10-17T04:18:30+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76635fb7d0#0</id>
-    <title>Top-down and bottom-up neuroscience: Overcoming the clash of research cultures in neuroscience</title>
-    <updated>2026-10-17T04:18:32+00:00</updated>
-    <author>
-      <name>Fernando E. Rosas</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FE Rosas, AI Luppi, PAM Mediano, ML Kringelbach...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; What should neuroscientific progress look like? As scientists, we want solid answers, but we also want to answer questions that matter. However, the inherent complexity of the brain forces a trade-off between these desiderata, bringing about two distinct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/4d79a052-1be8-4f4a-b61f-b23cadd404eb/content"/>
-    <published>2026-10-17T04:18:32+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76635fb771#0</id>
-    <title>Top-down and bottom-up neuroscience: Overcoming the clash of research cultures in neuroscience</title>
-    <updated>2026-10-17T04:18:33+00:00</updated>
-    <author>
-      <name>Federico Turkheimer</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FE Rosas, AI Luppi, PAM Mediano, ML Kringelbach...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; What should neuroscientific progress look like? As scientists, we want solid answers, but we also want to answer questions that matter. However, the inherent complexity of the brain forces a trade-off between these desiderata, bringing about two distinct ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; brain&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Federico Turkheimer (author alert)</content>
-    <link href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/4d79a052-1be8-4f4a-b61f-b23cadd404eb/content"/>
-    <published>2026-10-17T04:18:33+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#9</id>
-    <title>Microbiota modulation in colorectal cancer: A scoping review of its potential role in toxicity mitigation and treatment response</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Rizky, A Pramono, B Setiawan, EA Pangarsa... - Cancer treatment and research ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... PubMed, EBSCOhost, Scopus, and CENTRAL were searched through 18 February 2026 for studies evaluating probiotic, prebiotic , or synbiotic interventions in adults with CRC receiving systemic therapy. Primary clinical studies and systematic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pubmed.ncbi.nlm.nih.gov/42874443/"/>
-    <published>2026-10-17T08:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#8</id>
-    <title>Computational modeling of an RNA-peptide world</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Koonin, H Sahakyan, Y Wolf&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We 23 hypothesize that the RNA world was, actually, an 'RNA-peptide world', in which, from the 24 earliest stages of evolution, ... emergence of life remains one of the hardest problems in all of science, but parallel advances 31 in several areas ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-11119075/latest.pdf"/>
-    <published>2026-10-17T08:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#7</id>
-    <title>S2205 Inulin Restores Colonization Resistance Against C. difficile of Ulcerative Colitis Patient Microbiomes In Vitro</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KL Newman, G James, AK Standke, JY Kao, P Higgins... - American Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We then assessed the impact of inulin, a naturally occurring fiber-based prebiotic known to be safe and well tolerated, on colonization susceptibility by increasing the media inulin level to 1% from 0.1. Colonization was measured using plating on ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.ovid.com/jnls/ajg/fulltext/10.14309/01.ajg.0001218072.98260.7a~s2205inulin-restores-colonization-resistance-against-c"/>
-    <published>2026-10-17T08:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#6</id>
-    <title>S812 Fiber Quality, Additive Burden, and Clinical Validation in the US Protein Bar Market: A Systematic Nutritional Analysis of 10 Leading Products</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Mange, M Sagiraju, S Mody, P Shah - American Journal of Gastroenterology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... However, 7 of 10 bars (70%) achieved fiber content through single-source synthetic isolates-primarily soluble corn fiber or polydextrose-with no bar disclosing individual fiber-source doses or employing a multi-source prebiotic system. Eight of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.ovid.com/jnls/ajg/fulltext/10.14309/01.ajg.0001212500.84691.84~s812fiber-quality-additive-burden-and-clinical-validation-in"/>
-    <published>2026-10-17T08:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#5</id>
-    <title>Evolution of interstellar ethanolamine towards amino acids and peptides</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Suhasaria, F Eckhardt, N Ueberschaar...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , where subsequent processing may preserve, transform, or enhance their prebiotic potential. Although amino acids have been produced in ... in the interstellar medium and meteorites and considered a key intermediate in prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchsquare.com/article/rs-10524527/latest.pdf"/>
-    <published>2026-10-17T08:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#4</id>
-    <title>Short-Chain Fatty Acids, Bifidobacterium, and Lactobacillus as Mechanistic Indicators: A Meta-Analysis</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Isra, Y Bait, L Ahmad, AMA Suryadi - Food and Humanity, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... as the most informative mechanistic response indicator in studies relevant to prebiotic biology? In practice, two readout families are used ... To provide an operational framework for comparing these biological layers, the present study uses ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2949824426005707"/>
-    <published>2026-10-17T08:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#3</id>
-    <title>A niche construction-based approach to evolution by natural selection without reproduction—proof of concept and implications</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Papale, Y Kulish, J Bielawski, LP Haraoui - Royal Society Open Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Second, through a discussion of the hydrothermal vent theory for the origins of life , we show that ENSwR will contribute to explaining the ... and the hydrothermal vents theory for the origins of life . While we are not the first to evoke niche construction at ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://royalsocietypublishing.org/rsos/article/13/10/260737/483647"/>
-    <published>2026-10-17T08:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#2</id>
-    <title>Prebiotic Properties and Biological Potential of Aqueous Extracts from Pleurotus ostreatus</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Ćirić, J Tišma, J Glamočlija, M Soković, I Milenković... - ... in Food &amp; Health; 2026 Sep ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Pleurotus ostreatus holds excellent promise worldwide, offering several opportunities and expanding the tools used in biotechnology, medicine, and the food industry. P. ostreatus is recognized for its prebiotic properties, which can ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://radar.ibiss.bg.ac.rs/bitstream/id/22796/Abstract.pdf"/>
-    <published>2026-10-17T08:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#1</id>
-    <title>Prebiotic Blends and Remission in Inflammatory Bowel Disease: A Brazilian Year-Long Nonrandomized Pilot Trial</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JAP de Miranda Coelho, JCR de Jesus, LC Lins...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Participants who were already using prebiotic supplements as part of their routine care were enrolled and their existing prebiotic regimen was replaced with one of two standardized study formulations: Suppl ( prebiotic formulation alone) or Suppl Plus ( prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/d92f76046f917d1e40c3bcc017da1625/download_pub"/>
-    <published>2026-10-17T08:14:03+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766362972c#0</id>
-    <title>... ability of Moringa oleifera polysaccharide in simulated intestinal and liver environment: an integrated in vitro investigation of its prebiotic potential, intestinal transport ...</title>
-    <updated>2026-10-17T08:14:03+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Lu, Y Li, M Zhao, L Lin - Food Research International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Moringa oleifera leaf polysaccharide (MOLP) is a dietary fiber with hypoglycemic activity, but the relationships among its microbial fermentation, epithelial transport, and hepatic effects remain unclear . Here, an integrated in vitro platform comprising ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0963996926026852"/>
-    <published>2026-10-17T08:14:03+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Hacar, A Socci, M Tafalla, F Bonanomi -arXivpreprintarXiv:2610.19163, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Obtaining accurate estimates of the gas column density $\mathrm{N(H_2)}$ is crucial to determine the physical conditions of the molecular gas in the Interstellar Medium. This paper introduces the "Multi-Tracer Column Density Synthesis" (MT-CDS) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.19163"/>
+    <published>2026-10-17T11:29:09+00:00</published>
   </entry>
 </feed>
