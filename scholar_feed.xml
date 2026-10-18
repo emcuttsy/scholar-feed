@@ -2,63 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-17T16:42:51.758220+00:00</updated>
+  <updated>2026-10-18T16:58:48.592159+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76637680df#4</id>
-    <title>Spectral signatures of spin textures and the emergence of a pseudogap</title>
-    <updated>2026-10-17T11:29:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7663fcc39e#0</id>
+    <title>Real Consciousness or Real Illusion? A Higher-Order Approach to AI Consciousness</title>
+    <updated>2026-10-18T11:06:38+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Richard Brown</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Quinzi, A Pintus, T Chiarotti, M Capone, N Marzari -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Periodic solids with strongly interacting electrons display phenomena -- from Mott localization to high-temperature superconductivity -- that escape conventional band theory. Efforts to address this unconventional physics have been typically cast in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.19269"/>
-    <published>2026-10-17T11:29:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Brown&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Higher-order theories hold that phenomenal consciousness requires not just first- order representation of the world but some form of inner awareness of one's own mental states. This paper asks what higher-order theories imply about the possibility ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Richard Brown (author alert)</content>
+    <link href="https://philpapers.org/rec/BRORCO-5"/>
+    <published>2026-10-18T11:06:38+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76637680df#3</id>
-    <title>Emergence of quantum transport in SnTe films upon structural refinement</title>
-    <updated>2026-10-17T11:29:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7663fcc2d4#0</id>
+    <title>Science-Driven Performance Requirements for UV Coronagraph Design: Implications for O $ _3 $ Detection in Earth-like Atmospheres</title>
+    <updated>2026-10-18T11:06:40+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Renyu Hu</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Sharma, R Basnet, T Parker, A Akinfaderin... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Topological crystalline insulators are distinguished from the conventional Z2 topological insulators by crystalline symmetry protection of the surface states. Quantitative characterization of these states requires magneto-transport ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.14233"/>
-    <published>2026-10-17T11:29:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AV Young, G Arney, S Domagal-Goldman... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Detecting biosignatures on Earth-like exoplanets from the Proterozoic era requires instrumentation capable of probing near-ultraviolet (NUV) spectral features, particularly ozone (\ce {O3}), which serves as an indirect proxy for molecular oxygen ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
+    <link href="https://arxiv.org/pdf/2610.19081"/>
+    <published>2026-10-18T11:06:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76637680df#2</id>
-    <title>From Policy Evaluation to Off-Policy Control: Provable Emergence of In-Context Q-Learning</title>
-    <updated>2026-10-17T11:29:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7663fcc250#0</id>
+    <title>Tracing the Influence of Distant companions on Exoplanetary Systems (TIDES) I. Highly Eccentric and Misaligned Binary Companions to Hot Jupiters</title>
+    <updated>2026-10-18T11:06:41+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Björn Benneke</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Y Mo, Y Zhao, F Kong -arXivpreprintarXiv:2610.18057, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Transformers can implement reinforcement-learning algorithms in context, yet how off-policy control emerges within Transformers remains poorly understood. We study Q-learning, a foundational model-free control algorithm that combines off-policy ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.18057"/>
-    <published>2026-10-17T11:29:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Morgan, JW Xuan, BP Bowler, K Franson, MC Liu... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of hot Jupiters remains an open question. A significant fraction reside in binary or multiple star systems, suggesting that stellar companions may play an important role in shaping their present-day architectures. However, the orbits of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
+    <link href="https://arxiv.org/abs/2610.17811"/>
+    <published>2026-10-18T11:06:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76637680df#1</id>
-    <title>Emergence of Nonlocal Hydrodynamics in Many-Body Radiative Heat Transport</title>
-    <updated>2026-10-17T11:29:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7663fcc1fd#0</id>
+    <title>Resolving Structural Uncertainty in Stochastic Dynamical Systems via Ensemble-Based Bayesian Inference</title>
+    <updated>2026-10-18T11:06:42+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Manlio De Domenico</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MG Viloria, F Herz, R Messina, P Ben-Abdallah -arXivpreprintarXiv:2610.16488, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We develop a nonlocal hydrodynamic theory of radiative heat transport in many-body systems by coarse graining their microscopic electrodynamic interactions. Long-range radiative exchange naturally generates a spatially nonlocal constitutive relation in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.16488"/>
-    <published>2026-10-17T11:29:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Zambelli, V D'Andrea, M De Domenico - arXiv preprint arXiv:2610.19744, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recovering the interaction structure of complex stochastic dynamical systems from sparse time-series observations is an inherently ill-posed inverse problem. The posterior over network configurations is high-dimensional, highly degenerate, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
+    <link href="https://arxiv.org/pdf/2610.19744"/>
+    <published>2026-10-18T11:06:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76637680df#0</id>
-    <title>Emergence of high-mass stars in complex fiber networks (EMERGE) VII. Multi-Tracer Column Density Synthesis</title>
-    <updated>2026-10-17T11:29:09+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7663fcc103#0</id>
+    <title>Clarifying tipping terminology</title>
+    <updated>2026-10-18T11:06:45+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>Timothy Lenton</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Hacar, A Socci, M Tafalla, F Bonanomi -arXivpreprintarXiv:2610.19163, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Obtaining accurate estimates of the gas column density $\mathrm{N(H_2)}$ is crucial to determine the physical conditions of the molecular gas in the Interstellar Medium. This paper introduces the "Multi-Tracer Column Density Synthesis" (MT-CDS) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.19163"/>
-    <published>2026-10-17T11:29:09+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Boers, RE Kopp, P Ashwin, S Bathiany, M Ben-Yami... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The notion of tipping points and related terminology have so far had inconsistent and sometimes confusing definitions in both scientific and popular literature. While it is difficult for the scientific community to align popular usage of the term tipping point ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://arxiv.org/pdf/2610.14930"/>
+    <published>2026-10-18T11:06:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7663fcc0e2#0</id>
+    <title>A spatial map of the atmospheric limb of a hot Jupiter</title>
+    <updated>2026-10-18T11:06:45+00:00</updated>
+    <author>
+      <name>Jacob Lustig-Yaeger</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Alderson, HR Wakeford, D Grant, NK Lewis, A Verma... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Planets are inherently three-dimensional objects shaped by their thermal structure and dynamics. Observations of transiting exoplanets have begun to uncover this three-dimensional nature, with JWST measuring their dayside atmosphere structure ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
+    <link href="https://www.nature.com/articles/s41550-026-02986-4"/>
+    <published>2026-10-18T11:06:45+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7663f2eaee#2</id>
+    <title>Tracking a solar energetic eruption and associated energetic particles from Sun to spacecraft</title>
+    <updated>2026-10-18T11:25:21+00:00</updated>
+    <author>
+      <name>Astrid Veronig</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DE Morosan, M Baumgartner-Steinleitner, K Bhandari... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Context. Solar energetic particles (SEPs) in the heliosphere are produced by flaring processes on the Sun or shocks driven by coronal mass ejections (CMEs). Electrons, in particular, are regularly detected remotely as electromagnetic radiation (X-rays or ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://arxiv.org/pdf/2610.20026"/>
+    <published>2026-10-18T11:25:21+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7663f2eaee#1</id>
+    <title>Draft version November 26, 2019 Typeset using LATEX twocolumn style in AASTeX62 CME–CME Interactions as Sources of CME Geo-effectiveness: The Formation ...</title>
+    <updated>2026-10-18T11:25:21+00:00</updated>
+    <author>
+      <name>Astrid Veronig</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Scolini, E Chané, M Temmer, EKJ Kilpua, K Dissauer...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Draft version November 26, 2019 Typeset using LATEX twocolumn style in AASTeX62 CME–CME Interactions as Sources of CME Geo-effectiveness: The Formation of the Complex Ejecta and Intense Geomagnetic Storm in Early ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://helda.helsinki.fi/server/api/core/bitstreams/12708903-627f-45d2-b545-0a4d1ddf024e/content"/>
+    <published>2026-10-18T11:25:21+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7663f2eaee#0</id>
+    <title>Towards a Long-Term Catalogue of Sunspot-Group Positions and Rotation Velocities from Kanzelhöhe Observatory: Differential Rotation and Possible Torsional ...</title>
+    <updated>2026-10-18T11:25:21+00:00</updated>
+    <author>
+      <name>Astrid Veronig</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Poljančić Beljan, L Šibenik, K Lončarić, T Jurkić... - Universe, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study presents Solar Cycle (SC) 25 (2020–2025) results from the homogeneous Kanzelhöhe Solar Observatory (KSO) catalogue project and completes the analysis of SCs 19–25. Only SC18 remains to be processed before the catalogue is finalized ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
+    <link href="https://www.mdpi.com/2218-1997/12/10/305"/>
+    <published>2026-10-18T11:25:21+00:00</published>
   </entry>
 </feed>
