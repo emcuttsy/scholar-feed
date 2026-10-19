@@ -2,107 +2,195 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-18T16:58:48.592159+00:00</updated>
+  <updated>2026-10-19T12:16:40.810243+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7663fcc39e#0</id>
-    <title>Real Consciousness or Real Illusion? A Higher-Order Approach to AI Consciousness</title>
-    <updated>2026-10-18T11:06:38+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7311#0</id>
+    <title>c© Copyright 2020 Owen R. Lehmer The Formation and Evolution of Habitable Worlds Owen R. Lehmer A dissertation</title>
+    <updated>2026-10-18T17:45:29+00:00</updated>
     <author>
-      <name>Richard Brown</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Brown&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Higher-order theories hold that phenomenal consciousness requires not just first- order representation of the world but some form of inner awareness of one's own mental states. This paper asks what higher-order theories imply about the possibility ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Richard Brown (author alert)</content>
-    <link href="https://philpapers.org/rec/BRORCO-5"/>
-    <published>2026-10-18T11:06:38+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Catling, V Meadows, J Toner&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In the past decade, thousands of exoplanet candidates and diverse planetary systems have ... One of the major results of exoplanet discoveries is that giant planets migrate (Chambers, ... If a giant exoplanet were to migrate toward its parent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/c632f837-41ac-433b-8294-4447fd38e232/content"/>
+    <published>2026-10-18T17:45:29+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7663fcc2d4#0</id>
-    <title>Science-Driven Performance Requirements for UV Coronagraph Design: Implications for O $ _3 $ Detection in Earth-like Atmospheres</title>
-    <updated>2026-10-18T11:06:40+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7281#0</id>
+    <title>A half-center oscillator regulates sleep pressure</title>
+    <updated>2026-10-18T17:45:30+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>Gero Miesenböck" OR "G Miesenböck</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AV Young, G Arney, S Domagal-Goldman... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Detecting biosignatures on Earth-like exoplanets from the Proterozoic era requires instrumentation capable of probing near-ultraviolet (NUV) spectral features, particularly ozone (\ce {O3}), which serves as an indirect proxy for molecular oxygen ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.19081"/>
-    <published>2026-10-18T11:06:40+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., HO Rorsman, CB Talbot, R Brain,G Miesenböck- Nature Neuroscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Changes in oscillatory neural dynamics reflect—but may not necessarily determine—transitions between sleep stages and variations in sleep pressure. Here we show that sleep-control neurons innervating the dorsal fan-shaped body of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gero Miesenböck" OR "G Miesenböck (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41593-026-02431-9"/>
+    <published>2026-10-18T17:45:30+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7663fcc250#0</id>
-    <title>Tracing the Influence of Distant companions on Exoplanetary Systems (TIDES) I. Highly Eccentric and Misaligned Binary Companions to Hot Jupiters</title>
-    <updated>2026-10-18T11:06:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76622b71cb#1</id>
+    <title>From Alcheringa to beyond: 50 years of microbialite research in Western Australia</title>
+    <updated>2026-10-18T17:45:32+00:00</updated>
     <author>
-      <name>Björn Benneke</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Morgan, JW Xuan, BP Bowler, K Franson, MC Liu... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The origin of hot Jupiters remains an open question. A significant fraction reside in binary or multiple star systems, suggesting that stellar companions may play an important role in shaping their present-day architectures. However, the orbits of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Björn Benneke (author alert)</content>
-    <link href="https://arxiv.org/abs/2610.17811"/>
-    <published>2026-10-18T11:06:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HJ Allen, SK Martin - Alcheringa: An Australasian Journal of Palaeontology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... However, as late twentieth-century discoveries in the Pilbara region progressively extended the record of life deeper into the Archean, ... coevolution of life and habitable surface environments, the recognition of biosignatures , and applications to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://www.tandfonline.com/doi/pdf/10.1080/03115518.2026.2718451"/>
+    <published>2026-10-18T17:45:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7663fcc1fd#0</id>
-    <title>Resolving Structural Uncertainty in Stochastic Dynamical Systems via Ensemble-Based Bayesian Inference</title>
-    <updated>2026-10-18T11:06:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76622b71cb#0</id>
+    <title>c© Copyright 2020 Owen R. Lehmer The Formation and Evolution of Habitable Worlds Owen R. Lehmer A dissertation</title>
+    <updated>2026-10-18T17:45:32+00:00</updated>
     <author>
-      <name>Manlio De Domenico</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Zambelli, V D'Andrea, M De Domenico - arXiv preprint arXiv:2610.19744, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Recovering the interaction structure of complex stochastic dynamical systems from sparse time-series observations is an inherently ill-posed inverse problem. The posterior over network configurations is high-dimensional, highly degenerate, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.19744"/>
-    <published>2026-10-18T11:06:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DC Catling, V Meadows, J Toner&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... promising planet candidates in the hunt for habitable and inhabited worlds . In addition, the ... to exist with radii larger than ∼1.8 R⊕ and the smallest habitable planets and habitable ... planets in the search for habitable worlds and alien life . At ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://digital.lib.washington.edu/server/api/core/bitstreams/c632f837-41ac-433b-8294-4447fd38e232/content"/>
+    <published>2026-10-18T17:45:32+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7663fcc103#0</id>
-    <title>Clarifying tipping terminology</title>
-    <updated>2026-10-18T11:06:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7181#0</id>
+    <title>Searching for GEMS</title>
+    <updated>2026-10-18T17:45:34+00:00</updated>
     <author>
-      <name>Timothy Lenton</name>
+      <name>JL bean</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Boers, RE Kopp, P Ashwin, S Bathiany, M Ben-Yami... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The notion of tipping points and related terminology have so far had inconsistent and sometimes confusing definitions in both scientific and popular literature. While it is difficult for the scientific community to align popular usage of the term tipping point ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.14930"/>
-    <published>2026-10-18T11:06:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ..., ME Everett, Z Barksdale, R Basant,JL Bean... - Astronomical Journal, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We report the confirmation and analysis of TOI-5349 b, a transiting, warm, Saturn-like planet orbiting an early M dwarf with a period of∼ 3.3 days, which we confirmed as part of the Searching for GEMS survey. TOI-5349 b was initially identified in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; JL bean (keyword alert)</content>
+    <link href="https://dare.uva.nl/id/5b5d4987-a68e-4ce9-a010-cb93f00d545d"/>
+    <published>2026-10-18T17:45:34+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7663fcc0e2#0</id>
-    <title>A spatial map of the atmospheric limb of a hot Jupiter</title>
-    <updated>2026-10-18T11:06:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#9</id>
+    <title>Synbiotic whey beverage with L. casei and Jerusalem artichoke extract.</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
     <author>
-      <name>Jacob Lustig-Yaeger</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Alderson, HR Wakeford, D Grant, NK Lewis, A Verma... - Nature Astronomy, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Planets are inherently three-dimensional objects shaped by their thermal structure and dynamics. Observations of transiting exoplanets have begun to uncover this three-dimensional nature, with JWST measuring their dayside atmosphere structure ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jacob Lustig-Yaeger (author alert)</content>
-    <link href="https://www.nature.com/articles/s41550-026-02986-4"/>
-    <published>2026-10-18T11:06:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LE Rozantseva, EV Li, ER Volnova, U Silla...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... solids) enriched with the probiotic strain Lacticaseibacillus casei LBC-1 and a prebiotic Jerusalem artichoke extract (cultivar "Interes"). The ... The study substantiates the choice of the Lacticaseibacillus casei strain and a plant-derived ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260513326"/>
+    <published>2026-10-18T17:45:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7663f2eaee#2</id>
-    <title>Tracking a solar energetic eruption and associated energetic particles from Sun to spacecraft</title>
-    <updated>2026-10-18T11:25:21+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#8</id>
+    <title>How Interstellar Gas and Ice Build Organic Molecules</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DE Morosan, M Baumgartner-Steinleitner, K Bhandari... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Context. Solar energetic particles (SEPs) in the heliosphere are produced by flaring processes on the Sun or shocks driven by coronal mass ejections (CMEs). Electrons, in particular, are regularly detected remotely as electromagnetic radiation (X-rays or ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.20026"/>
-    <published>2026-10-18T11:25:21+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Balucani - ACS Central Science&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... of great interest because they may have contributed to the origin of life on Earth. According to the abiogenesis theory, (10) after the formation of ... cratering record, likely delivered large amounts of such organic material to our planet, potentially ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c01683/5451217"/>
+    <published>2026-10-18T17:45:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7663f2eaee#1</id>
-    <title>Draft version November 26, 2019 Typeset using LATEX twocolumn style in AASTeX62 CME–CME Interactions as Sources of CME Geo-effectiveness: The Formation ...</title>
-    <updated>2026-10-18T11:25:21+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#7</id>
+    <title>Simultaneous formation of DNA and RNA nucleosides in shock-recovery experiments</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Scolini, E Chané, M Temmer, EKJ Kilpua, K Dissauer...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Draft version November 26, 2019 Typeset using LATEX twocolumn style in AASTeX62 CME–CME Interactions as Sources of CME Geo-effectiveness: The Formation of the Complex Ejecta and Intense Geomagnetic Storm in Early ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://helda.helsinki.fi/server/api/core/bitstreams/12708903-627f-45d2-b545-0a4d1ddf024e/content"/>
-    <published>2026-10-18T11:25:21+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Zhao, K Mimura - Geochimica et Cosmochimica Acta, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Whether RNA, DNA, or both emerged as the first genetic system remains an important question in origin - of - life research. The RNA world ... from molecular precursors that could have been available under prebiotic conditions. Meteorite ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0016703726006617"/>
+    <published>2026-10-18T17:45:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7663f2eaee#0</id>
-    <title>Towards a Long-Term Catalogue of Sunspot-Group Positions and Rotation Velocities from Kanzelhöhe Observatory: Differential Rotation and Possible Torsional ...</title>
-    <updated>2026-10-18T11:25:21+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#6</id>
+    <title>Xylo-oligosaccharides supplementation as prebiotic to fattening Hu lambs: effects on growth, nutrient digestibility, and rumen bacterial community</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; I Poljančić Beljan, L Šibenik, K Lončarić, T Jurkić... - Universe, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study presents Solar Cycle (SC) 25 (2020–2025) results from the homogeneous Kanzelhöhe Solar Observatory (KSO) catalogue project and completes the analysis of SCs 19–25. Only SC18 remains to be processed before the catalogue is finalized ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://www.mdpi.com/2218-1997/12/10/305"/>
-    <published>2026-10-18T11:25:21+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Guo, F Li, X Yang, Y Shi, X Wang, H Xu, Z Ma, L Guo... - Animal bioscience&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objective This study aimed to evaluate the effects of dietary XOS supplementation on growth performance, nutrient digestibility, rumen fermentation parameters, and the ruminal bacterial community in fattening Hu lambs. Methods A total of 32 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42875911/"/>
+    <published>2026-10-18T17:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#5</id>
+    <title>Prebiotic potential and modulation of the fecal microbiota by konjac oligo-glucomannan prepared using Pediococcus acidilactici mannanase</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Yang, X Chen, Z Li, R Yang, D Zhao - Food &amp; Function&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this study, konjac oligo-glucomannan (KOGM) was prepared from konjac glucomannan (KGM) by enzymatic hydrolysis using β-mannanase derived from Pediococcus acidilactici HDM2. The prepared KOGM had an average molecular ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.rsc.org/fo/article/doi/10.1039/d6fo02824a/1370226"/>
+    <published>2026-10-18T17:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#4</id>
+    <title>Dietary Polysaccharides as Direct Substrates for SCFA Production: Mechanisms and Precision Prebiotic Intervention Strategies</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Lan, Y Zhao, X Li, J Feng, Y Wang, Y Li, C Liu, G Lou... - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Conventional prebiotics lack the structural specificity to direct colonic fermentation toward defined outputs. Dietary polysaccharides (DPs) serve as direct fermentation substrates, and their architecture—monosaccharide composition, glycosidic linkages ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1997604/full"/>
+    <published>2026-10-18T17:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#3</id>
+    <title>In Vitro Study of the Antimicrobial and Prebiotic Activity of Origanum heracleoticum Hydrolates from Two Italian Crops and the Proteomic Response of Probiotic ...</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Rizzo, F Schiavone Panni, M Di Vito, S Garzoli... - Biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study explores the chemical composition and biological activities of essential oils (EOs) and hydrolates (Hys) from Origanum heracleoticum (OH), an aromatic plant with known applications in the food industry. While EOs have been widely ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2079-7737/15/20/1857"/>
+    <published>2026-10-18T17:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#2</id>
+    <title>Frontiers of chemical complexity in the interstellar medium: unveiling the cosmic origins of life</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; VM Rivilla, M Sanz-Novo, M Beltrán, J Jørgensen... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... allowed the step from prebiotic chemistry to biology are uncertain. It is thought that some of the building blocks of prebiotic chemistry could have ... 2020a), being thus available to contribute to prebiotic chemistry, and to the emergence of life (Fig. 1) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.21849"/>
+    <published>2026-10-18T17:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#1</id>
+    <title>A tidy story of a messy beginning—A review of: The Origins of Life : From Abiotic Chemistry to the First Cells by Karl J. Niklas, Thomas G. Owens, and Randy Wayne</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Baum&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biologists really mind "gaps"—evolutionary transitions that entail multiple distinct but interdependent innovations, where we lack paleontological or phylogenetic information to break them down into understandable steps. By that criterion, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biag143/8928704"/>
+    <published>2026-10-18T17:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76622b7104#0</id>
+    <title>Prebiotic , Probiotic, and Synbiotic Diets in Red Hybrid Tilapia: Growth, Innate Immunity, and Early Streptococcus agalactiae Challenge Survival.</title>
+    <updated>2026-10-18T17:45:35+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PS Ritonga, J Iradukunda, S Helmiati, I Istiqomah... - Scientific Journal of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Streptococcal disease remains a persistent constraint in red hybrid tilapia culture, prompting increasing interest in dietary strategies that can support growth and host defense. To compare these approaches within a common experimental framework ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://openurl.ebsco.com/contentitem/gcd:197714052?sid=ebsco:plink:crawler-gcd&amp;id=ebsco:gcd:197714052&amp;crl=c&amp;jrnl=20855842"/>
+    <published>2026-10-18T17:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766228a889#1</id>
+    <title>Infinite magic and the emergence of the continuum</title>
+    <updated>2026-10-18T18:15:07+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Shaposhnik, L Leone, L Bittel, D Saraidaris, A Jahn... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Which features of a quantum state are needed for a relativistic quantum field theory to emerge from a lattice system? We address this question by establishing a quantitative relationship between the type classification of hyperfinite von Neumann ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.20790"/>
+    <published>2026-10-18T18:15:07+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e766228a889#0</id>
+    <title>Emergence of partially hyperbolic skew-products with circle fibers</title>
+    <updated>2026-10-18T18:15:07+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; O Costa, M Poletti -arXivpreprintarXiv:2610.20946, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We say that F has low emergence if its emergence has at most polynomial growth, ie, if there exists α ≥ 0 such that ELeb(F)(ε) ... emergence with superpolynomial growth, we say it has high emergence . As explained in the introduction, Theorem A ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.20946"/>
+    <published>2026-10-18T18:15:07+00:00</published>
   </entry>
 </feed>
