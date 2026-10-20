@@ -2,107 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-19T19:31:59.539512+00:00</updated>
+  <updated>2026-10-20T10:58:56.479738+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7662ca62b2#0</id>
-    <title>Singles in Disguise: Kepler's Low-SNR Single-Transiting Systems as Incompletely Detected Multis</title>
-    <updated>2026-10-19T16:44:27+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76612e463f#8</id>
+    <title>Cold plasma technology for polysaccharide extraction</title>
+    <updated>2026-10-20T07:42:36+00:00</updated>
     <author>
-      <name>David Kipping</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DA Yahalomi, D Nesvorny, D Kipping, B Cassese... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; NASA's Kepler mission found more systems with one transiting planet (``singles'') than expected from those with several (``multis''). This excess was first taken as evidence for a Kepler dichotomy--a second population of intrinsically single or highly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David Kipping (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.22349"/>
-    <published>2026-10-19T16:44:27+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SMT Gharibzahedi - Nonthermal Extraction Technologies of ..., 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cold plasma (CP) has emerged as a nonthermal approach for intensifying the extraction of polysaccharides, pectins, and seed hydrocolloids from plant and fungal sources. This chapter summarizes dielectric barrier discharge, plasma jet, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443440496000144"/>
+    <published>2026-10-20T07:42:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7662ca61e7#0</id>
-    <title>Infinite magic and the emergence of the continuum</title>
-    <updated>2026-10-19T16:44:28+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76612e463f#7</id>
+    <title>Gut Health &amp; the Microbiome: The Complete Guide</title>
+    <updated>2026-10-20T07:42:36+00:00</updated>
     <author>
-      <name>Jens Eisert</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Shaposhnik, L Leone, L Bittel, D Saraidaris, A Jahn... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Which features of a quantum state are needed for a relativistic quantum field theory to emerge from a lattice system? We address this question by establishing a quantitative relationship between the type classification of hyperfinite von Neumann ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Jens Eisert (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.20790"/>
-    <published>2026-10-19T16:44:28+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Oncer&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic in our blend is acacia fiber (acacia gum / Acacia senegal), a soluble fiber that ferments slowly and gently. ... prebiotic (acacia fiber) to feed the bacteria you already have, a probiotic (Bacillus subtilis DE111®) to seed, and a postbiotic (BPL1® ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://shroombiosis.com/guides/gut-health/"/>
+    <published>2026-10-20T07:42:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7662ca614a#0</id>
-    <title>Bridging the gap between stars and planets</title>
-    <updated>2026-10-19T16:44:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76612e463f#6</id>
+    <title>To the theory of complex adaptive systems with multiple reflections</title>
+    <updated>2026-10-20T07:42:36+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Palau, D Stamatellos, M Bate, M Zamora-Avilés... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The formation mechanisms of brown dwarfs (BDs) and free-floating planets (FFPs) are poorly constrained. The two main competing scenarios include the star-like scenario, where these objects correspond to the least massive gravitationally ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.22246"/>
-    <published>2026-10-19T16:44:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DB Saakian - Chinese Journal of Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Biology encountered this phenomenon in analyzing the origin of life and the infinite growth of complexity during evolution (open evolution). The origin of life itself is already an event with tremendous jump in complexity, and further growth of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0577907326003758"/>
+    <published>2026-10-20T07:42:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7662ca611d#0</id>
-    <title>Both twin and molecular genetic models indicate genetic confounding in the relationship between executive function, socioeconomic status, and parenting in middle ...</title>
-    <updated>2026-10-19T16:44:30+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76612e463f#5</id>
+    <title>The Origin of Life : The Organized Persistence of Structure Around a Center</title>
+    <updated>2026-10-20T07:42:36+00:00</updated>
     <author>
-      <name>Michelle Luciano</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LC Perry, N Chevalier, M Luciano - Child Development, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; While there is a wide range of environments that have been implicated in executive function (EF) development, most are related to the behavior of genetic relatives such as parents, meaning there is significant risk that genetics confound these ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Michelle Luciano (author alert)</content>
-    <link href="https://academic.oup.com/chidev/advance-article/doi/10.1093/chidev/aacag193/8918448"/>
-    <published>2026-10-19T16:44:30+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IC Jakovac&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper claims that the origin of life does not begin with biology, but with the generative relation in which the center (C₀) generates γ, and the relation C₀+ γ yields hydrogen (H) as the first stable structural medium from which further structure (S) arises. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://generativedynamics.org/wp-content/uploads/2026/10/Paper38_The_Origin_of_Life_The_Organize.pdf"/>
+    <published>2026-10-20T07:42:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7662ca601a#1</id>
-    <title>The Seasons of a Career in Physical Chemistry: Himansu S. Biswal</title>
-    <updated>2026-10-19T16:44:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76612e463f#4</id>
+    <title>Assembling Relevance: A Process-Relational Interpretation of Assembly Theory and the Origins of Life</title>
+    <updated>2026-10-20T07:42:36+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HS Biswal, GC Solomon, JE Shea, GD Scholes - The Journal of Physical Chemistry ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Physical Chemistry Letters. The series celebrates the people behind physical chemistry, giving researchers at all career stages the opportunity to tell their own stories: how they came to be where they are today, the joys and challenges they ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://pubs.acs.org/jpclcd/article-abstract/17/41/11705/5451882"/>
-    <published>2026-10-19T16:44:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Dowling - Integration, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Assembly theory is a recent development in origins - of - life research that defines objects through their historical construction rather than by reference to external coordinates. By drawing on constructor theory's infusion of information into physical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://integration.scholasticahq.com/article/167570.pdf"/>
+    <published>2026-10-20T07:42:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7662ca601a#0</id>
-    <title>A Special Issue Highlighting Future Leaders in Physical Chemistry</title>
-    <updated>2026-10-19T16:44:31+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76612e463f#3</id>
+    <title>Chemistry of CO2 to Bridge a Prebiotic Chemistry and Organic Synthesis</title>
+    <updated>2026-10-20T07:42:36+00:00</updated>
     <author>
-      <name>Gregory Scholes</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Scholes, JP Messinger, K Luckey - The Journal of Physical Chemistry Letters, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Early career researchers serve a critical role in any field, and we were thrilled by the response to our call for papers requesting submissions from the future leaders of the field of physical chemistry. Among many fine candidates, we have selected 23 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gregory Scholes (author alert)</content>
-    <link href="https://pubs.acs.org/jpclcd/article-abstract/17/41/11704/5451883"/>
-    <published>2026-10-19T16:44:31+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Held, JMV Lauridsen, J Lee - Synlett, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the chemistry of prebiotic CO2 with its utilization in modern organic synthesis. Fundamental studies inspired by prebiotic chemistry have ... Through selected examples from our research, we illustrate how investigating the possible roles of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2981-6037"/>
+    <published>2026-10-20T07:42:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7662ca5eb4#0</id>
-    <title>Academic Editor: Stanisław Drożdż</title>
-    <updated>2026-10-19T16:44:34+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76612e463f#2</id>
+    <title>A New Insight into Galactomannan as a Prebiotic : Modulating Clostridium butyricum Metabolism to Enhance Serotonin Biosynthesis in RIN14B Cells</title>
+    <updated>2026-10-20T07:42:36+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Friston, J Medrano, T Verbelen&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Academic Editor: Stanisław Drożdż Received: 23 June 2026 Revised: 20 August 2026 Accepted: 22 August 2026 Published: 25 August 2026 Copyright: © 2026 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://dspace.mit.edu/server/api/core/bitstreams/186cae19-f5cb-40b6-82cb-629bfb1ab5e8/content"/>
-    <published>2026-10-19T16:44:34+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Li, X Ren, M Wei, CY Wang, X Zhang, N Li, Y Huang... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Serotonin (5-hydroxytryptamine, 5-HT) is a crucial bioactive molecule that maintains intestinal homeostasis and mediates the gut-brain axis, and is associated with host emotional and behavioral regulation. Partially hydrolyzed guar gum (PHGG), a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226020547"/>
+    <published>2026-10-20T07:42:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7662ca5d0e#0</id>
-    <title>Statistical Laws of Human Mobility under Large-Scale Behavioural Shock</title>
-    <updated>2026-10-19T16:44:35+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76612e463f#1</id>
+    <title>Garlic (Allium sativum) and Dahlia (Dahlia pinnata) Inulin as Prebiotic Ingredients in Probiotic-Fermented Chicken Sausages</title>
+    <updated>2026-10-20T07:42:36+00:00</updated>
     <author>
-      <name>Manlio De Domenico</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Amaduzzi, LG Alvarez-Zuzek, V d'Andrea... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Human mobility follows robust statistical laws, but whether these laws persist under large, sudden behavioural shocks remains unclear. Here we analyse privacy- enhanced GPS trajectories of over one million users in California and 180,000 in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.22116"/>
-    <published>2026-10-19T16:44:35+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AU Illippangama, DD Jayasena, DC Mudannayake - Applied Food Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Inulin is a well-established prebiotic widely used to modulate gut microbiota and enhance functional food quality. This study investigated the potential of dahlia ( Dahlia pinnata ) and garlic ( Allium sativum )-derived inulins as alternative prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2772502226010723"/>
+    <published>2026-10-20T07:42:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7662c27464#0</id>
-    <title>The energetic atmosphere of the Sun</title>
-    <updated>2026-10-19T17:36:08+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76612e463f#0</id>
+    <title>The Photoentrained Cycle: Existence and Stability of a Periodic Orbit in a Forced Hybrid Protocell</title>
+    <updated>2026-10-20T07:42:36+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Wedemeyer, M Kirkaune, M Barta, AM Veronig... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Understanding the mechanisms that heat the Sun's chromosphere and corona to temperatures far exceeding those of the solar photosphere below remains one of the central challenges in solar physics. Small-scale, rapidly evolving processes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.20934"/>
-    <published>2026-10-19T17:36:08+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schaper - Annals of the Chrysene Formalism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The corpus supplies an enclosure, a strand anchored within it, a clock and a readable state. It does not say whether these compose. A cycle is not a set of steps but a closed orbit, and closure is a property of the composition. The question is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chrysene.com/index.php/acf/article/download/64/128"/>
+    <published>2026-10-20T07:42:36+00:00</published>
   </entry>
 </feed>
