@@ -2,107 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-20T10:58:56.479738+00:00</updated>
+  <updated>2026-10-21T11:15:05.797623+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76612e463f#8</id>
-    <title>Cold plasma technology for polysaccharide extraction</title>
-    <updated>2026-10-20T07:42:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7661e5f229#0</id>
+    <title>A Genome-wide Genetic Data Resource for the 45 and Up Study</title>
+    <updated>2026-10-21T08:32:33+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SMT Gharibzahedi - Nonthermal Extraction Technologies of ..., 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Cold plasma (CP) has emerged as a nonthermal approach for intensifying the extraction of polysaccharides, pectins, and seed hydrocolloids from plant and fungal sources. This chapter summarizes dielectric barrier discharge, plasma jet, and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443440496000144"/>
-    <published>2026-10-20T07:42:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HM Tanha, D Goldsbury, R Parker, N Garden...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Large population-based cohorts enable investigation of disease risk and precision prevention, but often lack genome-wide genetic data. We generated and validated new genomic data within the Australian 45 and Up Study, one of the largest Southern ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://europepmc.org/article/ppr/ppr1324977"/>
+    <published>2026-10-21T08:32:33+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76612e463f#7</id>
-    <title>Gut Health &amp; the Microbiome: The Complete Guide</title>
-    <updated>2026-10-20T07:42:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7661e5f185#0</id>
+    <title>Impact Crater Hydrothermal Systems Support Rapid Microbial Enrichment and Diverse Metabolic Potential</title>
+    <updated>2026-10-21T08:32:34+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Charles Cockell</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Oncer&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The prebiotic in our blend is acacia fiber (acacia gum / Acacia senegal), a soluble fiber that ferments slowly and gently. ... prebiotic (acacia fiber) to feed the bacteria you already have, a probiotic (Bacillus subtilis DE111®) to seed, and a postbiotic (BPL1® ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://shroombiosis.com/guides/gut-health/"/>
-    <published>2026-10-20T07:42:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SMC Hardy, EJ Aguilar‐Pine, S Gulick, A Ahmad... - Geobiology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Impact crater hydrothermal systems, formed after asteroid and comet impacts, have been proposed as promising habitats for life on early Earth and as key targets in the search for life on planetary bodies such as Mars, since they provide liquid water and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
+    <link href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/gbi.70070"/>
+    <published>2026-10-21T08:32:34+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76612e463f#6</id>
-    <title>To the theory of complex adaptive systems with multiple reflections</title>
-    <updated>2026-10-20T07:42:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7661e5f0fd#0</id>
+    <title>Systemic collapse emergence from climate-induced perturbations in transportation networks</title>
+    <updated>2026-10-21T08:32:35+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Manlio De Domenico</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; DB Saakian - Chinese Journal of Physics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Biology encountered this phenomenon in analyzing the origin of life and the infinite growth of complexity during evolution (open evolution). The origin of life itself is already an event with tremendous jump in complexity, and further growth of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0577907326003758"/>
-    <published>2026-10-20T07:42:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Faccin, T Scagliarini, M De Domenico - Proceedings of the National Academy of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The interaction between human infrastructures and external events results in loss of functionality or even complete system disruption through a snowball effect of cascading failures. Their complex interplay challenges their prevention, affecting the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
+    <link href="https://www.pnas.org/doi/full/10.1073/pnas.2532180123"/>
+    <published>2026-10-21T08:32:35+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76612e463f#5</id>
-    <title>The Origin of Life : The Organized Persistence of Structure Around a Center</title>
-    <updated>2026-10-20T07:42:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7661e5f066#0</id>
+    <title>The role of inference in musculoskeletal pain: an (En) Active Inference Masterclass for clinical reasoning, communication and person-centred care</title>
+    <updated>2026-10-21T08:32:36+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Karl Friston</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IC Jakovac&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper claims that the origin of life does not begin with biology, but with the generative relation in which the center (C₀) generates γ, and the relation C₀+ γ yields hydrogen (H) as the first stable structural medium from which further structure (S) arises. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://generativedynamics.org/wp-content/uploads/2026/10/Paper38_The_Origin_of_Life_The_Organize.pdf"/>
-    <published>2026-10-20T07:42:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JE Esteves, G Rossettini, F Cerritelli, C Cook... - Musculoskeletal Science &amp; ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Introduction Persistent musculoskeletal (MSK) pain is often inadequately explained by tissue findings alone. Reassurance may not resolve fear, while the meaning of an activity may influence how it is experienced. Although widely endorsed, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
+    <link href="https://www.mskscienceandpractice.com/article/S2468-7812(26)00189-X/abstract"/>
+    <published>2026-10-21T08:32:36+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76612e463f#4</id>
-    <title>Assembling Relevance: A Process-Relational Interpretation of Assembly Theory and the Origins of Life</title>
-    <updated>2026-10-20T07:42:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7661ff29e1#0</id>
+    <title>Virtual reality as a tool to modulate attention and motor activity in functional tremor patients: a pilot study</title>
+    <updated>2026-10-21T09:17:10+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Silvia Kober</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Dowling - Integration, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Assembly theory is a recent development in origins - of - life research that defines objects through their historical construction rather than by reference to external coordinates. By drawing on constructor theory's infusion of information into physical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://integration.scholasticahq.com/article/167570.pdf"/>
-    <published>2026-10-20T07:42:36+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76612e463f#3</id>
-    <title>Chemistry of CO2 to Bridge a Prebiotic Chemistry and Organic Synthesis</title>
-    <updated>2026-10-20T07:42:36+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Held, JMV Lauridsen, J Lee - Synlett, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the chemistry of prebiotic CO2 with its utilization in modern organic synthesis. Fundamental studies inspired by prebiotic chemistry have ... Through selected examples from our research, we illustrate how investigating the possible roles of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2981-6037"/>
-    <published>2026-10-20T07:42:36+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76612e463f#2</id>
-    <title>A New Insight into Galactomannan as a Prebiotic : Modulating Clostridium butyricum Metabolism to Enhance Serotonin Biosynthesis in RIN14B Cells</title>
-    <updated>2026-10-20T07:42:36+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Li, X Ren, M Wei, CY Wang, X Zhang, N Li, Y Huang... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Serotonin (5-hydroxytryptamine, 5-HT) is a crucial bioactive molecule that maintains intestinal homeostasis and mediates the gut-brain axis, and is associated with host emotional and behavioral regulation. Partially hydrolyzed guar gum (PHGG), a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226020547"/>
-    <published>2026-10-20T07:42:36+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76612e463f#1</id>
-    <title>Garlic (Allium sativum) and Dahlia (Dahlia pinnata) Inulin as Prebiotic Ingredients in Probiotic-Fermented Chicken Sausages</title>
-    <updated>2026-10-20T07:42:36+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AU Illippangama, DD Jayasena, DC Mudannayake - Applied Food Research, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Inulin is a well-established prebiotic widely used to modulate gut microbiota and enhance functional food quality. This study investigated the potential of dahlia ( Dahlia pinnata ) and garlic ( Allium sativum )-derived inulins as alternative prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2772502226010723"/>
-    <published>2026-10-20T07:42:36+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76612e463f#0</id>
-    <title>The Photoentrained Cycle: Existence and Stability of a Periodic Orbit in a Forced Hybrid Protocell</title>
-    <updated>2026-10-20T07:42:36+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schaper - Annals of the Chrysene Formalism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The corpus supplies an enclosure, a strand anchored within it, a clock and a readable state. It does not say whether these compose. A cycle is not a set of steps but a closed orbit, and closure is a property of the composition. The question is ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, brain, Reviewer, too: Complexity, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chrysene.com/index.php/acf/article/download/64/128"/>
-    <published>2026-10-20T07:42:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SE Kober, V Pustelnik, LM Berger, D Kern, M Schneller... - ... of NeuroEngineering and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Functional tremor is characterized by abnormal attention allocation to the affected body part. The present study aimed to investigate the potential of virtual reality (VR) to guide attentional shifts in patients with functional tremor. Nine patients with ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Silvia Kober (author alert)</content>
+    <link href="https://link.springer.com/article/10.1186/s12984-026-02192-3"/>
+    <published>2026-10-21T09:17:10+00:00</published>
   </entry>
 </feed>
