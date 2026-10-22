@@ -2,151 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-21T18:17:10.488303+00:00</updated>
+  <updated>2026-10-22T18:11:26.411067+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#9</id>
-    <title>Root-secreted leucine is associated with the recruitment of Bacillus subtilis HJ1-29 and contributes to tobacco resistance against Fusarium root rot</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7660fea370#0</id>
+    <title>Robust inference via top-down feedback and neural variability in recurrent vision models</title>
+    <updated>2026-10-22T15:24:12+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Karl Friston</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Chen, F Jia, L Zhao, Z Fu, J Wang, R Fu - Biological Control, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This study focused specifically on verifying the prebiotic function of the advantage leucine, with of targeting the core scientific question of biocontrol agent colonization promotion while reducing redundant omics data. However, we did not perform ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1049964426002100"/>
-    <published>2026-10-21T15:08:48+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Greco, M D'Alessandro, KJ Friston, G Pezzulo... - Patterns, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biological systems leverage top-down feedback for visual processing, yet most artificial vision models succeed using feedforward architectures, calling into question the role of descending cortical pathways. Here, we trained convolutional recurrent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
+    <link href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00202-3"/>
+    <published>2026-10-22T15:24:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#8</id>
-    <title>From Responsive Chemistry to History-Bearing Molecular Systems</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7660fea1dc#0</id>
+    <title>Three reasons why AI is not conscious and perhaps never will be</title>
+    <updated>2026-10-22T15:24:14+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Anil Seth</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Lane&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Primordial chemistry was shaped by environmental variation before molecular systems could regulate their own reaction conditions. Prebiotic experiments now connect several steps relevant to a transition toward historybearing chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://aixiv.science/pdf/aixiv.260627.000003v1.3.pdf"/>
-    <published>2026-10-21T15:08:48+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Seth, N Block, G Tononi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Three reasons why AI is not conscious and perhaps never will be | Nature Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
+    <link href="https://www.nature.com/articles/d41586-026-03313-7"/>
+    <published>2026-10-22T15:24:14+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#7</id>
-    <title>Astrobiology</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7660fea0b1#0</id>
+    <title>Three reasons why AI is not conscious and perhaps never will be</title>
+    <updated>2026-10-22T15:24:16+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Giulio Tononi</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S McMahon - Current Biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life The fossil record preserves neither the earliest stages of biological evolution nor the origin of life itself, which seems to have ... Already at this early date, this ' last universal common ancestor ' (LUCA) was a highly sophisticated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.cell.com/current-biology/fulltext/S0960-9822(26)01203-0"/>
-    <published>2026-10-21T15:08:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#6</id>
-    <title>Development and characterization of an autochthonous probiotic Lactococcus lactis MA5 and its nutritional application in hybrid catfish (Ictalurus punctatus x I ...</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Huang&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In addition, carbohydrate ingredients in catfish feed were evaluated as prebiotic -like substrates, with yellow field peas and wheat middlings showing the greatest potential to enhance L. lactis MA5 proliferation under in vitro and in vivo conditions ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://scholarsjunction.msstate.edu/td/7072/"/>
-    <published>2026-10-21T15:08:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#5</id>
-    <title>On the foundations of anthropic reasoning: Implications for life across the universe</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BJ Brewer, GF Lewis, J Goodman - arXiv preprint arXiv:2610.22896, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... We apply FIC to several problems in astrobiology, including the Doomsday argument, the early abiogenesis time, and our location around a G-type rather than M-type star, clarifying the foundations of these arguments. We conclude that the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.22896"/>
-    <published>2026-10-21T15:08:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#4</id>
-    <title>Evidence For The Existence Of A Creator: A Scientific and Philosophical Inquiry into Biological Complexity, Cellular Organization, Sexual Reproduction, Genetic ...</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AA Al-hussaini - Infinity Journal of Medicine and Innovation, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The five pillars examined are: irreducible biological complexity, the extraordinary precision of cellular organization, the enigma of sexual reproduction and abiogenesis , the informational content of the genetic code, and the sophisticated ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://journalscientific-journal.com/index.php/JIM/article/view/76"/>
-    <published>2026-10-21T15:08:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#3</id>
-    <title>Testing Reciprocal Formation of Sequence-Bearing Molecules within Chemical Organization: An Integrated Experimental Protocol for the Synechite Framework</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Moussa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This is a hypothesis to test, not an established account of the historical origin of life [10]. ... requirements, stop rules and an invitation for collaboration among prebiotic chemists, systems chemists, surface/interface researchers, analytical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/archive/MOUTRF"/>
-    <published>2026-10-21T15:08:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#2</id>
-    <title>From Chemical Organization to Heredity: What Existing Research Establishes and What Must Be Tested to Evaluate the Synechite Framework</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Moussa&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origin of life remains unresolved not because prebiotic chemistry has failed to produce relevant molecules or organized chemical behavior, but because the transitions connecting chemical activity to persistent, heritable and evolvable ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://philarchive.org/archive/MOUFCO"/>
-    <published>2026-10-21T15:08:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#1</id>
-    <title>ERRATUM: Effects of Dietary Supplementation with Prebiotic and Bioactive Peptides Derived from Bacillus subtilis Fermentation on Performance, Immunity, Gut ...</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E PRDLR, PR De los Ríos-Escalante... - Science&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ERRATUM: Effects of Dietary Supplementation with Prebiotic and Bioactive Peptides Derived from Bacillus subtilis Fermentation on ... ERRATUM: Effects of Dietary Supplementation with Prebiotic and Bioactive Peptides Derived from Bacillus subtilis ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.scielo.br/j/rbca/a/HYXQqrYG6YNm3kmXMd5KRmk/?format=pdf&amp;lang=en"/>
-    <published>2026-10-21T15:08:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766024731f#0</id>
-    <title>Prebiotic , Probiotic, and Chlorophyllin Interventions Differentially Attenuate Melphalan-Induced Intestinal Injury and Modulate Gut Metabolite Profiles</title>
-    <updated>2026-10-21T15:08:48+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Redhu, S Sailung, N Chavan, R Ali, A Das... - Frontiers in Microbiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Melphalan treatment can cause substantial gastrointestinal toxicity, yet the relationship between chemotherapy-induced epithelial injury, intestinal barrier dysfunction, and alterations in the gut metabolic environment remains incompletely ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.2003316/full"/>
-    <published>2026-10-21T15:08:48+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7660247267#0</id>
-    <title>Astrobiology</title>
-    <updated>2026-10-21T15:08:50+00:00</updated>
-    <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S McMahon - Current Biology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... available data are equally compatible with a mini Neptune or Venus -like world. It is possible to ... dimethyl disulfide in the atmosphere of K2 - 18b , a mini Neptune , await further confirmation. ... chemistry and the study of ancient organic molecules ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.cell.com/current-biology/fulltext/S0960-9822(26)01203-0"/>
-    <published>2026-10-21T15:08:50+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76603cf746#1</id>
-    <title>Emergence of Correlations Between Records and Maximum in Random Time Series</title>
-    <updated>2026-10-21T15:51:23+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SN Majumdar, S Sabhapandit, G Schehr -arXivpreprintarXiv:2610.23217, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We compute exactly the covariance between the maximum $M$ and the number of records $K$ in a discrete time series of $n$ entries as a quantitative probe of the history leading to an extreme event. For continuous IID series, with a common ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.23217"/>
-    <published>2026-10-21T15:51:23+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76603cf746#0</id>
-    <title>Behavioral Couplings: From Formation to Behavioral Emergence in Language Models</title>
-    <updated>2026-10-21T15:51:23+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Hahm, W Jin, D Wei, Y Zhou, N Baracaldo, K Lee -arXivpreprintarXiv:2610.23847, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Results Our results show that the emergence of the untargeted behavior depends on which behavior the model is fine-tuned on. As shown ... The specificity of untargeted behavior emergence to BFT on the targeted behavior supports a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.23847"/>
-    <published>2026-10-21T15:51:23+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Seth, N Block, G Tononi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Three reasons why AI is not conscious and perhaps never will be | Nature Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
+    <link href="https://www.nature.com/articles/d41586-026-03313-7"/>
+    <published>2026-10-22T15:24:16+00:00</published>
   </entry>
 </feed>
