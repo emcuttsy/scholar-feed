@@ -2,41 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-22T18:11:26.411067+00:00</updated>
+  <updated>2026-10-23T11:05:36.228635+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7660fea370#0</id>
-    <title>Robust inference via top-down feedback and neural variability in recurrent vision models</title>
-    <updated>2026-10-22T15:24:12+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76673cb7db#0</id>
+    <title>The Forward/Inverse Duality of Controlled Emergence : A Computational Design Program from Explanation to Engineering</title>
+    <updated>2026-10-22T23:20:59+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Greco, M D'Alessandro, KJ Friston, G Pezzulo... - Patterns, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Biological systems leverage top-down feedback for visual processing, yet most artificial vision models succeed using feedforward architectures, calling into question the role of descending cortical pathways. Here, we trained convolutional recurrent ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00202-3"/>
-    <published>2026-10-22T15:24:12+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Li, M Ren, S Lu -arXivpreprintarXiv:2610.25630, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper proposes a unified research program for controlled emergence that restates this tension as a pair of dual problems: the forward ... intelligence, the industrial internet, and emergency response systems, all of which must confront ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.25630"/>
+    <published>2026-10-22T23:20:59+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7660fea1dc#0</id>
-    <title>Three reasons why AI is not conscious and perhaps never will be</title>
-    <updated>2026-10-22T15:24:14+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7667308eb5#0</id>
+    <title>Searching for habitable exoplanets with relative astrometry Part I. The case for searching for planets in binary star systems</title>
+    <updated>2026-10-23T00:06:22+00:00</updated>
     <author>
-      <name>Anil Seth</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Seth, N Block, G Tononi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Three reasons why AI is not conscious and perhaps never will be | Nature Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Anil Seth (author alert)</content>
-    <link href="https://www.nature.com/articles/d41586-026-03313-7"/>
-    <published>2026-10-22T15:24:14+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Christiansen, E Mamajek, G Vasisht, C Clark... - Journal of Astronomical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Given the steep increase in planet frequency below Neptune -mass planets ( ∼ 17 M E , eg, 98 ), we found that a narrow, deep survey yielded significantly more exoplanet detections and of more scientifically compelling planets that are otherwise ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-12/issue-04/044004/Searching-for-habitable-exoplanets-with-relative-astrometry-Part-I-The/10.1117/1.JATIS.12.4.044004.full"/>
+    <published>2026-10-23T00:06:22+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7660fea0b1#0</id>
-    <title>Three reasons why AI is not conscious and perhaps never will be</title>
-    <updated>2026-10-22T15:24:16+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#9</id>
+    <title>Why Your Morning Coffee Belongs to Your Microbes</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
     <author>
-      <name>Giulio Tononi</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AK Seth, N Block, G Tononi&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Three reasons why AI is not conscious and perhaps never will be | Nature Skip to main content Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Giulio Tononi (author alert)</content>
-    <link href="https://www.nature.com/articles/d41586-026-03313-7"/>
-    <published>2026-10-22T15:24:16+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KV Japar&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It therefore exerts no direct prebiotic influence on the colonic microbiome [4]. ... In doing so, the microbiome-altered by your daily cup transforms coffee into something far more sophisticated than a stimulant: it becomes a prebiotic delivery system for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://almanac.a1c.io/2026/09/07/why-your-morning-coffee-belongs-to-your-microbes/"/>
+    <published>2026-10-23T00:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#8</id>
+    <title>Life Runs on Gradients</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Segurola&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Their antiquity makes gradients relevant to origin - of - life research, but natural gradients at alkaline vents remain an active hypothesis, not a ... Their deep evolutionary history is strongly inferred, while proposals that natural vent gradients ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://juansegurola.com/the-universe-and-its-observers/22336112/paper-en.pdf"/>
+    <published>2026-10-23T00:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#7</id>
+    <title>Gut-targeted interventions to complement PTH-lowering therapy</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Shimamura, H Komaba - Kidney International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Although inulin is best known to nephrologists as the reference marker used for measuring glomerular filtration rate, it is also a naturally occurring fermentable dietary fiber with prebiotic properties. Because it escapes digestion in the small ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.kidney-international.org/article/S0085-2538(26)00710-6/pdf"/>
+    <published>2026-10-23T00:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#6</id>
+    <title>When Chemistry Began to Evolve</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Segurola&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Catalytic RNA makes an RNA - world stage plausible because one polymer can carry sequence and perform chemistry, yet it does not prove that an all-RNA era occurred. Autocatalytic networks show collective self-maintenance; model and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://juansegurola.com/the-universe-and-its-observers/22336576/paper-en.pdf"/>
+    <published>2026-10-23T00:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#5</id>
+    <title>On the Boundary Problem in the Origins of Matter, Life, and Consciousness</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SB Yurchenko&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Next, I discuss the state-of-the-art in the origins of life and consciousness research and their limitations from both theoretical and experimental perspectives. Finally, I conclude that these three major mysteries can never be solved in classical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.researchgate.net/profile/Sergey-Yurchenko-3/publication/416182677_On_the_Boundary_Problem_in_the_Origins_of_Matter_Life_and_Consciousness/links/6ad47ac827751b4f5d3796ce/On-the-Boundary-Problem-in-the-Origins-of-Matter-Life-and-Consciousness.pdf"/>
+    <published>2026-10-23T00:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#4</id>
+    <title>The Central Molecular Zone of our Galaxy, a chemical complexity factory: first interstellar detections of molecules towards G+ 0.693</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; VM Rivilla - arXiv preprint arXiv:2610.26308, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These discoveries include prebiotic precursors of biomolecules, increasingly complex members of known molecular families, molecules ... limits of interstellar chemical complexity and highlight the CMZ's potential to provide the molecular ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.26308"/>
+    <published>2026-10-23T00:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#3</id>
+    <title>Prebiotics in sport and exercise: current evidence, practical applications, and methodological considerations</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Sage, SJ Abbott, R Korczak, NC Williams - Journal of the International Society of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Methods: This narrative review summarizes the current available evidence on prebiotic intake in athletic populations, including effects on ... for designing future prebiotic -based research are explored. Results: Despite the limited existing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.tandfonline.com/doi/pdf/10.1080/15502783.2026.2748763"/>
+    <published>2026-10-23T00:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#2</id>
+    <title>Computational Investigation of Nickel-Mediated CO2 Activation in Iron–Sulfur Clusters Relevant to Prebiotic Carbon Fixation in Early-Earth Hydrothermal Systems</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Batchu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Alkaline hydrothermal environments combine fluid–rock reactions, strong chemical gradients, and Fe-and Ni-bearing minerals that may have supported early carbon chemistry on Earth. Modern anaerobic carbon-fixation enzymes also make extensive ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://essopenarchive.org/doi/pdf/10.22541/essoar.15010649"/>
+    <published>2026-10-23T00:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#1</id>
+    <title>Can Synthetic Spectra Be Used to Predict Prebiotic Chemical Equilibria of Exoplanets in the Era of JWST? Modelling the Atmosphere of TOI-700 d to Determine the ...</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Majumder, B Spejcher - The National High School Journal of Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The reduced prebiotic inventory we obtain also dovetails with origin - of - life constraints for M-dwarf planets, where quiescent UV is often insufficient to drive HCN-based prebiotic photochemistry 11 , 8 , 12 , 10 , 27 . On the observational side, our ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://nhsjs.com/2026/can-synthetic-spectra-be-used-to-predict-prebiotic-chemical-equilibria-of-exoplanets-in-the-era-of-jwst-modelling-the-atmosphere-of-toi-700-d-to-determine-the-habitability-of-this-system/"/>
+    <published>2026-10-23T00:06:24+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7667308e05#0</id>
+    <title>Valorization of mango by-products into prebiotic ingredients: a critical review on functional properties and gut microbiota modulation mechanisms</title>
+    <updated>2026-10-23T00:06:24+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LT Mohamad Arif Rahmat Teo, R Nordin, NSA Abidin... - European Food Research ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review critically evaluates the potential of mango by-products as prebiotic ingredients by ... Processing strategies significantly influence prebiotic functionality by modifying molecular ... Overall, mango by-products represent promising but ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s00217-026-05299-y"/>
+    <published>2026-10-23T00:06:24+00:00</published>
   </entry>
 </feed>
