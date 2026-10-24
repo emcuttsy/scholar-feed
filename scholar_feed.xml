@@ -2,140 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-23T11:05:36.228635+00:00</updated>
+  <updated>2026-10-24T10:22:11.078644+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76673cb7db#0</id>
-    <title>The Forward/Inverse Duality of Controlled Emergence : A Computational Design Program from Explanation to Engineering</title>
-    <updated>2026-10-22T23:20:59+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7667f92b3c#0</id>
+    <title>Ideas for Creating Early Warning Systems in the Climate Sciences</title>
+    <updated>2026-10-24T00:22:33+00:00</updated>
+    <author>
+      <name>Timothy Lenton</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Huntingford, JF Abrams, P Ashwin, N Boers... - EGUsphere, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A key concern with anthropogenic climate change is that continued warming may trigger transitions in tipping systems. These are Earth system components where small additional climate changes cause large, often irreversible, shifts in state. Such ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5606/"/>
+    <published>2026-10-24T00:22:33+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76660ef0b0#2</id>
+    <title>Rashba-controlled emergence and reversal of critical-field anisotropy in p-wave magnet--superconductor hybrids</title>
+    <updated>2026-10-24T04:23:41+00:00</updated>
     <author>
       <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Li, M Ren, S Lu -arXivpreprintarXiv:2610.25630, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper proposes a unified research program for controlled emergence that restates this tension as a pair of dual problems: the forward ... intelligence, the industrial internet, and emergency response systems, all of which must confront ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.25630"/>
-    <published>2026-10-22T23:20:59+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; RX Cheng, Z Gong, DH Xu, CZ Chen -arXivpreprintarXiv:2610.27499, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We show that tuning Rashba spin-orbit coupling can change the in-plane field direction along which an $s$-wave superconductor is most susceptible to Zeeman depairing. We consider a two-dimensional $s$-wave superconductor subject to an ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.27499"/>
+    <published>2026-10-24T04:23:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308eb5#0</id>
-    <title>Searching for habitable exoplanets with relative astrometry Part I. The case for searching for planets in binary star systems</title>
-    <updated>2026-10-23T00:06:22+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ef0b0#1</id>
+    <title>Broken isospectrality in inverted black hole potentials and the emergence of Efimov scaling</title>
+    <updated>2026-10-24T04:23:41+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Christiansen, E Mamajek, G Vasisht, C Clark... - Journal of Astronomical ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Given the steep increase in planet frequency below Neptune -mass planets ( ∼ 17 M E , eg, 98 ), we found that a narrow, deep survey yielded significantly more exoplanet detections and of more scientifically compelling planets that are otherwise ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-12/issue-04/044004/Searching-for-habitable-exoplanets-with-relative-astrometry-Part-I-The/10.1117/1.JATIS.12.4.044004.full"/>
-    <published>2026-10-23T00:06:22+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; U Shahzad, SH Völkel -arXivpreprintarXiv:2610.27102, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Are the inverted Regge-Wheeler and Zerilli potentials arising in Mashhoon's bound-state approach to black-hole quasinormal modes isospectral? Extending previous numerical and analytical studies of the inverted Regge-Wheeler potential, we ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.27102"/>
+    <published>2026-10-24T04:23:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#9</id>
-    <title>Why Your Morning Coffee Belongs to Your Microbes</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ef0b0#0</id>
+    <title>Claims of emergence in AI should be grounded in information decomposition</title>
+    <updated>2026-10-24T04:23:41+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>arxiv" + intitle:"emergence</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; KV Japar&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... It therefore exerts no direct prebiotic influence on the colonic microbiome [4]. ... In doing so, the microbiome-altered by your daily cup transforms coffee into something far more sophisticated than a stimulant: it becomes a prebiotic delivery system for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://almanac.a1c.io/2026/09/07/why-your-morning-coffee-belongs-to-your-microbes/"/>
-    <published>2026-10-23T00:06:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Riedl, FE Rosas -arXivpreprintarXiv:2610.28479, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; When a language model develops capabilities not traceable to its individual components, when a multi-agent AI system outperforms each agent on its own, or when a human-AI pair succeeds where either fails in isolation, AI researchers ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.28479"/>
+    <published>2026-10-24T04:23:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#8</id>
-    <title>Life Runs on Gradients</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed96b#1</id>
+    <title>A Widely Inhabited Universe? Spontaneous Generation, the Origin of Life , and the Emergence of the Modern Pluralist Worldview in the 19th Century</title>
+    <updated>2026-10-24T04:24:42+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Segurola&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Their antiquity makes gradients relevant to origin - of - life research, but natural gradients at alkaline vents remain an active hypothesis, not a ... Their deep evolutionary history is strongly inferred, while proposals that natural vent gradients ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://juansegurola.com/the-universe-and-its-observers/22336112/paper-en.pdf"/>
-    <published>2026-10-23T00:06:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TG Greene&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... , was significantly built upon through discussions concerning a more refined, abiogenically oriented notion of spontaneous generation, the parameters associated with planetary habitability , and the potential diversity of extraterrestrial life as shaped ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://rucore.libraries.rutgers.edu/rutgers-lib/76640/PDF/1/"/>
+    <published>2026-10-24T04:24:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#7</id>
-    <title>Gut-targeted interventions to complement PTH-lowering therapy</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed96b#0</id>
+    <title>From Microbiology to Astrobiology : Evaluating Algal Biosignature Scenarios with a Locally Deployed Language Model</title>
+    <updated>2026-10-24T04:24:42+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Shimamura, H Komaba - Kidney International, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Although inulin is best known to nephrologists as the reference marker used for measuring glomerular filtration rate, it is also a naturally occurring fermentable dietary fiber with prebiotic properties. Because it escapes digestion in the small ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.kidney-international.org/article/S0085-2538(26)00710-6/pdf"/>
-    <published>2026-10-23T00:06:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Alexandrov&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... survey is not to find alien life , nor does it discuss whether we are searching for these exact microorganisms on exoplanets . Instead, all micro... Now I consider the case of using Chlorella as an analog organism on a hypothetical exoplanet in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://actamicrobio.bg/archive/issue-3-2026/amb-3-2026-article-15.pdf"/>
+    <published>2026-10-24T04:24:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#6</id>
-    <title>When Chemistry Began to Evolve</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Segurola&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Catalytic RNA makes an RNA - world stage plausible because one polymer can carry sequence and perform chemistry, yet it does not prove that an all-RNA era occurred. Autocatalytic networks show collective self-maintenance; model and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://juansegurola.com/the-universe-and-its-observers/22336576/paper-en.pdf"/>
-    <published>2026-10-23T00:06:24+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#5</id>
-    <title>On the Boundary Problem in the Origins of Matter, Life, and Consciousness</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#9</id>
+    <title>Bioaccessibility and Microbial Metabolism of (Poly) phenol-Rich Dietary Fiber Fractions from Frozen Mixed Berries in an In Vitro Model</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SB Yurchenko&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Next, I discuss the state-of-the-art in the origins of life and consciousness research and their limitations from both theoretical and experimental perspectives. Finally, I conclude that these three major mysteries can never be solved in classical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.researchgate.net/profile/Sergey-Yurchenko-3/publication/416182677_On_the_Boundary_Problem_in_the_Origins_of_Matter_Life_and_Consciousness/links/6ad47ac827751b4f5d3796ce/On-the-Boundary-Problem-in-the-Origins-of-Matter-Life-and-Consciousness.pdf"/>
-    <published>2026-10-23T00:06:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Núñez-Gómez, JL Ordóñez-Díaz, JM Moreno-Rojas... - Journal of Agricultural and Food ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... complexes as potential prebiotic carriers for controlled delivery of bioactives in the colon. ... While the potential prebiotic properties of DF and (poly)phenols from berries have been ... , limiting the comprehensive assessment of their prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/jafcau/article/doi/10.1021/acs.jafc.6c01779/5455093"/>
+    <published>2026-10-24T04:24:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#4</id>
-    <title>The Central Molecular Zone of our Galaxy, a chemical complexity factory: first interstellar detections of molecules towards G+ 0.693</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#8</id>
+    <title>Development and physicochemical characterization of a low-calorie functional ice cream based on plant ingredients</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; VM Rivilla - arXiv preprint arXiv:2610.26308, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... These discoveries include prebiotic precursors of biomolecules, increasingly complex members of known molecular families, molecules ... limits of interstellar chemical complexity and highlight the CMZ's potential to provide the molecular ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.26308"/>
-    <published>2026-10-23T00:06:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MV Popescu, A Chetrariu, A Dabija - Journal of Agroalimentary Processes and ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The aim of the paper was to develop and evaluate the quality of a functional ice cream, obtained by partially or completely substituting traditional sweeteners and liquid cream with Jerusalem artichoke powder, a source of inulin with a prebiotic and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://journal-of-agroalimentary.ro/admin/articole/23604L9_Popescu_DOI-3.9.-pp.-448-460.pdf"/>
+    <published>2026-10-24T04:24:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#3</id>
-    <title>Prebiotics in sport and exercise: current evidence, practical applications, and methodological considerations</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#7</id>
+    <title>Dietary Mannan Oligosaccharide Supplementation During Gestation Alters Milk Composition in Jennies and Improves Growth Performance, Lipid Metabolism, and Gut ...</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SA Sage, SJ Abbott, R Korczak, NC Williams - Journal of the International Society of ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Methods: This narrative review summarizes the current available evidence on prebiotic intake in athletic populations, including effects on ... for designing future prebiotic -based research are explored. Results: Despite the limited existing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.tandfonline.com/doi/pdf/10.1080/15502783.2026.2748763"/>
-    <published>2026-10-23T00:06:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Li, J Luo, Z Wen, Y Yin, S Huang, D Shi - Microorganisms, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... MOS are a class of functional oligosaccharides with potential prebiotic and other bioactive properties. Previous studies have shown that the ... Studies in lactating ruminants have further suggested that prebiotic supplementation may influence ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2076-2607/14/10/2409"/>
+    <published>2026-10-24T04:24:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#2</id>
-    <title>Computational Investigation of Nickel-Mediated CO2 Activation in Iron–Sulfur Clusters Relevant to Prebiotic Carbon Fixation in Early-Earth Hydrothermal Systems</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#6</id>
+    <title>Low-moisture ethanol–aqueous heat-moisture treatment drives V-type crystalline inclusion assembly of wheat starch–stilbene complexes to modulate digestibility and ...</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Batchu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Alkaline hydrothermal environments combine fluid–rock reactions, strong chemical gradients, and Fe-and Ni-bearing minerals that may have supported early carbon chemistry on Earth. Modern anaerobic carbon-fixation enzymes also make extensive ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://essopenarchive.org/doi/pdf/10.22541/essoar.15010649"/>
-    <published>2026-10-23T00:06:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Zhang, M Miao, L Chen - Carbohydrate Polymers, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... the polyphenol structure on structure, digestibility and prebiotic potential were compared. In the ... , scalable route to functional RS5 ingredients with promising in vitro prebiotic potential. ... The in vitro prebiotic potential of the complexes was ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0144861726010696"/>
+    <published>2026-10-24T04:24:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#1</id>
-    <title>Can Synthetic Spectra Be Used to Predict Prebiotic Chemical Equilibria of Exoplanets in the Era of JWST? Modelling the Atmosphere of TOI-700 d to Determine the ...</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#5</id>
+    <title>Hydrogenation of Uracil in Solid Para-Hydrogen: Infrared Spectra of Monohydrogenated Radicals (5H-C4H5N2O2, 6H-C4H5N2O2, and 4OH-C4H5N2O2) and Their ...</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Majumder, B Spejcher - The National High School Journal of Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The reduced prebiotic inventory we obtain also dovetails with origin - of - life constraints for M-dwarf planets, where quiescent UV is often insufficient to drive HCN-based prebiotic photochemistry 11 , 8 , 12 , 10 , 27 . On the observational side, our ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://nhsjs.com/2026/can-synthetic-spectra-be-used-to-predict-prebiotic-chemical-equilibria-of-exoplanets-in-the-era-of-jwst-modelling-the-atmosphere-of-toi-700-d-to-determine-the-habitability-of-this-system/"/>
-    <published>2026-10-23T00:06:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; PR Joshi, MK Tripathi, YP Lee - The Journal of Physical Chemistry A&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Uracil (C 4 H 4 N 2 O 2 ), an essential RNA nucleobase central to the RNA World hypothesis and the prebiotic emergence of life , has been detected in pristine asteroid samples, yet its survival mechanism in nonenergetic interstellar ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pubs.acs.org/jpcafh/article/doi/10.1021/acs.jpca.6c05066/5454067"/>
+    <published>2026-10-24T04:24:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7667308e05#0</id>
-    <title>Valorization of mango by-products into prebiotic ingredients: a critical review on functional properties and gut microbiota modulation mechanisms</title>
-    <updated>2026-10-23T00:06:24+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#4</id>
+    <title>A Widely Inhabited Universe? Spontaneous Generation, the Origin of Life , and the Emergence of the Modern Pluralist Worldview in the 19th Century</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LT Mohamad Arif Rahmat Teo, R Nordin, NSA Abidin... - European Food Research ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This review critically evaluates the potential of mango by-products as prebiotic ingredients by ... Processing strategies significantly influence prebiotic functionality by modifying molecular ... Overall, mango by-products represent promising but ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets, Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00217-026-05299-y"/>
-    <published>2026-10-23T00:06:24+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; TG Greene&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The concept of pluralism, that is, the centuries-old belief that many inhabited worlds exist beyond the Earth, has always been, on its most fundamental level, dependent on an explanation for the origin of life . Prior to the 19th century, the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://rucore.libraries.rutgers.edu/rutgers-lib/76640/PDF/1/"/>
+    <published>2026-10-24T04:24:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#3</id>
+    <title>From Protocell to AI The Physical Origin of Phenomenal Consciousness and the Reframing of Block's Dissociation</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; W Xiaoyu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper argues that: the emergent phase-transition point of phenomenal consciousness lies at the moment of protocell formation, because the membrane boundary for the first time couples the probability of continued existence with action; ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://philarchive.org/archive/XIAFPT-2"/>
+    <published>2026-10-24T04:24:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#2</id>
+    <title>The Prequel of the " RNA World ", A Hypothetical Homochiral Selective Mechanism for D-RNA Monomer Survival in Primitive Earth Environmental Conditions</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Zhu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... established during the origin of life remains a critical question that awaits further investigation and validation. The " RNA World " theory posits ... Drawing upon existing theories of biological evolution—including ultraviolet light stressing, diurnal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://essopenarchive.org/doi/pdf/10.22541/essoar.15010783"/>
+    <published>2026-10-24T04:24:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#1</id>
+    <title>Moringa oleifera: A Prebiotic Material for Better Health</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SH Koli, BV Mohite, VS Patil, SV Patil - Chemistry Proceedings, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... In this study, plant-based materials were screened for their prebiotic potential on Lactobacillus paracasei ... prebiotic activity based on the prebiotic activity score (PAS) and in vivo effect on animal models. In this study, we tested different parts of the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2673-4583/22/1/35"/>
+    <published>2026-10-24T04:24:43+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e76660ed8a5#0</id>
+    <title>Oral inulin prebiotic encapsulating Cortex Fraxini extracellular vesicles alleviates colitis and associated renal stress via reinforcing intestinal barriers and remodeling ...</title>
+    <updated>2026-10-24T04:24:43+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Chai, J Fu, M Zhang, X Pei, X Liu, B Xiao, B Gao... - Theranostics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background: Gut–kidney axis dysfunction contributes to extraintestinal complications in inflammatory bowel disease (IBD), yet effective therapeutic strategies targeting this axis remain limited. This study developed an oral prebiotic delivery system by ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life, Reviewer, Too: Consciousness&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13684145/"/>
+    <published>2026-10-24T04:24:43+00:00</published>
   </entry>
 </feed>
