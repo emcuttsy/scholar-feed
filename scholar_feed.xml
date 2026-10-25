@@ -2,85 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-25T10:49:41.367516+00:00</updated>
+  <updated>2026-10-25T17:17:49.027035+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766682fe59#0</id>
-    <title>Supplementary Information: The interplay between ecological networks drives host-plasmid community dynamics</title>
-    <updated>2026-10-25T06:21:10+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1c71#1</id>
+    <title>The first selection of optimal targets for the Lazuli ExtraSolar Coronagraph's reflected starlight exoplanet campaign</title>
+    <updated>2026-10-25T11:26:02+00:00</updated>
     <author>
-      <name>Manlio De Domenico</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; YJ Wang, KA Schaal, J Nauta, A Liaghat...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In a system where hosts and plasmids differ only in their position within the interaction networks (ie, all biological traits are held uniform), the final plasmid prevalence can be derived analytically from the topological properties of the nodes; ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Manlio De Domenico (author alert)</content>
-    <link href="https://www.scienceopen.com/document?-1.-header-action~bar-download~dropdown-pdf~link-link&amp;vid=7b790de7-af05-40a5-9bc8-6a93b94ddd6c"/>
-    <published>2026-10-25T06:21:10+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; LA Pearce, E Douglas - arXiv preprint arXiv:2610.31286, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... exoplanet systems (since flux is decoupled from age) at closer separations than via thermal emission (due to observations in visible wavelengths), and even probes of biosignatures . New ... On bottom left we show a vertical teal line at the mass of ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.31286"/>
+    <published>2026-10-25T11:26:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766682fe00#0</id>
-    <title>Systematic Uncertainties in Rocky Exoplanet Reflected Light from Incomplete Laboratory BRDF Measurements</title>
-    <updated>2026-10-25T06:21:11+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1c71#0</id>
+    <title>Surveys of the scientific community on possible detection of extraterrestrial life : comparing the K2 - 18b and Cheyava Falls rock announcements</title>
+    <updated>2026-10-25T11:26:02+00:00</updated>
     <author>
-      <name>Renyu Hu</name>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Gkouvelis, MK Shepard, P Helfenstein, FJ Pozuelos... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The first observations of short-period rocky exoplanets have initiated the era of terrestrial exoplanet characterization. The interpretation of these observations relies on forward models used in atmospheric and surface retrieval frameworks. While ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Renyu Hu (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.28755"/>
-    <published>2026-10-25T06:21:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Vickers, C Cowie, J Hamilton, S McMahon...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... not say that this is the closest we have ever come to discovering life on Mars (as was reported at the time): if it turns out that the geological features in question had an abiotic origin, and were not in any sense proximal to life , then we can't have ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://durham-repository.worktribe.com/OutputFile/6054337"/>
+    <published>2026-10-25T11:26:02+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766682fdd6#0</id>
-    <title>Using Machine Learning to Identify Ultracool Dwarfs in Deep JWST Surveys</title>
-    <updated>2026-10-25T06:21:11+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#9</id>
+    <title>CFU vs. Survivability: What Your Probiotic Label Isn't Telling You</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
     <author>
-      <name>Adam J. Burgasser</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Haynes, AJ Burgasser, MY Zhuang, Y Shen, Z Pan... - Research Notes of the AAS, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Deep JWST spectroscopy has revealed a distant population of ultracool dwarf (UCD) stars and brown dwarfs in the Milky Way's thick disk and halo populations. Identifying these rare objects requires efficient, accurate searches of large spectral datasets. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Adam J. Burgasser (author alert)</content>
-    <link href="https://iopscience.iop.org/article/10.3847/2515-5172/aeb4a8"/>
-    <published>2026-10-25T06:21:11+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WCFUA Means&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Prebiotic inclusion Fuel for probiotic bacteria If a prebiotic is included, its type and amount are listed (fibers such as inulin and FOS can cause gas and bloating in some people) Claims that a prebiotic makes the probiotic "settle in" with no data for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://kasivit.com/blogs/news/cfu-vs-survivability-probiotic-label"/>
+    <published>2026-10-25T11:26:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e766682fd37#0</id>
-    <title>Claims of emergence in AI should be grounded in information decomposition</title>
-    <updated>2026-10-25T06:21:13+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#8</id>
+    <title>Effects of planetary surface-analog environments on the preservation of biosignatures and the viability of microbial communities</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Riedl, FE Rosas - arXiv preprint arXiv:2610.28479, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; When a language model develops capabilities not traceable to its individual components, when a multi-agent AI system outperforms each agent on its own, or when a human-AI pair succeeds where either fails in isolation, AI researchers ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.28479"/>
-    <published>2026-10-25T06:21:13+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MA Tiemblo&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Understanding how microorganisms survive, obtain energy and leave detectable biosignatures under such conditions is fundamental to reconstructing the origin of life on Earth and guiding its detection beyond it. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://dialnet.unirioja.es/servlet/tesis?codigo=408423"/>
+    <published>2026-10-25T11:26:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76669519c2#1</id>
-    <title>Music Between Two Minds: Individual Signatures, Shared States, and the Emergence of Creative Interaction</title>
-    <updated>2026-10-25T10:24:54+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#7</id>
+    <title>Mining, expression and functional characterization of a novel endo-inulinase gene from Emericella rugulosa.</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; T Daikoku, R Kobayashi, R Tabuchi, Y Abe... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Some of the most valued forms of human creativity arise between people-in conversation, collaboration, and improvised music-yet how two minds jointly regulate the flow of novelty in real time remains unknown. Here we examined the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.31131"/>
-    <published>2026-10-25T10:24:54+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Zhang, T Yang, S Wan, Z Wu&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Fructooligosaccharide (FOS), as an important prebiotic , is experiencing continuously growing market demand, and there is a pressing need for the development of an efficient and low-cost production process. This study aims to mine novel endo-inulinase ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260505258"/>
+    <published>2026-10-25T11:26:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76669519c2#0</id>
-    <title>Tracking the Emergence and Persistence of Abnormal Grain Growth in an Aluminum Alloy using Diffraction-Contrast Tomography</title>
-    <updated>2026-10-25T10:24:54+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#6</id>
+    <title>Coacervate protocells-mediated mitochondrial transplantation restores gut epithelial energetic homeostasis in ulcerative colitis</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
     <author>
-      <name>arxiv" + intitle:"emergence</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; HA Schulz-Harder, K Gutbrod, M Atzen, M Ziehmer... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Using an interrupted annealing protocol, we tracked the persistent growth of abnormal grains and the emergence of abnormal growth in ... emergence —the moment it begins outgrowing its neighbors—as well as its persistence in growing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Language, Numeracy, and Musicality&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.31176"/>
-    <published>2026-10-25T10:24:54+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Ding, Y Chen, Y Jia, J Li, Z Tan, W Wu, S Ouyang... - Bioactive Materials, 2027&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Here, we developed a biomimetic coacervate-based protocell system (HTP) via liquid-liquid phase separation of polyethylene glycol, tannic acid, and sodium hyaluronate for efficient encapsulation and delivery of functional mitochondria (HTP@Mito) ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2452199X26006134"/>
+    <published>2026-10-25T11:26:03+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7666951982#0</id>
-    <title>Scientific evidence as a basis for the approval of virtual fencing systems.</title>
-    <updated>2026-10-25T10:24:54+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#5</id>
+    <title>Bidirectional regulatory mechanisms between polyphenols and gut microbiota in medicine and food homologous plants.</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
     <author>
-      <name>Stefan Thurner</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Hamidi, V Blumenthal, B Bösel, C Bodt...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This overview summarises the current state of national research on VF, complements it with findings from international research, and derives recommendations for the application of this technology in Germany. Virtual fencing ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Stefan Thurner (keyword alert)</content>
-    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260535249"/>
-    <published>2026-10-25T10:24:54+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Huang, L Yang, Ailian, F Xie, X Song&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Furthermore, the molecular mechanisms by which polyphenols selectively remodel microbiota structure, maintain intestinal barrier integrity, and modulate gut-organ axis signaling via prebiotic -like effects are explored. Emphasizing the bidirectional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260505292"/>
+    <published>2026-10-25T11:26:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#4</id>
+    <title>SP Children's® ProSynbiotic, 20 Count</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; US Free, C Energy, S Botanicals, S Change&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A synbiotic is a combination of probiotics, beneficial microorganisms that support good health, and prebiotics, fibers that feed the probiotics. Research shows the presence of prebiotic fiber within a synbiotic may help the probiotic survive the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://shop.haydeninstitute.com/products/standardprocess-sp-childrens-prosynbiotic-16030"/>
+    <published>2026-10-25T11:26:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#3</id>
+    <title>PHGG vs Psyllium vs Inulin: Which Fibre Is Best?</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Orders&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... fibre, psyllium is primarily a gel-forming fibre used for bowel regularity, while inulin is a rapidly fermented prebiotic fibre. They are all fibres, ... Inulin is readily fermented by gut microbes, which is useful from a prebiotic point of view but can also ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://purifibre7.com/blogs/the-fibre-lab/inulin-vs-phgg-vs-psyllium-which-fibre-is-the-best"/>
+    <published>2026-10-25T11:26:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#2</id>
+    <title>Integrated sequential fractionation of palm kernel cake for the production and purification of mannan-oligosaccharides</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; N Chaipeta, T Preechakun, R Lertsuwan... - Results in Engineering, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This study investigated an integrated sequential fractionation process for the recovery of crude fat, protein, and mannan-rich hemicellulose from palm kernel cake (PKC), followed by the purification, and preliminary prebiotic evaluation of mannan-oligosaccharides ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2590123026047237"/>
+    <published>2026-10-25T11:26:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#1</id>
+    <title>Prebiotics and the Gut–Bone Marrow Axis: Potential Remodeling of the Hematopoietic/Leukemic Stem Cell Niche via Short-Chain Fatty Acids and AhR Signaling</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Wang, Q Yang, H Guo, Z Yang, Y Yang, M Peng... - Frontiers in Immunology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... However, several specific questions remain unresolved: whether defined prebiotic interventions consistently alter circulating and bone marrow... This review synthesizes evidence on how prebiotic -associated SCFAs and indole/AhR signaling ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1913887/full"/>
+    <published>2026-10-25T11:26:03+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7666af1b9e#0</id>
+    <title>Characterization of lentil (Lens culinaris Medik.) Core collection for prebiotic carbohydrates, protein content, and antioxidant capacity.</title>
+    <updated>2026-10-25T11:26:03+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AR Ragul, S Gupta, M Aski, P Yadav, GA Daniel, S Jain...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Lentil (Lens culinaris Medik.) is an important pulse crop with notable functional food properties, characterized by high protein content, low levels of digestible carbohydrates, and a diverse array of bioactive compounds that contribute to human ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Origin of Life, Reviewer, too: Physical Biology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.cabidigitallibrary.org/doi/full/10.5555/20260529725"/>
+    <published>2026-10-25T11:26:03+00:00</published>
   </entry>
 </feed>
