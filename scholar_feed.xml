@@ -2,107 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-26T19:36:55.470128+00:00</updated>
+  <updated>2026-10-27T11:40:02.198480+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76656fe378#0</id>
-    <title>Coordinating the Field</title>
-    <updated>2026-10-26T16:03:45+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#9</id>
+    <title>Gastrointestinal fate of cellulose nanocrystal-based Pickering emulsions: Implications for lipid digestion, bioactive delivery, and gut microbiota regulation</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
     <author>
-      <name>Karl Friston</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Ober, A Maren, KJ Friston, AM Hurtado, A Pashea...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Active inference is approaching a critical developmental juncture. The theoretical framework has matured substantially over the past decade, and applications are emerging across domains from clinical medicine to autonomous systems ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Karl Friston (author alert)</content>
-    <link href="https://danielarifriedman.com/papers/2026_CoordinatingField/Active_Inference_Coordinating_the_Field_v1.0.0.pdf"/>
-    <published>2026-10-26T16:03:45+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Hu, B Xu, Q Wu, T Ma - Trends in Food Science &amp; Technology, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Accumulating evidence suggests that CNCs may undergo fermentation by gut microbiota, functioning as prebiotic substrates that regulate microbial composition and metabolic activity. These gastrointestinal interactions collectively contribute to ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0924224426006382"/>
+    <published>2026-10-27T06:41:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76656fa8b3#0</id>
-    <title>www. nature. com/scientificreports</title>
-    <updated>2026-10-26T16:05:05+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#8</id>
+    <title>Poppi-lar Economics</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; M Faggian, F Ginelli, F Rosas, Z Levnajić&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1Scientific RepoRts | (2019) 9:10207 | https://doi.org/10.1038/s41598-019-46345-y www.nature.com/scientificreports synchronization in time-varying random networks with vanishing connectivity Marco Faggian1,2, Francesco Ginelli1, Fernando Rosas3,4 &amp; ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/2f579d12-2501-433e-9ffe-37e20f80f084/content"/>
-    <published>2026-10-26T16:05:05+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; GD Mateer, CJ Acchiardo, L Clark, W Geerling - Journal for Economic Educators, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... This paper presents three lesson plans that use the rise of Poppi – a prebiotic soda brand that originated as "Mother Beverage" and gained national prominence after appearing on Shark Tank – to teach the core principles of monopolistic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://libjournals.mtsu.edu/index.php/jfee/article/download/2850/1694"/>
+    <published>2026-10-27T06:41:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76656fa369#0</id>
-    <title>BBA-Bioenergetics</title>
-    <updated>2026-10-26T16:05:14+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#7</id>
+    <title>Gut Bacteria and Depression: 4 Findings Worth Knowing</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
     <author>
-      <name>William Martin</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NK Hoffmann, ML Schlikker, WF Martin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; How did phosphate become the universal energetic currency of life? Traditional approaches to phosphorylation in early evolution studies entail non-physiological conditions. Phosphite, HPO3 2, which is oxidized enzymatically by many microbes ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; William Martin (author alert)</content>
-    <link href="https://www.molevol.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Biologie/Institute/Molekulare_Evolution/Dokumente/Hoffmann_et_al._BBA_2026.pdf"/>
-    <published>2026-10-26T16:05:14+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WYC Do Today&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The depression analysis covered 3,179 participants, and the pooled effect favored prebiotic and probiotic treatment with a standardized mean difference of about 0.29. The anxiety result was almost identical, at 0.29 across 4,295 participants ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://siallac.com/gut-bacteria-and-depression-4-findings-worth-knowing/"/>
+    <published>2026-10-27T06:41:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76656fa160#0</id>
-    <title>A Technical Reanalysis of the Viking Carbon Assimilation-Pyrolytic Release Experiment</title>
-    <updated>2026-10-26T16:05:17+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#6</id>
+    <title>Gut microbiota-targeted interventions with probiotics, prebiotics or synbiotics in acute and stable coronary artery disease: A scoping review of human evidence</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
     <author>
-      <name>Steven A. Benner</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Spacek, CA Abraham, SA Benner - arXiv preprint arXiv:2610.30368, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The 1976 Viking Carbon Assimilation-Pyrolytic Release (CAPyR) experiment tested whether carbon from $^{14} $ CO $ _2 $ and $^{14} $ CO entered Martian soil during a 120-hour incubation in a form retained during a 120$^\circ $ C purge but released ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Steven A. Benner (author alert)</content>
-    <link href="https://arxiv.org/pdf/2610.30368"/>
-    <published>2026-10-26T16:05:17+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; J Schwab, C Chong-Nguyen - Archives of Cardiovascular Diseases, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... combinations of live microorganisms and selectively utilized prebiotic substrates (11,12) – have been proposed as a potentially more effective approach than either probiotic or prebiotic supplementation alone. The prebiotic component may sustain probiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1875213626007734"/>
+    <published>2026-10-27T06:41:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76656f97d5#0</id>
-    <title>Artificial Cells with a Cytoskeleton from Synthetic Self-Replicating Molecules</title>
-    <updated>2026-10-26T16:05:32+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#5</id>
+    <title>Prebiotics and Human Milk Oligosaccharides for Infant Health: Perspectives of Indian Experts</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
     <author>
-      <name>Sijbren Otto</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P De Dios Andres, LC Herold, K Mikhailov, S Otto...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Living cells couple molecular replication and cytoskeletal assembly to changes in shape and mechanical stability, but reconstructing this relationship in synthetic compartments remains challenging. Here, we confine self-replicating supramolecular ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Sijbren Otto (author alert)</content>
-    <link href="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010885"/>
-    <published>2026-10-26T16:05:32+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SK Surapaneni, U Vaidya, B Raju, S Surampudi... - Frontiers in Pediatrics&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... insights on the role of prebiotic and HMO interventions in shaping early-life health outcomes. Methods: A 12-member group of paediatric and neonatal experts from India reviewed the available evidence to assess the role of targeted prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2026.1964729/full"/>
+    <published>2026-10-27T06:41:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76656f94d2#0</id>
-    <title>Beyond the dyad: higher-order structure within cohesive animal groups can reveal novel patterns of subgroup dynamics</title>
-    <updated>2026-10-26T16:05:36+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#4</id>
+    <title>How plant life started</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
     <author>
-      <name>Damien Farine</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Betti, F Musciotto, D Papageorgiou, F Battiston... - Animal Behaviour, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Revealing the consequences of social structure in animal societies is largely determined by our ability to accurately estimate functionally relevant patterns of social contact among individuals. Of particular relevance are social contacts that ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Damien Farine (author alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0003347226002848"/>
-    <published>2026-10-26T16:05:36+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; F Engels&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Our solar system is 4.6 billion years old, but it was not until about 4 billion years ago that conditions on the Earth's surface had become suitable for the first life to arise. This may have happened through the formation of complex molecules in a hot ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://books.google.com/books?hl=en&amp;lr=lang_en&amp;id=wRwfEgAAQBAJ&amp;oi=fnd&amp;pg=PA11&amp;dq=%22origins+of+life%22%7C%22origin+of+life%22%7C%22emergence+of+life%22%7Cabiogenesis%7C%22metabolism-first%22%7C%22last+universal+common+ancestor%22%7C%22alkaline+hydrothermal+vent%22%7C%22RNA+world%22%7C%22panspermia%22%7C%22primordial+soup%22%7C%22prebiotic%22%7C%22protocell%22&amp;ots=ojFR8y4EpG&amp;sig=q6x_SRxXVOk7K1z0hlSWh3_6r3A"/>
+    <published>2026-10-27T06:41:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e76656f92de#0</id>
-    <title>A Draft Human Pangenome Reference</title>
-    <updated>2026-10-26T16:05:39+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#3</id>
+    <title>Prebiotic -integrated nanoplatforms for inflammatory bowel disease: from construction strategies to multimodal combination therapy</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
     <author>
-      <name>Erich Jarvis</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; L Antonacci-Fulton, X Feng, J Mountcastle, S Cody...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract The Human Pangenome Reference Consortium (HPRC) presents a first draft human pangenome reference. The pangenome contains 47 phased, diploid assemblies from a cohort of genetically diverse individuals. These assemblies cover ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Erich Jarvis (author alert)</content>
-    <link href="https://www.academia.edu/download/134867297/s41586-023-05896-x.pdf"/>
-    <published>2026-10-26T16:05:39+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Zhang, L Yu, QTH Shubhra, X Cai - Nanomedicine Therapeutics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... addressed prebiotic selection and therapeutic outcomes in IBD [11] , prebiotic carbohydrate-... the selective microbial utilization that defines a prebiotic , and how this microbiota-dependent ... demonstrates retention of prebiotic function after ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.oaepublish.com/articles/nmt.2026.12?to=comment"/>
+    <published>2026-10-27T06:41:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7665635183#1</id>
-    <title>Exploring magnetic field properties at the boundary of solar pores: A comparative study based on SDO-HMI observations</title>
-    <updated>2026-10-26T16:29:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#2</id>
+    <title>Genome-resolved prioritization of probiotic– prebiotic pairs for synbiotic food development</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; AM Veronig, JIC Rozo, D Utz, A Hanslmeier - Astronomy &amp; Astrophysics&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Abstract Context. The Sun's magnetic fields play an important role in various solar phenomena. Solar pores are regions of intensified magnetic field strength compared to the surrounding photospheric environment, and their study can help us better ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://www.academia.edu/download/134784120/pdf.pdf"/>
-    <published>2026-10-26T16:29:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MHB Khaledi, AHD Janabi - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Selecting a prebiotic for a particular probiotic strain remains difficult because glycoside-hydrolase (GH) family annotations do not consistently resolve substrate-specific utilization. We extended a transparent genome-based prioritization workflow from ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226021383"/>
+    <published>2026-10-27T06:41:06+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7665635183#0</id>
-    <title>Spatially variant neural blind deconvolution to reconstruct ground-based solar observations</title>
-    <updated>2026-10-26T16:29:43+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#1</id>
+    <title>Fungal Enzyme-Assisted Conversion of Water Hyacinth and Sugarcane Bagasse Hemicelluloses into Xylooligosaccharide-Rich Hydrolysates with Potential Prebiotic ...</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
     <author>
-      <name>Astrid Veronig</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schirninger, R Jarolim, AM Veronig, W Pötzi...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; High-resolution ground-based solar observations provide access to the smallest spatial scales in the lower solar atmosphere. However, Earth's turbulent atmosphere imposes a significant limitation, by reducing the spatial resolution of such ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Astrid Veronig (author alert)</content>
-    <link href="https://www.aanda.org/articles/aa/pdf/forth/aa62126-26.pdf"/>
-    <published>2026-10-26T16:29:43+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; E Romero-Borbón, C Soltero-Sánchez... - Catalysts, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The valorization of lignocellulosic residues through xylooligosaccharides (XOS) production offers a promising route for obtaining value-added compounds from underutilized biomass. In this study, five biocatalysts were produced by solid-state ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2073-4344/16/11/946"/>
+    <published>2026-10-27T06:41:06+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7665c256e2#0</id>
+    <title>Approaching life in a test tube with prebiotic chemistry</title>
+    <updated>2026-10-27T06:41:06+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ZL Pianowski - Communications Chemistry, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The emergence of life on our planet occurred somewhere before 3.48 billion years ago, and ... While no fossils are known to science from that period of Earth's development, prebiotic ... that have driven the development of prebiotic chemistry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s42004-026-02257-3"/>
+    <published>2026-10-27T06:41:06+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7665c2565e#0</id>
+    <title>Alien Skies: Visibility of Planetary Retrograde Motion from Rocky Habitable-Zone Worlds</title>
+    <updated>2026-10-27T06:41:07+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; WG Zee, SJ Yoon - Monthly Notices of the Royal Astronomical Society, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Venus and Early Mars limits. These empirical limits extend the HZ inward and outward, respectively, based on the possibility that Venus and Mars ... For planets with a valid semi-major axis in PSCompPars, we adopt the value reported in the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stag2016/72447230/stag2016.pdf"/>
+    <published>2026-10-27T06:41:07+00:00</published>
   </entry>
 </feed>
