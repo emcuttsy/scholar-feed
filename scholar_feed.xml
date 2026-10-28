@@ -2,63 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-28T12:12:11.224620+00:00</updated>
+  <updated>2026-10-28T19:10:09.669890+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664ad8e05#0</id>
-    <title>A critical-like collective state leads to long</title>
-    <updated>2026-10-28T09:49:46+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7664c72706#0</id>
+    <title>Eötvös Loránd University of Sciences Doctoral School of Biology Director: Dr. Anna Erdei, MHAS</title>
+    <updated>2026-10-28T13:39:09+00:00</updated>
     <author>
-      <name>Robert G Endres</name>
+      <name>Eörs Szathmáry</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; G De Palo, D Yi, RG Endres&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; RESEARCH ARTICLE A critical-like collective state leads to long- range cell communication in Dictyostelium discoideum aggregation Giovanna De Palo1,2, Darvin Yi3,4¤, Robert G. Endres1,2* 1 Department of Life Sciences, Imperial ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Robert G Endres (author alert)</content>
-    <link href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/8fea867a-92fc-4e28-8123-fa430b9b8676/content"/>
-    <published>2026-10-28T09:49:46+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Fedor&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... statistical co-occurrence (each A word has one or few B pairs and vice versa) usually ... If we represented word -pairs only, where word -pairs consist of two words with ... represent word categories and As and Bs with the same index form word -pairs. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
+    <link href="https://edit.elte.hu/server/api/core/bitstreams/a5b66c5a-8236-41f6-a4ed-ea6aed593d1f/content"/>
+    <published>2026-10-28T13:39:09+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664ad8d38#0</id>
-    <title>The habitability of Titan's subsurface water ocean: an interdisciplinary study</title>
-    <updated>2026-10-28T09:49:48+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7664c724fd#0</id>
+    <title>Eötvös Loránd University of Sciences Doctoral School of Biology Director: Dr. Anna Erdei, MHAS</title>
+    <updated>2026-10-28T13:39:12+00:00</updated>
     <author>
-      <name>Charles Cockell</name>
+      <name>Eörs Szathmáry</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Sotin, RMC Lopes, CA Nixon, A Affholder, A Chatain... - Workshop Titan Through ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Titan belongs to the family of ocean worlds because the Cassini mission demonstrated that a deep ocean of liquid water lies under an icy crust. The Cassini/Huygens mission has revealed in details how organics are produced in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Charles Cockell (author alert)</content>
-    <link href="https://hal.science/hal-05836934v1/file/44_PDFsam_TTTVI_Book_v2.pdf"/>
-    <published>2026-10-28T09:49:48+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Fedor&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Eörs Szathmáry , CHAS ... Eörs Szathmáry , professor, CHAS ... I would like to thank my supervisor, Eörs Szathmáry for his support, inspiration ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
+    <link href="https://edit.elte.hu/server/api/core/bitstreams/a5b66c5a-8236-41f6-a4ed-ea6aed593d1f/content"/>
+    <published>2026-10-28T13:39:12+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664ad8a47#0</id>
-    <title>1Ultra Reliable UAV Communication Using</title>
-    <updated>2026-10-28T09:49:53+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7664f3cc14#0</id>
+    <title>Life Beyond Our Planet : Exploring Habitable Exoplanets</title>
+    <updated>2026-10-28T17:43:40+00:00</updated>
     <author>
-      <name>Fernando E. Rosas</name>
+      <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MM Azari, F Rosas, KC Chen, S Pollin&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 1Ultra Reliable UAV Communication Using Altitude and Cooperation Diversity Mohammad Mahdi Azari, Fernando Rosas, Kwang-Cheng Chen, and Sofie Pollin Abstract The use of unmanned aerial vehicles (UAVs) that serve as aerial base stations ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
-    <link href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/329bbb7e-3167-470d-82de-aef1600a309e/content"/>
-    <published>2026-10-28T09:49:53+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Shank - Rising Researchers&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to expand our understanding of exoplanets and the possibility of extraterrestrial life . This paper explored the question of whether life exists beyond Earth by examining exoplanet discoveries, the search for habitable worlds , and the scientific ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://risingresearchers.com/journal/life-beyond-our-planet-exploring-habitable-exoplanets/"/>
+    <published>2026-10-28T17:43:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664ad85cd#0</id>
-    <title>Early Gravettian genomic data from Western Europe reveal population movements before the LGM</title>
-    <updated>2026-10-28T09:50:01+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#7</id>
+    <title>Probiotic Health Literacy in Sport: Knowledge, Attitudes, Practices and Physiological Outcomes in Athletes</title>
+    <updated>2026-10-28T17:43:42+00:00</updated>
     <author>
-      <name>Tom Higham</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Gelabert, S Sawyer, V Villalba-Mouco, O Cheronet... - Science Advances, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Anatomically modern humans first settled in Europe at least 45,000 years ago, yet limited genomic data from 45 to 20 thousand years (ka) constrain reconstructions of Upper Palaeolithic population dynamics. Before the Last Glacial Maximum (LGM;∼ ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Tom Higham (author alert)</content>
-    <link href="https://www.science.org/doi/full/10.1126/sciadv.aeh6128"/>
-    <published>2026-10-28T09:50:01+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Sarwar&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This thesis examined the developing role of probiotics and gut microbiome-related knowledge in high-performance sport by integrating behavioural and physiological perspectives. The overall aim was to investigate how probiotics and gut-health ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://pure.ulster.ac.uk/files/245206495/Probiotic_health_literacy_in_sport_knowledge_attitudes_practices_and_physiological_outcomes_in_athletes.pdf"/>
+    <published>2026-10-28T17:43:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664ac7703#0</id>
-    <title>Reassessment of the DTI-ALPS index in focal epilepsy</title>
-    <updated>2026-10-28T09:56:41+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#6</id>
+    <title>Gut Microbiota Dysbiosis in Advanced Chronic Kidney Disease and Kidney Transplantation: A Narrative Review of Pathophysiological Mechanisms, Implications for ...</title>
+    <updated>2026-10-28T17:43:42+00:00</updated>
     <author>
-      <name>Florian Ph.S Fischmeister</name>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Chambers, L Hofer, M Tranfa, P Kienast, J Shawarba... - European Radiology ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Objective Recent evidence highlights the limited specificity of diffusion tensor imaging (DTI) along perivascular spaces (ALPS) as a noninvasive glymphatic biomarker because microstructural tract degeneration and crossing-fiber geometry ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Florian Ph.S Fischmeister (author alert)</content>
-    <link href="https://link.springer.com/article/10.1186/s41747-026-00799-8"/>
-    <published>2026-10-28T09:56:41+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CC García-Ramírez, FM Campo, JE Ortíz-González... - Nutrients, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... extruded sorghum as a prebiotic ) resulted in reported significant reductions in serum ... Streptococcus thermophilus alongside FOSs as the prebiotic component—was evaluated over ... clinical trial to date comparing the administration of a prebiotic (20 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2072-6643/18/21/3502"/>
+    <published>2026-10-28T17:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#5</id>
+    <title>Cellobiose Functional Sugars Market Size, Share, Trends 2036</title>
+    <updated>2026-10-28T17:43:42+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NR Choudhury&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Unabsorbed cellobiose subsequently travels to the ascending colon where butyrogenic Clostridia cluster XIVa and Bacteroides ferment it alongside soluble prebiotic fibers. ... Which low-insulinemic and prebiotic catalysts support demand for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.futuremarketinsights.com/reports/cellobiose-functional-sugars-market"/>
+    <published>2026-10-28T17:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#4</id>
+    <title>Crimson Skies and Another Pale Blue Dot: Can Life Begin Again?</title>
+    <updated>2026-10-28T17:43:42+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IR Carrasco, J Mocerino&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Enceladus is one of the most promising moons in our Solar System for housing an environment necessary for prebiotic synthesis or life itself. This is due to the fact that aqueous plumes ejecting form the subsurface ocean penetrate the ice shell ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://repository.fit.edu/apss_student/84/"/>
+    <published>2026-10-28T17:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#3</id>
+    <title>Upcycling of glucose mother liquor raffinate into functional oligosaccharide syrup by α-glucosidase treatment for regulating intestinal flora</title>
+    <updated>2026-10-28T17:43:42+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Li, S Huang, Q Huang, Z Li, Z Gu, D Li, H Zhang... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... 48% isomaltooligosaccharides, and the safety and prebiotic effects of the resulting syrup were ... , indicating their potential for use as prebiotic ingredients in functional foods. This offers an ... Subsequently, we evaluated the syrup's prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226021437"/>
+    <published>2026-10-28T17:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#2</id>
+    <title>The Best Prebiotics for the Oral Microbiome</title>
+    <updated>2026-10-28T17:43:42+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MS Cass Nelson-Dooley&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Find out the best prebiotic foods for the oral microbiome. If you don't like eating a plant-based, whole foods diet, prebiotic supplements can help to nourish friendly mouth bacteria and ward off the bad. Chew prebiotic foods well so that prebiotics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://healthfirstconsulting.com/blog/the-best-prebiotics-for-the-oral-microbiome/"/>
+    <published>2026-10-28T17:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#1</id>
+    <title>The Effect of Variation in Carrageenan and Konjac Concentration on the Chemical and Organoleptic Characteristics of Tender Coconut Water Prebiotic Jelly Drink</title>
+    <updated>2026-10-28T17:43:42+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Fithriyani, GA Herman, S Nasution, A Nurwulan... - Jurnal Sains dan Teknologi ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Tender coconut water contains minerals and vitamins that are beneficial to health, but it has a relatively short shelf life. So, it needs to be processed into a value-added product such as a jelly drink. This study aimed to determine the effect of varying ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://jstpuho.id/index.php/jstp/article/download/338/208"/>
+    <published>2026-10-28T17:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#0</id>
+    <title>Carbon Traceable Protocell Construction From Substituted Chrysene Stocks</title>
+    <updated>2026-10-28T17:43:42+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schaper - Annals of the Chrysene Formalism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We construct a finite-resource theoretical framework for an externally supplied protocell whose functional carbon is traceable to admitted substituted-chrysene cores and their explicitly constituted organic arms. The initial inventory contains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chrysene.com/index.php/acf/article/view/77"/>
+    <published>2026-10-28T17:43:42+00:00</published>
   </entry>
 </feed>
