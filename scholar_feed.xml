@@ -2,129 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-28T19:10:09.669890+00:00</updated>
+  <updated>2026-10-30T12:13:01.900686+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664c72706#0</id>
-    <title>Eötvös Loránd University of Sciences Doctoral School of Biology Director: Dr. Anna Erdei, MHAS</title>
-    <updated>2026-10-28T13:39:09+00:00</updated>
-    <author>
-      <name>Eörs Szathmáry</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Fedor&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... statistical co-occurrence (each A word has one or few B pairs and vice versa) usually ... If we represented word -pairs only, where word -pairs consist of two words with ... represent word categories and As and Bs with the same index form word -pairs. ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
-    <link href="https://edit.elte.hu/server/api/core/bitstreams/a5b66c5a-8236-41f6-a4ed-ea6aed593d1f/content"/>
-    <published>2026-10-28T13:39:09+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664c724fd#0</id>
-    <title>Eötvös Loránd University of Sciences Doctoral School of Biology Director: Dr. Anna Erdei, MHAS</title>
-    <updated>2026-10-28T13:39:12+00:00</updated>
-    <author>
-      <name>Eörs Szathmáry</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Fedor&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Eörs Szathmáry , CHAS ... Eörs Szathmáry , professor, CHAS ... I would like to thank my supervisor, Eörs Szathmáry for his support, inspiration ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Eörs Szathmáry (keyword alert)</content>
-    <link href="https://edit.elte.hu/server/api/core/bitstreams/a5b66c5a-8236-41f6-a4ed-ea6aed593d1f/content"/>
-    <published>2026-10-28T13:39:12+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664f3cc14#0</id>
-    <title>Life Beyond Our Planet : Exploring Habitable Exoplanets</title>
-    <updated>2026-10-28T17:43:40+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f59f#0</id>
+    <title>Planetary -System Architecture as an Additional Constraint on the Drake Equation</title>
+    <updated>2026-10-30T06:16:42+00:00</updated>
     <author>
       <name>(habitable|habitability planet|planetary|world ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Shank - Rising Researchers&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... to expand our understanding of exoplanets and the possibility of extraterrestrial life . This paper explored the question of whether life exists beyond Earth by examining exoplanet discoveries, the search for habitable worlds , and the scientific ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://risingresearchers.com/journal/life-beyond-our-planet-exploring-habitable-exoplanets/"/>
-    <published>2026-10-28T17:43:40+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Pletser&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... planets in nominal habitable zones, nHZ, and an additional planetary -architecture factor farch. The latter is defined as the conditional probability that a nominally habitable terrestrial planet occurs in a planetary -... potentially habitable worlds , the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/34696060c3fe9b5bc0163bbec7b66cb5/download_pub"/>
+    <published>2026-10-30T06:16:42+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#7</id>
-    <title>Probiotic Health Literacy in Sport: Knowledge, Attitudes, Practices and Physiological Outcomes in Athletes</title>
-    <updated>2026-10-28T17:43:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f534#0</id>
+    <title>Planetary-System Architecture as an Additional Constraint on the Drake Equation</title>
+    <updated>2026-10-30T06:16:42+00:00</updated>
+    <author>
+      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Pletser&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Jupiters , whereas bias-corrected surveys have shown that hot Jupiters are intrinsically rare and that small planets and compact super Earth /mini- Neptune ... of life , and the probability that life produces a detectable atmospheric biosignature . The ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
+    <link href="https://www.preprints.org/frontend/manuscript/34696060c3fe9b5bc0163bbec7b66cb5/download_pub"/>
+    <published>2026-10-30T06:16:42+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#9</id>
+    <title>In vitro assessment of Sargassum platycarpum extract as a novel antimicrobial agent and functional prebiotics</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; R Sarwar&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This thesis examined the developing role of probiotics and gut microbiome-related knowledge in high-performance sport by integrating behavioural and physiological perspectives. The overall aim was to investigate how probiotics and gut-health ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://pure.ulster.ac.uk/files/245206495/Probiotic_health_literacy_in_sport_knowledge_attitudes_practices_and_physiological_outcomes_in_athletes.pdf"/>
-    <published>2026-10-28T17:43:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EH Zaghloul, KNM Elsayed, A Ismail, R Gamal - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sargassum platycarpum is a brown macroalgae species commonly found in coastal areas. This macroalgae is a source of important bioactive compounds that can be utilized as functional food ingredients and pharmaceutical agents. In the current ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.nature.com/articles/s41598-026-71982-5"/>
+    <published>2026-10-30T06:16:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#6</id>
-    <title>Gut Microbiota Dysbiosis in Advanced Chronic Kidney Disease and Kidney Transplantation: A Narrative Review of Pathophysiological Mechanisms, Implications for ...</title>
-    <updated>2026-10-28T17:43:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#8</id>
+    <title>Fermented milk for senior consumers: evaluation of the bioactive potential and peptide bioaccessibility</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; CC García-Ramírez, FM Campo, JE Ortíz-González... - Nutrients, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... extruded sorghum as a prebiotic ) resulted in reported significant reductions in serum ... Streptococcus thermophilus alongside FOSs as the prebiotic component—was evaluated over ... clinical trial to date comparing the administration of a prebiotic (20 ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2072-6643/18/21/3502"/>
-    <published>2026-10-28T17:43:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BA Munhoz&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Physicochemical and microbiological characteristics, probiotic viability during simulated gastrointestinal digestion, the prebiotic potential ... type of protein matrix, as well as a more pronounced prebiotic effect in fermented products, particularly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://repositorio.unicamp.br/acervo/detalhe/1572374"/>
+    <published>2026-10-30T06:16:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#5</id>
-    <title>Cellobiose Functional Sugars Market Size, Share, Trends 2036</title>
-    <updated>2026-10-28T17:43:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#7</id>
+    <title>Rethinking hydrothermal vents: a structural ecology perspective on the early emergence of metabolic roles</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; NR Choudhury&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Unabsorbed cellobiose subsequently travels to the ascending colon where butyrogenic Clostridia cluster XIVa and Bacteroides ferment it alongside soluble prebiotic fibers. ... Which low-insulinemic and prebiotic catalysts support demand for ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.futuremarketinsights.com/reports/cellobiose-functional-sugars-market"/>
-    <published>2026-10-28T17:43:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kato - The Science of Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Hydrothermal vents are widely considered plausible settings for the origin of life , owing to ... environments could support complementary prebiotic chemical functions. Hydrothermal systems ... emergence of heritable metabolism or the last universal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/article/10.1007/s00114-026-02189-x"/>
+    <published>2026-10-30T06:16:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#4</id>
-    <title>Crimson Skies and Another Pale Blue Dot: Can Life Begin Again?</title>
-    <updated>2026-10-28T17:43:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#6</id>
+    <title>The Source: Substitution-Initiated Self-Separation of the Substituted-Chrysene Stock from a Polyaromatic Bulk, and the Supply It Delivers to the Protocell</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; IR Carrasco, J Mocerino&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Enceladus is one of the most promising moons in our Solar System for housing an environment necessary for prebiotic synthesis or life itself. This is due to the fact that aqueous plumes ejecting form the subsurface ocean penetrate the ice shell ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://repository.fit.edu/apss_student/84/"/>
-    <published>2026-10-28T17:43:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schaper - Annals of the Chrysene Formalism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The protocell articles take their substituted-chrysene stock as a boundary condition. Article 77 admits the 6,12-, 3,6,12- and 3,6,9,12-substituted families and places their manufacture, enrichment and self-separation outside its problem; Article 65 reduces ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chrysene.com/index.php/acf/article/download/79/173"/>
+    <published>2026-10-30T06:16:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#3</id>
-    <title>Upcycling of glucose mother liquor raffinate into functional oligosaccharide syrup by α-glucosidase treatment for regulating intestinal flora</title>
-    <updated>2026-10-28T17:43:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#5</id>
+    <title>The Interior Chrysene Lattice: Mathematical Necessity, Distributed Inheritance, and Catalytic Organization in the Protocell</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; Z Li, S Huang, Q Huang, Z Li, Z Gu, D Li, H Zhang... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... 48% isomaltooligosaccharides, and the safety and prebiotic effects of the resulting syrup were ... , indicating their potential for use as prebiotic ingredients in functional foods. This offers an ... Subsequently, we evaluated the syrup's prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226021437"/>
-    <published>2026-10-28T17:43:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schaper - Annals of the Chrysene Formalism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origination described in the corpus transforms the Z2 base into membrane undifferentiatedly, leaving the protocell with the fiber corner ... physically realizable structure that restores the Z2 base representation inside the protocell . We classify ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://chrysene.com/index.php/acf/article/download/78/169"/>
+    <published>2026-10-30T06:16:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#2</id>
-    <title>The Best Prebiotics for the Oral Microbiome</title>
-    <updated>2026-10-28T17:43:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#4</id>
+    <title>Whole-wheat bread made from wheat grown under agroecological and conventional systems: Nutritional quality, digestibility, and prebiotic activity</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; MS Cass Nelson-Dooley&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Find out the best prebiotic foods for the oral microbiome. If you don't like eating a plant-based, whole foods diet, prebiotic supplements can help to nourish friendly mouth bacteria and ward off the bad. Chew prebiotic foods well so that prebiotics ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://healthfirstconsulting.com/blog/the-best-prebiotics-for-the-oral-microbiome/"/>
-    <published>2026-10-28T17:43:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A del Pilar Bertola, C Paesani, WA Sánchez, M Zamora... - Journal of Cereal Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... starch hydrolysis and in vitro potential prebiotic activity in breads prepared from composite flour ... digestion, and in vitro potential prebiotic activity assays using Limosilactobacillus reuteri and ... extracts displayed prebiotic activity in both in vitro ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0733521026002122"/>
+    <published>2026-10-30T06:16:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#1</id>
-    <title>The Effect of Variation in Carrageenan and Konjac Concentration on the Chemical and Organoleptic Characteristics of Tender Coconut Water Prebiotic Jelly Drink</title>
-    <updated>2026-10-28T17:43:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#3</id>
+    <title>The Prebiotic Origins of Life Ontology (POLO)</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; D Fithriyani, GA Herman, S Nasution, A Nurwulan... - Jurnal Sains dan Teknologi ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Tender coconut water contains minerals and vitamins that are beneficial to health, but it has a relatively short shelf life. So, it needs to be processed into a value-added product such as a jelly drink. This study aimed to determine the effect of varying ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://jstpuho.id/index.php/jstp/article/download/338/208"/>
-    <published>2026-10-28T17:43:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SU Narkar, VS Riggi, KL Rogers, JA Hendler - International Semantic Web ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The field of prebiotic chemistry plays a pivotal role in the understanding of the origins of life . Extensive research is conducted in this domain, generating a vast literature that focuses on experiments and models, thereby creating a complex field ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://link.springer.com/chapter/10.1007/978-3-032-42029-9_11"/>
+    <published>2026-10-30T06:16:44+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e7664f3ca9b#0</id>
-    <title>Carbon Traceable Protocell Construction From Substituted Chrysene Stocks</title>
-    <updated>2026-10-28T17:43:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#2</id>
+    <title>Examining the Gastrointestinal Effects of Solnul®, a Prebiotic Resistant Potato Starch: A Replication Randomized, Double-Blind, Placebo-Controlled Clinical Trial in ...</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
     <author>
       <name>origins of life"|"origin of life"|"emergence of ...</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schaper - Annals of the Chrysene Formalism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We construct a finite-resource theoretical framework for an externally supplied protocell whose functional carbon is traceable to admitted substituted-chrysene cores and their explicitly constituted organic arms. The initial inventory contains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chrysene.com/index.php/acf/article/view/77"/>
-    <published>2026-10-28T17:43:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JR Bush, I Iwuamadi, EC Deehan - Nutrients, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Background: A prebiotic is a substrate that is selectively utilized by host microbiota to confer a health benefit. Consumption ... prebiotic substantiation, ISAPP identified confirmatory evidence in the form of additional trials as an optional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.mdpi.com/2072-6643/18/21/3538"/>
+    <published>2026-10-30T06:16:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#1</id>
+    <title>Targeted Prebiotic Fiber Interventions Following Mechanical Bowel Preparation for Colonoscopy: A Mechanistic Framework and Future Clinical Research Agenda ...</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Miklusiak, N Komorniak, K Wrońska, J Niedolistek... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... functional prebiotic fiber fractions to accelerate metabolic recovery is currently lacking. Objective This narrative review aims to establish a comprehensive research framework evaluating the physiological and clinical potential of targeted prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226021152"/>
+    <published>2026-10-30T06:16:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#0</id>
+    <title>Biosynthesis and prebiotic potential of dextran from Leuconostoc mesenteroides RSG7</title>
+    <updated>2026-10-30T06:16:44+00:00</updated>
+    <author>
+      <name>origins of life"|"origin of life"|"emergence of ...</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Wu, L Hao, H Yao, X Liu, W Liu, L Pan, B Wang - LWT, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Leuconostoc mesenteroides RSG7 is a lactic acid bacterium capable of high-yield production of exopolysaccharide (EPS), which have been identified as dextran. However, the molecular mechanism underlying its dextran biosynthesis remains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0023643826011874"/>
+    <published>2026-10-30T06:16:44+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e765a1ad822#2</id>
+    <title>Sparsity-driven emergence of functional modularity in multitask neural networks</title>
+    <updated>2026-10-30T06:35:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Shi, Q Ouyang, L Qian -arXivpreprintarXiv:2610.32153, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neural networks can learn multiple tasks, but how learning organizes shared computation into specialized and reusable components remains poorly understood. In this work, we show that sparsity inducing regularization promotes functional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.32153"/>
+    <published>2026-10-30T06:35:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e765a1ad822#1</id>
+    <title>Star clusters at cosmic dawn I: the emergence of the initial cluster mass function</title>
+    <updated>2026-10-30T06:35:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FS Thompson, J Devriendt, A Slyz, T Kimm, C Kang -arXivpreprintarXiv:2610.32497, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; JWST observations of lensed galaxies reveal unusually bright star-cluster candidates within the first billion years after the Big Bang. However, the physical processes shaping the initial cluster mass function (ICMF) remain uncertain. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/pdf/2610.32497"/>
+    <published>2026-10-30T06:35:14+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.inoreader.com/article/3a9c6e765a1ad822#0</id>
+    <title>Connectivity rewiring and filament formation by active region emergence observed with Solar Orbiter</title>
+    <updated>2026-10-30T06:35:14+00:00</updated>
+    <author>
+      <name>arxiv" + intitle:"emergence</name>
+    </author>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Li, SK Solanki, T Wiegelmann, G Valori, D Calchetti... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... force-free field extrapolations, we track the evolution from the emergence of a new active region to the reconfiguration of coronal connectivity. ... Our results demonstrate that flux emergence can reorganize filament channels through a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
+    <link href="https://arxiv.org/abs/2610.35677"/>
+    <published>2026-10-30T06:35:14+00:00</published>
   </entry>
 </feed>
