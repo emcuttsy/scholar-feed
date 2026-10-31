@@ -2,173 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://emcuttsy.github.io/scholar-feed/scholar_feed.xml</id>
   <title>Scholar Alerts — Clean Feed</title>
-  <updated>2026-10-30T12:13:01.900686+00:00</updated>
+  <updated>2026-10-31T11:45:12.114807+00:00</updated>
   <link href="https://emcuttsy.github.io/scholar-feed/scholar_feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Google Scholar alerts reformatted as individual article entries</subtitle>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f59f#0</id>
-    <title>Planetary -System Architecture as an Additional Constraint on the Drake Equation</title>
-    <updated>2026-10-30T06:16:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765ac3742f#0</id>
+    <title>MioOcean: database compilation and temperature proxy systematics in the Miocene oceans</title>
+    <updated>2026-10-31T07:40:43+00:00</updated>
     <author>
-      <name>(habitable|habitability planet|planetary|world ...</name>
+      <name>Gerald Auer</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Pletser&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... planets in nominal habitable zones, nHZ, and an additional planetary -architecture factor farch. The latter is defined as the conditional probability that a nominally habitable terrestrial planet occurs in a planetary -... potentially habitable worlds , the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (habitable|habitability planet|planetary|world ... (keyword alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/34696060c3fe9b5bc0163bbec7b66cb5/download_pub"/>
-    <published>2026-10-30T06:16:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SM Sosdian, A Auderset, S Modestou, A Holbourn... - Earth System Science Data ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The Miocene epoch has been highlighted as containing reference intervalsfor near future warmer climates; however, to realize the full potential of this analogue, discrepancies must be addressed, including those between model predictions and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Gerald Auer (author alert)</content>
+    <link href="https://essd.copernicus.org/preprints/essd-2026-699/"/>
+    <published>2026-10-31T07:40:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f534#0</id>
-    <title>Planetary-System Architecture as an Additional Constraint on the Drake Equation</title>
-    <updated>2026-10-30T06:16:42+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765ac1fed2#0</id>
+    <title>The Entangled Loop: Emotion, interference and hierarchy in the architecture of consciousness</title>
+    <updated>2026-10-31T07:55:39+00:00</updated>
     <author>
-      <name>(~biosignature|life|alien|organic) (Mars|Venus ...</name>
+      <name>Fernando E. Rosas</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; V Pletser&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Jupiters , whereas bias-corrected surveys have shown that hot Jupiters are intrinsically rare and that small planets and compact super Earth /mini- Neptune ... of life , and the probability that life produces a detectable atmospheric biosignature . The ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Astrobiology, Reviewer, Too: Exoplanets&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; (~biosignature|life|alien|organic) (Mars|Venus ... (keyword alert)</content>
-    <link href="https://www.preprints.org/frontend/manuscript/34696060c3fe9b5bc0163bbec7b66cb5/download_pub"/>
-    <published>2026-10-30T06:16:42+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; ML Kringelbach, FE Rosas, R Laukkonen, S Chandaria... - ... &amp; Biobehavioral Reviews, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Why does consciousness feel like something, and why is experience unified rather than fragmented? We propose that these properties arise from an entangled trefoil of emotion, interference-based inference and hierarchical orchestration, shaped by the ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Consciousness, Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Fernando E. Rosas (author alert)</content>
+    <link href="https://www.sciencedirect.com/science/article/pii/S014976342600521X"/>
+    <published>2026-10-31T07:55:39+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#9</id>
-    <title>In vitro assessment of Sargassum platycarpum extract as a novel antimicrobial agent and functional prebiotics</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765ac1fe82#0</id>
+    <title>Desire in Artificial Intelligence</title>
+    <updated>2026-10-31T07:55:40+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Patrick Butlin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; EH Zaghloul, KNM Elsayed, A Ismail, R Gamal - Scientific Reports, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Sargassum platycarpum is a brown macroalgae species commonly found in coastal areas. This macroalgae is a source of important bioactive compounds that can be utilized as functional food ingredients and pharmaceutical agents. In the current ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.nature.com/articles/s41598-026-71982-5"/>
-    <published>2026-10-30T06:16:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; P Butlin - The Routledge Handbook of Philosophy of Desire, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Chatbots seem to express desires and many AI systems arguably pursue goals, such as winning games or helping users. Furthermore, many AI systems are trained by reinforcement learning and similar forms of learning are associated with human and ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Patrick Butlin (author alert)</content>
+    <link href="https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&amp;identifierValue=10.4324/9781003471806-41&amp;type=chapterpdf"/>
+    <published>2026-10-31T07:55:40+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#8</id>
-    <title>Fermented milk for senior consumers: evaluation of the bioactive potential and peptide bioaccessibility</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765ac1fe1a#0</id>
+    <title>Science Needs for a Terrestrial Biosphere Tipping Point Early Warning System</title>
+    <updated>2026-10-31T07:55:41+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Timothy Lenton</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; BA Munhoz&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Journal:&lt;/strong&gt; 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Physicochemical and microbiological characteristics, probiotic viability during simulated gastrointestinal digestion, the prebiotic potential ... type of protein matrix, as well as a more pronounced prebiotic effect in fermented products, particularly ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://repositorio.unicamp.br/acervo/detalhe/1572374"/>
-    <published>2026-10-30T06:16:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JF Abrams, C Huntingford, S Petrovskii, JE Buxton... - Reviews of Geophysics, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Tipping points in the Earth system have the potential to cause major detrimental impacts to the biosphere and societies. Their inherent nonlinearity implies that even relatively small additional increases in external forcing might result in ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Timothy Lenton (author alert)</content>
+    <link href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025RG000900"/>
+    <published>2026-10-31T07:55:41+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#7</id>
-    <title>Rethinking hydrothermal vents: a structural ecology perspective on the early emergence of metabolic roles</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765ac1fd25#1</id>
+    <title>Distributional statistics of nonequilibrium</title>
+    <updated>2026-10-31T07:55:43+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>David H. Wolpert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; S Kato - The Science of Nature, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Hydrothermal vents are widely considered plausible settings for the origin of life , owing to ... environments could support complementary prebiotic chemical functions. Hydrothermal systems ... emergence of heritable metabolism or the last universal ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/article/10.1007/s00114-026-02189-x"/>
-    <published>2026-10-30T06:16:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; H Hartle, A Kumar, DH Wolpert - arXiv preprint arXiv:2610.33383, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We establish a reference modeling framework for random probability distributions subject to constraints. Generalizing the hyperensemble approach of Crooks, we formulate Jaynesian priors of maximal uncertainty over the unit simplex of categorical ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David H. Wolpert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2610.33383"/>
+    <published>2026-10-31T07:55:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#6</id>
-    <title>The Source: Substitution-Initiated Self-Separation of the Substituted-Chrysene Stock from a Polyaromatic Bulk, and the Supply It Delivers to the Protocell</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765ac1fd25#0</id>
+    <title>The Thermodynamic Complexity of Circuits</title>
+    <updated>2026-10-31T07:55:43+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>David H. Wolpert</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schaper - Annals of the Chrysene Formalism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The protocell articles take their substituted-chrysene stock as a boundary condition. Article 77 admits the 6,12-, 3,6,12- and 3,6,9,12-substituted families and places their manufacture, enrichment and self-separation outside its problem; Article 65 reduces ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chrysene.com/index.php/acf/article/download/79/173"/>
-    <published>2026-10-30T06:16:44+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A Condon, D Doty, N Kornerup, D Soloveichik... - arXiv preprint arXiv ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; When any physical system executes a logically irreversible (non-injective) step of a computation, the excess heat released over the Landauer limit is an energetic cost that cannot be recovered. In modern computers this cost vastly dwarfs the Landauer ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, too: Complexity&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; David H. Wolpert (author alert)</content>
+    <link href="https://arxiv.org/pdf/2610.33193"/>
+    <published>2026-10-31T07:55:43+00:00</published>
   </entry>
   <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#5</id>
-    <title>The Interior Chrysene Lattice: Mathematical Necessity, Distributed Inheritance, and Catalytic Organization in the Protocell</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
+    <id>http://www.inoreader.com/article/3a9c6e765ac1fce6#0</id>
+    <title>Augmented GWAS of Dizygotic Twinning in a New Sample of Mothers of DZ Twins From Australia and New Zealand Highlights CLYBL as a New Gene Influencing ...</title>
+    <updated>2026-10-31T07:55:44+00:00</updated>
     <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
+      <name>Nick Martin</name>
     </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; C Schaper - Annals of the Chrysene Formalism, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... The origination described in the corpus transforms the Z2 base into membrane undifferentiatedly, leaving the protocell with the fiber corner ... physically realizable structure that restores the Z2 base representation inside the protocell . We classify ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://chrysene.com/index.php/acf/article/download/78/169"/>
-    <published>2026-10-30T06:16:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#4</id>
-    <title>Whole-wheat bread made from wheat grown under agroecological and conventional systems: Nutritional quality, digestibility, and prebiotic activity</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; A del Pilar Bertola, C Paesani, WA Sánchez, M Zamora... - Journal of Cereal Science, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... starch hydrolysis and in vitro potential prebiotic activity in breads prepared from composite flour ... digestion, and in vitro potential prebiotic activity assays using Limosilactobacillus reuteri and ... extracts displayed prebiotic activity in both in vitro ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0733521026002122"/>
-    <published>2026-10-30T06:16:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#3</id>
-    <title>The Prebiotic Origins of Life Ontology (POLO)</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SU Narkar, VS Riggi, KL Rogers, JA Hendler - International Semantic Web ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The field of prebiotic chemistry plays a pivotal role in the understanding of the origins of life . Extensive research is conducted in this domain, generating a vast literature that focuses on experiments and models, thereby creating a complex field ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://link.springer.com/chapter/10.1007/978-3-032-42029-9_11"/>
-    <published>2026-10-30T06:16:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#2</id>
-    <title>Examining the Gastrointestinal Effects of Solnul®, a Prebiotic Resistant Potato Starch: A Replication Randomized, Double-Blind, Placebo-Controlled Clinical Trial in ...</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; JR Bush, I Iwuamadi, EC Deehan - Nutrients, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... Background: A prebiotic is a substrate that is selectively utilized by host microbiota to confer a health benefit. Consumption ... prebiotic substantiation, ISAPP identified confirmatory evidence in the form of additional trials as an optional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.mdpi.com/2072-6643/18/21/3538"/>
-    <published>2026-10-30T06:16:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#1</id>
-    <title>Targeted Prebiotic Fiber Interventions Following Mechanical Bowel Preparation for Colonoscopy: A Mechanistic Framework and Future Clinical Research Agenda ...</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; K Miklusiak, N Komorniak, K Wrońska, J Niedolistek... - Food Bioscience, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... functional prebiotic fiber fractions to accelerate metabolic recovery is currently lacking. Objective This narrative review aims to establish a comprehensive research framework evaluating the physiological and clinical potential of targeted prebiotic ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S2212429226021152"/>
-    <published>2026-10-30T06:16:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a04f42e#0</id>
-    <title>Biosynthesis and prebiotic potential of dextran from Leuconostoc mesenteroides RSG7</title>
-    <updated>2026-10-30T06:16:44+00:00</updated>
-    <author>
-      <name>origins of life"|"origin of life"|"emergence of ...</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Wu, L Hao, H Yao, X Liu, W Liu, L Pan, B Wang - LWT, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Leuconostoc mesenteroides RSG7 is a lactic acid bacterium capable of high-yield production of exopolysaccharide (EPS), which have been identified as dextran. However, the molecular mechanism underlying its dextran biosynthesis remains ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Reviewer, Too: Origin of Life&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; origins of life"|"origin of life"|"emergence of ... (keyword alert)</content>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0023643826011874"/>
-    <published>2026-10-30T06:16:44+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a1ad822#2</id>
-    <title>Sparsity-driven emergence of functional modularity in multitask neural networks</title>
-    <updated>2026-10-30T06:35:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; B Shi, Q Ouyang, L Qian -arXivpreprintarXiv:2610.32153, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Neural networks can learn multiple tasks, but how learning organizes shared computation into specialized and reusable components remains poorly understood. In this work, we show that sparsity inducing regularization promotes functional ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.32153"/>
-    <published>2026-10-30T06:35:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a1ad822#1</id>
-    <title>Star clusters at cosmic dawn I: the emergence of the initial cluster mass function</title>
-    <updated>2026-10-30T06:35:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; FS Thompson, J Devriendt, A Slyz, T Kimm, C Kang -arXivpreprintarXiv:2610.32497, 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; JWST observations of lensed galaxies reveal unusually bright star-cluster candidates within the first billion years after the Big Bang. However, the physical processes shaping the initial cluster mass function (ICMF) remain uncertain. We ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/pdf/2610.32497"/>
-    <published>2026-10-30T06:35:14+00:00</published>
-  </entry>
-  <entry>
-    <id>http://www.inoreader.com/article/3a9c6e765a1ad822#0</id>
-    <title>Connectivity rewiring and filament formation by active region emergence observed with Solar Orbiter</title>
-    <updated>2026-10-30T06:35:14+00:00</updated>
-    <author>
-      <name>arxiv" + intitle:"emergence</name>
-    </author>
-    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; X Li, SK Solanki, T Wiegelmann, G Valori, D Calchetti... -arXivpreprintarXiv..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; ... force-free field extrapolations, we track the evolution from the emergence of a new active region to the reconfiguration of coronal connectivity. ... Our results demonstrate that flux emergence can reorganize filament channels through a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cosmology&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; arxiv" + intitle:"emergence (keyword alert)</content>
-    <link href="https://arxiv.org/abs/2610.35677"/>
-    <published>2026-10-30T06:35:14+00:00</published>
+    <content type="html">&lt;strong&gt;Authors:&lt;/strong&gt; SD Gordon, JM Adsett, SE List-Armitage, E de Guzman... - Twin Research and Human ..., 2026&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Dizygotic twinning (DZT) is an important marker of female fertility. The Twinning Genetics Consortium (TGC) recently reported the largest genomewide association meta-analysis (GWAMA) of DZT, identifying six genomewide significant loci and a ...&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Alert:&lt;/strong&gt; Nick Martin (author alert)</content>
+    <link href="https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/augmented-gwas-of-dizygotic-twinning-in-a-new-sample-of-mothers-of-dz-twins-from-australia-and-new-zealand-highlights-clybl-as-a-new-gene-influencing-dzt/301EAA1083238FC75550B1F5D4A9C9BF"/>
+    <published>2026-10-31T07:55:44+00:00</published>
   </entry>
 </feed>
